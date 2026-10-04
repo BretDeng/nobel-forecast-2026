@@ -6,6 +6,7 @@ import argparse, datetime, hashlib, json, os, re, subprocess, tempfile, unicoded
 from pathlib import Path
 from build import ROOT, CATEGORIES, ENGLISH
 from fetch import DEFAULT
+from deadlines import is_open
 MODEL='zhida-fast-1p5'
 ALIASES={
  'Daniel Drucker':['Daniel J. Drucker','Daniel J Drucker'],
@@ -107,9 +108,13 @@ def save_reviews(reviews):
   json.dump(reviews,f,ensure_ascii=False,indent=2);name=f.name
  os.replace(name,target)
 
-def review_pending(binary=DEFAULT,retry_uncertain=False):
+def review_pending(binary=DEFAULT,retry_uncertain=False,category_ids=None):
  reviews=json.loads((ROOT/'data/reviews.json').read_text());calls=accepted=0;error=None
  for category,label,_,_,_ in CATEGORIES:
+  # Explicit IDs only come from a successfully captured pre-cutoff sync batch.
+  if category_ids is not None:
+   if category not in category_ids:continue
+  elif not is_open(category):continue
   snapshot=json.loads((ROOT/f'data/snapshots/{category}.json').read_text());unique={}
   for page in snapshot['pages']:
    for source in page['Data']['Items']:unique[str(source['ContentToken'])]=source

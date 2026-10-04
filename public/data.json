@@ -1471,7 +1471,10 @@
           "aiAssisted": false,
           "warnings": []
         }
-      ]
+      ],
+      "announcementAt": "2026-10-05T09:30:00+00:00",
+      "predictionFreezeAt": "2026-10-05T08:30:00+00:00",
+      "announcementSource": "https://www.nobelprize.org/prizes/about/prize-announcement-dates/"
     },
     {
       "id": "physics",
@@ -3633,7 +3636,10 @@
           "aiAssisted": false,
           "warnings": []
         }
-      ]
+      ],
+      "announcementAt": "2026-10-06T09:45:00+00:00",
+      "predictionFreezeAt": "2026-10-06T08:45:00+00:00",
+      "announcementSource": "https://www.nobelprize.org/prizes/about/prize-announcement-dates/"
     },
     {
       "id": "chemistry",
@@ -4658,7 +4664,10 @@
             "该回答将已获 2025 化学奖的 MOF 再预测为 2026。保留原始预测，标记事实错误。"
           ]
         }
-      ]
+      ],
+      "announcementAt": "2026-10-07T09:45:00+00:00",
+      "predictionFreezeAt": "2026-10-07T08:45:00+00:00",
+      "announcementSource": "https://www.nobelprize.org/prizes/about/prize-announcement-dates/"
     },
     {
       "id": "literature",
@@ -5208,7 +5217,10 @@
           "aiAssisted": false,
           "warnings": []
         }
-      ]
+      ],
+      "announcementAt": "2026-10-08T11:00:00+00:00",
+      "predictionFreezeAt": "2026-10-08T10:00:00+00:00",
+      "announcementSource": "https://www.nobelprize.org/prizes/about/prize-announcement-dates/"
     },
     {
       "id": "economics",
@@ -6570,7 +6582,10 @@
           "aiAssisted": false,
           "warnings": []
         }
-      ]
+      ],
+      "announcementAt": "2026-10-12T09:45:00+00:00",
+      "predictionFreezeAt": "2026-10-12T08:45:00+00:00",
+      "announcementSource": "https://www.nobelprize.org/prizes/about/prize-announcement-dates/"
     }
   ],
   "methodology": [
@@ -6581,7 +6596,8 @@
     "否定预测、纯历史回顾、仅转述赔率、明确玩笑、奖项不匹配和无法辨识的摘要不进入正向榜单。",
     "AI 辅助回答默认纳入；仅在摘要明确提到 ChatGPT 或豆包时标记，未提及不代表完全没有使用 AI。",
     "票数相同并列排名。占比为预测该项的回答 / 当前筛选下的有效回答；多选使占比总和可能超过 100%。",
-    "热度是样本中的讨论共识，不代表获奖概率、官方提名或科学成果质量。新增或变更摘要通过直答复核与程序校验后计票，未通过的仍不计票。"
+    "热度是样本中的讨论共识，不代表获奖概率、官方提名或科学成果质量。新增或变更摘要通过直答复核与程序校验后计票，未通过的仍不计票。",
+    "各奖项按官方公布的最早揭晓时间提前一小时封榜。截止后停止采集及后续复核；若最后任务迟到或采集越过截止，保留此前快照。最后一次截止前采集的复核和发布可能稍后完成。"
   ],
   "factCheckUrl": "https://www.nobelprize.org/uploads/2025/10/press-chemistryprize2025.pdf"
 }

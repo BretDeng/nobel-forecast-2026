@@ -3,6 +3,10 @@ name: Refresh Nobel Forecast
 on:
   schedule:
     - cron: '17 */2 * * *'
+    # Start 15 minutes before each cutoff, then wait for the final capture window.
+    - cron: '15 8 5 10 *'
+    - cron: '30 8 6,7,12 10 *'
+    - cron: '45 9 8 10 *'
   workflow_dispatch:
 
 permissions:
@@ -10,7 +14,7 @@ permissions:
 
 concurrency:
   group: nobel-refresh
-  cancel-in-progress: false
+  cancel-in-progress: ${{ github.event_name == 'schedule' && github.event.schedule != '17 */2 * * *' }}
 
 jobs:
   refresh:
@@ -18,27 +22,60 @@ jobs:
     timeout-minutes: 35
     permissions:
       contents: write
+    outputs:
+      active: ${{ steps.window.outputs.active }}
     steps:
       - uses: actions/checkout@v4
         with:
           ref: main
+      - name: Check remaining open prizes
+        id: window
+        run: |
+          python3 - <<'PY'
+          import os, sys
+          sys.path.insert(0, 'scripts')
+          from deadlines import ANNOUNCEMENTS, is_open
+          active = any(is_open(key) for key in ANNOUNCEMENTS)
+          with open(os.environ['GITHUB_OUTPUT'], 'a') as output:
+              output.write(f'active={str(active).lower()}\n')
+          if not active:
+              print('All prizes are frozen; no API calls or deployment needed.')
+          PY
       - name: Check Zhihu secret exists
+        if: steps.window.outputs.active == 'true'
         env:
           ZHIHU_ACCESS_SECRET: ${{ secrets.ZHIHU_ACCESS_SECRET }}
         run: |
           python3 -c "import os; assert os.environ.get('ZHIHU_ACCESS_SECRET', '').strip(), 'Add ZHIHU_ACCESS_SECRET in repository Settings > Secrets and variables > Actions'"
       - name: Install official CLI
+        if: steps.window.outputs.active == 'true'
         run: python3 scripts/ci/install_zhihu_cli.py
       - name: Fetch, review and rebuild
+        if: steps.window.outputs.active == 'true'
         env:
           ZHIHU_ACCESS_SECRET: ${{ secrets.ZHIHU_ACCESS_SECRET }}
           ZHIHU_CLI_BINARY: ${{ runner.temp }}/zhihu-cli
-        run: python3 scripts/sync.py
+          TRIGGER_SCHEDULE: ${{ github.event.schedule }}
+        run: |
+          case "$TRIGGER_SCHEDULE" in
+            '15 8 5 10 *') python3 scripts/sync.py --final-category medicine ;;
+            '30 8 6,7,12 10 *')
+              case "$(date -u +%d)" in
+                06) python3 scripts/sync.py --final-category physics ;;
+                07) python3 scripts/sync.py --final-category chemistry ;;
+                12) python3 scripts/sync.py --final-category economics ;;
+                *) echo 'Late schedule missed its intended date; no final capture.' ;;
+              esac ;;
+            '45 9 8 10 *') python3 scripts/sync.py --final-category literature ;;
+            *) python3 scripts/sync.py ;;
+          esac
       - name: Validate results
+        if: steps.window.outputs.active == 'true'
         run: |
           python3 -m unittest discover -s tests
           node --check public/app.js
       - name: Save snapshots and review cache
+        if: steps.window.outputs.active == 'true'
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
@@ -49,6 +86,7 @@ jobs:
           fi
   publish:
     needs: refresh
+    if: needs.refresh.outputs.active == 'true'
     permissions:
       contents: read
       pages: write

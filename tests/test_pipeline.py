@@ -36,13 +36,13 @@ class PipelineTests(unittest.TestCase):
   self.assertEqual(rejected['2086038511082287783']['directions'],['成体干细胞与类器官','白血病靶向与分化治疗'])
  def test_empty_page_uses_server_offset(self):
   pages=[{'Code':0,'Data':{'Items':[],'Paging':{'IsEnd':False,'NextOffset':37}}},{'Code':0,'Data':{'Items':[],'Paging':{'IsEnd':True}}}]
-  with patch('fetch.subprocess.run',side_effect=[SimpleNamespace(returncode=0,stdout=json.dumps(p)) for p in pages]) as call:
+  with patch('fetch.is_open',return_value=True),patch('fetch.subprocess.run',side_effect=[SimpleNamespace(returncode=0,stdout=json.dumps(p)) for p in pages]) as call:
    result=fetch(Path('/cli'),'medicine','https://www.zhihu.com/question/1')
    self.assertEqual(call.call_args_list[1].args[0][-1],'37')
    self.assertEqual(len(result['pages']),2)
  def test_incomplete_paging_stops(self):
   response=SimpleNamespace(returncode=0,stdout=json.dumps({'Code':0,'Data':{'Items':[],'Paging':{'IsEnd':False}}}))
-  with patch('fetch.subprocess.run',return_value=response):
+  with patch('fetch.is_open',return_value=True),patch('fetch.subprocess.run',return_value=response):
    with self.assertRaisesRegex(RuntimeError,'分页信息不完整'):fetch(Path('/cli'),'medicine','https://www.zhihu.com/question/1')
  def test_hash_change_requires_review(self):
   import build,tempfile

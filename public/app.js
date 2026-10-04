@@ -4,6 +4,8 @@ let data, state={cat:'medicine',mode:'people',page:'leader',search:'',excludeAi:
 let displayed=[];
 const dateFormat=new Intl.DateTimeFormat('zh-CN',{timeZone:'Asia/Hong_Kong',month:'2-digit',day:'2-digit',hour:'2-digit',minute:'2-digit',hour12:false});
 const current=()=>data.categories.find(c=>c.id===state.cat);
+const isFrozen=cat=>Boolean(cat.predictionFreezeAt)&&Date.now()>=Date.parse(cat.predictionFreezeAt);
+const freezeNote=cat=>cat.predictionFreezeAt?`${isFrozen(cat)?'已封榜 · 数据不再更新':'最后更新截止'}：${dateFormat.format(new Date(cat.predictionFreezeAt))}（香港时间）`:'';
 const filteredAnswers=()=>current().answers.filter(a=>!(state.excludeAi&&a.aiAssisted));
 const validAnswers=()=>filteredAnswers().filter(a=>a.people.length||a.directions.length);
 function toast(message){$('#toast').textContent=message;$('#toast').style.display='block';clearTimeout(toast.timer);toast.timer=setTimeout(()=>$('#toast').style.display='none',3500);}
@@ -44,7 +46,7 @@ function renderAudit(){
 function renderInsights(){
  const cat=current(),directions=rowsFor('directions'),people=rowsFor('people');
  const top=cat.id==='literature'?people[0]:directions[0];
- $('#insights').innerHTML=`<div class="aside-label">AT A GLANCE / 榜单观察</div><div class="insight-top"><div class="top-label">${cat.id==='literature'?'Most anticipated author':'Most anticipated field'}</div><h3>${esc(top?.name||'暂无复核结果')}</h3><p>${cat.id==='literature'?'目前样本中最被期待的作家。文学奖以作家为统计单位，作品不单独计票。':'目前样本中被最多回答预测的成果方向。人选组合存在差异，方向归类后合并计票。'}</p><div class="insight-value">${top?.count??0}<small>条回答${top&&((cat.id==='literature'?people:directions).filter(r=>r.count===top.count).length>1)?' · 并列首位':''}</small></div></div><div class="sample"><h4>本奖项样本覆盖</h4><div class="sample-bar" aria-hidden="true"><span style="width:${cat.valid/cat.total*100}%"></span><span class="pending" style="width:${cat.pending/cat.total*100}%"></span></div><div class="sample-row"><span>获取摘要</span><strong>${cat.total}</strong></div><div class="sample-row"><span>有效预测</span><strong>${cat.valid}</strong></div><div class="sample-row"><span>不计正向票</span><strong>${cat.excluded}</strong></div><div class="sample-row"><span>待人工复核</span><strong>${cat.pending}</strong></div><div class="sample-row"><span>独立用户人数</span><strong>无法确认</strong></div></div><div class="reading"><h4>如何读这张榜？</h4><p>一条回答可以预测多个候选。候选与方向分别统计，首选和备选都计入。点击行末的 ＋，查看支持这一预测的原始摘要。</p><p>采集：${esc(dateFormat.format(new Date(cat.fetchedAt)))}<br>${cat.complete?'接口分页已全部读取':'接口分页尚未完成'} · 数据为摘要</p><button id="aside-method">查看完整统计方法 ↗</button></div>`;
+ $('#insights').innerHTML=`<div class="aside-label">AT A GLANCE / 榜单观察</div><div class="insight-top"><div class="top-label">${cat.id==='literature'?'Most anticipated author':'Most anticipated field'}</div><h3>${esc(top?.name||'暂无复核结果')}</h3><p>${cat.id==='literature'?'目前样本中最被期待的作家。文学奖以作家为统计单位，作品不单独计票。':'目前样本中被最多回答预测的成果方向。人选组合存在差异，方向归类后合并计票。'}</p><div class="insight-value">${top?.count??0}<small>条回答${top&&((cat.id==='literature'?people:directions).filter(r=>r.count===top.count).length>1)?' · 并列首位':''}</small></div></div><div class="sample"><h4>本奖项样本覆盖</h4><div class="sample-bar" aria-hidden="true"><span style="width:${cat.valid/cat.total*100}%"></span><span class="pending" style="width:${cat.pending/cat.total*100}%"></span></div><div class="sample-row"><span>获取摘要</span><strong>${cat.total}</strong></div><div class="sample-row"><span>有效预测</span><strong>${cat.valid}</strong></div><div class="sample-row"><span>不计正向票</span><strong>${cat.excluded}</strong></div><div class="sample-row"><span>待人工复核</span><strong>${cat.pending}</strong></div><div class="sample-row"><span>独立用户人数</span><strong>无法确认</strong></div></div><div class="reading"><h4>如何读这张榜？</h4><p>一条回答可以预测多个候选。候选与方向分别统计，首选和备选都计入。点击行末的 ＋，查看支持这一预测的原始摘要。</p><p>采集：${esc(dateFormat.format(new Date(cat.fetchedAt)))}<br>${cat.complete?'接口分页已全部读取':'接口分页尚未完成'} · 数据为摘要<br>${esc(freezeNote(cat))}</p><button id="aside-method">查看完整统计方法 ↗</button></div>`;
 }
 function render(){
  const cat=current();
@@ -90,5 +92,5 @@ document.addEventListener('keydown',e=>{if(e.key==='/'&&!['INPUT','TEXTAREA','SE
 $('#method-dialog').addEventListener('click',e=>{if(e.target===$('#method-dialog')){const rect=e.target.getBoundingClientRect();if(e.clientX<rect.left||e.clientX>rect.right||e.clientY<rect.top||e.clientY>rect.bottom)e.target.close();}});
 try{
  await loadData();const [cat,page,mode]=location.hash.slice(1).split('/');if(data.categories.some(c=>c.id===cat))state.cat=cat;if(page==='audit')state.page=page;if(mode==='directions'&&state.cat!=='literature')state.mode=mode;
- renderStats();render();$('#method-list').innerHTML=data.methodology.map(s=>`<li>${esc(s)}</li>`).join('');
+ renderStats();render();setInterval(()=>{renderInsights();},30000);$('#method-list').innerHTML=data.methodology.map(s=>`<li>${esc(s)}</li>`).join('');
 }catch(e){$('#table-container').innerHTML=`<div class="empty">${esc(e.message)}<p>请运行 npm run build 后刷新。</p></div>`;}

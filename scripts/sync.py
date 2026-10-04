@@ -1,14 +1,30 @@
 """User-triggered fetch → Zhida review → deterministic leaderboard build."""
-import json,os,subprocess,sys
+import argparse,json,os,time
 from pathlib import Path
 from build import ROOT,main as build
-from fetch import DEFAULT
+from fetch import DEFAULT,sync_fetch
 from review import review_pending
+from deadlines import cutoff,utc_now
+from datetime import timedelta
 
 def main():
- result=subprocess.run([sys.executable,str(ROOT/'scripts/fetch.py')],cwd=ROOT)
- if result.returncode:raise SystemExit(result.returncode)
- review=review_pending(Path(os.environ.get('ZHIHU_CLI_BINARY',DEFAULT)))
+ parser=argparse.ArgumentParser();parser.add_argument('--final-category',choices=['medicine','physics','chemistry','literature','economics']);args=parser.parse_args()
+ selected=None
+ if args.final_category:
+  selected={args.final_category}
+  target=cutoff(args.final_category)-timedelta(seconds=30)
+  while utc_now()<target:
+   remaining=(target-utc_now()).total_seconds()
+   if remaining>20*60:raise SystemExit('最后更新任务只能在截止前 20 分钟内运行。')
+   print(f'等待最后采集：{args.final_category}，剩余 {int(remaining)} 秒',flush=True)
+   time.sleep(min(remaining,30))
+ binary=Path(os.environ.get('ZHIHU_CLI_BINARY',DEFAULT))
+ updated=sync_fetch(binary,selected)
+ if not updated:
+  if args.final_category:raise SystemExit('最后更新错过截止或采集越过截止；保留之前快照，不补采封榜后的数据。')
+  print('SYNC_RESULT '+json.dumps({'message':'没有可更新奖项；封榜快照保持不变。','pending':0,'reviewed':0,'aiCalls':0},ensure_ascii=False),flush=True)
+  return
+ review=review_pending(binary,category_ids=updated)
  build()
  data=json.loads((ROOT/'public/data.json').read_text())
  pending=sum(c['pending'] for c in data['categories'])
