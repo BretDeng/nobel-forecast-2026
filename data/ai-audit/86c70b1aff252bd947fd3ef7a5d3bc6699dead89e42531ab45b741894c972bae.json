@@ -1,0 +1,23 @@
+{
+  "model": "zhida-fast-1p5",
+  "category": "literature",
+  "summaryHashes": {
+    "2090097562305016300": "88adcfd87a54678334331c4c670363c79d384123ba955b203e6483125fe3b45c"
+  },
+  "response": {
+    "id": "chatcmpl-55589a23-0d06-4726-80ac-eaa36d79f762",
+    "object": "chat.completion",
+    "created": 1791106895,
+    "model": "zhida-fast-1p5",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "{\"items\":[{\"id\":\"2090097562305016300\",\"status\":\"exclude\",\"people\":[],\"directions\":[],\"reason\":\"摘要仅表示对奖项类别的惊讶，未给出任何作者预测。\"}]}"
+        },
+        "finish_reason": "stop"
+      }
+    ]
+  }
+}

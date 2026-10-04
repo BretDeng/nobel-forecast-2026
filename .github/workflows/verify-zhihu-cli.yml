@@ -1,0 +1,94 @@
+name: Verify Zhihu CLI on GitHub
+
+on:
+  workflow_dispatch:
+
+permissions: {}
+
+jobs:
+  verify:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 5
+    steps:
+      - name: Install verified official Linux CLI
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          import hashlib
+          import io
+          import json
+          import os
+          from pathlib import Path
+          import struct
+          import subprocess
+          import tarfile
+          import urllib.request
+
+          url = 'https://developer-cdn.zhihu.com/zhihu-cli/releases/stable/cli/0.6.1/zhihu-cli-0.6.1-linux-amd64.tar.gz'
+          expected_size = 3000541
+          expected_sha = '65d8d7e6bf96c999095835b540c9d749f24a3c37c1d34217a23e825ee2eae376'
+          class OfficialRedirects(urllib.request.HTTPRedirectHandler):
+              def redirect_request(self, req, fp, code, msg, headers, newurl):
+                  from urllib.parse import urlparse
+                  parsed = urlparse(newurl)
+                  if parsed.scheme != 'https' or parsed.netloc != 'developer-cdn.zhihu.com':
+                      raise RuntimeError('Refusing a redirect outside the official HTTPS host')
+                  return super().redirect_request(req, fp, code, msg, headers, newurl)
+          opener = urllib.request.build_opener(OfficialRedirects())
+          with opener.open(url, timeout=30) as response:
+              data = response.read(expected_size + 1)
+          if len(data) != expected_size or hashlib.sha256(data).hexdigest() != expected_sha:
+              raise SystemExit('Official CLI download failed size/SHA-256 verification')
+          with tarfile.open(fileobj=io.BytesIO(data), mode='r:gz') as archive:
+              members = archive.getmembers()
+              if len(members) != 1 or members[0].name != 'zhihu-cli' or not members[0].isfile():
+                  raise SystemExit('Unexpected CLI archive structure')
+              binary = archive.extractfile(members[0]).read()
+          if binary[:6] != b'\x7fELF\x02\x01' or struct.unpack_from('<H', binary, 18)[0] != 62:
+              raise SystemExit('Expected Linux x86-64 CLI')
+          cli = Path(os.environ['RUNNER_TEMP']) / 'zhihu-cli'
+          cli.write_bytes(binary)
+          cli.chmod(0o700)
+          result = subprocess.run([str(cli), 'version'], capture_output=True, text=True, timeout=10)
+          if result.returncode != 0 or json.loads(result.stdout).get('version') != '0.6.1':
+              raise SystemExit('CLI runtime version verification failed')
+          print('PASS: official Linux CLI downloaded, verified and executed (0.6.1)')
+          PY
+
+      - name: Verify environment authentication and one answer summary
+        shell: bash
+        env:
+          ZHIHU_ACCESS_SECRET: ${{ secrets.ZHIHU_ACCESS_SECRET }}
+        run: |
+          python3 - <<'PY'
+          import json
+          import os
+          from pathlib import Path
+          import subprocess
+
+          if not os.environ.get('ZHIHU_ACCESS_SECRET', '').strip():
+              raise SystemExit('Missing Actions repository secret: ZHIHU_ACCESS_SECRET')
+          cli = str(Path(os.environ['RUNNER_TEMP']) / 'zhihu-cli')
+          def invoke(args):
+              try:
+                  result = subprocess.run([cli, *args], capture_output=True, text=True, timeout=40)
+              except subprocess.TimeoutExpired:
+                  raise SystemExit('CLI request timed out; no automatic retry')
+              if result.returncode != 0:
+                  # Do not print captured responses, auth metadata or credentials.
+                  raise SystemExit(f'CLI verification failed (exit {result.returncode}); see CLI exit-code documentation')
+              try:
+                  return json.loads(result.stdout)
+              except ValueError:
+                  raise SystemExit('CLI did not return JSON')
+          status = invoke(['auth', 'status'])
+          if status.get('source') != 'environment' or status.get('ok') is not True:
+              raise SystemExit('CLI is not using environment authentication')
+          invoke(['auth', 'status', '--verify', '--timeout', '30s'])
+          print('PASS: Access Secret verified without desktop keychain or interactive login')
+          response = invoke(['question', 'answers', '--question-url', 'https://www.zhihu.com/question/2081709250993303561', '--limit', '1', '--offset', '0', '--timeout', '30s'])
+          if response.get('Code') != 0 or not isinstance(response.get('Data', {}).get('Items'), list):
+              raise SystemExit('Answer-summary API returned an unexpected response')
+          print('PASS: answer-summary API; returned items:', len(response['Data']['Items']))
+          print('No website deployment, data synchronization or AI generation was performed.')
+          PY

@@ -1,0 +1,12 @@
+{
+  "name": "nobel-forecast-2026",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node server.mjs",
+    "build": "python3 scripts/build.py",
+    "refresh": "python3 scripts/sync.py",
+    "test": "python3 -m unittest discover -s tests",
+    "review": "python3 scripts/review.py && python3 scripts/build.py"
+  }
+}

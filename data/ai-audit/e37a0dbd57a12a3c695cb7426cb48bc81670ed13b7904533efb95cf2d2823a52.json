@@ -1,0 +1,23 @@
+{
+  "model": "zhida-fast-1p5",
+  "category": "literature",
+  "summaryHashes": {
+    "2090110045350522968": "3854a41a0f767a0bb3faa90a7bfbb5b4a8fbb39c7bed32aa1dfbf5eb1f5407a2"
+  },
+  "response": {
+    "id": "chatcmpl-73c0eba8-c9de-4512-8248-661c40d4bae2",
+    "object": "chat.completion",
+    "created": 1791101936,
+    "model": "zhida-fast-1p5",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "{\"items\":[{\"id\":\"2090110045350522968\",\"status\":\"exclude\",\"people\":[],\"directions\":[],\"reason\":\"摘要仅转述非官方短名单和赔率榜中他人的预测与讨论热度，未给出作者本人对2026年文学奖的明确正向预测或希望获奖者。\"}]}"
+        },
+        "finish_reason": "stop"
+      }
+    ]
+  }
+}

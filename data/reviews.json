@@ -1,0 +1,2112 @@
+{
+  "medicine": {
+    "2083502051263365892": {
+      "summaryHash": "fa7a6c0c644c2319f83afa7833e6b9d9c8e2bf8c610a67e17b7ac28463e82e4a",
+      "reviewed": true,
+      "people": [
+        "Jeffrey M. Friedman",
+        "Svetlana Mojsov",
+        "Daniel Drucker",
+        "Jens Juul Holst",
+        "Napoleone Ferrara",
+        "卢煜明",
+        "Lewis C. Cantley",
+        "Bert Vogelstein",
+        "Robert Weinberg",
+        "Karl Deisseroth",
+        "Peter Hegemann",
+        "Gero Miesenböck",
+        "Emmanuel Mignot"
+      ],
+      "directions": [
+        "GLP-1",
+        "瘦素与能量稳态",
+        "血管生成与抗 VEGF 疗法",
+        "游离 DNA 与无创产前检测",
+        "癌症信号与肿瘤生物学",
+        "光遗传学",
+        "食欲素与睡眠调控"
+      ],
+      "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+      "warnings": []
+    },
+    "2085763396524303455": {
+      "summaryHash": "981d2acbcabd9faff7543a115110fb09df60cd283f47739905620fd77949bb53",
+      "reviewed": true,
+      "people": [
+        "Svetlana Mojsov",
+        "Jens Juul Holst",
+        "Daniel Drucker"
+      ],
+      "directions": [
+        "GLP-1"
+      ],
+      "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+      "warnings": []
+    },
+    "2087287949775918336": {
+      "summaryHash": "1356a397c74681698bcb695502f6d08371856b2520c69a6da7c0d80659c40f68",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "对 GLP-1、食欲素及异种移植持否定预测；其余名单未显示",
+      "warnings": []
+    },
+    "2089250052975997891": {
+      "summaryHash": "c3c9d15e479f0396dfddbd81ccbcc3fe5baed6f885de7e6848fba048a3db61e7",
+      "reviewed": true,
+      "people": [
+        "卢煜明"
+      ],
+      "directions": [
+        "游离 DNA 与无创产前检测"
+      ],
+      "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+      "warnings": []
+    },
+    "2089033893651420256": {
+      "summaryHash": "4897a747c2564d8e44944ea52b87117c18f732182ae06c5489ed221db9336d9c",
+      "reviewed": true,
+      "people": [
+        "Joel Habener",
+        "Svetlana Mojsov",
+        "Lotte Bjerre Knudsen"
+      ],
+      "directions": [
+        "GLP-1"
+      ],
+      "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+      "warnings": []
+    },
+    "2089646847547667401": {
+      "summaryHash": "b18fe6e8511be91419f9d4905bcbf588a6b574715b33274f103d31896143b5ff",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "摘要截断，未显示具体预测",
+      "warnings": []
+    },
+    "2083886838012449183": {
+      "summaryHash": "8667f52a13406d0cad3f8ad9bb205b889d81e6a05ebe64e584e84db4fcdf418e",
+      "reviewed": true,
+      "people": [],
+      "directions": [
+        "临床医学与药学"
+      ],
+      "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+      "warnings": []
+    },
+    "2088365149392576618": {
+      "summaryHash": "162130fcff1241961cb9cb3d9d0a15cce22d05cd0a76a906c5d1264053afd973",
+      "reviewed": true,
+      "people": [
+        "陈志坚",
+        "卢煜明",
+        "李文渝",
+        "Lotte Bjerre Knudsen",
+        "Masashi Yanagisawa"
+      ],
+      "directions": [
+        "cGAS–STING 与先天免疫",
+        "游离 DNA 与无创产前检测",
+        "神经退行性疾病",
+        "GLP-1",
+        "食欲素与睡眠调控"
+      ],
+      "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+      "warnings": []
+    },
+    "2086847577530557205": {
+      "summaryHash": "c95899f7ed11d7e41167e5ed2e42dfdbc9ae1776bf02927045a9aa6003b05662",
+      "reviewed": true,
+      "people": [
+        "Michael N. Hall",
+        "森和俊",
+        "Peter Walter"
+      ],
+      "directions": [
+        "mTOR 与细胞生长",
+        "未折叠蛋白应答"
+      ],
+      "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+      "warnings": []
+    },
+    "2088706581756229116": {
+      "summaryHash": "2b23bac6264333a87abb78b1928b6f591819f1fab6b413c752f08aa890329872",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "历史回顾，未显示今年预测",
+      "warnings": []
+    },
+    "2084819205300413285": {
+      "summaryHash": "fc26421f8b3d4976f1be499136630d68a8ca4447c7be8515640eb3f1c26cd641",
+      "reviewed": true,
+      "people": [
+        "Emmanuel Mignot",
+        "Masashi Yanagisawa"
+      ],
+      "directions": [
+        "食欲素与睡眠调控"
+      ],
+      "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+      "warnings": []
+    },
+    "2089175500887422474": {
+      "summaryHash": "8fa9e83f7a3cf13643e0a16ccab21f9d9a11f3229b52f1ff804631ee6594d498",
+      "reviewed": true,
+      "people": [
+        "Svetlana Mojsov",
+        "Daniel Drucker",
+        "Jens Juul Holst"
+      ],
+      "directions": [
+        "GLP-1"
+      ],
+      "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+      "warnings": []
+    },
+    "2086043872812086531": {
+      "summaryHash": "963acb9868dbcf325572cc336aef0bd8effe9adb52991e9b184fe1e5489b0219",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "通论及历史回顾",
+      "warnings": []
+    },
+    "2090071229386462555": {
+      "summaryHash": "833bce174c01922d2adf6ca152fec925b31b5e602827f0b63fb63cc2e89f8eb6",
+      "reviewed": true,
+      "people": [
+        "Brian Druker",
+        "Anne Dejean",
+        "陈竺"
+      ],
+      "directions": [
+        "白血病靶向与分化治疗"
+      ],
+      "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+      "warnings": []
+    },
+    "2083542936847905704": {
+      "summaryHash": "ff578654dd017fee75ee11edf0981e2d0e167ec1746d07cc3a31748491d80cea",
+      "reviewed": true,
+      "people": [
+        "小川诚二",
+        "卢煜明",
+        "Karl Deisseroth",
+        "Peter Hegemann",
+        "Gero Miesenböck"
+      ],
+      "directions": [
+        "功能性磁共振成像",
+        "游离 DNA 与无创产前检测",
+        "光遗传学"
+      ],
+      "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+      "warnings": []
+    },
+    "2086385674786289108": {
+      "summaryHash": "321cc8dc3a50ed8c6deec1d0f5215927a39cb0148d7e628af81709c8bbd2b65e",
+      "reviewed": true,
+      "people": [
+        "卢煜明"
+      ],
+      "directions": [
+        "游离 DNA 与无创产前检测"
+      ],
+      "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+      "warnings": []
+    },
+    "2089414145582094038": {
+      "summaryHash": "2ba8e07fece8513fc4188edd7977f0335486e768166752aa0ba559b729fb21ab",
+      "reviewed": true,
+      "people": [
+        "Svetlana Mojsov",
+        "Joel Habener",
+        "Jens Juul Holst"
+      ],
+      "directions": [
+        "GLP-1"
+      ],
+      "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+      "warnings": []
+    },
+    "2089654077416330116": {
+      "summaryHash": "6e6deaaf36a71a559f3f0fea9d3ee7d22a501a83c1ad982ab8cdd970dd5833d4",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "跨奖项内容，缺少医学预测",
+      "warnings": []
+    },
+    "2087623438085124176": {
+      "summaryHash": "595462bc1f328111ffdb54ce962db8f1d2dbbfd2f6a858fce8a16a6c1bdd17aa",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "明确表示今年也不会给，不计正向预测",
+      "warnings": []
+    },
+    "2086803812023538864": {
+      "summaryHash": "ab203806fa0ee7faef585bec0e970bc5335c8d50456fc7fa46ceb415443debda",
+      "reviewed": true,
+      "people": [
+        "Max D. Cooper",
+        "Jacques Miller",
+        "Karl Deisseroth",
+        "Peter Hegemann",
+        "Gero Miesenböck",
+        "Wolfram Schultz",
+        "Peter Dayan"
+      ],
+      "directions": [
+        "B 细胞与 T 细胞",
+        "光遗传学",
+        "多巴胺与奖励机制"
+      ],
+      "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+      "warnings": []
+    },
+    "2088923824045795014": {
+      "summaryHash": "31e69f29679afd8af9ba7f91a677c145b4e618c8e70af21f7e688caebeb7cdb4",
+      "reviewed": true,
+      "people": [
+        "Daniel Drucker",
+        "Jens Juul Holst",
+        "Svetlana Mojsov"
+      ],
+      "directions": [
+        "GLP-1"
+      ],
+      "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+      "warnings": []
+    },
+    "2086038511082287783": {
+      "summaryHash": "32e493f4f9ad980bf6af09103c4f6da7dcb3659fc9f2c45f6808cc36c76449b8",
+      "reviewed": true,
+      "people": [
+        "Hans Clevers",
+        "Irving Weissman",
+        "Hugues de Thé",
+        "陈竺"
+      ],
+      "directions": [
+        "成体干细胞与类器官",
+        "白血病靶向与分化治疗"
+      ],
+      "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+      "warnings": []
+    },
+    "2088190417590293973": {
+      "summaryHash": "b35c159e40b41377ac4bd124aa8c8471cbe4ac72cc84859eef64399e4722a080",
+      "reviewed": true,
+      "people": [
+        "陈志坚",
+        "刘如谦"
+      ],
+      "directions": [
+        "cGAS–STING 与先天免疫",
+        "精准基因编辑"
+      ],
+      "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+      "warnings": [
+        "刘如谦：回答更看好化学奖，但在本医学问题中也列为候选。"
+      ]
+    },
+    "2087527799691142324": {
+      "summaryHash": "57ef75827fef7cccfffc70363860ca2f89aba781c1387ddb03ac6e9dc9ef2e59",
+      "reviewed": true,
+      "people": [
+        "Brian Druker"
+      ],
+      "directions": [
+        "白血病靶向与分化治疗"
+      ],
+      "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+      "warnings": []
+    },
+    "2089423892951708259": {
+      "summaryHash": "8862c998e817c13631e69087d588d1342475648073f962bd878950f5e4393606",
+      "reviewed": true,
+      "people": [
+        "Karl Deisseroth",
+        "Peter Hegemann",
+        "Gero Miesenböck",
+        "卢煜明"
+      ],
+      "directions": [
+        "光遗传学",
+        "游离 DNA 与无创产前检测"
+      ],
+      "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+      "warnings": []
+    },
+    "2089012656174907831": {
+      "summaryHash": "0df292980099286050d467bbd7baa94f6284aaf94c8ed02c2d808e99225e422a",
+      "reviewed": true,
+      "people": [
+        "Svetlana Mojsov"
+      ],
+      "directions": [
+        "GLP-1"
+      ],
+      "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+      "warnings": []
+    },
+    "2088327025325097452": {
+      "summaryHash": "cdd6264627019c03bc25baef49f518250c92e5608fb0fe9e7da74ae72a18295e",
+      "reviewed": true,
+      "people": [],
+      "directions": [
+        "GLP-1"
+      ],
+      "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+      "warnings": []
+    },
+    "2085312058820649377": {
+      "summaryHash": "df54aee857c78d4c5a416112833d3277040eb77fe10ac87b529946855fc26980",
+      "reviewed": true,
+      "people": [],
+      "directions": [
+        "GLP-1",
+        "CAR-T 细胞疗法"
+      ],
+      "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+      "warnings": []
+    },
+    "2089550792445400468": {
+      "summaryHash": "c3fb23bcf3deaa7d9a464dc951eddc1816b56bdf9a7bcffdec754dcd3fa74884",
+      "reviewed": true,
+      "people": [
+        "Timothy Springer"
+      ],
+      "directions": [
+        "细胞黏附与免疫调控"
+      ],
+      "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+      "warnings": []
+    },
+    "2090092625550432141": {
+      "summaryHash": "e65af83116d82aa45bbd6e9b2517a821a81248ca57d1b1f2f2979cb77b527419",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "未提出具体候选",
+      "warnings": []
+    },
+    "2090084712450728871": {
+      "summaryHash": "bdf24eda6fcacb68efa2975ccab52b2620c5d563a5ca3232f743b9813e2a286d",
+      "reviewed": true,
+      "people": [
+        "Daniel Drucker",
+        "Jens Juul Holst",
+        "Svetlana Mojsov"
+      ],
+      "directions": [
+        "GLP-1"
+      ],
+      "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+      "warnings": []
+    },
+    "2089088054992675165": {
+      "summaryHash": "f7158f8cdf1f16765428789bda13d5e64fad5271820244686a26d343f83c02bf",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "明确拒绝预测",
+      "warnings": []
+    },
+    "2087465063955296326": {
+      "summaryHash": "f32cae4d7fcd82e2542ab79da9d670ea97387295f78a18b1d261927ebd20f382",
+      "reviewed": true,
+      "people": [
+        "Karl Deisseroth",
+        "Peter Hegemann",
+        "Gero Miesenböck"
+      ],
+      "directions": [
+        "光遗传学"
+      ],
+      "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+      "warnings": []
+    },
+    "2085642492532336169": {
+      "summaryHash": "50084138950f54f622709ab27963c494aa479bfe3c00e19e4c5396ba94bb6e0a",
+      "reviewed": true,
+      "people": [],
+      "directions": [
+        "GLP-1"
+      ],
+      "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+      "warnings": []
+    },
+    "2084973358584685402": {
+      "summaryHash": "2163499d04614b99cd039f312d1a369ac0e41976bac678ed793bd029a08264cc",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "语境不明，待核实",
+      "warnings": []
+    },
+    "2083614045878346108": {
+      "summaryHash": "ee91326346732615b9736d5a24472da312a5663b8efa33d510c238a4bede88c5",
+      "reviewed": true,
+      "people": [],
+      "directions": [
+        "GLP-1"
+      ],
+      "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+      "warnings": []
+    },
+    "2089493489851619162": {
+      "summaryHash": "4940faf8e0c39739a5d47bcbefa760d85515d4740f435dc204427a2b91fa88b0",
+      "reviewed": true,
+      "people": [
+        "Joel Habener",
+        "Jens Juul Holst",
+        "Daniel Drucker",
+        "Svetlana Mojsov"
+      ],
+      "directions": [
+        "GLP-1"
+      ],
+      "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+      "warnings": []
+    },
+    "2086121493595944683": {
+      "summaryHash": "88c870a3019f7284e0630c6014d816212b8e490b0c0ccaee1986f1976bc184ef",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "仅提背景事件，未明确预测",
+      "warnings": []
+    },
+    "2083695749104256599": {
+      "summaryHash": "09359e0527a963e6d7d2e7cbbdc9db24a47e065310a83276e05c9f07ca943a0f",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "自荐推销，未明确可辨识候选",
+      "warnings": []
+    }
+  },
+  "physics": {
+    "2083714937596258134": {
+      "summaryHash": "52771f60ca2cf1b7855e0bbf679988fb1afae68d9720252b46142692ce5685a7",
+      "reviewed": true,
+      "people": [
+        "Jainendra Jain",
+        "Moty Heiblum",
+        "James Eisenstein"
+      ],
+      "directions": [
+        "分数量子霍尔与任意子"
+      ],
+      "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+      "warnings": []
+    },
+    "2083334221356085859": {
+      "summaryHash": "43cda83adb62815f9e51849b04f67ff6484f6ea38719c29d46a92f2b655afbc5",
+      "reviewed": true,
+      "people": [
+        "舛冈富士雄",
+        "Stuart Parkin",
+        "大野英男",
+        "Michael Berry",
+        "Yakir Aharonov",
+        "Bertrand Halperin",
+        "香取秀俊",
+        "叶军",
+        "Pablo Jarillo-Herrero",
+        "Allan MacDonald",
+        "饭岛澄男",
+        "Sajeev John",
+        "Eli Yablonovitch",
+        "Susumu Noda",
+        "佐川真人",
+        "David Payne",
+        "Emmanuel Desurvire",
+        "中泽正隆"
+      ],
+      "directions": [
+        "存储器与自旋电子学",
+        "几何相位与 AB 效应",
+        "光晶格原子钟",
+        "魔角石墨烯与转角电子学",
+        "光子晶体",
+        "永磁材料",
+        "光纤通信"
+      ],
+      "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+      "warnings": []
+    },
+    "2083952994312271055": {
+      "summaryHash": "44a82efb2b7d0d4fb41dfaf3a9008ca0f9464341e99c64e5044fff3bc07397fb",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "分析授奖趋势，未显示最终选择",
+      "warnings": []
+    },
+    "2083958483758626385": {
+      "summaryHash": "66699dcb5d31ed79df2b61d347b00aeaaf3e92d9557f7c022d4b63e9954a8766",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "未显示明确预测",
+      "warnings": []
+    },
+    "2088761110715544611": {
+      "summaryHash": "8cb9243b4a840b27ca0bdb5606a8468826077d253c037b99eb5c40fef2454613",
+      "reviewed": true,
+      "people": [
+        "香取秀俊",
+        "叶军"
+      ],
+      "directions": [
+        "光晶格原子钟"
+      ],
+      "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+      "warnings": []
+    },
+    "2084172819190097729": {
+      "summaryHash": "7b557a627361d18c592635d9ca8819d75ee68f6f0941c7f5b1d0f5cdc740020a",
+      "reviewed": true,
+      "people": [],
+      "directions": [
+        "复杂系统"
+      ],
+      "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+      "warnings": []
+    },
+    "2083547815687484182": {
+      "summaryHash": "7639b72de781a337f646519044f735f319f9bf9379d9b97d8ea8968e33fe79e2",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "摘要截断，未显示具体预测",
+      "warnings": []
+    },
+    "2089404073430738133": {
+      "summaryHash": "e8a5f6d3926fdbe9141a9adc7f2562f47b7006213d6b5e99e1c695788317b8a7",
+      "reviewed": true,
+      "people": [
+        "叶军",
+        "香取秀俊"
+      ],
+      "directions": [
+        "光晶格原子钟"
+      ],
+      "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+      "warnings": []
+    },
+    "2088883499566633211": {
+      "summaryHash": "a09d65e3add9793eb10cfc735fda3777850849f1f258de20e21a522fc44e803f",
+      "reviewed": true,
+      "people": [],
+      "directions": [
+        "金刚石 NV 色心"
+      ],
+      "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+      "warnings": []
+    },
+    "2085123034977939558": {
+      "summaryHash": "18578660cba30bd64cd428a28fef89687ec7d9797557a11a5b9f5083d80d9f3d",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "摘要截断，未显示具体预测",
+      "warnings": []
+    },
+    "2083377107514798553": {
+      "summaryHash": "b6ac3dafa6d5b7e40b8158c58832d151ccc309bd34f3f397a282aa09988ed921",
+      "reviewed": true,
+      "people": [
+        "Pablo Jarillo-Herrero",
+        "Allan MacDonald",
+        "Rafi Bistritzer",
+        "Eva Andrei"
+      ],
+      "directions": [
+        "魔角石墨烯与转角电子学"
+      ],
+      "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+      "warnings": []
+    },
+    "2083617705861583236": {
+      "summaryHash": "0aa45d11c0eebb09de05ad26b3513897ac40c2154a5f39c4ab40c63a00e03ed9",
+      "reviewed": true,
+      "people": [
+        "Toshiki Tajima",
+        "陈丕燊",
+        "Wim Leemans",
+        "Yakir Aharonov"
+      ],
+      "directions": [
+        "等离子体尾场加速",
+        "几何相位与 AB 效应"
+      ],
+      "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+      "warnings": []
+    },
+    "2081791479463277145": {
+      "summaryHash": "cbd4fa9a02c45c080106cea8e074d04111c7bd3c63e3f157e90a869f766d920f",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "内容为神经生物学，奖项不匹配",
+      "warnings": []
+    },
+    "2089107528739246239": {
+      "summaryHash": "98cb8d20a3c452d5feeb0d5f9b243c2a424cc33ce166fecbe8c9ddab6f827079",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "摘要截断，未显示具体预测",
+      "warnings": []
+    },
+    "2089318299809194871": {
+      "summaryHash": "6ad35c0c7bfa908e2744b4ac8dd22e1a5758488a92286857a6bc6a2cfd57d1a5",
+      "reviewed": true,
+      "people": [
+        "Yakir Aharonov",
+        "Michael Berry",
+        "Tadashi Kadowaki",
+        "Hidetoshi Nishimori",
+        "Edward Farhi"
+      ],
+      "directions": [
+        "几何相位与 AB 效应",
+        "量子退火计算"
+      ],
+      "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+      "warnings": []
+    },
+    "2083519423214895770": {
+      "summaryHash": "5851b6192cf365458748663e034a8c8afe3e71bbc111486aec4337c0c18d1bfa",
+      "reviewed": true,
+      "people": [
+        "Michael Berry",
+        "Yakir Aharonov"
+      ],
+      "directions": [
+        "几何相位与 AB 效应"
+      ],
+      "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+      "warnings": []
+    },
+    "2089178150047586062": {
+      "summaryHash": "7cca28fd49a3d24d14a4b28e3d05f6e5359ca8b3737386374322fcb9e75955d4",
+      "reviewed": true,
+      "people": [
+        "薛其坤",
+        "John Pendry",
+        "David Smith",
+        "安达千波矢",
+        "Stephen Forrest",
+        "Mark Thompson"
+      ],
+      "directions": [
+        "量子反常霍尔效应",
+        "超材料与负折射率",
+        "OLED"
+      ],
+      "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+      "warnings": []
+    },
+    "2090042157340038010": {
+      "summaryHash": "f72c5b557988e1b6466e01887fded36bc33598f3dbe5c6b9250df7898d0ba5b7",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "摘要截断，未显示具体方向",
+      "warnings": []
+    },
+    "2086930764889843362": {
+      "summaryHash": "f44dc34c5f6d801338af36b742ec4b81687e65f9281293b87137be39d700da93",
+      "reviewed": true,
+      "people": [],
+      "directions": [
+        "几何相位与 AB 效应"
+      ],
+      "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+      "warnings": []
+    },
+    "2084985363399959285": {
+      "summaryHash": "ab01a5eb38bcf19b5545a9a17f1236601e8f9f91a3cdb9c3e748cfab2111ae02",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "评论，无具体预测",
+      "warnings": []
+    },
+    "2083474238879671977": {
+      "summaryHash": "e9994b2f4c2d6a8dfa2fcdce221bc708e1b5c7165f49ad9f44a3718c53ade453",
+      "reviewed": true,
+      "people": [
+        "Pablo Jarillo-Herrero",
+        "Allan MacDonald",
+        "Rafi Bistritzer",
+        "Federico Capasso",
+        "Susumu Noda",
+        "Martin Rees",
+        "Roy Kerr",
+        "Alessandra Buonanno",
+        "Alexei Kitaev",
+        "David Deutsch",
+        "Charles Bennett"
+      ],
+      "directions": [
+        "魔角石墨烯与转角电子学",
+        "激光器",
+        "天体物理学",
+        "量子计算"
+      ],
+      "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+      "warnings": []
+    },
+    "2082461018953872529": {
+      "summaryHash": "298ca2ba2a80bd5858e2d7821192c36a47f202b8ab0df454102b29b47264b132",
+      "reviewed": true,
+      "people": [
+        "Yoshinori Tokura",
+        "Hideo Hosono",
+        "Jun Akimitsu"
+      ],
+      "directions": [
+        "超导材料与强关联电子"
+      ],
+      "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+      "warnings": []
+    },
+    "2088043224178997139": {
+      "summaryHash": "a3b26e8505cce2906e07c50e0cfabc9ec711d40a6b16337c68b313d8f240485f",
+      "reviewed": true,
+      "people": [
+        "薛其坤",
+        "Alexei Kitaev"
+      ],
+      "directions": [
+        "拓扑物态与量子霍尔",
+        "OLED",
+        "量子计算"
+      ],
+      "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+      "warnings": []
+    },
+    "2083874911551076294": {
+      "summaryHash": "248afda78f86098026b9bca10466b79c1ca323302b6bf9fb5877e2c5c4b9e9fd",
+      "reviewed": true,
+      "people": [
+        "Robert Dennard",
+        "舛冈富士雄",
+        "Stuart Parkin"
+      ],
+      "directions": [
+        "存储器与自旋电子学"
+      ],
+      "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+      "warnings": []
+    },
+    "2082414191214965524": {
+      "summaryHash": "bb23acf420ab850e8d4b6a34ff5b296e13e958449a37cc35b0e34faf5908bdd8",
+      "reviewed": true,
+      "people": [
+        "舛冈富士雄",
+        "中泽正隆"
+      ],
+      "directions": [
+        "存储器与自旋电子学",
+        "光纤通信"
+      ],
+      "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+      "warnings": []
+    },
+    "2086039149627364037": {
+      "summaryHash": "6f8615666ef54e561f77f26178c754d4fbd2e29a4941d8dd84cd95c834bab307",
+      "reviewed": true,
+      "people": [],
+      "directions": [
+        "魔角石墨烯与转角电子学"
+      ],
+      "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+      "warnings": []
+    },
+    "2082054482687538064": {
+      "summaryHash": "45389d7a985a29f5b437509005d39c1c0eb80f2294a8a9537f14822fcd1b84cc",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "讨论评奖方式，无具体预测",
+      "warnings": []
+    },
+    "2084780573885740150": {
+      "summaryHash": "4bdd659857a5dd6e5030c5fb5c8f9fe1c8e844fec68820f7e195910ca2cb0bfc",
+      "reviewed": true,
+      "people": [
+        "杨建磊"
+      ],
+      "directions": [],
+      "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+      "warnings": []
+    },
+    "2082170946073511453": {
+      "summaryHash": "aabb02f1c1934252378b213960a4aeed648a3b7769b68e7004bd5d7a39a0c04d",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "明显戏谑表述",
+      "warnings": []
+    },
+    "2089344229990572173": {
+      "summaryHash": "309536eee73f946accf73b1843d3a672f5d8ceb2a52a59a5781c5d957ccdc734",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "摘要截断，未显示具体预测",
+      "warnings": []
+    },
+    "2083757224137070144": {
+      "summaryHash": "4518f24aa95957f470a62af745b7e8e2d1efe01797c0681c26103542e305a9fe",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "历史评论",
+      "warnings": []
+    },
+    "2085328806546614126": {
+      "summaryHash": "0b30ac6d3f0c97a6d6b7ecc8d2947f0c1fe0eb61379069cdc598f34ac50c61c6",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "负向清单，不计正向预测",
+      "warnings": []
+    },
+    "2083511440170808094": {
+      "summaryHash": "d6a4ed02f1dd57fac5d690b1bc10412fad8e2c625b98a111d14d7f926108330d",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "自荐理论，无明确预测",
+      "warnings": []
+    },
+    "2089228650738618368": {
+      "summaryHash": "6fa8f0e482a4588277c94bfe9d6264d4560f6b717ea0595cbc2863332305aabd",
+      "reviewed": true,
+      "people": [
+        "叶军",
+        "Immanuel Bloch"
+      ],
+      "directions": [
+        "光晶格原子钟",
+        "超冷原子量子模拟"
+      ],
+      "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+      "warnings": []
+    },
+    "2082055090668679524": {
+      "summaryHash": "ddb9ef3f7b7a7cbaec7b6819b353375d85750ffa98bcf263ab51e5a8c9877928",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "无明确候选或预测",
+      "warnings": []
+    },
+    "2084763356947298189": {
+      "summaryHash": "06f69d4d46fb02f513fd3ebcaa5dd1006c8df3887413fade0f6ad2dd7ec84429",
+      "reviewed": true,
+      "people": [
+        "薛其坤"
+      ],
+      "directions": [
+        "量子反常霍尔效应"
+      ],
+      "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+      "warnings": []
+    },
+    "2089143162719696431": {
+      "summaryHash": "cc093e595c48226d67bf7591bce4b901358805308ae4b83a384d79f9c47143d7",
+      "reviewed": true,
+      "people": [
+        "Michael Berry"
+      ],
+      "directions": [
+        "几何相位与 AB 效应"
+      ],
+      "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+      "warnings": []
+    },
+    "2083474025502789770": {
+      "summaryHash": "209e3a9d1288bfa587d035e3d1fb959a215f5dd81f76f00e731dec75bc7c46a0",
+      "reviewed": true,
+      "people": [
+        "杨建磊"
+      ],
+      "directions": [
+        "超导材料与强关联电子"
+      ],
+      "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+      "warnings": []
+    },
+    "2086596323340563662": {
+      "summaryHash": "2dcc4ea1f0c534f7540d4981779bc97e370707967aab6a2f8b93c6b7b8d49a6f",
+      "reviewed": true,
+      "people": [
+        "Immanuel Bloch",
+        "叶军",
+        "香取秀俊"
+      ],
+      "directions": [
+        "超冷原子量子模拟",
+        "光晶格原子钟"
+      ],
+      "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+      "warnings": []
+    },
+    "2085681634855204319": {
+      "summaryHash": "f2d280c959ecef009f43c31b3261a682abbbdba06e8cde828f5098519adf3fbc",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "往年预测链接",
+      "warnings": []
+    },
+    "2086797950701913759": {
+      "summaryHash": "f481da521987b41e2f72548acf1678c1e451e57e5dcba03f00a7731e6a2faa66",
+      "reviewed": true,
+      "people": [
+        "Yakir Aharonov",
+        "Michael Berry",
+        "John Pendry",
+        "David Smith",
+        "Federico Capasso",
+        "Andrea Alù",
+        "Carlos Frenk"
+      ],
+      "directions": [
+        "几何相位与 AB 效应",
+        "超材料与负折射率",
+        "宇宙大尺度结构与冷暗物质"
+      ],
+      "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+      "warnings": []
+    },
+    "2089591354330461736": {
+      "summaryHash": "fda334618869d21fcd847caca78b163847fd0cdf7ce20c1aadf2885e1bdebbf2",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "评论，无具体预测",
+      "warnings": []
+    },
+    "2089295324380714018": {
+      "summaryHash": "cf7e61aa8ab15b392e61832efe8dc9101890460249c0effd191a84c086b109db",
+      "reviewed": true,
+      "people": [
+        "Sajeev John",
+        "Eli Yablonovitch"
+      ],
+      "directions": [
+        "光子晶体"
+      ],
+      "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+      "warnings": []
+    },
+    "2089288004070387792": {
+      "summaryHash": "d5f35f3dcfa5137b1b753151e8757f64a182010a263985e2b04b5a0be0a30acf",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "狗头标记，戏谑名单",
+      "warnings": []
+    },
+    "2089669867985166779": {
+      "summaryHash": "24163885f6ae413cef33deb3813f4445dc061cfd6805a86efc224a094dc48b86",
+      "reviewed": true,
+      "people": [
+        "薛其坤"
+      ],
+      "directions": [
+        "量子反常霍尔效应"
+      ],
+      "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+      "warnings": []
+    },
+    "2089860346659987819": {
+      "summaryHash": "47bcf9d1aeb4acaeec1339597ac0fc7cf63ce287d378645cdf3db8d75df35191",
+      "reviewed": true,
+      "people": [],
+      "directions": [
+        "地球与空间物理"
+      ],
+      "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+      "warnings": []
+    },
+    "2089401407313012136": {
+      "summaryHash": "75a4d094c855106f6963229e2ed3dadd1fabd942293455e5a7d77a1ca5c22be8",
+      "reviewed": true,
+      "people": [
+        "薛其坤"
+      ],
+      "directions": [
+        "量子反常霍尔效应"
+      ],
+      "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+      "warnings": []
+    },
+    "2087985314631512389": {
+      "summaryHash": "cf7b84616e9ab43618bc4834c67aeecd3a71fb99f849456c35e0e64bbc1c1748",
+      "reviewed": true,
+      "people": [
+        "Alexei Kitaev",
+        "Michael Berry"
+      ],
+      "directions": [
+        "量子计算",
+        "几何相位与 AB 效应"
+      ],
+      "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+      "warnings": []
+    },
+    "2085715868017750349": {
+      "summaryHash": "0e708d56f5f82b7618016ecb85a21fcc55b583cbd00d929f7a487aff8d48b7dd",
+      "reviewed": true,
+      "people": [],
+      "directions": [
+        "等离子体尾场加速",
+        "自由电子激光"
+      ],
+      "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+      "warnings": []
+    },
+    "2084974728910063489": {
+      "summaryHash": "97b2b2243c67d39aab559671dcc98769c7f2ce2f3f2584aba25d7615c1848c49",
+      "reviewed": true,
+      "people": [
+        "邓青云"
+      ],
+      "directions": [
+        "OLED"
+      ],
+      "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+      "warnings": []
+    },
+    "2084285144093954813": {
+      "summaryHash": "c2b22ab46d4edf963fc6bf316c3cfa799f1c2035fe4ba1a1042ad696c0b0daed",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "转述引文桂冠新闻，无明确本人预测",
+      "warnings": []
+    },
+    "2089286588031358414": {
+      "summaryHash": "1be5cfae91fe49f79354b0eb32ce8e0f32ce14882611c0ee40b26eb91dad8eea",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "自荐理论，无明确预测",
+      "warnings": []
+    },
+    "2090078625211102995": {
+      "summaryHash": "000a764e68eb0b5500e42724625e755a5087f93b94d239a5d781869af25e440f",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "摘要截断，未显示最终选择",
+      "warnings": []
+    },
+    "2089775645387761107": {
+      "summaryHash": "47599d79373e879f4d99f5b6b8a47d6d27dde28c673a7ac48fdec7564865992e",
+      "reviewed": true,
+      "people": [
+        "薛其坤"
+      ],
+      "directions": [
+        "量子反常霍尔效应"
+      ],
+      "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+      "warnings": []
+    },
+    "2088332867608764954": {
+      "summaryHash": "0cd7c4dfbe64830e1493d4c16528c8189ffba00d8a2e94a5ac37fc153846b632",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "评论，无具体预测",
+      "warnings": []
+    },
+    "2090068020794241577": {
+      "summaryHash": "922f7adb1360260e624981ad333b954d3fbf17fa78f81b052ac8b9d7e872a0f9",
+      "reviewed": true,
+      "people": [
+        "香取秀俊",
+        "叶军"
+      ],
+      "directions": [
+        "光晶格原子钟"
+      ],
+      "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+      "warnings": []
+    },
+    "2090040241117730612": {
+      "summaryHash": "3d26b9373a69137f8af435093d002a3a9af447e6409d4c5bac7fca06c17933b3",
+      "reviewed": true,
+      "people": [
+        "叶军"
+      ],
+      "directions": [
+        "光晶格原子钟"
+      ],
+      "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+      "warnings": []
+    },
+    "2089559227413091853": {
+      "summaryHash": "014c49d26f2014d13ab77ea84d8326cc8672216b48c3e4e41fa50c8b3566259a",
+      "reviewed": true,
+      "people": [],
+      "directions": [
+        "天体物理学"
+      ],
+      "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+      "warnings": []
+    },
+    "2089549727041851736": {
+      "summaryHash": "c3fb23bcf3deaa7d9a464dc951eddc1816b56bdf9a7bcffdec754dcd3fa74884",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "与医学回答重复且奖项不匹配",
+      "warnings": []
+    },
+    "2089149891759162279": {
+      "summaryHash": "c2abb53e12fc09a06a681e03119bdd7e6ad81baecf06df34cd8f3af36de3cffa",
+      "reviewed": true,
+      "people": [
+        "Christopher Jarzynski"
+      ],
+      "directions": [
+        "非平衡态热力学"
+      ],
+      "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+      "warnings": []
+    },
+    "2088975814524258220": {
+      "summaryHash": "19b13bbbbfabbdb7b5eeffce87663d4a60d7c462cfaf42abb9cd01082ae9aa35",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "预测无人获奖，无候选",
+      "warnings": []
+    },
+    "2084968468680593903": {
+      "summaryHash": "6cad6d67dd59d5f53670205f3ccb0ee209f29d3e21bce5d4c1043c6d379502ae",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "搞笑诺贝尔奖，非本榜范围",
+      "warnings": []
+    },
+    "2089507433064424651": {
+      "summaryHash": "64489af3705956d5ad1023f3de332bb6d49f3dfe1c092470702f65182101e253",
+      "reviewed": true,
+      "people": [],
+      "directions": [
+        "拓扑超导与马约拉纳准粒子"
+      ],
+      "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+      "warnings": []
+    },
+    "2087640927556969721": {
+      "summaryHash": "d8d1c4f61e8dba85b1a84f323c870d204ef5bf0cb99cfe68b5d82d14e711f689",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "落选理由与背景混合，无法确认正向选择",
+      "warnings": []
+    },
+    "2083691100158562633": {
+      "summaryHash": "a854ba33a8a3d067261f5eb39667d2a2414b174c40938f6ea2169d868f1f1d70",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "询问未来年份，不是今年预测",
+      "warnings": []
+    }
+  },
+  "chemistry": {
+    "2084012229733638437": {
+      "summaryHash": "c5faf42cbbdc481d7cba676da04b2a8f15f792a11fb1fa8b70d139ed99100e3c",
+      "reviewed": true,
+      "people": [
+        "Franz-Ulrich Hartl",
+        "Arthur Horwich",
+        "森和俊",
+        "Peter Walter",
+        "Shankar Balasubramanian",
+        "David Klenerman",
+        "Pascal Mayer",
+        "Clifford Brangwynne",
+        "Anthony Hyman",
+        "Michael Rosen",
+        "Craig Crews",
+        "Raymond Deshaies",
+        "Nathanael Gray",
+        "Bonnie Bassler",
+        "Peter Greenberg",
+        "Jeffrey Gordon",
+        "Stephen Buchwald",
+        "John Hartwig"
+      ],
+      "directions": [
+        "蛋白质折叠与未折叠蛋白应答",
+        "下一代 DNA 测序",
+        "生物分子凝聚体",
+        "靶向蛋白降解",
+        "细菌群体感应",
+        "肠道微生物组",
+        "钯催化交叉偶联"
+      ],
+      "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+      "warnings": []
+    },
+    "2089599838560305817": {
+      "summaryHash": "055e5854f60b12f293aecfe92aeb7feb00623a67314a2370279d22ae9bbe5a62",
+      "reviewed": true,
+      "people": [
+        "David Allara",
+        "Ralph Nuzzo",
+        "Jacob Sagiv"
+      ],
+      "directions": [
+        "自组装单分子层"
+      ],
+      "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+      "warnings": []
+    },
+    "2084296242725663899": {
+      "summaryHash": "4e4f3c3520cbc296c7f6fca58fb1bac6ae36f7fb285b9bd1bba7727a7ed87cb5",
+      "reviewed": true,
+      "people": [
+        "Roberto Car",
+        "Michele Parrinello",
+        "Yoshitaka Tanimura",
+        "Krzysztof Matyjaszewski",
+        "Mitsuo Sawamoto"
+      ],
+      "directions": [
+        "Car–Parrinello 分子动力学",
+        "层级运动方程",
+        "可控自由基聚合"
+      ],
+      "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+      "warnings": []
+    },
+    "2084558026153931043": {
+      "summaryHash": "5a2b3ca2c2b57a88535ef81978f19b5ec9feb1f9fedd5ded4d79e103563df44a",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "明确表示今年不预测",
+      "warnings": []
+    },
+    "2083055746896478323": {
+      "summaryHash": "073953039c04cd74067f475c53f6041a5ad8f787ffd2c626f369ae08558d07f1",
+      "reviewed": true,
+      "people": [
+        "Peter Schultz",
+        "Stuart Schreiber"
+      ],
+      "directions": [
+        "化学生物学"
+      ],
+      "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+      "warnings": []
+    },
+    "2084775277981340202": {
+      "summaryHash": "1685d781238f9c6b8e964eaad8ad77013d61e67e57b05b2aa3133abcadf48d21",
+      "reviewed": true,
+      "people": [
+        "Roberto Car",
+        "Michele Parrinello"
+      ],
+      "directions": [
+        "Car–Parrinello 分子动力学"
+      ],
+      "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+      "warnings": []
+    },
+    "2088300759255343133": {
+      "summaryHash": "d96fece71f65ddf43b97e9dca616ceedcc0c84ad652cb1365dd833054a478dca",
+      "reviewed": true,
+      "people": [
+        "宫坂力"
+      ],
+      "directions": [
+        "钙钛矿太阳能电池"
+      ],
+      "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+      "warnings": []
+    },
+    "2085715579508470002": {
+      "summaryHash": "11f8dd7ca725756dccdb84c3d11de78988aa892f65543d7ed61686e543ab02ec",
+      "reviewed": true,
+      "people": [
+        "沈建仁",
+        "刘如谦"
+      ],
+      "directions": [
+        "光合作用",
+        "精准基因编辑"
+      ],
+      "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+      "warnings": []
+    },
+    "2089180421460333700": {
+      "summaryHash": "538cf143cbacf43f1a95959c5b3a6acb520b2ae1126d5d03bb38e7f6f439c9e2",
+      "reviewed": true,
+      "people": [
+        "刘如谦",
+        "David Allara",
+        "Ralph Nuzzo",
+        "Jacob Sagiv",
+        "Harry Gray",
+        "Jay Winkler"
+      ],
+      "directions": [
+        "精准基因编辑",
+        "自组装单分子层",
+        "生物电子转移"
+      ],
+      "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+      "warnings": []
+    },
+    "2089115093577607038": {
+      "summaryHash": "195c698570fa0f8c5646ab87ca762e04bbc448ab71a9cd500e62ef9b9227fd91",
+      "reviewed": true,
+      "people": [],
+      "directions": [
+        "OLED"
+      ],
+      "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+      "warnings": []
+    },
+    "2084856699308061881": {
+      "summaryHash": "993327447bb1636d2b6211d8c7afdc03da51061745338faa610e32e346d51e75",
+      "reviewed": true,
+      "people": [
+        "Takeshi Oka"
+      ],
+      "directions": [],
+      "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+      "warnings": []
+    },
+    "2083342696903717415": {
+      "summaryHash": "9167ab2e7209ac796239e7018c70f75fdea38d33861077e259dd1dd6a6ae92e9",
+      "reviewed": true,
+      "people": [],
+      "directions": [
+        "受阻路易斯酸碱对"
+      ],
+      "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+      "warnings": []
+    },
+    "2089006235660054889": {
+      "summaryHash": "a1c1ed441be8ff54b680be841e4590e95645910f946e98b39245ed2e611615e1",
+      "reviewed": true,
+      "people": [
+        "Franz-Ulrich Hartl"
+      ],
+      "directions": [
+        "蛋白质折叠与未折叠蛋白应答"
+      ],
+      "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+      "warnings": []
+    },
+    "2088638754936378523": {
+      "summaryHash": "f212c3b82f8cd3da6148b9bc3ca3a334b5b66ebb9c595cb4c20dd27701fa642f",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "玩笑，无具体候选",
+      "warnings": []
+    },
+    "2084975348555503084": {
+      "summaryHash": "f9b6e11ef0e12dde511831b760c1582a42ec276d2c6631f79d22024fbb8af10d",
+      "reviewed": true,
+      "people": [
+        "翁启惠"
+      ],
+      "directions": [],
+      "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+      "warnings": []
+    },
+    "2089522305433183025": {
+      "summaryHash": "6cb4a690e305d7ece85771cc3d7cfbae634974fc722e1da83fa68a464b42146f",
+      "reviewed": true,
+      "people": [
+        "Omar Yaghi",
+        "Susumu Kitagawa"
+      ],
+      "directions": [
+        "金属有机框架（MOF）"
+      ],
+      "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+      "warnings": [
+        "该回答将已获 2025 化学奖的 MOF 再预测为 2026。保留原始预测，标记事实错误。"
+      ]
+    }
+  },
+  "literature": {
+    "2088239503840375723": {
+      "summaryHash": "8f72b5513ddbda5f0b6d97bee4c8fdb7c122a39589eac5a8ade90d24fc7adfab",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "摘要截断，未显示具体预测",
+      "warnings": []
+    },
+    "2088898441862820372": {
+      "summaryHash": "d25231ae4625dd49f813ffea3613393f7c724b99a16dcdc71beac6bf972da6a6",
+      "reviewed": true,
+      "people": [
+        "燕妮·埃彭贝克",
+        "安妮·卡森"
+      ],
+      "directions": [],
+      "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+      "warnings": []
+    },
+    "2089770194013107342": {
+      "summaryHash": "6cfacbec60e98f3df43ac5021e100847cd6df8d47a3cd9745c693b71f9a52b61",
+      "reviewed": true,
+      "people": [
+        "残雪"
+      ],
+      "directions": [],
+      "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+      "warnings": []
+    },
+    "2088574818614625002": {
+      "summaryHash": "3c9b1d5e9dc284788c2d10ad3be2c94ffd3e948e7d8d3ffacaecfabcfcaf2418",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "转述赔率榜，未表达本人选择",
+      "warnings": []
+    },
+    "2089087876738953715": {
+      "summaryHash": "c972a981fb7ad16a601a44f7dd28d5367d297351e741e41224f621fb6ed3d15d",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "摘要截断，未显示具体预测",
+      "warnings": []
+    },
+    "2089074636675880860": {
+      "summaryHash": "44d609301ebe82894d69b4c93c4fedd42fa72e20e33930f59428c0fdb22e9a0d",
+      "reviewed": true,
+      "people": [
+        "米歇尔·维勒贝克",
+        "安妮·卡森"
+      ],
+      "directions": [],
+      "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+      "warnings": []
+    },
+    "2090085674334564563": {
+      "summaryHash": "0df87d22b0438213701dca7d72d132cd60f6d081bb532c11b1d2cd5abf1da05e",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "摘要截断，未显示具体预测",
+      "warnings": []
+    },
+    "2088523989580887423": {
+      "summaryHash": "52f03774df304a4f8194c67fc7876bb5db9ea73871f5b95d06a9baf76fe62de7",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "转述赔率与历史，未表达本人选择",
+      "warnings": []
+    },
+    "2089172447572518426": {
+      "summaryHash": "bc983d57b7f1d22b8528ed0510e9d6d9bd4be8e2c7930ca2642fa8d6f259bd08",
+      "reviewed": true,
+      "people": [
+        "安妮·卡森",
+        "残雪"
+      ],
+      "directions": [],
+      "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+      "warnings": []
+    },
+    "2088348020966532344": {
+      "summaryHash": "8274c46638659ce4176cad8efb5c2cd6fb30b80bf47fd1c7e0f276db7fbeea6d",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "否定东亚作家，不计正向预测",
+      "warnings": []
+    },
+    "2087493477730984190": {
+      "summaryHash": "f38dab873b803ae3df24ee264e3cb6c212a0b979fd8b63b26a023393594581d7",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "转述赔率榜，未表达本人选择",
+      "warnings": []
+    },
+    "2090097562305016300": {
+      "summaryHash": "88adcfd87a54678334331c4c670363c79d384123ba955b203e6483125fe3b45c",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "摘要仅表示对奖项类别的惊讶，未给出任何作者预测。",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-04T09:41:35.466886+00:00",
+      "evidence": [],
+      "auditFile": "86c70b1aff252bd947fd3ef7a5d3bc6699dead89e42531ab45b741894c972bae.json"
+    },
+    "2088715755768525029": {
+      "summaryHash": "e725d489c5bc81433d34bf8f674ba202980faa940a601951a28d0d140568f034",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "无文学奖预测",
+      "warnings": []
+    },
+    "2088697824670232676": {
+      "summaryHash": "a0c4c2ca27ef6d3268b117b42a991be9a7812fdffcc9d277206a2308dc879437",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "戏谑表述",
+      "warnings": []
+    },
+    "2089004408512290880": {
+      "summaryHash": "26c09ac64cc8e81a6a2a7b70e96130ffaf11b309ddbb990e9f1ff3e161018854",
+      "reviewed": true,
+      "people": [
+        "残雪",
+        "玛格丽特·阿特伍德"
+      ],
+      "directions": [],
+      "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+      "warnings": []
+    },
+    "2088687358724126545": {
+      "summaryHash": "2c60950dc756cbdfaef36c581fe7750fe9f09be0ea2e73a822016d47dc3d9fc0",
+      "reviewed": true,
+      "people": [
+        "莉迪亚·若热",
+        "米歇尔·德克雷策",
+        "燕妮·埃彭贝克",
+        "克里斯蒂娜·里韦拉·加尔萨",
+        "阿里·史密斯",
+        "德博拉·莱维",
+        "罗莎·蒙特罗",
+        "克里斯蒂娜·佩里·罗西",
+        "蕾切尔·卡斯克"
+      ],
+      "directions": [],
+      "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+      "warnings": []
+    },
+    "2088736454964950070": {
+      "summaryHash": "f3b8c8cbab8ff488941ab86de5587d611a62d2f1af1ea72293be63e605dc5c11",
+      "reviewed": true,
+      "people": [
+        "安妮·卡森"
+      ],
+      "directions": [],
+      "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+      "warnings": []
+    },
+    "2089392708926416791": {
+      "summaryHash": "4c9f1d350a7ad9f5b95d1d52dc58f1dd74ee1dfce8f3f6aa5fa102944f2ce99e",
+      "reviewed": true,
+      "people": [
+        "克里斯蒂娜·里韦拉·加尔萨"
+      ],
+      "directions": [],
+      "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+      "warnings": []
+    },
+    "2089269542379959533": {
+      "summaryHash": "64617542681ea5eecf018e052ccbd655b61f554e3f6eb4c9de1743bcc4e50ea6",
+      "reviewed": true,
+      "people": [
+        "安妮·卡森",
+        "玛格丽特·阿特伍德"
+      ],
+      "directions": [],
+      "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+      "warnings": []
+    },
+    "2088840004390990441": {
+      "summaryHash": "d4676e36f48dbbfa5e9c52237059720583cf6d4eb6fd4650042f732946b63358",
+      "reviewed": true,
+      "people": [
+        "托马斯·品钦"
+      ],
+      "directions": [],
+      "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+      "warnings": []
+    },
+    "2088734578324382572": {
+      "summaryHash": "6235e2f5ca46d5a2177dfe8a2cf553873fb10e090bbba0327a6cd96c6164033f",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "明确表示今年几率不高，不计正向预测",
+      "warnings": []
+    },
+    "2090105778371930028": {
+      "summaryHash": "483505a626253e73aa94259e3c83c059fface94e5c23e78c6d604542939b270d",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "摘要为赔率与评奖机制讨论，未显示本人明确预测；不计正向票",
+      "warnings": []
+    },
+    "2090110045350522968": {
+      "summaryHash": "3854a41a0f767a0bb3faa90a7bfbb5b4a8fbb39c7bed32aa1dfbf5eb1f5407a2",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "摘要仅转述非官方短名单和赔率榜中他人的预测与讨论热度，未给出作者本人对2026年文学奖的明确正向预测或希望获奖者。",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-04T08:18:56.421979+00:00",
+      "evidence": [],
+      "auditFile": "e37a0dbd57a12a3c695cb7426cb48bc81670ed13b7904533efb95cf2d2823a52.json"
+    }
+  },
+  "economics": {
+    "2084278284607547233": {
+      "summaryHash": "adc4b80af8ea86cc893bb096117feb2e26c9b60c64395894a8e4b95ff13b6e38",
+      "reviewed": true,
+      "people": [
+        "John List",
+        "Uri Gneezy"
+      ],
+      "directions": [
+        "实地实验"
+      ],
+      "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+      "warnings": []
+    },
+    "2085393738277327015": {
+      "summaryHash": "28119bf7fd268b2a9335e9988ee2c80378b8483c75f44db42c3f133036c7f117",
+      "reviewed": true,
+      "people": [
+        "Ernst Fehr",
+        "Matthew Rabin"
+      ],
+      "directions": [
+        "行为经济学"
+      ],
+      "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+      "warnings": []
+    },
+    "2088608657567114669": {
+      "summaryHash": "f7ada787884e094620b0d7f8a41b62a33f38beffd3b156f5be4847c4abe08410",
+      "reviewed": true,
+      "people": [
+        "Michael Woodford",
+        "Jordi Galí",
+        "Olivier Blanchard",
+        "Steven Berry",
+        "James Levinsohn",
+        "Ariel Pakes",
+        "Elhanan Helpman",
+        "Marc Melitz",
+        "Charles Manski"
+      ],
+      "directions": [
+        "新凯恩斯主义与货币政策",
+        "实证产业组织与 BLP",
+        "国际贸易与企业异质性",
+        "部分识别"
+      ],
+      "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+      "warnings": []
+    },
+    "2085963164382917914": {
+      "summaryHash": "4fe85e001d595496f88fa4c0f533dd18fb048199d205e55347159652f0dc6302",
+      "reviewed": true,
+      "people": [],
+      "directions": [
+        "城市经济学"
+      ],
+      "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+      "warnings": []
+    },
+    "2088244112268981889": {
+      "summaryHash": "960138585f30345eb7a71f93c53e1037bd54a7241ada1c75467d679c4c218be8",
+      "reviewed": true,
+      "people": [
+        "Steven Berry",
+        "James Levinsohn",
+        "Ariel Pakes",
+        "Michael Woodford",
+        "Susan Athey",
+        "Hal Varian",
+        "Gene Grossman",
+        "Elhanan Helpman",
+        "Marc Melitz",
+        "Colin Camerer",
+        "George Loewenstein",
+        "Matthew Rabin",
+        "Ernst Fehr",
+        "Thomas Piketty",
+        "Emmanuel Saez",
+        "Gabriel Zucman"
+      ],
+      "directions": [
+        "实证产业组织与 BLP",
+        "新凯恩斯主义与货币政策",
+        "数字经济与信息技术",
+        "国际贸易与企业异质性",
+        "行为经济学",
+        "收入与财富不平等"
+      ],
+      "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+      "warnings": []
+    },
+    "2088263981328815441": {
+      "summaryHash": "9f43cec6b1afd9b9b76ad4b15dc9c918d5466373038fa15110a0ae8b198cc987",
+      "reviewed": true,
+      "people": [],
+      "directions": [
+        "国际贸易与企业异质性"
+      ],
+      "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+      "warnings": []
+    },
+    "2088314152108431199": {
+      "summaryHash": "e588f92cefebd81ff8cae4ca3fb85a4c6b2f29c3f418c635dc519b17808f52d4",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "明确表示不打算猜，转述市场赔率",
+      "warnings": []
+    },
+    "2084088997517775139": {
+      "summaryHash": "d8d2c4fc1a1276261951718d2f15e720bc0326ee24aaf96fb3a7108d963e7518",
+      "reviewed": true,
+      "people": [
+        "Jonathan Eaton",
+        "Samuel Kortum",
+        "Marc Melitz"
+      ],
+      "directions": [
+        "国际贸易与企业异质性",
+        "信息经济学与博弈精炼"
+      ],
+      "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+      "warnings": []
+    },
+    "2084259117833647354": {
+      "summaryHash": "ff1a3e838765a15608ed630ab6b4008ac514aed1e0aa92f8c7dd0cb0f4cd0a9d",
+      "reviewed": true,
+      "people": [
+        "David Autor",
+        "Lawrence Katz",
+        "Ariel Pakes"
+      ],
+      "directions": [
+        "劳动经济学与技术变革",
+        "实证产业组织与 BLP"
+      ],
+      "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+      "warnings": []
+    },
+    "2088893227956954391": {
+      "summaryHash": "9869a05f172f918eb23e5fc5d072c1682d7a9d39a7e2da8c79a439a7d0646cb8",
+      "reviewed": true,
+      "people": [
+        "Susan Athey",
+        "Hal Varian"
+      ],
+      "directions": [
+        "数字经济与信息技术"
+      ],
+      "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+      "warnings": []
+    },
+    "2088830125060239654": {
+      "summaryHash": "95275089213798d9f1c542eff6b06f972673704cb8c9ab4346643444f0d9f825",
+      "reviewed": true,
+      "people": [
+        "Steven Berry",
+        "James Levinsohn",
+        "Ariel Pakes"
+      ],
+      "directions": [
+        "实证产业组织与 BLP"
+      ],
+      "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+      "warnings": []
+    },
+    "2089182335497457900": {
+      "summaryHash": "6a640bb3559446053c4971ba56b244864d50308d0cdb52f74238010886aab849",
+      "reviewed": true,
+      "people": [
+        "Michael Woodford",
+        "Susan Athey",
+        "Hal Varian",
+        "Sidney Winter"
+      ],
+      "directions": [
+        "新凯恩斯主义与货币政策",
+        "数字经济与信息技术"
+      ],
+      "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+      "warnings": []
+    },
+    "2088572328615605222": {
+      "summaryHash": "9f9f12b3c846dea1c72db7d491f894436e463f443e89644561bf1ca23fa6194b",
+      "reviewed": true,
+      "people": [
+        "Thomas Piketty",
+        "Emmanuel Saez",
+        "Sendhil Mullainathan",
+        "Gabriel Zucman",
+        "Raj Chetty"
+      ],
+      "directions": [
+        "收入与财富不平等"
+      ],
+      "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+      "warnings": []
+    },
+    "2088655124935843891": {
+      "summaryHash": "ceb3b28980ea7c363f9b8814d7a0da958ef99905705489ad20f5fe11696000f1",
+      "reviewed": true,
+      "people": [
+        "Susan Athey",
+        "Hal Varian"
+      ],
+      "directions": [
+        "数字经济与信息技术"
+      ],
+      "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+      "warnings": []
+    },
+    "2084339626202882224": {
+      "summaryHash": "7d76ceea911edb08ddc672ea64bd746bf07f0e34ee51998eb0fb6ebeaec603f2",
+      "reviewed": true,
+      "people": [
+        "Richard Blundell"
+      ],
+      "directions": [],
+      "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+      "warnings": []
+    },
+    "2087294981040093116": {
+      "summaryHash": "3119555b2a4ef19f65c4331f20d145a7f1fb01686a8825b507e92eceac10fe7f",
+      "reviewed": true,
+      "people": [
+        "林毅夫"
+      ],
+      "directions": [],
+      "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+      "warnings": []
+    },
+    "2088916659922911531": {
+      "summaryHash": "51dbe00014befba9e1c4f7ebbd19c93f18ccfc5f40ad587f575a68e6807c6a34",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "自荐方案，无可辨识候选",
+      "warnings": []
+    },
+    "2084356008068104569": {
+      "summaryHash": "2eaf9f86034c0c759865cac0982d263283e7b0df7580242b1455621b7aba7247",
+      "reviewed": true,
+      "people": [
+        "Matthew Jackson",
+        "Sanjeev Goyal",
+        "Yves Zenou",
+        "Emir Kamenica",
+        "Dirk Bergemann",
+        "Stephen Morris"
+      ],
+      "directions": [
+        "网络经济学",
+        "信息设计"
+      ],
+      "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+      "warnings": []
+    },
+    "2084487256132301455": {
+      "summaryHash": "4f1996288f141d6d24db33c268d0107eda37107a40ba006ec49b99e874525ed8",
+      "reviewed": true,
+      "people": [
+        "David Autor",
+        "Marc Melitz",
+        "Tim Besley",
+        "John List"
+      ],
+      "directions": [],
+      "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+      "warnings": []
+    },
+    "2084168021413832449": {
+      "summaryHash": "b4c76567ab34445cae2b03fa728382561c170bb6154d053d936f1627214c235b",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "讽刺表述，无具体候选",
+      "warnings": []
+    },
+    "2084232783656964380": {
+      "summaryHash": "bed191fc958f1cb2bcb00da49254e66461f8de3a61e9352a1dce9ad20b714ed1",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "宽泛趋势，未提出明确成果",
+      "warnings": []
+    },
+    "2088685490887303979": {
+      "summaryHash": "e742dd67db262bc30d508a6d9ba1cfedaa6f5ba22016b95ad994454a3a7e616f",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "戏谑表述",
+      "warnings": []
+    },
+    "2088240376444368321": {
+      "summaryHash": "02e7010b36395d450cbd8e4fe378867de2e1d989aad797fff4a3e5d94f4f62d7",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "未显示具体研究方向或候选",
+      "warnings": []
+    },
+    "2084243921903919492": {
+      "summaryHash": "0a03805f8c4c13720e17b26c7929f5f3fc7590976d9939832ca9e0f9813b3498",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "评论，无具体候选",
+      "warnings": []
+    },
+    "2084246536687448556": {
+      "summaryHash": "c1aab0774ac9d32630c2cea5234ece3f40fa9dd46bfb47c627102fb38f43bf49",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "评论，无具体候选",
+      "warnings": []
+    },
+    "2089072391817263078": {
+      "summaryHash": "b55065245660094729e1777ab311269b84e563b6abf3949d8a5c24213134b896",
+      "reviewed": true,
+      "people": [
+        "Thomas Piketty",
+        "Emmanuel Saez",
+        "Gabriel Zucman"
+      ],
+      "directions": [
+        "收入与财富不平等"
+      ],
+      "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+      "warnings": []
+    },
+    "2089378120222753653": {
+      "summaryHash": "a603fca458b0f8b1b08f5c2754b610ecb67940cc32c0e3307fcec47eef7abe7e",
+      "reviewed": true,
+      "people": [
+        "David Autor",
+        "Lawrence Katz"
+      ],
+      "directions": [
+        "劳动经济学与技术变革"
+      ],
+      "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+      "warnings": []
+    },
+    "2088989034861290920": {
+      "summaryHash": "da41d605b56428764b2f6b688f29231a1413850c25815f3b916d650c80f3819c",
+      "reviewed": true,
+      "people": [
+        "Susan Athey",
+        "Victor Chernozhukov",
+        "Whitney Newey",
+        "Tim Besley"
+      ],
+      "directions": [
+        "因果推断与机器学习",
+        "政治经济学"
+      ],
+      "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+      "warnings": []
+    },
+    "2089747236402087847": {
+      "summaryHash": "e05f3b18e2d7215dce5f4191cd02abf1c5b9cb6c47407373f2e18acff64246a6",
+      "reviewed": true,
+      "people": [
+        "David Autor"
+      ],
+      "directions": [
+        "劳动经济学与技术变革"
+      ],
+      "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+      "warnings": []
+    },
+    "2089626055946548811": {
+      "summaryHash": "6c0f6bad66286c866b725f9859e822ccbbea1f0c64ea20d347547a7a933720a4",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "表情，无预测",
+      "warnings": []
+    },
+    "2089555070199374081": {
+      "summaryHash": "cda023ebcb95291d5c211c8461677b66132b1821aa9160fd036f10a0fdf91b1b",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "否定名单，不计正向预测",
+      "warnings": []
+    },
+    "2089424168676767508": {
+      "summaryHash": "fa9b80958d80a4b9704538ab235db610adf63b8d8d697e2657c787380302b251",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "语境不明，待核实",
+      "warnings": []
+    },
+    "2086134210935386224": {
+      "summaryHash": "07710b6537cda7ea07fc4156c366a28302a851000a2feee382329818cc1dd8e7",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "明确拒绝预测",
+      "warnings": []
+    },
+    "2085151622284436058": {
+      "summaryHash": "4aa8efc0a62a464927e3d399627d1d23a07a53f8434e87fdedf75811e739641b",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "语境不明，待核实",
+      "warnings": []
+    },
+    "2084281444365494253": {
+      "summaryHash": "b697da70c216281f8ecda7d9211d6b9690ead8095bd07957a78acaf285cede68",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "戏谑表述",
+      "warnings": []
+    }
+  }
+}

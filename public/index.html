@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="description" content="2026 诺贝尔奖巡礼活动的延续之作：汇集知友对 2026 年五大奖项的预测，逐条复核，来源可追溯。">
+<link rel="icon" href="./favicon.svg" type="image/svg+xml"><title>2026 知乎诺奖预测榜 · 2026 诺贝尔奖巡礼</title><link rel="stylesheet" href="./style.css">
+</head>
+<body>
+<header class="header"><div class="header-inner"><a class="brand" href="./" aria-label="知乎诺奖预测榜首页"><span class="zhihu-wordmark">知乎</span><span class="brand-divider" aria-hidden="true"></span><span class="brand-title">诺奖预测榜<span class="brand-sub">2026 诺贝尔奖巡礼</span></span></a><nav aria-label="主导航"><button class="nav-button active" id="leader-nav">预测榜单</button><button class="nav-button" id="audit-nav">数据与来源</button><button class="nav-button" id="method-nav">统计方法 <span>↗</span></button></nav><a class="github-link" href="https://www.zhihu.com/roundtable/2026nobel" target="_blank" rel="noopener noreferrer">回到知乎讨论 <span aria-hidden="true">↗</span></a></div></header>
+<main>
+<section class="hero"><div class="activity-line"><span class="activity-badge">2026 诺贝尔奖巡礼</span><span class="activity-caption">活动延续之作 <span aria-hidden="true">/</span> 2026</span></div><div class="hero-title"><h1>知乎诺奖预测榜<span class="title-dot">.</span></h1><span class="edition">2026</span></div><div class="hero-copy"><p class="hero-question">谁会接到诺贝尔的电话？听听知友怎么说。</p><p>延续知乎「2026 诺贝尔奖巡礼」的讨论，汇集知友对五大奖项的预测。<br>把分散的回答整理为热度榜，每一票都能回到原始回答。</p></div></section>
+<section class="stats" aria-label="数据概览" id="stats"></section>
+<div class="scope-note"><span class="note-icon">i</span><p><strong>当前按独立回答计票</strong> · 官方接口未提供作者标识，无法确认独立用户人数。摘要可能截断，榜单仅代表已获取并复核的样本。</p><button id="scope-method">了解口径 ↗</button></div>
+<section class="board" aria-labelledby="board-title"><div class="category-tabs" role="tablist" aria-label="奖项" id="categories"></div><div class="board-grid"><div class="ranking-main"><div class="section-heading"><div><div class="eyebrow small" id="category-en"></div><h2 id="board-title"></h2></div><a id="question-link" target="_blank" rel="noopener noreferrer">查看原问题 ↗</a></div><div class="toolbar"><div class="segmented" aria-label="榜单类型"><button id="people-mode" class="selected">候选人榜</button><button id="directions-mode">成果方向榜</button></div><label class="search"><span aria-hidden="true">⌕</span><input id="search" placeholder="搜索候选人…" aria-label="搜索当前榜单"><kbd>/</kbd></label></div><div class="filter-row"><span id="result-meta"></span><label><input id="exclude-ai" type="checkbox"> 排除明确 AI 辅助回答</label></div><div id="table-container"></div><div class="table-foot"><span>同票并列 · 多选分别计票</span><button id="export-button">↓ 导出 CSV</button></div></div><aside id="insights"></aside></div></section>
+<footer><div><span class="footer-brand"><span class="footer-zhihu">知乎</span> 诺奖预测榜 / 2026</span><p>知乎「2026 诺贝尔奖巡礼」活动延续之作。</p></div><p>知友的预测，汇成一张榜 · 非官方提名名单<br>热度反映样本共识，不代表获奖概率。</p><a href="./data.json" download="nobel-forecast-2026.json">下载完整数据 ↗</a></footer>
+</main>
+<dialog id="method-dialog" aria-labelledby="method-title"><div class="dialog-head"><div><div class="eyebrow small">TRANSPARENT BY DESIGN</div><h2 id="method-title">每一票，从哪里来？</h2></div><button id="close-method" aria-label="关闭统计方法">×</button></div><p class="dialog-intro">先读预测，再计热度。初始样本由人工复核；新增及变更摘要由知乎直答 AI 复核，程序校验原文依据。无法确定的内容留待人工复核。</p><ol id="method-list"></ol><div class="dialog-note">当前无法核验作者身份，因此以独立回答作为预测票的统计单位。严格的“预测人数榜”需要补充稳定作者 ID 后再去重。</div></dialog>
+<div id="toast" role="status"></div>
+<script type="module" src="./app.js"></script>
+</body></html>

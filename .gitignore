@@ -1,0 +1,9 @@
+node_modules/
+__pycache__/
+.playwright-cli/
+.DS_Store
+.env
+.env.*
+.npmrc
+*.pem
+output/

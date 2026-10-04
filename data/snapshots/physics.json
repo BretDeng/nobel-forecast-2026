@@ -1,0 +1,418 @@
+{
+  "fetchedAt": "2026-10-04T09:41:28.093540+00:00",
+  "pages": [
+    {
+      "Code": 0,
+      "Message": "success",
+      "Data": {
+        "Items": [
+          {
+            "ContentType": "answer",
+            "ContentToken": "2083714937596258134",
+            "Url": "https://www.zhihu.com/question/2081708619905745132/answer/2083714937596258134",
+            "Summary": "26.10.3更新： 突然发现知乎有压中给奖励的活动，那也来抽抽奖吧。 首先是分数量子霍尔体系中的复合费米子与任意子，是Jainendra Jain、Moty Heiblum、James Eisensteinsvg这三位，表彰因发现并实验研究分数量子霍尔体系中的分数化准粒子及其任意子统计性质，以区分1998年的分数量子霍尔效应。首先想到这个领域是因为任意子啊编织啊量子计算之类的概念热度又有所上升，并且疑似在转角/菱方/Bernal堆叠的二维材料里能直接看到。如…"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2083334221356085859",
+            "Url": "https://www.zhihu.com/question/2081708619905745132/answer/2083334221356085859",
+            "Summary": "10.2 定稿 关于 2026 年诺贝尔物理学奖得主，我的预测名单为： 0、Fujio Masuoka、Stuart Parkin、Hideo Ohno 1、Sir Michael V. Berry、Yakir Aharonov，Bertrand Halperin 2、Hidetoshi Katori、Jun Ye 3、Pablo Jarillo-Herrero、Allan H. MacDonald + 神秘第三人（Sumio Iijima） 4、Sajeev John，Eli Yablonovitch、Susumu Noda 5、Masato Sagawa 6、David N. Payne，Emmanuel Desurvire，Masataka Nakazawa 7、Hideo Hoson…"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2083952994312271055",
+            "Url": "https://www.zhihu.com/question/2081708619905745132/answer/2083952994312271055",
+            "Summary": "最近几年大伙诺奖预测屡屡翻车，其根本原因是诺奖颁发明显出现了蹭热度的情况。2024年蹭AI，2025年蹭量子计算（顺便还用宏观量子效应蹭了一个量子力学100周年），这两个领域并不能说已经完全到了产出大结果的程度，但却一定是这两年最火热的领域。 如果按照这个逻辑，我们过去预测Berry或者麦当劳的分析逻辑可能就不太成立了。首先几何相位拿奖的阻力一方面在于已经形成了惯性，一旦开始陪跑往往就代表在委员会眼中你不是首选，…"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2083958483758626385",
+            "Url": "https://www.zhihu.com/question/2081708619905745132/answer/2083958483758626385",
+            "Summary": "其他答主都说了很多可能的获奖人，所以我这里也没啥可说的了。。。其实看了这么多年的物理奖预测，真正能预测对的也不多，很多时候就是看哪些领域最近比较火，或者哪些人论文被引用次数多，那其实就没有什么神秘感了。 反正对我而言，比较熟悉的领域的物理学家大概率没有多少获奖的可能，像做Kondo problem和heavy fermion的几位欧洲大佬岁数都不小了，能不能再撑几年都不好说。做spin liquid的人群倒是很多，但这个东西实验上始…"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2088761110715544611",
+            "Url": "https://www.zhihu.com/question/2081708619905745132/answer/2088761110715544611",
+            "Summary": "先写预测结果： 获奖人：香取秀俊（Hidetoshi Katori）和叶军（Jun Ye）；获奖成果：光晶格原子钟压这个纯粹因为这个工作跟我所在的地球物理行业有联系。 地球物理勘探里的传统重力仪主要测重力场的变化，而超高精度原子钟可以直接测重力势差。 过去将近60年，一秒这个时间一直由铯-133原子定义。 而香取秀俊和叶军造出了比现在定义一秒的铯原子钟更精密的钟。 而且，这个工作自从2001年提出，已经发展了二十多年，科学意义也已…"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2084172819190097729",
+            "Url": "https://www.zhihu.com/question/2081708619905745132/answer/2084172819190097729",
+            "Summary": "虽然我是做凝聚态物理的，但我不认为凝聚态物理领域除了AB两位老爷子，还有谁有资格竞争最近几届诺奖。 诺奖最近几年一直关注新领域的开创，其颁奖逻辑早就不在于四大传统领域的轮流端水了。我斗胆猜测很有可能还是倾向于颁发给新领域比如复杂系统方面的开创者，赶紧在历史地位上占坑。这背后是整个物理学范式的变化。即使哪天诺贝尔物理学奖颁给生物物理学、经济物理学或社会物理学什么的我也丝毫不奇怪。而对于复杂性科学方向…"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2083547815687484182",
+            "Url": "https://www.zhihu.com/question/2081708619905745132/answer/2083547815687484182",
+            "Summary": "最近五年或者更加“遥远”的十年，瑞典人已经开启了一段新的评价模式搭建。 毫无疑问，千禧年以来的一些传统的（四年）周期率正在（或者说已经）逐步被改变…这当然可以部分归结为大科学体系以及计算机智能辅助的新科研范式的逐步兴起。但是更加切实的原因同样可能是瑞典人试图把这一类重大的变革时间节点视为一次又一次重要押注时机。我们不妨回望往事种种，可以清晰瞥见诺奖的早期成功至少源于两者。其一自然是丰厚奖金（1900…"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2089404073430738133",
+            "Url": "https://www.zhihu.com/question/2081708619905745132/answer/2089404073430738133",
+            "Summary": "“不出所料”这一票，我押光晶格钟的发明与发展,人选是叶军（Jun Ye）和香取秀俊（Hidetoshi Katori）。有个事实特别像段子，在地球表面附近，其他条件相同，位置较高的钟会比位置较低的钟走得稍快一点。 这个差别平时完全感觉不到的…但到了2022年，叶军团队在一个毫米尺度的锶原子样品内部，比较上下不同位置的计时频率，测出与广义相对论预言一致的引力红移。 所以，所谓的“高”和“低”，其实并不用科学家带着钟去爬山，…"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2088883499566633211",
+            "Url": "https://www.zhihu.com/question/2081708619905745132/answer/2088883499566633211",
+            "Summary": "蒸馏下 @拉格朗日的忧郁 ，我蒙金刚石-NV色心。个人以为，应用真的比较多，开创了很多新方向，有不少已经跑出一点苗头了，未来还会有更多进益。NV色心（nitrogen-vacancy center），简单来说，就是在金刚石晶体中引入缺陷，从而调控和探测量子自旋态。调控可以通过激光、微波共振等手段实现。它可以在纳米尺度上完成磁学测量。 [图片] NV色心和原子力显微镜的结合，是相对成熟的产品，大气下的已经有商品化产品。超高真空（UHV）下，江…"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2085123034977939558",
+            "Url": "https://www.zhihu.com/question/2081708619905745132/answer/2085123034977939558",
+            "Summary": "算上今年已经是我连续第三年在诺奖预测相关回答下写东西了。说实话我觉得预测诺奖这件事情本身还是挺没谱的，毕竟目前来看知乎上还没有正儿八经真正参与过诺奖评选流程的用户现身说法，能左右诺奖结果的诺贝尔委员会内部人士就更不用指望了。即便真的存在这样的知乎用户，他们也不可能主动透露任何有价值的信息。 你我芸芸众生，不妨把预测诺奖这个事情看作是了解「这个世界上最顶级的一帮人类都干过些什么」的一个契机。诺贝尔…"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2083377107514798553",
+            "Url": "https://www.zhihu.com/question/2081708619905745132/answer/2083377107514798553",
+            "Summary": "1. Twistronics / 魔角石墨烯 候选人：Pablo Jarillo-Herrero、Allan MacDonald，第三人可能是 Rafi Bistritzer 或 Eva Andrei。MacDonald 和 Jarillo-Herrero 先后拿到 Wolf奖、BBVA Frontiers of Knowledge Basic Sciences，2026 年 Kavli 纳米科学奖又把 twistronics 作为一个完整领域来表彰。 Rafi Bistritzer：和 Allan MacDonald 在 2011 年提出著名的 Bistritzer–MacDonald model，算出 twisted bilayer graphene 在大约…"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2083617705861583236",
+            "Url": "https://www.zhihu.com/question/2081708619905745132/answer/2083617705861583236",
+            "Summary": "我是等离子体物理的，此领域获奖机会很小，但我还是想说一个（以后还会一直说）：等离子体尾场电子加速plasma wakefield acceleration，包括日裔美国人T. Tajima（最早提出者之一）、台湾籍陈丕燊Pisin Chen（早期理论创建者之一, PWFA提出者）、欧洲人Wim Leemans（实验领域大牛）。 除了等离子体，我还希望发现AB效应的那个以色列老爷子能拿奖。"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2081791479463277145",
+            "Url": "https://www.zhihu.com/question/2081708619905745132/answer/2081791479463277145",
+            "Summary": "詹裕农（Yuh‑Nung Jan，1949年离开大陆） 1949年前随家人迁居台湾；当选美国国家科学院院士；神经生物学，钾离子通道奠基人，和妻子叶公杼同为院士。 他发现Numb蛋白，揭示神经细胞不对称分裂、细胞命运决定的关键机制，这套机制同样适用于脊椎动物神经系统；建立筛选基因的实验体系，解析神经元树突生长、分支调控机理 叶公杼（Lily Jan，1949年离开大陆） 1949年前随家人迁居台湾；美国国家科学院院士；国际著名神经生物学家…"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2089107528739246239",
+            "Url": "https://www.zhihu.com/question/2081708619905745132/answer/2089107528739246239",
+            "Summary": "2026 最新诺贝尔奖预测！哪位科学家会接到诺贝尔奖的电话？ 国庆假期到了，小伙伴们是不是已经人在路上了？ [图片] 墨子沙龙的假期安排里，也有三件大事：蹲诺奖、蹲诺奖，还是蹲诺奖。 10月5日至7日，诺贝尔生理学或医学奖、物理学奖和化学奖将接连揭晓，我们也会连续直播三场，陪大家一起等结果。 不过直播归直播，今天这篇只猜一道题：2026年诺贝尔物理学奖，会颁给哪位量子科学家？ 电话还没响，线索倒是可以先找起来。第一站，就…"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2089318299809194871",
+            "Url": "https://www.zhihu.com/question/2081708619905745132/answer/2089318299809194871",
+            "Summary": "2026年诺贝尔物理学奖，我预测三组人。 第一组是情怀： 几何相位：Yakir Aharonov、Michael Berry理由我就不说了，学过量子力学的都明白。 第二组是我觉得可能性最大的： 量子退火计算：Tadashi Kadowaki、Hidetoshi Nishimori、Edward Farhi最近人工智能非常热，所以我会压量子计算得奖，特别是靠近玻尔兹曼机的量子计算。目前来看，只有量子退火方向的D-Wave量子计算机在工业上实现了商用化的量子计算。量子退火计算的提出者是…"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2083519423214895770",
+            "Url": "https://www.zhihu.com/question/2081708619905745132/answer/2083519423214895770",
+            "Summary": "趁着Berry和Aharonov都在赶紧发吧，非要拖到给不出去的时候吗"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2089178150047586062",
+            "Url": "https://www.zhihu.com/question/2081708619905745132/answer/2089178150047586062",
+            "Summary": "照例参加赛博预测。我这里列出我最终确定的预测人选： 薛其坤，John Pendry、David Smith，安达千波矢、Stephen Forrest、Mark Thompson 请官方忽略其他人名。一下是ChatGPT的报告： 如果只押一个名字，我会押薛其坤；如果押一个方向，我更看好凝聚态物理。 不过，这是低置信度的主观预测，不代表他已被确认提名，更不是官方消息。截至 2026年10月2日，今年物理学奖尚未揭晓；官方公布时间 是 10月6日，北京时间最早17:45。结合今…"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2090042157340038010",
+            "Url": "https://www.zhihu.com/question/2081708619905745132/answer/2090042157340038010",
+            "Summary": "2026-10-04 2023 年阿秒激光获奖，表彰的是人类捕捉电子运动的实验极限。2024 年，霍普菲尔德与辛顿因人工神经网络的基础性发现折桂，标志着 AI 从工具升格为发现自然规律的新范式[1]。2025 年，宏观量子隧穿与能量量子化获奖，量子信息领域刚刚得到确认。 诺奖委员会正越来越青睐那些“已被实验验证且正在重塑技术版图”的成果，纯粹数学推导或尚未落地的理论预言获奖难度日益增加。循此脉络，2026 年的奖项大概率落在两个方向…"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2086930764889843362",
+            "Url": "https://www.zhihu.com/question/2081708619905745132/answer/2086930764889843362",
+            "Summary": "AB效应。 物理学界已经没有必须发奖、还在世的重量级成果。AB效应算是目前未拿奖里面最重量级的。"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2084985363399959285",
+            "Url": "https://www.zhihu.com/question/2081708619905745132/answer/2084985363399959285",
+            "Summary": "现在的诺贝尔物理学奖，是在一堆烂苹果里找一个烂的程度最轻的苹果。"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2083474238879671977",
+            "Url": "https://www.zhihu.com/question/2081708619905745132/answer/2083474238879671977",
+            "Summary": "我认为今年是凝聚态年。 所以主要预测应该是这三大佬 Pablo Jarillo-Herrero和Allan MacDonald、Rafi Bistritzer，表彰他们在魔角石墨烯领域的贡献。 剩下的一些我认为概率不大但是还是存在的预测也列一下 1.Federico Capasso和Susumu Noda在激光器领域做出杰出贡献 2.Martin Rees和Roy Kerr和Alessandra Buonanno在天体物理学领域做出杰出贡献。 3.Alexei Kitaev，David Deutsch，Charles Bennett在量子计算方向做出杰出贡献 4.…"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2082461018953872529",
+            "Url": "https://www.zhihu.com/question/2081708619905745132/answer/2082461018953872529",
+            "Summary": "Yoshinori Tokura，Hideo Hosono，Jun Akimitsu授奖理由：对于新型超导材料与强关联电子氧化物的开创性发现，拓展凝聚态物理边界，为能源、磁体与电子器件开辟新方向"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2088043224178997139",
+            "Url": "https://www.zhihu.com/question/2081708619905745132/answer/2088043224178997139",
+            "Summary": "10 月 6 日，北京时间下午 5 点 45 分，瑞典皇家科学院会念出三个名字。 离现在还有 8 天。这 8 天里中文互联网上会冒出几十份预测名单，内容大同小异，全是「我看好谁」。我这份不太一样，我想先给你一张概率表，这才是这类问题的正确输出格式。 最可能的落点是凝聚态里的拓扑物态与量子霍尔家族，我给 30%。族内单点，薛其坤 12%。另外两个值得单独押的是 OLED 三人组 13.2%，和 Kitaev 11.3%。 但如果你只记一句话，请记这句…"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2083874911551076294",
+            "Url": "https://www.zhihu.com/question/2081708619905745132/answer/2083874911551076294",
+            "Summary": "注意到已经多年没有发给凝聚态领域。 近一年没看到什么爆炸性的不得不发的进展（比如当年的LIGO），所以候选人列表里传统意义上的物理学家大概会跟去年差不多，无非转角/铁基超导/自旋量子霍尔/AB效应/拓扑/量子计算等等，最大的变量应该还是来自AI。高性能存储可能是一个方向，其他回答里也有人提到过，大概会给Dennard、Masuoka和Parkin三位。 但是！做预测就是要敢于下判断！AI时代最大的热门就是AI，谁说大模型不是More is d…"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2082414191214965524",
+            "Url": "https://www.zhihu.com/question/2081708619905745132/answer/2082414191214965524",
+            "Summary": "今年应该是凝聚态物理，技术发明方向， 我看好与Ai有关的技术，理论前年给了，今年可能给技术，特别是存储方面的！ 我看日本今年风头好，闪存NAND的舛冈富士雄，不排除暴大冷门。还有光通信的中泽正隆，都是Ai时代最重要基础技术。"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2086039149627364037",
+            "Url": "https://www.zhihu.com/question/2081708619905745132/answer/2086039149627364037",
+            "Summary": "谁能得奖不好预测，谁暂时没戏倒是比较肯定。 中文世界中呼声很高的薛老师，潘老师，王老师这次看起来希望很小。 知乎评论区中预演了无数次诺奖的炼丹者，如洗老师，呆院士，看起来离瑞典的距离不是靠近而是更远了。 更新一下预测，直接给出结果。 twistronics（魔角石墨烯）：它同时拿到了2020 Wolf物理学奖、2024 Clarivate Physics Citation Laureates、以及刚刚公布的2026 Kavli纳米科学奖。尤其2026 Kavli明确把 Andrei、Ja…"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2082054482687538064",
+            "Url": "https://www.zhihu.com/question/2081708619905745132/answer/2082054482687538064",
+            "Summary": "这个物理学奖首先不是颁给谁，而是在那些发现发明的项目里选，最后才是项目研发人来领。"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2084780573885740150",
+            "Url": "https://www.zhihu.com/question/2081708619905745132/answer/2084780573885740150",
+            "Summary": "我的预测是杨建磊，仅代表我的个人观点。 [图片]"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2082170946073511453",
+            "Url": "https://www.zhihu.com/question/2081708619905745132/answer/2082170946073511453",
+            "Summary": "当然是中国民间科学家、果壳星旅游者、五百年一出的哲人、盖倒爱因斯坦的超级物理大师、抖音物理学第一人张详前了"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2089344229990572173",
+            "Url": "https://www.zhihu.com/question/2081708619905745132/answer/2089344229990572173",
+            "Summary": "预测 2026 年诺贝尔物理学奖：方法、赔率和三个凝聚态候选实际上，\"预测诺奖得主\"在物理圈里是个公开的秘密游戏：提名名单保密 50 年，委员会关起门来说了什么，这辈子都不会有人告诉你。所以任何预测本质上都是娱乐——但娱乐和瞎猜是两回事。过去二十年里，人们还真总结出了几套管用的方法，每年十月初拿出来用一遍，居然偶尔能中。 （\"偶尔\"是重点。）今年物理学奖 10 月 6 日（周二）公布，北京时间下午 5 点 45 分起（11:45…"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2083757224137070144",
+            "Url": "https://www.zhihu.com/question/2081708619905745132/answer/2083757224137070144",
+            "Summary": "说个暴论，当年石墨烯拿诺奖，就已经是个现在回头看莫名其妙的事情了。"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2089228650738618368",
+            "Url": "https://www.zhihu.com/question/2081708619905745132/answer/2089228650738618368",
+            "Summary": "今年沃尔夫奖给了叶军和Immanuel Bloch，虽然这两个方向有点差距，一个做精密测量一个做量子模拟，但说不定其中一个就要拿诺奖了..."
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2085328806546614126",
+            "Url": "https://www.zhihu.com/question/2081708619905745132/answer/2085328806546614126",
+            "Summary": "在可观测宇宙中，基于历史常识和现代社会运行逻辑，依据科学发展规律以及社会运动趋势，可以谨慎且大胆地做出如下负面清单预测：没有中国人（华侨、华裔，包含港澳台）。"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2083511440170808094",
+            "Url": "https://www.zhihu.com/question/2081708619905745132/answer/2083511440170808094",
+            "Summary": "用麦方程统一物理界，能行吗？ #张朝阳[超话]# 标题：#完善麦克斯韦方程组，统一微观与宏观物理# 麦克斯韦方程组有缺陷，这一点其实很隐蔽，但逻辑一旦理清，你会发现物理学底层能打通。 我的逻辑是这样的： 1. 静电场其实是“波的平均值” 麦方程把静电场写成类似引力的静态场，是错的。把静电场改成驻波的时间平均值，实验测量结果完全不变，依然符合所有宏观静电实验。而且它揭示了本质：静电场本身就是电磁波。 2. 德布罗意…"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2082055090668679524",
+            "Url": "https://www.zhihu.com/question/2081708619905745132/answer/2082055090668679524",
+            "Summary": "这玩意不难拿，这世上需要解决的重大实际问题很多，实事求是的随便解决几件就行。比如把工业生产集中在秋冬两季，就能让冬季更暖一点，夏季更凉一点。而春夏两季可以让工人广范植绿，充份让绿植吸收光能，固碳，充氧，储水，遮阳，蒸腾散热。这TM就是大气空调。"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2084763356947298189",
+            "Url": "https://www.zhihu.com/question/2081708619905745132/answer/2084763356947298189",
+            "Summary": "截至 2026 年 9 月 19 日，物理学奖尚未公布；正式结果将在 2026 年 10 月 7 日公布。(nobelprize.org )我的个人预测排序如下,因为经过慎重的考察之后，我觉得可能的方向有以下几个,不过说实话,伴随着现代物理学的发展，近些年来的重大突破已经非常少了,而物理学诺贝尔奖近几年的颁奖又不是特别的规律。 因此,基于个人的一些观点，我给出以下几个候选。 最可能人选：薛其坤理由：这是一个定义清晰、实验验证明确的宏观拓扑量子效…clarivate.com )我的主预测：薛其坤获奖。"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2089143162719696431",
+            "Url": "https://www.zhihu.com/question/2081708619905745132/answer/2089143162719696431",
+            "Summary": "我们所里有做物理学哲学的朋友，国庆前约饭，聊了聊，我决定把他的预测结果作为排除项，因为他平时抽卡太非了，补贴全拿去抽原神了，因此我决定稳妥一些： 我预测获奖人选： 英国理论物理学家迈克尔·贝里（Michael Berry）。预测预测获奖成果： 揭示量子系统中的几何相位，即“贝里相位”，建立理解量子演化及物质几何性质的重要理论。我选贝里，主要是因为他的工作满足了一个很有分量的条件， 一个最初看起来相当抽象的理论发…"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2086596323340563662",
+            "Url": "https://www.zhihu.com/question/2081708619905745132/answer/2086596323340563662",
+            "Summary": "我预测可能会给超冷原子量子模拟。 马普所的所长Bloch，或者是做光晶格钟的叶军和香取秀俊。"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2083474025502789770",
+            "Url": "https://www.zhihu.com/question/2081708619905745132/answer/2083474025502789770",
+            "Summary": "我的预测是杨建磊高温超导与低温超导的统一机理 [图片] [图片] 无论是低温超导，还是高温超导，其本质都是电子强关联导致的。"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2086797950701913759",
+            "Url": "https://www.zhihu.com/question/2081708619905745132/answer/2086797950701913759",
+            "Summary": "第零組“年年陪跑組”：量子拓撲與幾何相位（Aharonov–Bohm Effect & Berry Phase） 獲獎者：Yakir Aharonov, Sir Michael V. Berry --- 第一組：超材料與負折射率（Metamaterials & Negative Refraction） 獲獎者：Sir John Pendry, David R. Smith 如果打算湊滿三人的第三人選擇： Federico Capasso, Andrea Alù --- 第三組：宇宙大尺度結構與冷暗物質（Large-Scale Structure & Cold Dark Matter） 獲獎者：Carlos Frenk, S…"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2085681634855204319",
+            "Url": "https://www.zhihu.com/question/2081708619905745132/answer/2085681634855204319",
+            "Summary": "2025年全球唯一正确预测: https://mp.weixin.qq.com/s/Mc8O6xDpfqWNNMXbzoRlXw"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2089591354330461736",
+            "Url": "https://www.zhihu.com/question/2081708619905745132/answer/2089591354330461736",
+            "Summary": "额，又来偷，又来骗，又来搞是吧，还有什么生医、化学，以及人文社科这些的…以及这些答案揭晓非常实质见效反映快的问题，可以快速过滤一切低质低级等等低低低性质的扯淡…"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2089295324380714018",
+            "Url": "https://www.zhihu.com/question/2081708619905745132/answer/2089295324380714018",
+            "Summary": "Sajeev John，Eli Yablonovitch。 光子晶体没拿奖以前我每年都看好这两位。"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2089288004070387792",
+            "Url": "https://www.zhihu.com/question/2081708619905745132/answer/2089288004070387792",
+            "Summary": "张翔前，解决了爱因斯坦都未能解决的统一场论 雷绍武，提出运动力理论 杨建磊，提出粒子力学和盘古方程。 手动狗头"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2089669867985166779",
+            "Url": "https://www.zhihu.com/question/2081708619905745132/answer/2089669867985166779",
+            "Summary": "薛其坤呼声最高，也是最有机会获得2026年诺贝尔物理学奖。 ‌解决了一个百年难题，让世人知晓了薛其坤。我也因为量子反常霍尔效应认识薛其坤，在量子学里，薛其坤就是光一样的存在。 [图片] 薛其坤让“中国实验室里第一次发表出的诺贝尔奖级的物理学论文”，他带领团队在2012年底，‌首次在实验上观测到了量子反常霍尔效应‌。这是中国科学家首次在量子反常霍尔效应领域取得突破，这种突破振奋人心。量子反常霍尔效应让电子能在材料里…"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2090068020794241577",
+            "Url": "https://www.zhihu.com/question/2081708619905745132/answer/2090068020794241577",
+            "Summary": "Hidetoshi Katori、Jun Ye：光晶格原子钟 香取秀俊提出光晶格钟方案；叶军团队建造并持续改进锶光晶格钟，真空紫外光频梳激发钍核跃迁。推动国际计量界讨论用光学频标重新定义“秒”。 与其说是预测，倒不如说希望把诺奖颁给与自己研究更近的大领域。"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2089860346659987819",
+            "Url": "https://www.zhihu.com/question/2081708619905745132/answer/2089860346659987819",
+            "Summary": "🤔预测一个冷门，比如地球物理学，空间物理学 这种。"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2089401407313012136",
+            "Url": "https://www.zhihu.com/question/2081708619905745132/answer/2089401407313012136",
+            "Summary": "官方预测问题刷到这问题，作为中国人感觉中国人中最接近这个奖的是薛其坤。 为何提薛其坤？ 不仅因为他中国人。 还有就是他发现了量子反常霍尔效应。 高中物理课学了普通霍尔效应，简单提了量子力学。 但是他这个，要复杂多得多。 [图片] [图片] [图片] 而他现在，已经获得了引文桂冠奖。 距离诺贝尔奖算是中国人中最近的一个。 还有我忘说了一个问题，数学界的诺贝尔奖这次给了知乎知友。 其实说句实话，我自己肯定和知乎平均水平差距非常大，我很…"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2087985314631512389",
+            "Url": "https://www.zhihu.com/question/2081708619905745132/answer/2087985314631512389",
+            "Summary": "Kitaev或者Berry"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2085715868017750349",
+            "Url": "https://www.zhihu.com/question/2081708619905745132/answer/2085715868017750349",
+            "Summary": "大家说了那么多热门的，我来猜几个冷门的吧 激光尾场加速自由电子激光🌝"
+          }
+        ],
+        "Paging": {
+          "IsEnd": false,
+          "NextOffset": 50
+        }
+      }
+    },
+    {
+      "Code": 0,
+      "Message": "success",
+      "Data": {
+        "Items": [
+          {
+            "ContentType": "answer",
+            "ContentToken": "2084974728910063489",
+            "Url": "https://www.zhihu.com/question/2081708619905745132/answer/2084974728910063489",
+            "Summary": "我就喜欢预测冷门的 邓青云应该拿一个"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2084285144093954813",
+            "Url": "https://www.zhihu.com/question/2081708619905745132/answer/2084285144093954813",
+            "Summary": "2026年9月17日—— 科睿唯安今日揭晓了2026年度引文桂冠奖名单，22位杰出科学家获奖， 其中包括中国科学院院士、南方科技大学校长、清华大学教授薛其坤。这也是第二次有中国内地的科学家获得引文桂冠奖。 引文桂冠奖由科睿唯安科学信息研究所（ISI）专家团队评选，旨在表彰作出开创性贡献，塑造科学与社会未来的科学家。他们的研究成果具有诺贝尔奖级别的影响力。自该奖项设立以来， 已有89位引文桂冠奖得主荣获诺贝尔奖，他们往…"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2089286588031358414",
+            "Url": "https://www.zhihu.com/question/2081708619905745132/answer/2089286588031358414",
+            "Summary": "我的理论出来是不是影响很多人拿奖呢？ [图片] 时间不是流，能量不是量，自旋不是转.pdf ANG‑TOE‑对原有理论的历史归位清单.pdf 时空是错觉，力也是假象.pdf ANG角动量网络几何学^7链接编织而成的宇宙拓扑图景.pdf 万物皆旋：角动量如何投影出你看到的一切.pdf ANG‑TOE v2.2 Skill Package + Full‑Domain Knowledge Base.md Hierarchy of Intelligence Based on Angular Momentum Manipulation Ability.pdf ANG-TOE v2.0 …"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2090078625211102995",
+            "Url": "https://www.zhihu.com/question/2081708619905745132/answer/2090078625211102995",
+            "Summary": "看看今年的组委会的话，2026年官方委员会五位正式委员是理论磁学家Olle Eriksson、应用与理论量子物理学家Göran Johansson、原子物理学家Stefan Kröll、原子物理方向的Eva Lindroth，以及今年的主席、天体粒子物理学家Mark Pearce；另有三位增补委员：理论物理学家兼秘书Ulf Danielsson、复杂系统物理学家Bernhard Mehlig，以及电子显微学和材料物理学家Eva Olsson。 今年6月29日到7月1日，瑞典于默奥举行了一个专门讨论 “超…"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2089775645387761107",
+            "Url": "https://www.zhihu.com/question/2081708619905745132/answer/2089775645387761107",
+            "Summary": "我押薛其坤的量子反常霍尔效应 毕竟这个成果太突出了"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2088332867608764954",
+            "Url": "https://www.zhihu.com/question/2081708619905745132/answer/2088332867608764954",
+            "Summary": "诺贝尔奖就是政治行为艺术，有那么多人都够格得奖，每年缺只颁给一个人。这是与科学精神相违背的，应该每个够格的人都应该立刻得奖，而不是苦等几十年。 而预测得奖的人，也是人类这种行为艺术的一部分，或者说你在欣赏诺奖的行为艺术。 诺奖也把奖颁给了哈萨比斯这种CEO，相当于我们给国企领导颁奖，说明了诺奖的底线并不比国内的奖高。"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2090040241117730612",
+            "Url": "https://www.zhihu.com/question/2081708619905745132/answer/2090040241117730612",
+            "Summary": "热烈祝贺上海交通大学！ 叶军获得诺贝尔物理学奖的概率为6σ"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2089559227413091853",
+            "Url": "https://www.zhihu.com/question/2081708619905745132/answer/2089559227413091853",
+            "Summary": "盲猜该天文了"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2089549727041851736",
+            "Url": "https://www.zhihu.com/question/2081708619905745132/answer/2089549727041851736",
+            "Summary": "感觉最早开始关注“你对xxxx年诺贝尔奖的预测是什么”这类问题的时候，我还是个初中生，转眼间发现这些榜单上的很多人都离我并不远hhhhh，所以本文预测带有很强的个人偏见，更多是希望他们能获奖，而不是概率上最高 Timothy \"Tim\" Springer, Harvard Medical School & Boston Children's Hospital, for the discovery of ICAM-LFA interactions [图片] Tim可能是整个生物学界最富有的科学家 -- 他真的在福布斯富豪榜上。得益于他的各种投…"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2089149891759162279",
+            "Url": "https://www.zhihu.com/question/2081708619905745132/answer/2089149891759162279",
+            "Summary": "我赌一个Jarzynski，就是提出Jarzynski恒等式的那位，Jarzynski作为远离平衡态热力学领域的执牛耳者，我个人觉得很有机会——诺奖近些年来越来越关注非平衡态物理和系统科学，统计物理领域获奖的频率上升，比如21年的诺奖给气象学家和帕里西，以及24年给Hopfield神经网络，统计物理未来大有可为:)"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2088975814524258220",
+            "Url": "https://www.zhihu.com/question/2081708619905745132/answer/2088975814524258220",
+            "Summary": "空白 无人获奖"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2084968468680593903",
+            "Url": "https://www.zhihu.com/question/2081708619905745132/answer/2084968468680593903",
+            "Summary": "9月3日，瑞士苏黎世。一群科学家上台领奖，台下观众往台上扔纸飞机——这是第36届搞笑诺贝尔奖的现场，也是这个奖创办35年来第一次把典礼搬出美国。主办方的说法很实在：考虑到国际获奖者赴美签证和旅行安全，索性换到欧洲办。 [图片] 这奖的宗旨就一句话：\"先让人发笑，再引人思考。\" 今年的10个奖项，把这句话演绎得相当到位。挑几个先乐一乐。 **防溅小便池，拿了物理学奖** 加拿大滑铁卢大学的流体物理团队发现，尿流撞击瓷面的角度…"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2089507433064424651",
+            "Url": "https://www.zhihu.com/question/2081708619905745132/answer/2089507433064424651",
+            "Summary": "物理学奖我押拓扑超导与马约拉纳准粒子这个方向。 微软团队去年宣称在拓扑导体里观测到马约拉纳零模的决定性证据，如果把关结论成立，实现拓扑量子比特就不再是最难的那步，量子计算整个路线图都要改写。 坐等验证~~"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2087640927556969721",
+            "Url": "https://www.zhihu.com/question/2081708619905745132/answer/2087640927556969721",
+            "Summary": "研究课题\t候选人\t获选理由 落选理由 胶球发现\tBESⅢ合作组核心人物\t 2026年8月ICHEP公布重大成果，但700+人大合作组无法归因到≤3人，且诺奖存在时间滞后 模拟引力/霍金辐射\tUlf Leonhardt\t2026年Nature重磅成果，但属模拟系统，且2020年已给黑洞方向 光晶格原子钟\t叶军、香取秀俊\t多次上榜，但技术太新，诺奖倾向\"再养一养\" 宇宙暴胀理论\tAlan Guth、Andrei Linde\t缺少\"一锤定音\"的直接实验验证 分数量子霍尔/anyon\tJain、Heibl…"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2083691100158562633",
+            "Url": "https://www.zhihu.com/question/2081708619905745132/answer/2083691100158562633",
+            "Summary": "好奇曹原可以哪年拿到"
+          }
+        ],
+        "Paging": {
+          "IsEnd": true
+        }
+      }
+    }
+  ]
+}
