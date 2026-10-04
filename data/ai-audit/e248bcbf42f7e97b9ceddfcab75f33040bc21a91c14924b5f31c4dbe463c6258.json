@@ -1,0 +1,23 @@
+{
+  "model": "zhida-fast-1p5",
+  "category": "economics",
+  "summaryHashes": {
+    "2090146309428754133": "e99d28302fc1f72106293258ae00c78491e78787c141c46ab6428ba458d064ff"
+  },
+  "response": {
+    "id": "chatcmpl-8638636b-d88d-4228-b30b-11ed0b849146",
+    "object": "chat.completion",
+    "created": 1791111491,
+    "model": "zhida-fast-1p5",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "{\"items\":[{\"id\":\"2090146309428754133\",\"status\":\"exclude\",\"people\":[],\"directions\":[],\"reason\":\"该句是否定性预测（陈平不获奖），且陈平不在规范名单中，按规则排除。\"}]}"
+        },
+        "finish_reason": "stop"
+      }
+    ]
+  }
+}

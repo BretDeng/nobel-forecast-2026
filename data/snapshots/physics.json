@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-04T09:41:28.093540+00:00",
+  "fetchedAt": "2026-10-04T10:58:02.613073+00:00",
   "pages": [
     {
       "Code": 0,
@@ -77,6 +77,12 @@
             "ContentToken": "2083617705861583236",
             "Url": "https://www.zhihu.com/question/2081708619905745132/answer/2083617705861583236",
             "Summary": "我是等离子体物理的，此领域获奖机会很小，但我还是想说一个（以后还会一直说）：等离子体尾场电子加速plasma wakefield acceleration，包括日裔美国人T. Tajima（最早提出者之一）、台湾籍陈丕燊Pisin Chen（早期理论创建者之一, PWFA提出者）、欧洲人Wim Leemans（实验领域大牛）。 除了等离子体，我还希望发现AB效应的那个以色列老爷子能拿奖。"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2090078625211102995",
+            "Url": "https://www.zhihu.com/question/2081708619905745132/answer/2090078625211102995",
+            "Summary": "看看今年的组委会的话，2026年官方委员会五位正式委员是理论磁学家Olle Eriksson、应用与理论量子物理学家Göran Johansson、原子物理学家Stefan Kröll、原子物理方向的Eva Lindroth，以及今年的主席、天体粒子物理学家Mark Pearce；另有三位增补委员：理论物理学家兼秘书Ulf Danielsson、复杂系统物理学家Bernhard Mehlig，以及电子显微学和材料物理学家Eva Olsson。 今年6月29日到7月1日，瑞典于默奥举行了一个专门讨论 “超…"
           },
           {
             "ContentType": "answer",
@@ -254,6 +260,12 @@
           },
           {
             "ContentType": "answer",
+            "ContentToken": "2090068020794241577",
+            "Url": "https://www.zhihu.com/question/2081708619905745132/answer/2090068020794241577",
+            "Summary": "Hidetoshi Katori、Jun Ye：光晶格原子钟 香取秀俊提出光晶格钟方案；叶军团队建造并持续改进锶光晶格钟，真空紫外光频梳激发钍核跃迁。推动国际计量界讨论用光学频标重新定义“秒”。 与其说是预测，倒不如说希望把诺奖颁给与自己研究更近的大领域。"
+          },
+          {
+            "ContentType": "answer",
             "ContentToken": "2089591354330461736",
             "Url": "https://www.zhihu.com/question/2081708619905745132/answer/2089591354330461736",
             "Summary": "额，又来偷，又来骗，又来搞是吧，还有什么生医、化学，以及人文社科这些的…以及这些答案揭晓非常实质见效反映快的问题，可以快速过滤一切低质低级等等低低低性质的扯淡…"
@@ -278,33 +290,21 @@
           },
           {
             "ContentType": "answer",
-            "ContentToken": "2090068020794241577",
-            "Url": "https://www.zhihu.com/question/2081708619905745132/answer/2090068020794241577",
-            "Summary": "Hidetoshi Katori、Jun Ye：光晶格原子钟 香取秀俊提出光晶格钟方案；叶军团队建造并持续改进锶光晶格钟，真空紫外光频梳激发钍核跃迁。推动国际计量界讨论用光学频标重新定义“秒”。 与其说是预测，倒不如说希望把诺奖颁给与自己研究更近的大领域。"
-          },
-          {
-            "ContentType": "answer",
             "ContentToken": "2089860346659987819",
             "Url": "https://www.zhihu.com/question/2081708619905745132/answer/2089860346659987819",
             "Summary": "🤔预测一个冷门，比如地球物理学，空间物理学 这种。"
           },
           {
             "ContentType": "answer",
+            "ContentToken": "2089775645387761107",
+            "Url": "https://www.zhihu.com/question/2081708619905745132/answer/2089775645387761107",
+            "Summary": "我押薛其坤的量子反常霍尔效应 毕竟这个成果太突出了"
+          },
+          {
+            "ContentType": "answer",
             "ContentToken": "2089401407313012136",
             "Url": "https://www.zhihu.com/question/2081708619905745132/answer/2089401407313012136",
             "Summary": "官方预测问题刷到这问题，作为中国人感觉中国人中最接近这个奖的是薛其坤。 为何提薛其坤？ 不仅因为他中国人。 还有就是他发现了量子反常霍尔效应。 高中物理课学了普通霍尔效应，简单提了量子力学。 但是他这个，要复杂多得多。 [图片] [图片] [图片] 而他现在，已经获得了引文桂冠奖。 距离诺贝尔奖算是中国人中最近的一个。 还有我忘说了一个问题，数学界的诺贝尔奖这次给了知乎知友。 其实说句实话，我自己肯定和知乎平均水平差距非常大，我很…"
-          },
-          {
-            "ContentType": "answer",
-            "ContentToken": "2087985314631512389",
-            "Url": "https://www.zhihu.com/question/2081708619905745132/answer/2087985314631512389",
-            "Summary": "Kitaev或者Berry"
-          },
-          {
-            "ContentType": "answer",
-            "ContentToken": "2085715868017750349",
-            "Url": "https://www.zhihu.com/question/2081708619905745132/answer/2085715868017750349",
-            "Summary": "大家说了那么多热门的，我来猜几个冷门的吧 激光尾场加速自由电子激光🌝"
           }
         ],
         "Paging": {
@@ -318,6 +318,18 @@
       "Message": "success",
       "Data": {
         "Items": [
+          {
+            "ContentType": "answer",
+            "ContentToken": "2087985314631512389",
+            "Url": "https://www.zhihu.com/question/2081708619905745132/answer/2087985314631512389",
+            "Summary": "Kitaev或者Berry"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2085715868017750349",
+            "Url": "https://www.zhihu.com/question/2081708619905745132/answer/2085715868017750349",
+            "Summary": "大家说了那么多热门的，我来猜几个冷门的吧 激光尾场加速自由电子激光🌝"
+          },
           {
             "ContentType": "answer",
             "ContentToken": "2084974728910063489",
@@ -335,18 +347,6 @@
             "ContentToken": "2089286588031358414",
             "Url": "https://www.zhihu.com/question/2081708619905745132/answer/2089286588031358414",
             "Summary": "我的理论出来是不是影响很多人拿奖呢？ [图片] 时间不是流，能量不是量，自旋不是转.pdf ANG‑TOE‑对原有理论的历史归位清单.pdf 时空是错觉，力也是假象.pdf ANG角动量网络几何学^7链接编织而成的宇宙拓扑图景.pdf 万物皆旋：角动量如何投影出你看到的一切.pdf ANG‑TOE v2.2 Skill Package + Full‑Domain Knowledge Base.md Hierarchy of Intelligence Based on Angular Momentum Manipulation Ability.pdf ANG-TOE v2.0 …"
-          },
-          {
-            "ContentType": "answer",
-            "ContentToken": "2090078625211102995",
-            "Url": "https://www.zhihu.com/question/2081708619905745132/answer/2090078625211102995",
-            "Summary": "看看今年的组委会的话，2026年官方委员会五位正式委员是理论磁学家Olle Eriksson、应用与理论量子物理学家Göran Johansson、原子物理学家Stefan Kröll、原子物理方向的Eva Lindroth，以及今年的主席、天体粒子物理学家Mark Pearce；另有三位增补委员：理论物理学家兼秘书Ulf Danielsson、复杂系统物理学家Bernhard Mehlig，以及电子显微学和材料物理学家Eva Olsson。 今年6月29日到7月1日，瑞典于默奥举行了一个专门讨论 “超…"
-          },
-          {
-            "ContentType": "answer",
-            "ContentToken": "2089775645387761107",
-            "Url": "https://www.zhihu.com/question/2081708619905745132/answer/2089775645387761107",
-            "Summary": "我押薛其坤的量子反常霍尔效应 毕竟这个成果太突出了"
           },
           {
             "ContentType": "answer",

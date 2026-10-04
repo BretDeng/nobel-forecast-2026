@@ -9,7 +9,7 @@
       "english": "PHYSIOLOGY OR MEDICINE",
       "symbol": "M",
       "questionUrl": "https://www.zhihu.com/question/2081709250993303561",
-      "fetchedAt": "2026-10-04T09:41:25.220450+00:00",
+      "fetchedAt": "2026-10-04T10:57:59.347598+00:00",
       "complete": true,
       "total": 39,
       "valid": 28,
@@ -1479,7 +1479,7 @@
       "english": "PHYSICS",
       "symbol": "P",
       "questionUrl": "https://www.zhihu.com/question/2081708619905745132",
-      "fetchedAt": "2026-10-04T09:41:28.093540+00:00",
+      "fetchedAt": "2026-10-04T10:58:02.613073+00:00",
       "complete": true,
       "total": 65,
       "valid": 38,
@@ -1532,8 +1532,8 @@
             "2088043224178997139",
             "2084763356947298189",
             "2089669867985166779",
-            "2089401407313012136",
-            "2089775645387761107"
+            "2089775645387761107",
+            "2089401407313012136"
           ],
           "aiCount": 1,
           "warnings": []
@@ -2202,8 +2202,8 @@
             "2089178150047586062",
             "2084763356947298189",
             "2089669867985166779",
-            "2089401407313012136",
-            "2089775645387761107"
+            "2089775645387761107",
+            "2089401407313012136"
           ],
           "aiCount": 1,
           "warnings": []
@@ -2733,6 +2733,20 @@
           "warnings": []
         },
         {
+          "id": "2090078625211102995",
+          "url": "https://www.zhihu.com/question/2081708619905745132/answer/2090078625211102995",
+          "summary": "看看今年的组委会的话，2026年官方委员会五位正式委员是理论磁学家Olle Eriksson、应用与理论量子物理学家Göran Johansson、原子物理学家Stefan Kröll、原子物理方向的Eva Lindroth，以及今年的主席、天体粒子物理学家Mark Pearce；另有三位增补委员：理论物理学家兼秘书Ulf Danielsson、复杂系统物理学家Bernhard Mehlig，以及电子显微学和材料物理学家Eva Olsson。 今年6月29日到7月1日，瑞典于默奥举行了一个专门讨论 “超…",
+          "people": [],
+          "directions": [],
+          "reason": "摘要截断，未显示最终选择",
+          "reviewed": true,
+          "reviewMethod": "human",
+          "reviewModel": null,
+          "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
           "id": "2081791479463277145",
           "url": "https://www.zhihu.com/question/2081708619905745132/answer/2081791479463277145",
           "summary": "詹裕农（Yuh‑Nung Jan，1949年离开大陆） 1949年前随家人迁居台湾；当选美国国家科学院院士；神经生物学，钾离子通道奠基人，和妻子叶公杼同为院士。 他发现Numb蛋白，揭示神经细胞不对称分裂、细胞命运决定的关键机制，这套机制同样适用于脊椎动物神经系统；建立筛选基因的实验体系，解析神经元树突生长、分支调控机理 叶公杼（Lily Jan，1949年离开大陆） 1949年前随家人迁居台湾；美国国家科学院院士；国际著名神经生物学家…",
@@ -3249,6 +3263,25 @@
           "warnings": []
         },
         {
+          "id": "2090068020794241577",
+          "url": "https://www.zhihu.com/question/2081708619905745132/answer/2090068020794241577",
+          "summary": "Hidetoshi Katori、Jun Ye：光晶格原子钟 香取秀俊提出光晶格钟方案；叶军团队建造并持续改进锶光晶格钟，真空紫外光频梳激发钍核跃迁。推动国际计量界讨论用光学频标重新定义“秒”。 与其说是预测，倒不如说希望把诺奖颁给与自己研究更近的大领域。",
+          "people": [
+            "香取秀俊",
+            "叶军"
+          ],
+          "directions": [
+            "光晶格原子钟"
+          ],
+          "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+          "reviewed": true,
+          "reviewMethod": "human",
+          "reviewModel": null,
+          "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
           "id": "2089591354330461736",
           "url": "https://www.zhihu.com/question/2081708619905745132/answer/2089591354330461736",
           "summary": "额，又来偷，又来骗，又来搞是吧，还有什么生医、化学，以及人文社科这些的…以及这些答案揭晓非常实质见效反映快的问题，可以快速过滤一切低质低级等等低低低性质的扯淡…",
@@ -3314,15 +3347,12 @@
           "warnings": []
         },
         {
-          "id": "2090068020794241577",
-          "url": "https://www.zhihu.com/question/2081708619905745132/answer/2090068020794241577",
-          "summary": "Hidetoshi Katori、Jun Ye：光晶格原子钟 香取秀俊提出光晶格钟方案；叶军团队建造并持续改进锶光晶格钟，真空紫外光频梳激发钍核跃迁。推动国际计量界讨论用光学频标重新定义“秒”。 与其说是预测，倒不如说希望把诺奖颁给与自己研究更近的大领域。",
-          "people": [
-            "香取秀俊",
-            "叶军"
-          ],
+          "id": "2089860346659987819",
+          "url": "https://www.zhihu.com/question/2081708619905745132/answer/2089860346659987819",
+          "summary": "🤔预测一个冷门，比如地球物理学，空间物理学 这种。",
+          "people": [],
           "directions": [
-            "光晶格原子钟"
+            "地球与空间物理"
           ],
           "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
           "reviewed": true,
@@ -3333,12 +3363,14 @@
           "warnings": []
         },
         {
-          "id": "2089860346659987819",
-          "url": "https://www.zhihu.com/question/2081708619905745132/answer/2089860346659987819",
-          "summary": "🤔预测一个冷门，比如地球物理学，空间物理学 这种。",
-          "people": [],
+          "id": "2089775645387761107",
+          "url": "https://www.zhihu.com/question/2081708619905745132/answer/2089775645387761107",
+          "summary": "我押薛其坤的量子反常霍尔效应 毕竟这个成果太突出了",
+          "people": [
+            "薛其坤"
+          ],
           "directions": [
-            "地球与空间物理"
+            "量子反常霍尔效应"
           ],
           "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
           "reviewed": true,
@@ -3442,38 +3474,6 @@
           "people": [],
           "directions": [],
           "reason": "自荐理论，无明确预测",
-          "reviewed": true,
-          "reviewMethod": "human",
-          "reviewModel": null,
-          "reviewEvidence": [],
-          "aiAssisted": false,
-          "warnings": []
-        },
-        {
-          "id": "2090078625211102995",
-          "url": "https://www.zhihu.com/question/2081708619905745132/answer/2090078625211102995",
-          "summary": "看看今年的组委会的话，2026年官方委员会五位正式委员是理论磁学家Olle Eriksson、应用与理论量子物理学家Göran Johansson、原子物理学家Stefan Kröll、原子物理方向的Eva Lindroth，以及今年的主席、天体粒子物理学家Mark Pearce；另有三位增补委员：理论物理学家兼秘书Ulf Danielsson、复杂系统物理学家Bernhard Mehlig，以及电子显微学和材料物理学家Eva Olsson。 今年6月29日到7月1日，瑞典于默奥举行了一个专门讨论 “超…",
-          "people": [],
-          "directions": [],
-          "reason": "摘要截断，未显示最终选择",
-          "reviewed": true,
-          "reviewMethod": "human",
-          "reviewModel": null,
-          "reviewEvidence": [],
-          "aiAssisted": false,
-          "warnings": []
-        },
-        {
-          "id": "2089775645387761107",
-          "url": "https://www.zhihu.com/question/2081708619905745132/answer/2089775645387761107",
-          "summary": "我押薛其坤的量子反常霍尔效应 毕竟这个成果太突出了",
-          "people": [
-            "薛其坤"
-          ],
-          "directions": [
-            "量子反常霍尔效应"
-          ],
-          "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
           "reviewed": true,
           "reviewMethod": "human",
           "reviewModel": null,
@@ -3641,7 +3641,7 @@
       "english": "CHEMISTRY",
       "symbol": "C",
       "questionUrl": "https://www.zhihu.com/question/2081709501913248924",
-      "fetchedAt": "2026-10-04T09:41:29.487727+00:00",
+      "fetchedAt": "2026-10-04T10:58:04.188764+00:00",
       "complete": true,
       "total": 16,
       "valid": 14,
@@ -4666,7 +4666,7 @@
       "english": "LITERATURE",
       "symbol": "L",
       "questionUrl": "https://www.zhihu.com/question/2085781961016960614",
-      "fetchedAt": "2026-10-04T09:41:30.734394+00:00",
+      "fetchedAt": "2026-10-04T10:58:05.733589+00:00",
       "complete": true,
       "total": 23,
       "valid": 10,
@@ -4960,12 +4960,12 @@
           "warnings": []
         },
         {
-          "id": "2088523989580887423",
-          "url": "https://www.zhihu.com/question/2085781961016960614/answer/2088523989580887423",
-          "summary": "每年快到到十月，咱们准备喜迎国庆，人家国外就开始纷纷下注等开盘了。 值得吐槽的是，那些博彩公司的赔率榜比瑞典学院的评委还忙。 [图片] 而其中文学奖永远是最有戏剧性和充满反转的。 目前主流的赔率榜单如下： [图片] 其实从玄学的角度来看，近三年诺贝尔文学奖的得主有个规律，其性别和地域几乎是交替出现的。 2023年，挪威的约恩·福瑟，男，欧洲。 2024年，韩国的韩江，女，亚洲。 2025年，匈牙利的克拉斯诺霍尔卡伊·拉斯洛，男，欧洲…",
+          "id": "2087493477730984190",
+          "url": "https://www.zhihu.com/question/2085781961016960614/answer/2087493477730984190",
+          "summary": "今年的诺贝尔文学奖将于2026年10月8日揭晓，目前菠菜公司赔率榜上排名第一的是来自我国的作家 残雪，排名第二的则是来自日本的作家村上春树。再往后的就是墨西哥的克里斯蒂娜-里韦拉-加尔萨、澳大利亚的杰拉尔德-穆楠、西班牙的恩里克-比拉-马塔斯等。首先了解一下我国的作家残雪。 残雪被誉为中国的卡夫卡，作品风格独特，在探讨精神世界方面独树一帜，透彻挖掘人类的潜意识和精神世界，因此读她的小说需要静下心来，细细品味其…",
           "people": [],
           "directions": [],
-          "reason": "转述赔率与历史，未表达本人选择",
+          "reason": "转述赔率榜，未表达本人选择",
           "reviewed": true,
           "reviewMethod": "human",
           "reviewModel": null,
@@ -4974,12 +4974,12 @@
           "warnings": []
         },
         {
-          "id": "2087493477730984190",
-          "url": "https://www.zhihu.com/question/2085781961016960614/answer/2087493477730984190",
-          "summary": "今年的诺贝尔文学奖将于2026年10月8日揭晓，目前菠菜公司赔率榜上排名第一的是来自我国的作家 残雪，排名第二的则是来自日本的作家村上春树。再往后的就是墨西哥的克里斯蒂娜-里韦拉-加尔萨、澳大利亚的杰拉尔德-穆楠、西班牙的恩里克-比拉-马塔斯等。首先了解一下我国的作家残雪。 残雪被誉为中国的卡夫卡，作品风格独特，在探讨精神世界方面独树一帜，透彻挖掘人类的潜意识和精神世界，因此读她的小说需要静下心来，细细品味其…",
+          "id": "2088523989580887423",
+          "url": "https://www.zhihu.com/question/2085781961016960614/answer/2088523989580887423",
+          "summary": "每年快到到十月，咱们准备喜迎国庆，人家国外就开始纷纷下注等开盘了。 值得吐槽的是，那些博彩公司的赔率榜比瑞典学院的评委还忙。 [图片] 而其中文学奖永远是最有戏剧性和充满反转的。 目前主流的赔率榜单如下： [图片] 其实从玄学的角度来看，近三年诺贝尔文学奖的得主有个规律，其性别和地域几乎是交替出现的。 2023年，挪威的约恩·福瑟，男，欧洲。 2024年，韩国的韩江，女，亚洲。 2025年，匈牙利的克拉斯诺霍尔卡伊·拉斯洛，男，欧洲…",
           "people": [],
           "directions": [],
-          "reason": "转述赔率榜，未表达本人选择",
+          "reason": "转述赔率与历史，未表达本人选择",
           "reviewed": true,
           "reviewMethod": "human",
           "reviewModel": null,
@@ -5216,12 +5216,12 @@
       "english": "ECONOMIC SCIENCES",
       "symbol": "E",
       "questionUrl": "https://www.zhihu.com/question/2084054769849611542",
-      "fetchedAt": "2026-10-04T09:41:32.168870+00:00",
+      "fetchedAt": "2026-10-04T10:58:07.331100+00:00",
       "complete": true,
-      "total": 35,
+      "total": 36,
       "valid": 21,
       "pending": 0,
-      "excluded": 14,
+      "excluded": 15,
       "people": [
         {
           "id": "09c13713ad51",
@@ -6450,6 +6450,20 @@
           "reviewed": true,
           "reviewMethod": "human",
           "reviewModel": null,
+          "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
+          "id": "2090146309428754133",
+          "url": "https://www.zhihu.com/question/2084054769849611542/answer/2090146309428754133",
+          "summary": "陈平不获此奖，是全球经济学界的重大遗憾",
+          "people": [],
+          "directions": [],
+          "reason": "该句是否定性预测（陈平不获奖），且陈平不在规范名单中，按规则排除。",
+          "reviewed": true,
+          "reviewMethod": "zhida",
+          "reviewModel": "zhida-fast-1p5",
           "reviewEvidence": [],
           "aiAssisted": false,
           "warnings": []

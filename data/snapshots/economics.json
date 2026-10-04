@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-04T09:41:32.168870+00:00",
+  "fetchedAt": "2026-10-04T10:58:07.331100+00:00",
   "pages": [
     {
       "Code": 0,
@@ -173,6 +173,12 @@
             "ContentToken": "2088989034861290920",
             "Url": "https://www.zhihu.com/question/2084054769849611542/answer/2088989034861290920",
             "Summary": "计量经济学理论方向，可能斯坦福的susan athey、mit的Victor Chernozhukov、Whitney Newey做因果推断与机器学习很前沿，不一定今年能颁给他们，但我想他们肯定是值得诺奖的。 另外LSE如果说political economy方向，Tim Besley教授应该也是热门候选。"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2090146309428754133",
+            "Url": "https://www.zhihu.com/question/2084054769849611542/answer/2090146309428754133",
+            "Summary": "陈平不获此奖，是全球经济学界的重大遗憾"
           },
           {
             "ContentType": "answer",

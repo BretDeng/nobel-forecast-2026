@@ -2107,6 +2107,19 @@
       "directions": [],
       "reason": "戏谑表述",
       "warnings": []
+    },
+    "2090146309428754133": {
+      "summaryHash": "e99d28302fc1f72106293258ae00c78491e78787c141c46ab6428ba458d064ff",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "该句是否定性预测（陈平不获奖），且陈平不在规范名单中，按规则排除。",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-04T10:58:11.539941+00:00",
+      "evidence": [],
+      "auditFile": "e248bcbf42f7e97b9ceddfcab75f33040bc21a91c14924b5f31c4dbe463c6258.json"
     }
   }
 }
