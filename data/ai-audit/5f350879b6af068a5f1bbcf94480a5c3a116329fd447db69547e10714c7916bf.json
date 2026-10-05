@@ -1,0 +1,27 @@
+{
+  "model": "zhida-fast-1p5",
+  "category": "medicine",
+  "summaryHashes": {
+    "2090394060452373351": "088003db4e6a50c7711ab718c146bbc9ec8f9c707d7e44715fc42b0f7c67d39e",
+    "2090410784794981806": "4fcb6a30afc1734137db1cac3242e23f87b62a5e7cdc4e218e0847063cbbdc85",
+    "2090405173696935316": "832c0a11d5dfcf5d2211d18c2620a7053270d14532f4635aa0f41e18fae5043f",
+    "2090400357075640678": "91327f0808e4d767ccf53037b206ad5382c58061cf1f2c2fa89c0fe591cb93a0",
+    "2090425698527752696": "089585dc70167597f129ca31d0b75b5502cb4355cb8fcd4198c337c4cce21070"
+  },
+  "response": {
+    "id": "chatcmpl-233d3405-267f-4c9a-9599-d6df38df25ff",
+    "object": "chat.completion",
+    "created": 1791178926,
+    "model": "zhida-fast-1p5",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "{\"items\":[{\"id\":\"2090394060452373351\",\"status\":\"include\",\"people\":[{\"name\":\"卢煜明\",\"evidence\":\"我预测：卢煜明将凭借他发明的“无创产前检测”技术赢得2026年的诺贝尔生理学或医学奖。\"}],\"directions\":[{\"name\":\"游离 DNA 与无创产前检测\",\"evidence\":\"卢煜明将凭借他发明的“无创产前检测”技术赢得2026年的诺贝尔生理学或医学奖\"}],\"reason\":\"作者明确正向预测卢煜明凭无创产前检测获2026年诺奖。\"},{\"id\":\"2090410784794981806\",\"status\":\"include\",\"people\":[{\"name\":\"卢煜明\",\"evidence\":\"我的正式预测是： 卢煜明，获奖成果为发现母体血浆中的胎儿游离DNA，并推动无创产前检测的建立。\"},{\"name\":\"Stephen Quake\",\"evidence\":\"共同获奖人选中，我认为Stephen Quake也有机会，但主押卢煜明。\"}],\"directions\":[{\"name\":\"游离 DNA 与无创产前检测\",\"evidence\":\"获奖成果为发现母体血浆中的胎儿游离DNA，并推动无创产前检测的建立\"}],\"reason\":\"作者主押卢煜明并将Stephen Quake列为共同获奖备选。\"},{\"id\":\"2090405173696935316\",\"status\":\"include\",\"people\":[],\"directions\":[{\"name\":\"GLP-1\",\"evidence\":\"GLP-1 更稳、更符合诺奖一贯偏好。 我看好 GLP-1 顺利登顶。\"}],\"reason\":\"作者明确正向看好GLP-1方向获奖；Drucker仅出现在转述预测市场赔率语境中，不作为作者的人选预测。\"},{\"id\":\"2090400357075640678\",\"status\":\"exclude\",\"people\":[],\"directions\":[],\"reason\":\"作者明确声明不构成对2026年诺奖的预测或结论。\"},{\"id\":\"2090425698527752696\",\"status\":\"uncertain\",\"people\":[],\"directions\":[],\"reason\":\"文本过于简略，无明确人选或方向预测。\"}]}"
+        },
+        "finish_reason": "stop"
+      }
+    ]
+  }
+}

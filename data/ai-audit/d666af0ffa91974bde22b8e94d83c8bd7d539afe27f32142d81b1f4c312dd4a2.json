@@ -1,0 +1,27 @@
+{
+  "model": "zhida-fast-1p5",
+  "category": "physics",
+  "summaryHashes": {
+    "2089178150047586062": "b784795605b224a1f9228012af4fdeb0510824395188fafde073ca03964a4188",
+    "2090412362587182509": "ee8ec49776f0caac11fae7788c30f5f8cb40ddfb99e8cc797705b7e18459d7ed",
+    "2090394099509622505": "d20d6a94d7f1939941ea1ca461d0e67401969302e2659f2030ced1a05f65e1d7",
+    "2090408400077206081": "8a4c4ec9ddffe980aa5516bb182af37dd6c0e036aabf1fe4d8ae96502ca41113",
+    "2090429973781803320": "1b4a708c68e46c25abe2015e82280a1c658d76619ad70351c32d423fb9a8c713"
+  },
+  "response": {
+    "id": "chatcmpl-01506381-d036-4909-9133-636d094fb996",
+    "object": "chat.completion",
+    "created": 1791178950,
+    "model": "zhida-fast-1p5",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "{\"items\":[{\"id\":\"2089178150047586062\",\"status\":\"include\",\"people\":[{\"name\":\"薛其坤\",\"evidence\":\"我这里列出我最终确定的预测人选： 薛其坤\"},{\"name\":\"John Pendry\",\"evidence\":\"John Pendry、David Smith\"},{\"name\":\"David Smith\",\"evidence\":\"John Pendry、David Smith\"},{\"name\":\"安达千波矢\",\"evidence\":\"安达千波矢、Stephen Forrest、Mark Thompson\"},{\"name\":\"Stephen Forrest\",\"evidence\":\"安达千波矢、Stephen Forrest、Mark Thompson\"},{\"name\":\"Mark Thompson\",\"evidence\":\"安达千波矢、Stephen Forrest、Mark Thompson\"}],\"directions\":[],\"reason\":\"作者明确列出2026年物理学奖预测人选，ChatGPT部分押注薛其坤与作者重复，去重后不新增。\"},{\"id\":\"2090412362587182509\",\"status\":\"include\",\"people\":[],\"directions\":[{\"name\":\"格罗滕迪克U与动形理论的公理化重构\",\"evidence\":\"格罗滕迪克U与动形理论的公理化重构 ，因解决了杨-米尔斯场存在性和质量缺口存在与否的证明难题，有可能被授予诺贝尔物理学奖\"}],\"reason\":\"作者明确预测该方向有可能获诺贝尔物理学奖。\"},{\"id\":\"2090394099509622505\",\"status\":\"include\",\"people\":[],\"directions\":[{\"name\":\"理论计算领域\",\"evidence\":\"希望理论计算领域 搞出新物理方程的物理学家拿奖\"}],\"reason\":\"作者希望该方向物理学家获奖，属明确正向方向预测。\"},{\"id\":\"2090408400077206081\",\"status\":\"exclude\",\"people\":[],\"directions\":[],\"reason\":\"作者称今年希望不大，是对2026年的否定预测。\"},{\"id\":\"2090429973781803320\",\"status\":\"include\",\"people\":[{\"name\":\"Pablo Jarillo-Herrero\",\"evidence\":\"【本角度正式预测人选】：Pablo Jarillo‑Herrero +Allan MacDonald、Eva Y. Andrei\"},{\"name\":\"Allan MacDonald\",\"evidence\":\"【本角度正式预测人选】：Pablo Jarillo‑Herrero +Allan MacDonald、Eva Y. Andrei\"},{\"name\":\"Eva Andrei\",\"evidence\":\"【本角度正式预测人选】：Pablo Jarillo‑Herrero +Allan MacDonald、Eva Y. Andrei\"}],\"directions\":[{\"name\":\"魔角石墨烯与转角电子学\",\"evidence\":\"魔角石墨烯是理论加实验多人接力完成的成果\"}],\"reason\":\"作者明确列出2026年物理学奖正式预测人选及相关方向。\"}]}"
+        },
+        "finish_reason": "stop"
+      }
+    ]
+  }
+}

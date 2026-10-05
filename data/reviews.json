@@ -882,6 +882,128 @@
       "reviewMethod": "human",
       "reviewedAt": "2026-10-05T02:24:33.353991+00:00",
       "evidence": []
+    },
+    "2090394060452373351": {
+      "summaryHash": "088003db4e6a50c7711ab718c146bbc9ec8f9c707d7e44715fc42b0f7c67d39e",
+      "reviewed": true,
+      "people": [
+        "卢煜明"
+      ],
+      "directions": [
+        "游离 DNA 与无创产前检测"
+      ],
+      "reason": "作者明确正向预测卢煜明凭无创产前检测获2026年诺奖。",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-05T05:42:06.853775+00:00",
+      "evidence": [
+        {
+          "kind": "people",
+          "name": "卢煜明",
+          "quote": "我预测：卢煜明将凭借他发明的“无创产前检测”技术赢得2026年的诺贝尔生理学或医学奖。"
+        },
+        {
+          "kind": "directions",
+          "name": "游离 DNA 与无创产前检测",
+          "quote": "卢煜明将凭借他发明的“无创产前检测”技术赢得2026年的诺贝尔生理学或医学奖"
+        }
+      ],
+      "auditFile": "5f350879b6af068a5f1bbcf94480a5c3a116329fd447db69547e10714c7916bf.json"
+    },
+    "2090410784794981806": {
+      "summaryHash": "4fcb6a30afc1734137db1cac3242e23f87b62a5e7cdc4e218e0847063cbbdc85",
+      "reviewed": true,
+      "people": [
+        "卢煜明",
+        "Stephen Quake"
+      ],
+      "directions": [
+        "游离 DNA 与无创产前检测"
+      ],
+      "reason": "作者主押卢煜明并将Stephen Quake列为共同获奖备选。",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-05T05:42:06.854692+00:00",
+      "evidence": [
+        {
+          "kind": "people",
+          "name": "卢煜明",
+          "quote": "我的正式预测是： 卢煜明，获奖成果为发现母体血浆中的胎儿游离DNA，并推动无创产前检测的建立。"
+        },
+        {
+          "kind": "people",
+          "name": "Stephen Quake",
+          "quote": "共同获奖人选中，我认为Stephen Quake也有机会，但主押卢煜明。"
+        },
+        {
+          "kind": "directions",
+          "name": "游离 DNA 与无创产前检测",
+          "quote": "获奖成果为发现母体血浆中的胎儿游离DNA，并推动无创产前检测的建立"
+        }
+      ],
+      "auditFile": "5f350879b6af068a5f1bbcf94480a5c3a116329fd447db69547e10714c7916bf.json"
+    },
+    "2090405173696935316": {
+      "summaryHash": "832c0a11d5dfcf5d2211d18c2620a7053270d14532f4635aa0f41e18fae5043f",
+      "reviewed": true,
+      "people": [],
+      "directions": [
+        "GLP-1"
+      ],
+      "reason": "作者明确正向看好GLP-1方向获奖；Drucker仅出现在转述预测市场赔率语境中，不作为作者的人选预测。",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-05T05:42:06.854911+00:00",
+      "evidence": [
+        {
+          "kind": "directions",
+          "name": "GLP-1",
+          "quote": "GLP-1 更稳、更符合诺奖一贯偏好。 我看好 GLP-1 顺利登顶。"
+        }
+      ],
+      "auditFile": "5f350879b6af068a5f1bbcf94480a5c3a116329fd447db69547e10714c7916bf.json"
+    },
+    "2090400357075640678": {
+      "summaryHash": "91327f0808e4d767ccf53037b206ad5382c58061cf1f2c2fa89c0fe591cb93a0",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "作者明确声明不构成对2026年诺奖的预测或结论。",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-05T05:42:06.854972+00:00",
+      "evidence": [],
+      "auditFile": "5f350879b6af068a5f1bbcf94480a5c3a116329fd447db69547e10714c7916bf.json"
+    },
+    "2090425698527752696": {
+      "summaryHash": "089585dc70167597f129ca31d0b75b5502cb4355cb8fcd4198c337c4cce21070",
+      "reviewed": false,
+      "people": [],
+      "directions": [],
+      "reason": "直答无法确定，待人工复核：文本过于简略，无明确人选或方向预测。",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-05T05:42:06.854978+00:00",
+      "evidence": [],
+      "auditFile": "5f350879b6af068a5f1bbcf94480a5c3a116329fd447db69547e10714c7916bf.json"
+    },
+    "2090409151851651804": {
+      "summaryHash": "5b8200feb9bf98cbd73e609033c1e48c32fef2dbfadcad5bc6c5584e6dca7444",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "该回答未给出任何2026年生理学或医学奖的明确正向预测或备选人名/方向，内容模糊且为否定性表述。",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-05T05:42:12.520318+00:00",
+      "evidence": [],
+      "auditFile": "ba1ab4d4b25620e9854711ba5227f9f69de807f6af9051c07f8e966cb313172e.json"
     }
   },
   "physics": {
@@ -1090,7 +1212,7 @@
       "warnings": []
     },
     "2089178150047586062": {
-      "summaryHash": "7cca28fd49a3d24d14a4b28e3d05f6e5359ca8b3737386374322fcb9e75955d4",
+      "summaryHash": "b784795605b224a1f9228012af4fdeb0510824395188fafde073ca03964a4188",
       "reviewed": true,
       "people": [
         "薛其坤",
@@ -1100,13 +1222,45 @@
         "Stephen Forrest",
         "Mark Thompson"
       ],
-      "directions": [
-        "量子反常霍尔效应",
-        "超材料与负折射率",
-        "OLED"
+      "directions": [],
+      "reason": "作者明确列出2026年物理学奖预测人选，ChatGPT部分押注薛其坤与作者重复，去重后不新增。",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-05T05:42:30.410071+00:00",
+      "evidence": [
+        {
+          "kind": "people",
+          "name": "薛其坤",
+          "quote": "我这里列出我最终确定的预测人选： 薛其坤"
+        },
+        {
+          "kind": "people",
+          "name": "John Pendry",
+          "quote": "John Pendry、David Smith"
+        },
+        {
+          "kind": "people",
+          "name": "David Smith",
+          "quote": "John Pendry、David Smith"
+        },
+        {
+          "kind": "people",
+          "name": "安达千波矢",
+          "quote": "安达千波矢、Stephen Forrest、Mark Thompson"
+        },
+        {
+          "kind": "people",
+          "name": "Stephen Forrest",
+          "quote": "安达千波矢、Stephen Forrest、Mark Thompson"
+        },
+        {
+          "kind": "people",
+          "name": "Mark Thompson",
+          "quote": "安达千波矢、Stephen Forrest、Mark Thompson"
+        }
       ],
-      "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
-      "warnings": []
+      "auditFile": "d666af0ffa91974bde22b8e94d83c8bd7d539afe27f32142d81b1f4c312dd4a2.json"
     },
     "2090042157340038010": {
       "summaryHash": "f72c5b557988e1b6466e01887fded36bc33598f3dbe5c6b9250df7898d0ba5b7",
@@ -1741,6 +1895,72 @@
           "quote": "2026 年诺贝尔物理学奖押在薛其坤团队实现的“量子反常霍尔效应实验观测”上"
         }
       ]
+    },
+    "2090412362587182509": {
+      "summaryHash": "ee8ec49776f0caac11fae7788c30f5f8cb40ddfb99e8cc797705b7e18459d7ed",
+      "reviewed": true,
+      "people": [],
+      "directions": [
+        "格罗滕迪克U与动形理论的公理化重构"
+      ],
+      "reason": "作者明确预测该方向有可能获诺贝尔物理学奖。",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-05T05:42:30.410659+00:00",
+      "evidence": [
+        {
+          "kind": "directions",
+          "name": "格罗滕迪克U与动形理论的公理化重构",
+          "quote": "格罗滕迪克U与动形理论的公理化重构 ，因解决了杨-米尔斯场存在性和质量缺口存在与否的证明难题，有可能被授予诺贝尔物理学奖"
+        }
+      ],
+      "auditFile": "d666af0ffa91974bde22b8e94d83c8bd7d539afe27f32142d81b1f4c312dd4a2.json"
+    },
+    "2090394099509622505": {
+      "summaryHash": "d20d6a94d7f1939941ea1ca461d0e67401969302e2659f2030ced1a05f65e1d7",
+      "reviewed": true,
+      "people": [],
+      "directions": [
+        "理论计算领域"
+      ],
+      "reason": "作者希望该方向物理学家获奖，属明确正向方向预测。",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-05T05:42:30.410727+00:00",
+      "evidence": [
+        {
+          "kind": "directions",
+          "name": "理论计算领域",
+          "quote": "希望理论计算领域 搞出新物理方程的物理学家拿奖"
+        }
+      ],
+      "auditFile": "d666af0ffa91974bde22b8e94d83c8bd7d539afe27f32142d81b1f4c312dd4a2.json"
+    },
+    "2090408400077206081": {
+      "summaryHash": "8a4c4ec9ddffe980aa5516bb182af37dd6c0e036aabf1fe4d8ae96502ca41113",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "作者称今年希望不大，是对2026年的否定预测。",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-05T05:42:30.410779+00:00",
+      "evidence": [],
+      "auditFile": "d666af0ffa91974bde22b8e94d83c8bd7d539afe27f32142d81b1f4c312dd4a2.json"
+    },
+    "2090429973781803320": {
+      "summaryHash": "1b4a708c68e46c25abe2015e82280a1c658d76619ad70351c32d423fb9a8c713",
+      "reviewed": false,
+      "people": [],
+      "directions": [],
+      "reason": "直答输出校验失败，待人工复核：人名/方向缺少原文依据",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "auditFile": "d666af0ffa91974bde22b8e94d83c8bd7d539afe27f32142d81b1f4c312dd4a2.json"
     }
   },
   "chemistry": {
@@ -1996,6 +2216,116 @@
           "quote": "大火的 PROTAC 和分子胶"
         }
       ]
+    },
+    "2090393970794828822": {
+      "summaryHash": "c5bdfd2a2b41227e60101bc0ab7ed2af397715fef4ce668001f1f29d5a9f1980",
+      "reviewed": false,
+      "people": [],
+      "directions": [],
+      "reason": "直答无法确定，待人工复核：仅表达希望理论计算领域化学家拿奖，未给出具体人名或明确方向，语境模糊。",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-05T05:42:49.552383+00:00",
+      "evidence": [],
+      "auditFile": "29f9ad5f425a7920489dec7f558ee88c7769f6aedadd2a6d69e0be4a6f482b2f.json"
+    },
+    "2090414959339611926": {
+      "summaryHash": "ed65763d0552167a58169cedaadc67c47e88f53b20d70420b27ff9e07f7b1a8a",
+      "reviewed": true,
+      "people": [
+        "Shankar Balasubramanian",
+        "David Klenerman",
+        "Pascal Mayer"
+      ],
+      "directions": [],
+      "reason": "作者明确给出2026年化学奖三位作家的正式预测。",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-05T05:42:49.552442+00:00",
+      "evidence": [
+        {
+          "kind": "people",
+          "name": "Shankar Balasubramanian",
+          "quote": "尚卡尔·巴拉苏布拉马尼安（Shankar Balasubramanian）、戴维·克莱纳曼（David Klenerman）与帕斯卡尔·迈耶（Pascal Mayer），表彰他们对大规模并行 DNA 测序的奠基性贡献"
+        },
+        {
+          "kind": "people",
+          "name": "David Klenerman",
+          "quote": "尚卡尔·巴拉苏布拉马尼安（Shankar Balasubramanian）、戴维·克莱纳曼（David Klenerman）与帕斯卡尔·迈耶（Pascal Mayer），表彰他们对大规模并行 DNA 测序的奠基性贡献"
+        },
+        {
+          "kind": "people",
+          "name": "Pascal Mayer",
+          "quote": "尚卡尔·巴拉苏布拉马尼安（Shankar Balasubramanian）、戴维·克莱纳曼（David Klenerman）与帕斯卡尔·迈耶（Pascal Mayer），表彰他们对大规模并行 DNA 测序的奠基性贡献"
+        }
+      ],
+      "auditFile": "29f9ad5f425a7920489dec7f558ee88c7769f6aedadd2a6d69e0be4a6f482b2f.json"
+    },
+    "2090434212310554442": {
+      "summaryHash": "cba77f2aec8e6aa31b1753e620f5b9c4867cfaeb5a9297b046ba77797f586e90",
+      "reviewed": false,
+      "people": [],
+      "directions": [],
+      "reason": "直答无法确定，待人工复核：摘要截断且作者明确表示不想猜谁会得奖，未给出具体预测人名或方向。",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-05T05:42:49.552710+00:00",
+      "evidence": [],
+      "auditFile": "29f9ad5f425a7920489dec7f558ee88c7769f6aedadd2a6d69e0be4a6f482b2f.json"
+    },
+    "2090424739823085246": {
+      "summaryHash": "5f1a49caffbad54cbf3861671f9eb8617cf1487ab35357e60a4f83488c29b47f",
+      "reviewed": false,
+      "people": [],
+      "directions": [],
+      "reason": "直答输出校验失败，待人工复核：人名/方向缺少原文依据",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "auditFile": "29f9ad5f425a7920489dec7f558ee88c7769f6aedadd2a6d69e0be4a6f482b2f.json"
+    },
+    "2090420401813959146": {
+      "summaryHash": "3808c270e2f09389840e4e9675a3ca8c1244998efb0a103b4826a2cbc3b91628",
+      "reviewed": true,
+      "people": [
+        "Shankar Balasubramanian",
+        "David Klenerman",
+        "Pascal Mayer"
+      ],
+      "directions": [
+        "下一代 DNA 测序"
+      ],
+      "reason": "作者明确将2026年化学奖正式押在NGS方向及三位人选上。",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-05T05:42:49.553007+00:00",
+      "evidence": [
+        {
+          "kind": "people",
+          "name": "Shankar Balasubramanian",
+          "quote": "我会把 2026 年诺贝尔化学奖正式押在 下一代 DNA 测序（Next-Generation Sequencing，NGS）上，人选选择 Shankar Balasubramanian、David Klenerman 和 Pascal Mayer"
+        },
+        {
+          "kind": "people",
+          "name": "David Klenerman",
+          "quote": "我会把 2026 年诺贝尔化学奖正式押在 下一代 DNA 测序（Next-Generation Sequencing，NGS）上，人选选择 Shankar Balasubramanian、David Klenerman 和 Pascal Mayer"
+        },
+        {
+          "kind": "people",
+          "name": "Pascal Mayer",
+          "quote": "我会把 2026 年诺贝尔化学奖正式押在 下一代 DNA 测序（Next-Generation Sequencing，NGS）上，人选选择 Shankar Balasubramanian、David Klenerman 和 Pascal Mayer"
+        },
+        {
+          "kind": "directions",
+          "name": "下一代 DNA 测序",
+          "quote": "我会把 2026 年诺贝尔化学奖正式押在 下一代 DNA 测序（Next-Generation Sequencing，NGS）上"
+        }
+      ],
+      "auditFile": "29f9ad5f425a7920489dec7f558ee88c7769f6aedadd2a6d69e0be4a6f482b2f.json"
     }
   },
   "literature": {
