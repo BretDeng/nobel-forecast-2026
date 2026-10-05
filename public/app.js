@@ -6,6 +6,29 @@ const dateFormat=new Intl.DateTimeFormat('zh-CN',{timeZone:'Asia/Hong_Kong',mont
 const current=()=>data.categories.find(c=>c.id===state.cat);
 const isFrozen=cat=>Boolean(cat.predictionFreezeAt)&&Date.now()>=Date.parse(cat.predictionFreezeAt);
 const freezeNote=cat=>cat.predictionFreezeAt?`${isFrozen(cat)?'已封榜 · 数据不再更新':'最后更新截止'}：${dateFormat.format(new Date(cat.predictionFreezeAt))}（香港时间）`:'';
+function countdownState(cat,now=Date.now()){
+ const freeze=Date.parse(cat.predictionFreezeAt),announcement=Date.parse(cat.announcementAt);
+ if(!Number.isFinite(freeze)||!Number.isFinite(announcement))return null;
+ const phase=now<freeze?'open':now<announcement?'frozen':'announcement';
+ const remaining=Math.max(0,Math.ceil(((phase==='open'?freeze:announcement)-now)/1000));
+ return {phase,remaining,days:Math.floor(remaining/86400),hours:Math.floor(remaining%86400/3600),minutes:Math.floor(remaining%3600/60),seconds:remaining%60};
+}
+function updateCountdown(){
+ const clock=countdownState(current());if(!clock)return;
+ const panel=$('#award-countdown');panel.dataset.phase=clock.phase;
+ panel.classList.toggle('closing-soon',clock.phase==='open'&&clock.remaining<=3600);
+ $('#countdown-status').textContent=clock.phase==='open'?'预测进行中':clock.phase==='frozen'?'已封榜':'揭晓时间已到';
+ $('#countdown-label').textContent=clock.phase==='open'?'距预测封榜':clock.phase==='frozen'?'距官方开奖':'预测已定格';
+ $('#countdown-clock').hidden=clock.phase==='announcement';
+ $('#countdown-clock').setAttribute('aria-label',clock.phase==='open'?'距预测封榜的剩余时间':'距官方开奖的剩余时间');
+ $('#countdown-finished').hidden=clock.phase!=='announcement';
+ for(const unit of ['days','hours','minutes','seconds'])$(`[data-countdown="${unit}"]`).textContent=String(clock[unit]).padStart(2,'0');
+}
+function renderCountdown(){
+ const cat=current(),panel=$('#award-countdown');panel.hidden=!countdownState(cat);if(panel.hidden)return;
+ panel.innerHTML=`<div class="countdown-main"><div class="countdown-heading"><span id="countdown-label"></span><span class="countdown-status" id="countdown-status"></span></div><div class="countdown-clock" id="countdown-clock" role="timer" aria-live="off" aria-label="距截止的剩余时间">${[['days','天'],['hours','时'],['minutes','分'],['seconds','秒']].map(([unit,label])=>`<span class="countdown-part"><strong data-countdown="${unit}">00</strong><small>${label}</small></span>`).join('')}</div><p class="countdown-finished" id="countdown-finished" hidden>等电话响，等名字揭晓。</p></div><div class="countdown-schedule"><div><span>预测封榜</span><time datetime="${esc(cat.predictionFreezeAt)}">${esc(dateFormat.format(new Date(cat.predictionFreezeAt)))}</time></div><div><span>开奖时间</span><time datetime="${esc(cat.announcementAt)}">${esc(dateFormat.format(new Date(cat.announcementAt)))}</time></div><p>香港时间 UTC+8 · 开奖前 1 小时封榜<br>开奖按官方最早揭晓时间 · <a href="${esc(cat.announcementSource)}" target="_blank" rel="noopener noreferrer">官方日程 ↗</a></p></div>`;
+ updateCountdown();
+}
 const filteredAnswers=()=>current().answers.filter(a=>!(state.excludeAi&&a.aiAssisted));
 const validAnswers=()=>filteredAnswers().filter(a=>a.people.length||a.directions.length);
 function toast(message){$('#toast').textContent=message;$('#toast').style.display='block';clearTimeout(toast.timer);toast.timer=setTimeout(()=>$('#toast').style.display='none',3500);}
@@ -54,6 +77,7 @@ function render(){
  $('#category-en').textContent=cat.english+' / 2026';
  $('#board-title').textContent=cat.label+(state.page==='audit'?' · 数据与来源':'奖预测榜');
  $('#question-link').href=cat.questionUrl;
+ renderCountdown();
  $('#leader-nav').classList.toggle('active',state.page==='leader');$('#audit-nav').classList.toggle('active',state.page==='audit');
  $('#people-mode').classList.toggle('selected',state.mode==='people');$('#directions-mode').classList.toggle('selected',state.mode==='directions');
  $('#directions-mode').disabled=cat.id==='literature';
@@ -92,5 +116,5 @@ document.addEventListener('keydown',e=>{if(e.key==='/'&&!['INPUT','TEXTAREA','SE
 $('#method-dialog').addEventListener('click',e=>{if(e.target===$('#method-dialog')){const rect=e.target.getBoundingClientRect();if(e.clientX<rect.left||e.clientX>rect.right||e.clientY<rect.top||e.clientY>rect.bottom)e.target.close();}});
 try{
  await loadData();const [cat,page,mode]=location.hash.slice(1).split('/');if(data.categories.some(c=>c.id===cat))state.cat=cat;if(page==='audit')state.page=page;if(mode==='directions'&&state.cat!=='literature')state.mode=mode;
- renderStats();render();setInterval(()=>{renderInsights();},30000);$('#method-list').innerHTML=data.methodology.map(s=>`<li>${esc(s)}</li>`).join('');
+ renderStats();render();setInterval(updateCountdown,1000);setInterval(()=>{renderInsights();},30000);document.addEventListener('visibilitychange',()=>{if(!document.hidden)updateCountdown();});$('#method-list').innerHTML=data.methodology.map(s=>`<li>${esc(s)}</li>`).join('');
 }catch(e){$('#table-container').innerHTML=`<div class="empty">${esc(e.message)}<p>请运行 npm run build 后刷新。</p></div>`;}
