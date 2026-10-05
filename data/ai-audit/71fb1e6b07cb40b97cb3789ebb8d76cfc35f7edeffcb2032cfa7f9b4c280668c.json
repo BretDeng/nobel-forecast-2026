@@ -1,0 +1,27 @@
+{
+  "model": "zhida-fast-1p5",
+  "category": "physics",
+  "summaryHashes": {
+    "2090464750438299468": "081f94f99f8659eaf7ff162d3c9bfdf6f5faae2bc8aaea29fbb3c6c6ca021cf8",
+    "2090474764116684803": "ba7cc8baa1e9efa2aa0f06ba939bd7a0537685da13e79598aa531c19dd32a059",
+    "2090441847994835915": "3d26783149aa61829de9e1ff561e90789944e2525116540c705babd6ce3ea42a",
+    "2090438950154400918": "bed88751d815470ae509319926956ebae505f3e3c573dc82e1b1be2f466cad77",
+    "2090478366709248771": "992a002e8a191dab436baa72f74d2db9f9567cab7fde6dc56045a6353ac87524"
+  },
+  "response": {
+    "id": "chatcmpl-4ed648ac-0588-46dc-8c74-185033316485",
+    "object": "chat.completion",
+    "created": 1791190990,
+    "model": "zhida-fast-1p5",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "非常抱歉，我目前无法针对您的问题提供更多信息，如果您有其他的问题，我将非常乐意尽力帮助您。"
+        },
+        "finish_reason": "stop"
+      }
+    ]
+  }
+}
