@@ -46,16 +46,33 @@ class PipelineTests(unittest.TestCase):
    with self.assertRaisesRegex(RuntimeError,'分页信息不完整'):fetch(Path('/cli'),'medicine','https://www.zhihu.com/question/1')
  def test_hash_change_requires_review(self):
   import build,tempfile
-  from unittest.mock import patch
-  # Exercise the production hash gate with an actual altered source summary.
-  with tempfile.TemporaryDirectory() as d:
-   tmp=Path(d);(tmp/'data/snapshots').mkdir(parents=True);(tmp/'public').mkdir()
-   for file in (ROOT/'data/snapshots').glob('*.json'):(tmp/'data/snapshots'/file.name).write_bytes(file.read_bytes())
-   (tmp/'data/reviews.json').write_bytes((ROOT/'data/reviews.json').read_bytes())
-   path=tmp/'data/snapshots/medicine.json';snapshot=json.loads(path.read_text());snapshot['pages'][0]['Data']['Items'][0]['Summary']+=' changed';path.write_text(json.dumps(snapshot))
-   with patch.object(build,'ROOT',tmp):build.main()
-   result=json.loads((tmp/'public/data.json').read_text())['categories'][0]
-   self.assertEqual(result['pending'],1)
-   self.assertFalse(result['answers'][0]['reviewed'])
-   self.assertEqual(result['answers'][0]['people'],[])
+  # Fixed samples isolate the hash gate from changing live data and pending reviews.
+  for already_pending in (False,True):
+   with self.subTest(already_pending=already_pending),tempfile.TemporaryDirectory() as d:
+    tmp=Path(d);(tmp/'data/snapshots').mkdir(parents=True);(tmp/'public').mkdir()
+    text='明确预测候选 A';digest=hashlib.sha256(text.encode()).hexdigest()
+    reviews={}
+    for key,_,_,_,_ in build.CATEGORIES:
+     items=[{'ContentToken':'fixture-reviewed','Summary':text,'Url':'https://www.zhihu.com/answer/1'}]
+     reviews[key]={'fixture-reviewed':{'summaryHash':digest,'reviewed':True,'people':['候选 A'],'directions':[],'reason':'明确预测','warnings':[]}}
+     if key=='medicine' and already_pending:
+      items.append({'ContentToken':'fixture-pending','Summary':'尚不确定','Url':'https://www.zhihu.com/answer/2'})
+     snapshot={'fetchedAt':'2026-10-04T00:00:00+00:00','pages':[{'Code':0,'Data':{'Items':items,'Paging':{'IsEnd':True}}}]}
+     (tmp/f'data/snapshots/{key}.json').write_text(json.dumps(snapshot))
+    (tmp/'data/reviews.json').write_text(json.dumps(reviews))
+    with patch.object(build,'ROOT',tmp):build.main()
+    baseline=json.loads((tmp/'public/data.json').read_text())['categories'][0]
+    self.assertEqual(baseline['pending'],int(already_pending))
+    self.assertEqual(baseline['valid'],1)
+    path=tmp/'data/snapshots/medicine.json';snapshot=json.loads(path.read_text())
+    snapshot['pages'][0]['Data']['Items'][0]['Summary']+=' changed'
+    path.write_text(json.dumps(snapshot))
+    with patch.object(build,'ROOT',tmp):build.main()
+    result=json.loads((tmp/'public/data.json').read_text())['categories'][0]
+    changed=next(a for a in result['answers'] if a['id']=='fixture-reviewed')
+    self.assertEqual(result['pending'],baseline['pending']+1)
+    self.assertEqual(result['valid'],0)
+    self.assertFalse(changed['reviewed'])
+    self.assertEqual(changed['people'],[])
+    self.assertEqual(changed['directions'],[])
 if __name__=='__main__':unittest.main()
