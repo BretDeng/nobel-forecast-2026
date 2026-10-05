@@ -1,0 +1,27 @@
+{
+  "model": "zhida-fast-1p5",
+  "category": "medicine",
+  "summaryHashes": {
+    "2090286367808942201": "56727e3d77440033a6770734d44b4924de41fbc9e328875a4e4c099efb70bd78",
+    "2090231295540455238": "4028889160dce67b956d81954ca8714eeba0ac1f262ac50873f4f92b8541fc9e",
+    "2090191964071375559": "2fe89013fa7fe4bd82f61d6b277c4c318a2282492ed6f6dc90724815d7e34a86",
+    "2090188312636139137": "7ce6db6f2124fbd2c250ef69b65c266024c3ca96a5302b991282836f002eb163",
+    "2090219172068331927": "60880406347936a371ee75d0192ecf9ded064d3ac1bfa4ca913331e059dbb481"
+  },
+  "response": {
+    "id": "chatcmpl-93f1e0fa-c490-482a-b223-98b080b0a31a",
+    "object": "chat.completion",
+    "created": 1791166040,
+    "model": "zhida-fast-1p5",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "{\"items\":[{\"id\":\"2090286367808942201\",\"status\":\"include\",\"people\":[{\"name\":\"Daniel Drucker\",\"evidence\":\"获奖人：Daniel Drucker、Jens Juul Holst、Svetlana Mojsov\"},{\"name\":\"Jens Juul Holst\",\"evidence\":\"获奖人：Daniel Drucker、Jens Juul Holst、Svetlana Mojsov\"},{\"name\":\"Svetlana Mojsov\",\"evidence\":\"获奖人：Daniel Drucker、Jens Juul Holst、Svetlana Mojsov\"},{\"name\":\"Joel Habener\",\"evidence\":\"Drucker、Holst、Mojsov 与 Joel Habener、Lotte Bjerre Knudsen 共享\"},{\"name\":\"Lotte Bjerre Knudsen\",\"evidence\":\"Drucker、Holst、Mojsov 与 Joel Habener、Lotte Bjerre Knudsen 共享\"}],\"directions\":[{\"name\":\"GLP-1\",\"evidence\":\"获奖成果：肠道分泌GLP-1。\"}],\"reason\":\"作者明确提出GLP-1方向及Daniel Drucker、Jens Juul Holst、Svetlana Mojsov等获奖人预测。\"},{\"id\":\"2090231295540455238\",\"status\":\"include\",\"people\":[{\"name\":\"Daniel J. Drucker\",\"evidence\":\"获奖人选： 丹尼尔·德鲁克（Daniel J. Drucker）\"},{\"name\":\"Jens Juul Holst\",\"evidence\":\"延斯·尤尔·霍斯特（Jens Juul Holst）\"},{\"name\":\"Svetlana Mojsov\",\"evidence\":\"斯维特兰娜·莫伊索\"}],\"directions\":[{\"name\":\"GLP-1\",\"evidence\":\"获奖成果： GLP-1（胰高血糖素样肽-1）的发现与机制阐明。\"}],\"reason\":\"作者明确预测GLP-1方向及三位获奖人选。\"},{\"id\":\"2090191964071375559\",\"status\":\"exclude\",\"people\":[],\"directions\":[],\"reason\":\"仅评论他人预测标准，未给出自己的明确预测。\"},{\"id\":\"2090188312636139137\",\"status\":\"exclude\",\"people\":[],\"directions\":[],\"reason\":\"内容为玩笑且无具体预测。\"},{\"id\":\"2090219172068331927\",\"status\":\"exclude\",\"people\":[],\"directions\":[],\"reason\":\"预测AI大模型团队获奖，非本奖项明确的规范人名或方向，属奖项不匹配/无法匹配实体。\"}]}"
+        },
+        "finish_reason": "stop"
+      }
+    ]
+  }
+}

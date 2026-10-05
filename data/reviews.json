@@ -489,6 +489,108 @@
       "directions": [],
       "reason": "自荐推销，未明确可辨识候选",
       "warnings": []
+    },
+    "2090286367808942201": {
+      "summaryHash": "56727e3d77440033a6770734d44b4924de41fbc9e328875a4e4c099efb70bd78",
+      "reviewed": true,
+      "people": [
+        "Daniel Drucker",
+        "Jens Juul Holst",
+        "Svetlana Mojsov",
+        "Joel Habener",
+        "Lotte Bjerre Knudsen"
+      ],
+      "directions": [
+        "GLP-1"
+      ],
+      "reason": "作者明确提出GLP-1方向及Daniel Drucker、Jens Juul Holst、Svetlana Mojsov等获奖人预测。",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-05T02:07:21.016100+00:00",
+      "evidence": [
+        {
+          "kind": "people",
+          "name": "Daniel Drucker",
+          "quote": "获奖人：Daniel Drucker、Jens Juul Holst、Svetlana Mojsov"
+        },
+        {
+          "kind": "people",
+          "name": "Jens Juul Holst",
+          "quote": "获奖人：Daniel Drucker、Jens Juul Holst、Svetlana Mojsov"
+        },
+        {
+          "kind": "people",
+          "name": "Svetlana Mojsov",
+          "quote": "获奖人：Daniel Drucker、Jens Juul Holst、Svetlana Mojsov"
+        },
+        {
+          "kind": "people",
+          "name": "Joel Habener",
+          "quote": "Drucker、Holst、Mojsov 与 Joel Habener、Lotte Bjerre Knudsen 共享"
+        },
+        {
+          "kind": "people",
+          "name": "Lotte Bjerre Knudsen",
+          "quote": "Drucker、Holst、Mojsov 与 Joel Habener、Lotte Bjerre Knudsen 共享"
+        },
+        {
+          "kind": "directions",
+          "name": "GLP-1",
+          "quote": "获奖成果：肠道分泌GLP-1。"
+        }
+      ],
+      "auditFile": "9cdd41d8ff382ef258fdc3b2ac2df49ea55c7a630564ebed740408cec2140322.json"
+    },
+    "2090231295540455238": {
+      "summaryHash": "4028889160dce67b956d81954ca8714eeba0ac1f262ac50873f4f92b8541fc9e",
+      "reviewed": false,
+      "people": [],
+      "directions": [],
+      "reason": "直答输出校验失败，待人工复核：人名/方向缺少原文依据",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "auditFile": "9cdd41d8ff382ef258fdc3b2ac2df49ea55c7a630564ebed740408cec2140322.json"
+    },
+    "2090191964071375559": {
+      "summaryHash": "2fe89013fa7fe4bd82f61d6b277c4c318a2282492ed6f6dc90724815d7e34a86",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "仅评论他人预测标准，未给出自己的明确预测。",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-05T02:07:21.026928+00:00",
+      "evidence": [],
+      "auditFile": "9cdd41d8ff382ef258fdc3b2ac2df49ea55c7a630564ebed740408cec2140322.json"
+    },
+    "2090188312636139137": {
+      "summaryHash": "7ce6db6f2124fbd2c250ef69b65c266024c3ca96a5302b991282836f002eb163",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "内容为玩笑且无具体预测。",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-05T02:07:21.026935+00:00",
+      "evidence": [],
+      "auditFile": "9cdd41d8ff382ef258fdc3b2ac2df49ea55c7a630564ebed740408cec2140322.json"
+    },
+    "2090219172068331927": {
+      "summaryHash": "60880406347936a371ee75d0192ecf9ded064d3ac1bfa4ca913331e059dbb481",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "预测AI大模型团队获奖，非本奖项明确的规范人名或方向，属奖项不匹配/无法匹配实体。",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-05T02:07:21.026943+00:00",
+      "evidence": [],
+      "auditFile": "9cdd41d8ff382ef258fdc3b2ac2df49ea55c7a630564ebed740408cec2140322.json"
     }
   },
   "physics": {

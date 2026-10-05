@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-04T11:06:57.832555+00:00",
+  "fetchedAt": "2026-10-05T02:07:06.006312+00:00",
   "pages": [
     {
       "Code": 0,
@@ -77,6 +77,12 @@
             "ContentToken": "2083342696903717415",
             "Url": "https://www.zhihu.com/question/2081709501913248924/answer/2083342696903717415",
             "Summary": "Frustrated Lewis Pair（FLP）有没有一丝丝可能？（瞎猜）"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2090327594453439337",
+            "Url": "https://www.zhihu.com/question/2081709501913248924/answer/2090327594453439337",
+            "Summary": "Stuart L. Schreiber，化学生物学的奠基人。他发现的 mTOR 重塑了人们对营养感知、衰老和癌症的理解；而他当年研究的 FK506、雷帕霉素，本质上就是最早的分子胶。大火的 PROTAC 和分子胶，追根溯源都是这套\"化学诱导邻近\"的思路。今年全球首款 PROTAC 药物获批上市，三十年前埋下的种子终于结成了药：学术分量早就够了，时机也刚刚好。"
           },
           {
             "ContentType": "answer",

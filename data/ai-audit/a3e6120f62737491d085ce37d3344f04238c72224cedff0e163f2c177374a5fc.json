@@ -1,0 +1,27 @@
+{
+  "model": "zhida-fast-1p5",
+  "category": "medicine",
+  "summaryHashes": {
+    "2090195993891546193": "8011db08c24d37da30141adb1a156f48d07b594633f8c107aaf99a384c2b3f31",
+    "2090381661833795115": "40fd3438d8fd80cfea8fcf56b40d59f86fc8c0c60bc2e71ae2cc0eeb585cd148",
+    "2090381611544192598": "36013401a885ade734401b557161c008b8fdfc88d6afeb3771910c38c721b98c",
+    "2090378245564789103": "facd70753c4b9f93c91df3b0542646c9f211a33635e2799fd219f7637affd15a",
+    "2090368072955720054": "7932f0352d52bc3ed1fe7511fc99a7f0f71c99de2d91ef212566ebe9089000d1"
+  },
+  "response": {
+    "id": "chatcmpl-88d9e249-4f1e-49aa-900c-b09396aa3a9a",
+    "object": "chat.completion",
+    "created": 1791166044,
+    "model": "zhida-fast-1p5",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "非常抱歉，我目前无法针对您的问题提供更多信息，如果您有其他的问题，我将非常乐意尽力帮助您。"
+        },
+        "finish_reason": "stop"
+      }
+    ]
+  }
+}

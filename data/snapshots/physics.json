@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-04T11:06:56.210855+00:00",
+  "fetchedAt": "2026-10-05T02:07:04.326424+00:00",
   "pages": [
     {
       "Code": 0,
@@ -8,15 +8,15 @@
         "Items": [
           {
             "ContentType": "answer",
-            "ContentToken": "2083714937596258134",
-            "Url": "https://www.zhihu.com/question/2081708619905745132/answer/2083714937596258134",
-            "Summary": "26.10.3更新： 突然发现知乎有压中给奖励的活动，那也来抽抽奖吧。 首先是分数量子霍尔体系中的复合费米子与任意子，是Jainendra Jain、Moty Heiblum、James Eisensteinsvg这三位，表彰因发现并实验研究分数量子霍尔体系中的分数化准粒子及其任意子统计性质，以区分1998年的分数量子霍尔效应。首先想到这个领域是因为任意子啊编织啊量子计算之类的概念热度又有所上升，并且疑似在转角/菱方/Bernal堆叠的二维材料里能直接看到。如…"
-          },
-          {
-            "ContentType": "answer",
             "ContentToken": "2083334221356085859",
             "Url": "https://www.zhihu.com/question/2081708619905745132/answer/2083334221356085859",
             "Summary": "10.2 定稿 关于 2026 年诺贝尔物理学奖得主，我的预测名单为： 0、Fujio Masuoka、Stuart Parkin、Hideo Ohno 1、Sir Michael V. Berry、Yakir Aharonov，Bertrand Halperin 2、Hidetoshi Katori、Jun Ye 3、Pablo Jarillo-Herrero、Allan H. MacDonald + 神秘第三人（Sumio Iijima） 4、Sajeev John，Eli Yablonovitch、Susumu Noda 5、Masato Sagawa 6、David N. Payne，Emmanuel Desurvire，Masataka Nakazawa 7、Hideo Hoson…"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2083714937596258134",
+            "Url": "https://www.zhihu.com/question/2081708619905745132/answer/2083714937596258134",
+            "Summary": "26.10.3更新： 突然发现知乎有压中给奖励的活动，那也来抽抽奖吧。 首先是分数量子霍尔体系中的复合费米子与任意子，是Jainendra Jain、Moty Heiblum、James Eisensteinsvg这三位，表彰因发现并实验研究分数量子霍尔体系中的分数化准粒子及其任意子统计性质，以区分1998年的分数量子霍尔效应。首先想到这个领域是因为任意子啊编织啊量子计算之类的概念热度又有所上升，并且疑似在转角/菱方/Bernal堆叠的二维材料里能直接看到。如…"
           },
           {
             "ContentType": "answer",
@@ -26,15 +26,21 @@
           },
           {
             "ContentType": "answer",
+            "ContentToken": "2088761110715544611",
+            "Url": "https://www.zhihu.com/question/2081708619905745132/answer/2088761110715544611",
+            "Summary": "先写预测结果： 获奖人：香取秀俊（Hidetoshi Katori）和叶军（Jun Ye）；获奖成果：光晶格原子钟压这个纯粹因为这个工作跟我所在的地球物理行业有联系。 地球物理勘探里的传统重力仪主要测重力场的变化，而超高精度原子钟可以直接测重力势差。 过去将近60年，一秒这个时间一直由铯-133原子定义。 而香取秀俊和叶军造出了比现在定义一秒的铯原子钟更精密的钟。 而且，这个工作自从2001年提出，已经发展了二十多年，科学意义也已…"
+          },
+          {
+            "ContentType": "answer",
             "ContentToken": "2083958483758626385",
             "Url": "https://www.zhihu.com/question/2081708619905745132/answer/2083958483758626385",
             "Summary": "其他答主都说了很多可能的获奖人，所以我这里也没啥可说的了。。。其实看了这么多年的物理奖预测，真正能预测对的也不多，很多时候就是看哪些领域最近比较火，或者哪些人论文被引用次数多，那其实就没有什么神秘感了。 反正对我而言，比较熟悉的领域的物理学家大概率没有多少获奖的可能，像做Kondo problem和heavy fermion的几位欧洲大佬岁数都不小了，能不能再撑几年都不好说。做spin liquid的人群倒是很多，但这个东西实验上始…"
           },
           {
             "ContentType": "answer",
-            "ContentToken": "2088761110715544611",
-            "Url": "https://www.zhihu.com/question/2081708619905745132/answer/2088761110715544611",
-            "Summary": "先写预测结果： 获奖人：香取秀俊（Hidetoshi Katori）和叶军（Jun Ye）；获奖成果：光晶格原子钟压这个纯粹因为这个工作跟我所在的地球物理行业有联系。 地球物理勘探里的传统重力仪主要测重力场的变化，而超高精度原子钟可以直接测重力势差。 过去将近60年，一秒这个时间一直由铯-133原子定义。 而香取秀俊和叶军造出了比现在定义一秒的铯原子钟更精密的钟。 而且，这个工作自从2001年提出，已经发展了二十多年，科学意义也已…"
+            "ContentToken": "2089404073430738133",
+            "Url": "https://www.zhihu.com/question/2081708619905745132/answer/2089404073430738133",
+            "Summary": "“不出所料”这一票，我押光晶格钟的发明与发展,人选是叶军（Jun Ye）和香取秀俊（Hidetoshi Katori）。有个事实特别像段子，在地球表面附近，其他条件相同，位置较高的钟会比位置较低的钟走得稍快一点。 这个差别平时完全感觉不到的…但到了2022年，叶军团队在一个毫米尺度的锶原子样品内部，比较上下不同位置的计时频率，测出与广义相对论预言一致的引力红移。 所以，所谓的“高”和“低”，其实并不用科学家带着钟去爬山，…"
           },
           {
             "ContentType": "answer",
@@ -47,12 +53,6 @@
             "ContentToken": "2083547815687484182",
             "Url": "https://www.zhihu.com/question/2081708619905745132/answer/2083547815687484182",
             "Summary": "最近五年或者更加“遥远”的十年，瑞典人已经开启了一段新的评价模式搭建。 毫无疑问，千禧年以来的一些传统的（四年）周期率正在（或者说已经）逐步被改变…这当然可以部分归结为大科学体系以及计算机智能辅助的新科研范式的逐步兴起。但是更加切实的原因同样可能是瑞典人试图把这一类重大的变革时间节点视为一次又一次重要押注时机。我们不妨回望往事种种，可以清晰瞥见诺奖的早期成功至少源于两者。其一自然是丰厚奖金（1900…"
-          },
-          {
-            "ContentType": "answer",
-            "ContentToken": "2089404073430738133",
-            "Url": "https://www.zhihu.com/question/2081708619905745132/answer/2089404073430738133",
-            "Summary": "“不出所料”这一票，我押光晶格钟的发明与发展,人选是叶军（Jun Ye）和香取秀俊（Hidetoshi Katori）。有个事实特别像段子，在地球表面附近，其他条件相同，位置较高的钟会比位置较低的钟走得稍快一点。 这个差别平时完全感觉不到的…但到了2022年，叶军团队在一个毫米尺度的锶原子样品内部，比较上下不同位置的计时频率，测出与广义相对论预言一致的引力红移。 所以，所谓的“高”和“低”，其实并不用科学家带着钟去爬山，…"
           },
           {
             "ContentType": "answer",
@@ -74,21 +74,33 @@
           },
           {
             "ContentType": "answer",
-            "ContentToken": "2083617705861583236",
-            "Url": "https://www.zhihu.com/question/2081708619905745132/answer/2083617705861583236",
-            "Summary": "我是等离子体物理的，此领域获奖机会很小，但我还是想说一个（以后还会一直说）：等离子体尾场电子加速plasma wakefield acceleration，包括日裔美国人T. Tajima（最早提出者之一）、台湾籍陈丕燊Pisin Chen（早期理论创建者之一, PWFA提出者）、欧洲人Wim Leemans（实验领域大牛）。 除了等离子体，我还希望发现AB效应的那个以色列老爷子能拿奖。"
-          },
-          {
-            "ContentType": "answer",
             "ContentToken": "2090078625211102995",
             "Url": "https://www.zhihu.com/question/2081708619905745132/answer/2090078625211102995",
             "Summary": "看看今年的组委会的话，2026年官方委员会五位正式委员是理论磁学家Olle Eriksson、应用与理论量子物理学家Göran Johansson、原子物理学家Stefan Kröll、原子物理方向的Eva Lindroth，以及今年的主席、天体粒子物理学家Mark Pearce；另有三位增补委员：理论物理学家兼秘书Ulf Danielsson、复杂系统物理学家Bernhard Mehlig，以及电子显微学和材料物理学家Eva Olsson。 今年6月29日到7月1日，瑞典于默奥举行了一个专门讨论 “超…"
           },
           {
             "ContentType": "answer",
+            "ContentToken": "2083617705861583236",
+            "Url": "https://www.zhihu.com/question/2081708619905745132/answer/2083617705861583236",
+            "Summary": "我是等离子体物理的，此领域获奖机会很小，但我还是想说一个（以后还会一直说）：等离子体尾场电子加速plasma wakefield acceleration，包括日裔美国人T. Tajima（最早提出者之一）、台湾籍陈丕燊Pisin Chen（早期理论创建者之一, PWFA提出者）、欧洲人Wim Leemans（实验领域大牛）。 除了等离子体，我还希望发现AB效应的那个以色列老爷子能拿奖。"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2085681634855204319",
+            "Url": "https://www.zhihu.com/question/2081708619905745132/answer/2085681634855204319",
+            "Summary": "2025年全球唯一正确预测: https://mp.weixin.qq.com/s/Mc8O6xDpfqWNNMXbzoRlXw"
+          },
+          {
+            "ContentType": "answer",
             "ContentToken": "2081791479463277145",
             "Url": "https://www.zhihu.com/question/2081708619905745132/answer/2081791479463277145",
             "Summary": "詹裕农（Yuh‑Nung Jan，1949年离开大陆） 1949年前随家人迁居台湾；当选美国国家科学院院士；神经生物学，钾离子通道奠基人，和妻子叶公杼同为院士。 他发现Numb蛋白，揭示神经细胞不对称分裂、细胞命运决定的关键机制，这套机制同样适用于脊椎动物神经系统；建立筛选基因的实验体系，解析神经元树突生长、分支调控机理 叶公杼（Lily Jan，1949年离开大陆） 1949年前随家人迁居台湾；美国国家科学院院士；国际著名神经生物学家…"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2090379736577066980",
+            "Url": "https://www.zhihu.com/question/2081708619905745132/answer/2090379736577066980",
+            "Summary": "去年写过一个预测，盘点了天体物理和宇宙学领域可能拿诺奖的物理学家： 你对于2025年诺贝尔物理学奖的预测是什么，谁最有可能获奖? 今年诺贝尔物理学奖评审委员会主席Mark Pearce的研究领域是天体物理，而且天体物理领域上次获奖已经是6年前了，所以感觉今年的奖有希望轮到天体物理（嗯…强行加buff） 我今年的预测是下面三位天体物理学家： 马丁・里斯（Martin Rees）、野本宪一（Ken'ichi Nomoto）、斯坦福・伍斯利（Stanfo…"
           },
           {
             "ContentType": "answer",
@@ -113,6 +125,12 @@
             "ContentToken": "2089178150047586062",
             "Url": "https://www.zhihu.com/question/2081708619905745132/answer/2089178150047586062",
             "Summary": "照例参加赛博预测。我这里列出我最终确定的预测人选： 薛其坤，John Pendry、David Smith，安达千波矢、Stephen Forrest、Mark Thompson 请官方忽略其他人名。一下是ChatGPT的报告： 如果只押一个名字，我会押薛其坤；如果押一个方向，我更看好凝聚态物理。 不过，这是低置信度的主观预测，不代表他已被确认提名，更不是官方消息。截至 2026年10月2日，今年物理学奖尚未揭晓；官方公布时间 是 10月6日，北京时间最早17:45。结合今…"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2090196038061659870",
+            "Url": "https://www.zhihu.com/question/2081708619905745132/answer/2090196038061659870",
+            "Summary": "今年因为有引文桂冠奖的加持，所以感觉薛其坤院士的呼声声量大了不少，目前来看他是最接近物理诺奖的中国学者但也仍在“排队候奖”，假以时日瑞典的电话打来，希望是这个复旦-中植科学奖曾给出的皆大欢喜的名单组合吧（丁肇中主持了那届终审会议）： Sir Michael V. Berry（贝里相位）½，Charles L. Kane（拓扑绝缘体理论提出）¼，薛其坤（量子反常霍尔效应）¼ [图片] [图片]"
           },
           {
             "ContentType": "answer",
@@ -206,12 +224,6 @@
           },
           {
             "ContentType": "answer",
-            "ContentToken": "2085328806546614126",
-            "Url": "https://www.zhihu.com/question/2081708619905745132/answer/2085328806546614126",
-            "Summary": "在可观测宇宙中，基于历史常识和现代社会运行逻辑，依据科学发展规律以及社会运动趋势，可以谨慎且大胆地做出如下负面清单预测：没有中国人（华侨、华裔，包含港澳台）。"
-          },
-          {
-            "ContentType": "answer",
             "ContentToken": "2083511440170808094",
             "Url": "https://www.zhihu.com/question/2081708619905745132/answer/2083511440170808094",
             "Summary": "用麦方程统一物理界，能行吗？ #张朝阳[超话]# 标题：#完善麦克斯韦方程组，统一微观与宏观物理# 麦克斯韦方程组有缺陷，这一点其实很隐蔽，但逻辑一旦理清，你会发现物理学底层能打通。 我的逻辑是这样的： 1. 静电场其实是“波的平均值” 麦方程把静电场写成类似引力的静态场，是错的。把静电场改成驻波的时间平均值，实验测量结果完全不变，依然符合所有宏观静电实验。而且它揭示了本质：静电场本身就是电磁波。 2. 德布罗意…"
@@ -221,6 +233,12 @@
             "ContentToken": "2082055090668679524",
             "Url": "https://www.zhihu.com/question/2081708619905745132/answer/2082055090668679524",
             "Summary": "这玩意不难拿，这世上需要解决的重大实际问题很多，实事求是的随便解决几件就行。比如把工业生产集中在秋冬两季，就能让冬季更暖一点，夏季更凉一点。而春夏两季可以让工人广范植绿，充份让绿植吸收光能，固碳，充氧，储水，遮阳，蒸腾散热。这TM就是大气空调。"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2085328806546614126",
+            "Url": "https://www.zhihu.com/question/2081708619905745132/answer/2085328806546614126",
+            "Summary": "在可观测宇宙中，基于历史常识和现代社会运行逻辑，依据科学发展规律以及社会运动趋势，可以谨慎且大胆地做出如下负面清单预测：没有中国人（华侨、华裔，包含港澳台）。"
           },
           {
             "ContentType": "answer",
@@ -254,15 +272,15 @@
           },
           {
             "ContentType": "answer",
-            "ContentToken": "2085681634855204319",
-            "Url": "https://www.zhihu.com/question/2081708619905745132/answer/2085681634855204319",
-            "Summary": "2025年全球唯一正确预测: https://mp.weixin.qq.com/s/Mc8O6xDpfqWNNMXbzoRlXw"
-          },
-          {
-            "ContentType": "answer",
             "ContentToken": "2090068020794241577",
             "Url": "https://www.zhihu.com/question/2081708619905745132/answer/2090068020794241577",
             "Summary": "Hidetoshi Katori、Jun Ye：光晶格原子钟 香取秀俊提出光晶格钟方案；叶军团队建造并持续改进锶光晶格钟，真空紫外光频梳激发钍核跃迁。推动国际计量界讨论用光学频标重新定义“秒”。 与其说是预测，倒不如说希望把诺奖颁给与自己研究更近的大领域。"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2089860346659987819",
+            "Url": "https://www.zhihu.com/question/2081708619905745132/answer/2089860346659987819",
+            "Summary": "🤔预测一个冷门，比如地球物理学，空间物理学 这种。"
           },
           {
             "ContentType": "answer",
@@ -287,24 +305,6 @@
             "ContentToken": "2089288004070387792",
             "Url": "https://www.zhihu.com/question/2081708619905745132/answer/2089288004070387792",
             "Summary": "张翔前，解决了爱因斯坦都未能解决的统一场论 雷绍武，提出运动力理论 杨建磊，提出粒子力学和盘古方程。 手动狗头"
-          },
-          {
-            "ContentType": "answer",
-            "ContentToken": "2089860346659987819",
-            "Url": "https://www.zhihu.com/question/2081708619905745132/answer/2089860346659987819",
-            "Summary": "🤔预测一个冷门，比如地球物理学，空间物理学 这种。"
-          },
-          {
-            "ContentType": "answer",
-            "ContentToken": "2089775645387761107",
-            "Url": "https://www.zhihu.com/question/2081708619905745132/answer/2089775645387761107",
-            "Summary": "我押薛其坤的量子反常霍尔效应 毕竟这个成果太突出了"
-          },
-          {
-            "ContentType": "answer",
-            "ContentToken": "2089401407313012136",
-            "Url": "https://www.zhihu.com/question/2081708619905745132/answer/2089401407313012136",
-            "Summary": "官方预测问题刷到这问题，作为中国人感觉中国人中最接近这个奖的是薛其坤。 为何提薛其坤？ 不仅因为他中国人。 还有就是他发现了量子反常霍尔效应。 高中物理课学了普通霍尔效应，简单提了量子力学。 但是他这个，要复杂多得多。 [图片] [图片] [图片] 而他现在，已经获得了引文桂冠奖。 距离诺贝尔奖算是中国人中最近的一个。 还有我忘说了一个问题，数学界的诺贝尔奖这次给了知乎知友。 其实说句实话，我自己肯定和知乎平均水平差距非常大，我很…"
           }
         ],
         "Paging": {
@@ -318,6 +318,24 @@
       "Message": "success",
       "Data": {
         "Items": [
+          {
+            "ContentType": "answer",
+            "ContentToken": "2090167021757641846",
+            "Url": "https://www.zhihu.com/question/2081708619905745132/answer/2090167021757641846",
+            "Summary": "如果让我现在只押一组，我会把 2026 年诺贝尔物理学奖押在薛其坤团队实现的“量子反常霍尔效应实验观测”上，而且正式预测的人选，我会写薛其坤。 原因并不是因为他是中国科学家，而是从“诺奖喜欢什么样的成果”来看，这项工作确实很符合物理学奖一贯偏好的几个条件：它是一个长期被理论预言、但迟迟没有在实验中真正实现的重要量子现象；实现以后又迅速成为拓扑量子物态研究里的标志性结果；从发现到现在已经过去十多年，科学…"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2089775645387761107",
+            "Url": "https://www.zhihu.com/question/2081708619905745132/answer/2089775645387761107",
+            "Summary": "我押薛其坤的量子反常霍尔效应 毕竟这个成果太突出了"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2089401407313012136",
+            "Url": "https://www.zhihu.com/question/2081708619905745132/answer/2089401407313012136",
+            "Summary": "官方预测问题刷到这问题，作为中国人感觉中国人中最接近这个奖的是薛其坤。 为何提薛其坤？ 不仅因为他中国人。 还有就是他发现了量子反常霍尔效应。 高中物理课学了普通霍尔效应，简单提了量子力学。 但是他这个，要复杂多得多。 [图片] [图片] [图片] 而他现在，已经获得了引文桂冠奖。 距离诺贝尔奖算是中国人中最近的一个。 还有我忘说了一个问题，数学界的诺贝尔奖这次给了知乎知友。 其实说句实话，我自己肯定和知乎平均水平差距非常大，我很…"
+          },
           {
             "ContentType": "answer",
             "ContentToken": "2087985314631512389",
