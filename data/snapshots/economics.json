@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-05T09:03:06.991532+00:00",
+  "fetchedAt": "2026-10-05T19:17:52.062870+00:00",
   "pages": [
     {
       "Code": 0,
@@ -98,6 +98,12 @@
           },
           {
             "ContentType": "answer",
+            "ContentToken": "2090515668852650755",
+            "Url": "https://www.zhihu.com/question/2084054769849611542/answer/2090515668852650755",
+            "Summary": "张维为，陈平，范勇鹏，翟东升"
+          },
+          {
+            "ContentType": "answer",
             "ContentToken": "2087294981040093116",
             "Url": "https://www.zhihu.com/question/2084054769849611542/answer/2087294981040093116",
             "Summary": "林毅夫！ 林毅夫！ 林毅夫！"
@@ -158,15 +164,15 @@
           },
           {
             "ContentType": "answer",
-            "ContentToken": "2089072391817263078",
-            "Url": "https://www.zhihu.com/question/2084054769849611542/answer/2089072391817263078",
-            "Summary": "猜一手老头： 托马斯•皮凯蒂（Thomas Piketty）、伊曼纽尔•赛斯（Emmanuel Saez） 加布里埃尔•祖克曼（Gabriel Zucman） 顺便写一下颁奖词：感谢其在收入分配不均与财富不平等领域作出的巨大贡献！！！🏅🏅🏅"
-          },
-          {
-            "ContentType": "answer",
             "ContentToken": "2090445818193093100",
             "Url": "https://www.zhihu.com/question/2084054769849611542/answer/2090445818193093100",
             "Summary": "在2025年，诺贝尔经济学奖授予了创新增长理论，它聚焦在创造性破坏对经济发展的核心作用。 在2026年回望，现在的全球经济仍然有多重的挑战，数字平台的垄断侵蚀着发展活力，AI技术发展正在增加劳动市场的结构性的矛盾，气候转型的成本与贫富分化激增社会矛盾共识，而产业的反垄断行动亟待完善深化。 而诺奖的评委会也青睐直面现实的痛点，同时兼具理论的深度与政策实践价值的研究，它不仅是对学术洞见的肯定，亦是破解经济发展提…"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2089072391817263078",
+            "Url": "https://www.zhihu.com/question/2084054769849611542/answer/2089072391817263078",
+            "Summary": "猜一手老头： 托马斯•皮凯蒂（Thomas Piketty）、伊曼纽尔•赛斯（Emmanuel Saez） 加布里埃尔•祖克曼（Gabriel Zucman） 顺便写一下颁奖词：感谢其在收入分配不均与财富不平等领域作出的巨大贡献！！！🏅🏅🏅"
           },
           {
             "ContentType": "answer",
@@ -176,15 +182,21 @@
           },
           {
             "ContentType": "answer",
-            "ContentToken": "2088989034861290920",
-            "Url": "https://www.zhihu.com/question/2084054769849611542/answer/2088989034861290920",
-            "Summary": "计量经济学理论方向，可能斯坦福的susan athey、mit的Victor Chernozhukov、Whitney Newey做因果推断与机器学习很前沿，不一定今年能颁给他们，但我想他们肯定是值得诺奖的。 另外LSE如果说political economy方向，Tim Besley教授应该也是热门候选。"
+            "ContentToken": "2090525407527303023",
+            "Url": "https://www.zhihu.com/question/2084054769849611542/answer/2090525407527303023",
+            "Summary": "经济学奖其实比物理、化学更难押，因为它很少存在一个清晰的“某年某月某日发现了什么”的瞬间，一套理论往往要经过二三十年的学术争论、经验检验和现实应用，才会被确认到底改变了多少经济学。可如果今年必须只留下一个正式答案，我会把票投给一个非常符合2026年时代背景、同时又已经沉淀足够久的方向： 数字经济与信息技术经济学，正式预测 Susan C. Athey（苏珊·阿西）和 Hal R. Varian（哈尔·瓦里安）共同获奖。我的预测获…"
           },
           {
             "ContentType": "answer",
             "ContentToken": "2090455598257259349",
             "Url": "https://www.zhihu.com/question/2084054769849611542/answer/2090455598257259349",
             "Summary": "按照历年诺贝尔经济学奖板块轮动的传统看，我认为可以大致分解为：微观经济学，宏观经济学，金融学，发展经济学，劳动经济学及其他（其他包括财政学，纯计量经济学方法论，产业组织，制度经济学等）按照近十年发奖，金融学(22年)，劳动经济学（21 23年），发展经济学（25年）微观经济学（20年）都发了，虽然23和25年也可以对上部分宏观，但不太符合得奖者的主要研究领域。所以今年大概率是宏观领域得奖，其次是其他板块。 基于此…"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2088989034861290920",
+            "Url": "https://www.zhihu.com/question/2084054769849611542/answer/2088989034861290920",
+            "Summary": "计量经济学理论方向，可能斯坦福的susan athey、mit的Victor Chernozhukov、Whitney Newey做因果推断与机器学习很前沿，不一定今年能颁给他们，但我想他们肯定是值得诺奖的。 另外LSE如果说political economy方向，Tim Besley教授应该也是热门候选。"
           },
           {
             "ContentType": "answer",

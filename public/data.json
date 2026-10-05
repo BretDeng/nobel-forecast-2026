@@ -2091,21 +2091,22 @@
       "english": "PHYSICS",
       "symbol": "P",
       "questionUrl": "https://www.zhihu.com/question/2081708619905745132",
-      "fetchedAt": "2026-10-05T09:03:00.395474+00:00",
+      "fetchedAt": "2026-10-05T19:17:47.158443+00:00",
       "complete": true,
-      "total": 77,
-      "valid": 43,
-      "pending": 6,
-      "excluded": 28,
+      "total": 95,
+      "valid": 46,
+      "pending": 16,
+      "excluded": 33,
       "people": [
         {
           "id": "3c1a368214fd",
           "rank": 1,
           "name": "薛其坤",
           "english": "Xue Qikun",
-          "count": 8,
+          "count": 9,
           "sourceIds": [
             "2089178150047586062",
+            "2090546592034170392",
             "2090196038061659870",
             "2088043224178997139",
             "2084763356947298189",
@@ -2118,8 +2119,27 @@
           "warnings": []
         },
         {
-          "id": "d5aa34258347",
+          "id": "b34aac9ffdb3",
           "rank": 2,
+          "name": "叶军",
+          "english": "Jun Ye",
+          "count": 8,
+          "sourceIds": [
+            "2083334221356085859",
+            "2089404073430738133",
+            "2088761110715544611",
+            "2090546592034170392",
+            "2089228650738618368",
+            "2090068020794241577",
+            "2086596323340563662",
+            "2090040241117730612"
+          ],
+          "aiCount": 0,
+          "warnings": []
+        },
+        {
+          "id": "d5aa34258347",
+          "rank": 3,
           "name": "Michael Berry",
           "english": "",
           "count": 7,
@@ -2131,24 +2151,6 @@
             "2089143162719696431",
             "2086797950701913759",
             "2087985314631512389"
-          ],
-          "aiCount": 0,
-          "warnings": []
-        },
-        {
-          "id": "b34aac9ffdb3",
-          "rank": 2,
-          "name": "叶军",
-          "english": "Jun Ye",
-          "count": 7,
-          "sourceIds": [
-            "2083334221356085859",
-            "2089404073430738133",
-            "2088761110715544611",
-            "2089228650738618368",
-            "2086596323340563662",
-            "2090068020794241577",
-            "2090040241117730612"
           ],
           "aiCount": 0,
           "warnings": []
@@ -2179,8 +2181,8 @@
             "2083334221356085859",
             "2089404073430738133",
             "2088761110715544611",
-            "2086596323340563662",
-            "2090068020794241577"
+            "2090068020794241577",
+            "2086596323340563662"
           ],
           "aiCount": 0,
           "warnings": []
@@ -2192,8 +2194,8 @@
           "english": "",
           "count": 3,
           "sourceIds": [
-            "2083474238879671977",
             "2088043224178997139",
+            "2083474238879671977",
             "2087985314631512389"
           ],
           "aiCount": 0,
@@ -2776,6 +2778,30 @@
           ]
         },
         {
+          "id": "43b3aa87c033",
+          "rank": 22,
+          "name": "潘建伟",
+          "english": "",
+          "count": 1,
+          "sourceIds": [
+            "2090503431991587939"
+          ],
+          "aiCount": 0,
+          "warnings": []
+        },
+        {
+          "id": "166712b44225",
+          "rank": 22,
+          "name": "王贻芳",
+          "english": "",
+          "count": 1,
+          "sourceIds": [
+            "2090503431991587939"
+          ],
+          "aiCount": 0,
+          "warnings": []
+        },
+        {
           "id": "da7b348e676d",
           "rank": 22,
           "name": "邓青云",
@@ -2844,8 +2870,8 @@
             "2089404073430738133",
             "2088761110715544611",
             "2089228650738618368",
-            "2086596323340563662",
             "2090068020794241577",
+            "2086596323340563662",
             "2090040241117730612"
           ],
           "aiCount": 0,
@@ -2920,8 +2946,8 @@
           "english": "",
           "count": 3,
           "sourceIds": [
-            "2083474238879671977",
             "2088043224178997139",
+            "2083474238879671977",
             "2087985314631512389"
           ],
           "aiCount": 0,
@@ -3001,6 +3027,18 @@
           "sourceIds": [
             "2082461018953872529",
             "2083474025502789770"
+          ],
+          "aiCount": 0,
+          "warnings": []
+        },
+        {
+          "id": "0d387ff4911c",
+          "rank": 14,
+          "name": "中微子",
+          "english": "",
+          "count": 1,
+          "sourceIds": [
+            "2090503431991587939"
           ],
           "aiCount": 0,
           "warnings": []
@@ -3138,6 +3176,18 @@
           "warnings": []
         },
         {
+          "id": "2379c82b268c",
+          "rank": 14,
+          "name": "神经网络/AI的统计物理理论",
+          "english": "",
+          "count": 1,
+          "sourceIds": [
+            "2090599493754434456"
+          ],
+          "aiCount": 0,
+          "warnings": []
+        },
+        {
           "id": "f41ddf102500",
           "rank": 14,
           "name": "自由电子激光",
@@ -3157,6 +3207,18 @@
           "count": 1,
           "sourceIds": [
             "2086797950701913759"
+          ],
+          "aiCount": 0,
+          "warnings": []
+        },
+        {
+          "id": "2c47e7a898f3",
+          "rank": 14,
+          "name": "量子力学",
+          "english": "",
+          "count": 1,
+          "sourceIds": [
+            "2090503431991587939"
           ],
           "aiCount": 0,
           "warnings": []
@@ -3200,6 +3262,26 @@
       ],
       "answers": [
         {
+          "id": "2083714937596258134",
+          "url": "https://www.zhihu.com/question/2081708619905745132/answer/2083714937596258134",
+          "summary": "26.10.3更新： 突然发现知乎有压中给奖励的活动，那也来抽抽奖吧。 首先是分数量子霍尔体系中的复合费米子与任意子，是Jainendra Jain、Moty Heiblum、James Eisensteinsvg这三位，表彰因发现并实验研究分数量子霍尔体系中的分数化准粒子及其任意子统计性质，以区分1998年的分数量子霍尔效应。首先想到这个领域是因为任意子啊编织啊量子计算之类的概念热度又有所上升，并且疑似在转角/菱方/Bernal堆叠的二维材料里能直接看到。如…",
+          "people": [
+            "Jainendra Jain",
+            "Moty Heiblum",
+            "James Eisenstein"
+          ],
+          "directions": [
+            "分数量子霍尔与任意子"
+          ],
+          "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+          "reviewed": true,
+          "reviewMethod": "human",
+          "reviewModel": null,
+          "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
           "id": "2083334221356085859",
           "url": "https://www.zhihu.com/question/2081708619905745132/answer/2083334221356085859",
           "summary": "10.2 定稿 关于 2026 年诺贝尔物理学奖得主，我的预测名单为： 0、Fujio Masuoka、Stuart Parkin、Hideo Ohno 1、Sir Michael V. Berry、Yakir Aharonov，Bertrand Halperin 2、Hidetoshi Katori、Jun Ye 3、Pablo Jarillo-Herrero、Allan H. MacDonald + 神秘第三人（Sumio Iijima） 4、Sajeev John，Eli Yablonovitch、Susumu Noda 5、Masato Sagawa 6、David N. Payne，Emmanuel Desurvire，Masataka Nakazawa 7、Hideo Hoson…",
@@ -3241,16 +3323,15 @@
           "warnings": []
         },
         {
-          "id": "2083714937596258134",
-          "url": "https://www.zhihu.com/question/2081708619905745132/answer/2083714937596258134",
-          "summary": "26.10.3更新： 突然发现知乎有压中给奖励的活动，那也来抽抽奖吧。 首先是分数量子霍尔体系中的复合费米子与任意子，是Jainendra Jain、Moty Heiblum、James Eisensteinsvg这三位，表彰因发现并实验研究分数量子霍尔体系中的分数化准粒子及其任意子统计性质，以区分1998年的分数量子霍尔效应。首先想到这个领域是因为任意子啊编织啊量子计算之类的概念热度又有所上升，并且疑似在转角/菱方/Bernal堆叠的二维材料里能直接看到。如…",
+          "id": "2089404073430738133",
+          "url": "https://www.zhihu.com/question/2081708619905745132/answer/2089404073430738133",
+          "summary": "“不出所料”这一票，我押光晶格钟的发明与发展,人选是叶军（Jun Ye）和香取秀俊（Hidetoshi Katori）。有个事实特别像段子，在地球表面附近，其他条件相同，位置较高的钟会比位置较低的钟走得稍快一点。 这个差别平时完全感觉不到的…但到了2022年，叶军团队在一个毫米尺度的锶原子样品内部，比较上下不同位置的计时频率，测出与广义相对论预言一致的引力红移。 所以，所谓的“高”和“低”，其实并不用科学家带着钟去爬山，…",
           "people": [
-            "Jainendra Jain",
-            "Moty Heiblum",
-            "James Eisenstein"
+            "叶军",
+            "香取秀俊"
           ],
           "directions": [
-            "分数量子霍尔与任意子"
+            "光晶格原子钟"
           ],
           "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
           "reviewed": true,
@@ -3304,17 +3385,12 @@
           ]
         },
         {
-          "id": "2089404073430738133",
-          "url": "https://www.zhihu.com/question/2081708619905745132/answer/2089404073430738133",
-          "summary": "“不出所料”这一票，我押光晶格钟的发明与发展,人选是叶军（Jun Ye）和香取秀俊（Hidetoshi Katori）。有个事实特别像段子，在地球表面附近，其他条件相同，位置较高的钟会比位置较低的钟走得稍快一点。 这个差别平时完全感觉不到的…但到了2022年，叶军团队在一个毫米尺度的锶原子样品内部，比较上下不同位置的计时频率，测出与广义相对论预言一致的引力红移。 所以，所谓的“高”和“低”，其实并不用科学家带着钟去爬山，…",
-          "people": [
-            "叶军",
-            "香取秀俊"
-          ],
-          "directions": [
-            "光晶格原子钟"
-          ],
-          "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+          "id": "2083952994312271055",
+          "url": "https://www.zhihu.com/question/2081708619905745132/answer/2083952994312271055",
+          "summary": "最近几年大伙诺奖预测屡屡翻车，其根本原因是诺奖颁发明显出现了蹭热度的情况。2024年蹭AI，2025年蹭量子计算（顺便还用宏观量子效应蹭了一个量子力学100周年），这两个领域并不能说已经完全到了产出大结果的程度，但却一定是这两年最火热的领域。 如果按照这个逻辑，我们过去预测Berry或者麦当劳的分析逻辑可能就不太成立了。首先几何相位拿奖的阻力一方面在于已经形成了惯性，一旦开始陪跑往往就代表在委员会眼中你不是首选，…",
+          "people": [],
+          "directions": [],
+          "reason": "分析授奖趋势，未显示最终选择",
           "reviewed": true,
           "reviewMethod": "human",
           "reviewModel": null,
@@ -3323,12 +3399,19 @@
           "warnings": []
         },
         {
-          "id": "2083952994312271055",
-          "url": "https://www.zhihu.com/question/2081708619905745132/answer/2083952994312271055",
-          "summary": "最近几年大伙诺奖预测屡屡翻车，其根本原因是诺奖颁发明显出现了蹭热度的情况。2024年蹭AI，2025年蹭量子计算（顺便还用宏观量子效应蹭了一个量子力学100周年），这两个领域并不能说已经完全到了产出大结果的程度，但却一定是这两年最火热的领域。 如果按照这个逻辑，我们过去预测Berry或者麦当劳的分析逻辑可能就不太成立了。首先几何相位拿奖的阻力一方面在于已经形成了惯性，一旦开始陪跑往往就代表在委员会眼中你不是首选，…",
-          "people": [],
-          "directions": [],
-          "reason": "分析授奖趋势，未显示最终选择",
+          "id": "2083377107514798553",
+          "url": "https://www.zhihu.com/question/2081708619905745132/answer/2083377107514798553",
+          "summary": "1. Twistronics / 魔角石墨烯 候选人：Pablo Jarillo-Herrero、Allan MacDonald，第三人可能是 Rafi Bistritzer 或 Eva Andrei。MacDonald 和 Jarillo-Herrero 先后拿到 Wolf奖、BBVA Frontiers of Knowledge Basic Sciences，2026 年 Kavli 纳米科学奖又把 twistronics 作为一个完整领域来表彰。 Rafi Bistritzer：和 Allan MacDonald 在 2011 年提出著名的 Bistritzer–MacDonald model，算出 twisted bilayer graphene 在大约…",
+          "people": [
+            "Pablo Jarillo-Herrero",
+            "Allan MacDonald",
+            "Rafi Bistritzer",
+            "Eva Andrei"
+          ],
+          "directions": [
+            "魔角石墨烯与转角电子学"
+          ],
+          "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
           "reviewed": true,
           "reviewMethod": "human",
           "reviewModel": null,
@@ -3406,27 +3489,6 @@
           "people": [],
           "directions": [],
           "reason": "摘要截断，未显示具体预测",
-          "reviewed": true,
-          "reviewMethod": "human",
-          "reviewModel": null,
-          "reviewEvidence": [],
-          "aiAssisted": false,
-          "warnings": []
-        },
-        {
-          "id": "2083377107514798553",
-          "url": "https://www.zhihu.com/question/2081708619905745132/answer/2083377107514798553",
-          "summary": "1. Twistronics / 魔角石墨烯 候选人：Pablo Jarillo-Herrero、Allan MacDonald，第三人可能是 Rafi Bistritzer 或 Eva Andrei。MacDonald 和 Jarillo-Herrero 先后拿到 Wolf奖、BBVA Frontiers of Knowledge Basic Sciences，2026 年 Kavli 纳米科学奖又把 twistronics 作为一个完整领域来表彰。 Rafi Bistritzer：和 Allan MacDonald 在 2011 年提出著名的 Bistritzer–MacDonald model，算出 twisted bilayer graphene 在大约…",
-          "people": [
-            "Pablo Jarillo-Herrero",
-            "Allan MacDonald",
-            "Rafi Bistritzer",
-            "Eva Andrei"
-          ],
-          "directions": [
-            "魔角石墨烯与转角电子学"
-          ],
-          "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
           "reviewed": true,
           "reviewMethod": "human",
           "reviewModel": null,
@@ -3515,20 +3577,6 @@
           "warnings": []
         },
         {
-          "id": "2090464750438299468",
-          "url": "https://www.zhihu.com/question/2081708619905745132/answer/2090464750438299468",
-          "summary": "三个科学奖的热门名单上，全都站着华人。 今晚打头阵的是生理学或医学奖，热门名单上一口气就有三位。 [图片] 明天的物理学奖，悬念更大。 9月，薛其坤拿下了被视为「诺奖风向标」的科睿唯安引文桂冠。10月1日，叶军又拿下了同为「诺奖风向标」的沃尔夫物理学奖。 两个风向标在同一年指向两位华人物理学家，历史上还是第一次。 周三轮到化学奖。华人热门刘如谦为了改写DNA，在实验室里进化出了一个大自然里不存在的酶。 外媒让9个聊天…",
-          "people": [],
-          "directions": [],
-          "reason": "待复核：新增或摘要有变更",
-          "reviewed": false,
-          "reviewMethod": null,
-          "reviewModel": null,
-          "reviewEvidence": [],
-          "aiAssisted": false,
-          "warnings": []
-        },
-        {
           "id": "2089107528739246239",
           "url": "https://www.zhihu.com/question/2081708619905745132/answer/2089107528739246239",
           "summary": "2026 最新诺贝尔奖预测！哪位科学家会接到诺贝尔奖的电话？ 国庆假期到了，小伙伴们是不是已经人在路上了？ [图片] 墨子沙龙的假期安排里，也有三件大事：蹲诺奖、蹲诺奖，还是蹲诺奖。 10月5日至7日，诺贝尔生理学或医学奖、物理学奖和化学奖将接连揭晓，我们也会连续直播三场，陪大家一起等结果。 不过直播归直播，今天这篇只猜一道题：2026年诺贝尔物理学奖，会颁给哪位量子科学家？ 电话还没响，线索倒是可以先找起来。第一站，就…",
@@ -3538,6 +3586,20 @@
           "reviewed": true,
           "reviewMethod": "human",
           "reviewModel": null,
+          "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
+          "id": "2090464750438299468",
+          "url": "https://www.zhihu.com/question/2081708619905745132/answer/2090464750438299468",
+          "summary": "三个科学奖的热门名单上，全都站着华人。 今晚打头阵的是生理学或医学奖，热门名单上一口气就有三位。 [图片] 明天的物理学奖，悬念更大。 9月，薛其坤拿下了被视为「诺奖风向标」的科睿唯安引文桂冠。10月1日，叶军又拿下了同为「诺奖风向标」的沃尔夫物理学奖。 两个风向标在同一年指向两位华人物理学家，历史上还是第一次。 周三轮到化学奖。华人热门刘如谦为了改写DNA，在实验室里进化出了一个大自然里不存在的酶。 外媒让9个聊天…",
+          "people": [],
+          "directions": [],
+          "reason": "仅转述热门名单和风向标新闻，非作者本人预测",
+          "reviewed": true,
+          "reviewMethod": "zhida",
+          "reviewModel": "zhida-fast-1p5",
           "reviewEvidence": [],
           "aiAssisted": false,
           "warnings": []
@@ -3634,6 +3696,34 @@
             }
           ],
           "aiAssisted": true,
+          "warnings": []
+        },
+        {
+          "id": "2090546592034170392",
+          "url": "https://www.zhihu.com/question/2081708619905745132/answer/2090546592034170392",
+          "summary": "我押下薛其坤吧，希望这位雄起一波，能致敬下去世的杨振宁。 其实今年诺奖物理学奖的预测圈子里，有两个华人名字被反复提起，薛其坤和叶军。 叶军刚跟德国的Immanuel Bloch一起在10月1日拿了2026年沃尔夫物理学奖，颁奖词中写道，他们“在超冷原子系统控制方面取得的变革性、广泛适用的进展”而获此殊荣。 [图片] 据相关报道，叶军及其同事研发的原子钟精度极高，在150亿年的时间里（大致相当于宇宙的年龄）都不会出现一秒的误差。原子…",
+          "people": [
+            "薛其坤",
+            "叶军"
+          ],
+          "directions": [],
+          "reason": "作者明确押注薛其坤并提及叶军为被反复提起的预测人选",
+          "reviewed": true,
+          "reviewMethod": "zhida",
+          "reviewModel": "zhida-fast-1p5",
+          "reviewEvidence": [
+            {
+              "kind": "people",
+              "name": "薛其坤",
+              "quote": "我押下薛其坤吧，希望这位雄起一波"
+            },
+            {
+              "kind": "people",
+              "name": "叶军",
+              "quote": "其实今年诺奖物理学奖的预测圈子里，有两个华人名字被反复提起，薛其坤和叶军"
+            }
+          ],
+          "aiAssisted": false,
           "warnings": []
         },
         {
@@ -3734,6 +3824,27 @@
           "warnings": []
         },
         {
+          "id": "2088043224178997139",
+          "url": "https://www.zhihu.com/question/2081708619905745132/answer/2088043224178997139",
+          "summary": "10 月 6 日，北京时间下午 5 点 45 分，瑞典皇家科学院会念出三个名字。 离现在还有 8 天。这 8 天里中文互联网上会冒出几十份预测名单，内容大同小异，全是「我看好谁」。我这份不太一样，我想先给你一张概率表，这才是这类问题的正确输出格式。 最可能的落点是凝聚态里的拓扑物态与量子霍尔家族，我给 30%。族内单点，薛其坤 12%。另外两个值得单独押的是 OLED 三人组 13.2%，和 Kitaev 11.3%。 但如果你只记一句话，请记这句…",
+          "people": [
+            "薛其坤",
+            "Alexei Kitaev"
+          ],
+          "directions": [
+            "拓扑物态与量子霍尔",
+            "OLED",
+            "量子计算"
+          ],
+          "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+          "reviewed": true,
+          "reviewMethod": "human",
+          "reviewModel": null,
+          "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
           "id": "2083474238879671977",
           "url": "https://www.zhihu.com/question/2081708619905745132/answer/2083474238879671977",
           "summary": "我认为今年是凝聚态年。 所以主要预测应该是这三大佬 Pablo Jarillo-Herrero和Allan MacDonald、Rafi Bistritzer，表彰他们在魔角石墨烯领域的贡献。 剩下的一些我认为概率不大但是还是存在的预测也列一下 1.Federico Capasso和Susumu Noda在激光器领域做出杰出贡献 2.Martin Rees和Roy Kerr和Alessandra Buonanno在天体物理学领域做出杰出贡献。 3.Alexei Kitaev，David Deutsch，Charles Bennett在量子计算方向做出杰出贡献 4.…",
@@ -3790,10 +3901,10 @@
           "summary": "炸药奖都是有颇多taste的，也就是一开始做这事儿得interesting，觉得苦，大概率不行",
           "people": [],
           "directions": [],
-          "reason": "待复核：新增或摘要有变更",
-          "reviewed": false,
-          "reviewMethod": null,
-          "reviewModel": null,
+          "reason": "仅评论获奖趣味标准，无任何人名或方向预测",
+          "reviewed": true,
+          "reviewMethod": "zhida",
+          "reviewModel": "zhida-fast-1p5",
           "reviewEvidence": [],
           "aiAssisted": false,
           "warnings": []
@@ -3819,17 +3930,16 @@
           "warnings": []
         },
         {
-          "id": "2088043224178997139",
-          "url": "https://www.zhihu.com/question/2081708619905745132/answer/2088043224178997139",
-          "summary": "10 月 6 日，北京时间下午 5 点 45 分，瑞典皇家科学院会念出三个名字。 离现在还有 8 天。这 8 天里中文互联网上会冒出几十份预测名单，内容大同小异，全是「我看好谁」。我这份不太一样，我想先给你一张概率表，这才是这类问题的正确输出格式。 最可能的落点是凝聚态里的拓扑物态与量子霍尔家族，我给 30%。族内单点，薛其坤 12%。另外两个值得单独押的是 OLED 三人组 13.2%，和 Kitaev 11.3%。 但如果你只记一句话，请记这句…",
+          "id": "2082414191214965524",
+          "url": "https://www.zhihu.com/question/2081708619905745132/answer/2082414191214965524",
+          "summary": "今年应该是凝聚态物理，技术发明方向， 我看好与Ai有关的技术，理论前年给了，今年可能给技术，特别是存储方面的！ 我看日本今年风头好，闪存NAND的舛冈富士雄，不排除暴大冷门。还有光通信的中泽正隆，都是Ai时代最重要基础技术。",
           "people": [
-            "薛其坤",
-            "Alexei Kitaev"
+            "舛冈富士雄",
+            "中泽正隆"
           ],
           "directions": [
-            "拓扑物态与量子霍尔",
-            "OLED",
-            "量子计算"
+            "存储器与自旋电子学",
+            "光纤通信"
           ],
           "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
           "reviewed": true,
@@ -3846,26 +3956,6 @@
           "people": [],
           "directions": [
             "魔角石墨烯与转角电子学"
-          ],
-          "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
-          "reviewed": true,
-          "reviewMethod": "human",
-          "reviewModel": null,
-          "reviewEvidence": [],
-          "aiAssisted": false,
-          "warnings": []
-        },
-        {
-          "id": "2082414191214965524",
-          "url": "https://www.zhihu.com/question/2081708619905745132/answer/2082414191214965524",
-          "summary": "今年应该是凝聚态物理，技术发明方向， 我看好与Ai有关的技术，理论前年给了，今年可能给技术，特别是存储方面的！ 我看日本今年风头好，闪存NAND的舛冈富士雄，不排除暴大冷门。还有光通信的中泽正隆，都是Ai时代最重要基础技术。",
-          "people": [
-            "舛冈富士雄",
-            "中泽正隆"
-          ],
-          "directions": [
-            "存储器与自旋电子学",
-            "光纤通信"
           ],
           "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
           "reviewed": true,
@@ -3898,28 +3988,26 @@
           "warnings": []
         },
         {
+          "id": "2083757224137070144",
+          "url": "https://www.zhihu.com/question/2081708619905745132/answer/2083757224137070144",
+          "summary": "说个暴论，当年石墨烯拿诺奖，就已经是个现在回头看莫名其妙的事情了。 为什么会有人觉得转角石墨烯能拿诺奖呀- -",
+          "people": [],
+          "directions": [],
+          "reason": "否定转角石墨烯能获奖，属否定预测",
+          "reviewed": true,
+          "reviewMethod": "zhida",
+          "reviewModel": "zhida-fast-1p5",
+          "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
           "id": "2082054482687538064",
           "url": "https://www.zhihu.com/question/2081708619905745132/answer/2082054482687538064",
           "summary": "这个物理学奖首先不是颁给谁，而是在那些发现发明的项目里选，最后才是项目研发人来领。",
           "people": [],
           "directions": [],
           "reason": "讨论评奖方式，无具体预测",
-          "reviewed": true,
-          "reviewMethod": "human",
-          "reviewModel": null,
-          "reviewEvidence": [],
-          "aiAssisted": false,
-          "warnings": []
-        },
-        {
-          "id": "2084780573885740150",
-          "url": "https://www.zhihu.com/question/2081708619905745132/answer/2084780573885740150",
-          "summary": "我的预测是杨建磊，仅代表我的个人观点。 [图片]",
-          "people": [
-            "杨建磊"
-          ],
-          "directions": [],
-          "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
           "reviewed": true,
           "reviewMethod": "human",
           "reviewModel": null,
@@ -3939,6 +4027,22 @@
             "光晶格原子钟",
             "超冷原子量子模拟"
           ],
+          "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+          "reviewed": true,
+          "reviewMethod": "human",
+          "reviewModel": null,
+          "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
+          "id": "2084780573885740150",
+          "url": "https://www.zhihu.com/question/2081708619905745132/answer/2084780573885740150",
+          "summary": "我的预测是杨建磊，仅代表我的个人观点。 [图片]",
+          "people": [
+            "杨建磊"
+          ],
+          "directions": [],
           "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
           "reviewed": true,
           "reviewMethod": "human",
@@ -3998,12 +4102,12 @@
           "warnings": []
         },
         {
-          "id": "2083757224137070144",
-          "url": "https://www.zhihu.com/question/2081708619905745132/answer/2083757224137070144",
-          "summary": "说个暴论，当年石墨烯拿诺奖，就已经是个现在回头看莫名其妙的事情了。",
+          "id": "2083511440170808094",
+          "url": "https://www.zhihu.com/question/2081708619905745132/answer/2083511440170808094",
+          "summary": "用麦方程统一物理界，能行吗？ #张朝阳[超话]# 标题：#完善麦克斯韦方程组，统一微观与宏观物理# 麦克斯韦方程组有缺陷，这一点其实很隐蔽，但逻辑一旦理清，你会发现物理学底层能打通。 我的逻辑是这样的： 1. 静电场其实是“波的平均值” 麦方程把静电场写成类似引力的静态场，是错的。把静电场改成驻波的时间平均值，实验测量结果完全不变，依然符合所有宏观静电实验。而且它揭示了本质：静电场本身就是电磁波。 2. 德布罗意…",
           "people": [],
           "directions": [],
-          "reason": "历史评论",
+          "reason": "自荐理论，无明确预测",
           "reviewed": true,
           "reviewMethod": "human",
           "reviewModel": null,
@@ -4012,12 +4116,17 @@
           "warnings": []
         },
         {
-          "id": "2083511440170808094",
-          "url": "https://www.zhihu.com/question/2081708619905745132/answer/2083511440170808094",
-          "summary": "用麦方程统一物理界，能行吗？ #张朝阳[超话]# 标题：#完善麦克斯韦方程组，统一微观与宏观物理# 麦克斯韦方程组有缺陷，这一点其实很隐蔽，但逻辑一旦理清，你会发现物理学底层能打通。 我的逻辑是这样的： 1. 静电场其实是“波的平均值” 麦方程把静电场写成类似引力的静态场，是错的。把静电场改成驻波的时间平均值，实验测量结果完全不变，依然符合所有宏观静电实验。而且它揭示了本质：静电场本身就是电磁波。 2. 德布罗意…",
-          "people": [],
-          "directions": [],
-          "reason": "自荐理论，无明确预测",
+          "id": "2090068020794241577",
+          "url": "https://www.zhihu.com/question/2081708619905745132/answer/2090068020794241577",
+          "summary": "Hidetoshi Katori、Jun Ye：光晶格原子钟 香取秀俊提出光晶格钟方案；叶军团队建造并持续改进锶光晶格钟，真空紫外光频梳激发钍核跃迁。推动国际计量界讨论用光学频标重新定义“秒”。 与其说是预测，倒不如说希望把诺奖颁给与自己研究更近的大领域。",
+          "people": [
+            "香取秀俊",
+            "叶军"
+          ],
+          "directions": [
+            "光晶格原子钟"
+          ],
+          "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
           "reviewed": true,
           "reviewMethod": "human",
           "reviewModel": null,
@@ -4058,19 +4167,15 @@
           "warnings": []
         },
         {
-          "id": "2084763356947298189",
-          "url": "https://www.zhihu.com/question/2081708619905745132/answer/2084763356947298189",
-          "summary": "截至 2026 年 9 月 19 日，物理学奖尚未公布；正式结果将在 2026 年 10 月 7 日公布。(nobelprize.org )我的个人预测排序如下,因为经过慎重的考察之后，我觉得可能的方向有以下几个,不过说实话,伴随着现代物理学的发展，近些年来的重大突破已经非常少了,而物理学诺贝尔奖近几年的颁奖又不是特别的规律。 因此,基于个人的一些观点，我给出以下几个候选。 最可能人选：薛其坤理由：这是一个定义清晰、实验验证明确的宏观拓扑量子效…clarivate.com )我的主预测：薛其坤获奖。",
-          "people": [
-            "薛其坤"
-          ],
-          "directions": [
-            "量子反常霍尔效应"
-          ],
-          "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
-          "reviewed": true,
-          "reviewMethod": "human",
-          "reviewModel": null,
+          "id": "2090441847994835915",
+          "url": "https://www.zhihu.com/question/2081708619905745132/answer/2090441847994835915",
+          "summary": "其实如果不是首晟去世了的话，topological insulation 应该有一席之地的。其他的Kitaev吧，他也早就该得了。",
+          "people": [],
+          "directions": [],
+          "reason": "直答输出校验失败，待人工复核：人名/方向缺少原文依据",
+          "reviewed": false,
+          "reviewMethod": "zhida",
+          "reviewModel": "zhida-fast-1p5",
           "reviewEvidence": [],
           "aiAssisted": false,
           "warnings": []
@@ -4097,12 +4202,16 @@
           "warnings": []
         },
         {
-          "id": "2082055090668679524",
-          "url": "https://www.zhihu.com/question/2081708619905745132/answer/2082055090668679524",
-          "summary": "这玩意不难拿，这世上需要解决的重大实际问题很多，实事求是的随便解决几件就行。比如把工业生产集中在秋冬两季，就能让冬季更暖一点，夏季更凉一点。而春夏两季可以让工人广范植绿，充份让绿植吸收光能，固碳，充氧，储水，遮阳，蒸腾散热。这TM就是大气空调。",
-          "people": [],
-          "directions": [],
-          "reason": "无明确候选或预测",
+          "id": "2084763356947298189",
+          "url": "https://www.zhihu.com/question/2081708619905745132/answer/2084763356947298189",
+          "summary": "截至 2026 年 9 月 19 日，物理学奖尚未公布；正式结果将在 2026 年 10 月 7 日公布。(nobelprize.org )我的个人预测排序如下,因为经过慎重的考察之后，我觉得可能的方向有以下几个,不过说实话,伴随着现代物理学的发展，近些年来的重大突破已经非常少了,而物理学诺贝尔奖近几年的颁奖又不是特别的规律。 因此,基于个人的一些观点，我给出以下几个候选。 最可能人选：薛其坤理由：这是一个定义清晰、实验验证明确的宏观拓扑量子效…clarivate.com )我的主预测：薛其坤获奖。",
+          "people": [
+            "薛其坤"
+          ],
+          "directions": [
+            "量子反常霍尔效应"
+          ],
+          "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
           "reviewed": true,
           "reviewMethod": "human",
           "reviewModel": null,
@@ -4111,17 +4220,12 @@
           "warnings": []
         },
         {
-          "id": "2090068020794241577",
-          "url": "https://www.zhihu.com/question/2081708619905745132/answer/2090068020794241577",
-          "summary": "Hidetoshi Katori、Jun Ye：光晶格原子钟 香取秀俊提出光晶格钟方案；叶军团队建造并持续改进锶光晶格钟，真空紫外光频梳激发钍核跃迁。推动国际计量界讨论用光学频标重新定义“秒”。 与其说是预测，倒不如说希望把诺奖颁给与自己研究更近的大领域。",
-          "people": [
-            "香取秀俊",
-            "叶军"
-          ],
-          "directions": [
-            "光晶格原子钟"
-          ],
-          "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+          "id": "2082055090668679524",
+          "url": "https://www.zhihu.com/question/2081708619905745132/answer/2082055090668679524",
+          "summary": "这玩意不难拿，这世上需要解决的重大实际问题很多，实事求是的随便解决几件就行。比如把工业生产集中在秋冬两季，就能让冬季更暖一点，夏季更凉一点。而春夏两季可以让工人广范植绿，充份让绿植吸收光能，固碳，充氧，储水，遮阳，蒸腾散热。这TM就是大气空调。",
+          "people": [],
+          "directions": [],
+          "reason": "无明确候选或预测",
           "reviewed": true,
           "reviewMethod": "human",
           "reviewModel": null,
@@ -4143,6 +4247,20 @@
           "reviewed": true,
           "reviewMethod": "human",
           "reviewModel": null,
+          "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
+          "id": "2090429973781803320",
+          "url": "https://www.zhihu.com/question/2081708619905745132/answer/2090429973781803320",
+          "summary": "参与一下明天即将揭晓的物理学诺奖预测，按活动提供的四种预测思路，每个角度单独确定一组正式预测： 1️⃣赛博预测｜用AI大模型算一算 [图片] 【本角度正式预测人选】：Pablo Jarillo‑Herrero +Allan MacDonald、Eva Y. Andrei 【获奖理由】： 他的名字多次出现在今年AI多模型推演里，在赔率榜单也靠前。魔角石墨烯是理论加实验多人接力完成的成果，上面两位也是该领域奠基者，存在共享获奖的可能性。 AI结合历年诺奖数据给到…",
+          "people": [],
+          "directions": [],
+          "reason": "直答输出校验失败，待人工复核：人名/方向缺少原文依据",
+          "reviewed": false,
+          "reviewMethod": "zhida",
+          "reviewModel": "zhida-fast-1p5",
           "reviewEvidence": [],
           "aiAssisted": false,
           "warnings": []
@@ -4174,14 +4292,47 @@
           "warnings": []
         },
         {
-          "id": "2090441847994835915",
-          "url": "https://www.zhihu.com/question/2081708619905745132/answer/2090441847994835915",
-          "summary": "其实如果不是首晟去世了的话，topological insulation 应该有一席之地的。其他的Kitaev吧，他也早就该得了。",
+          "id": "2090593239237771469",
+          "url": "https://www.zhihu.com/question/2081708619905745132/answer/2090593239237771469",
+          "summary": "为什么Berry获得诺贝尔奖是历史的必然？ 总结诺贝尔奖发奖时间规律，我们不难发现两条：1. 按照历史顺序依次认可对人类科学重要的成果；2. 如果一项成果机具突破性，可以跳出历史顺序迅速颁发。 根据这两条规律，我们可以对过去十年诺贝尔奖进行梳理： 2016：拓扑学。Thouless和 Kosterlitz提出KT相变（1973），即二维体系无法拥有真正的长程有序，Haldane于1980年深化拓扑相变。 2017：引力波。Einstein100年前预言，2015年LIGO…",
           "people": [],
           "directions": [],
-          "reason": "待复核：新增或摘要有变更",
+          "reason": "直答输出校验失败，待人工复核：人名/方向缺少原文依据",
           "reviewed": false,
-          "reviewMethod": null,
+          "reviewMethod": "zhida",
+          "reviewModel": "zhida-fast-1p5",
+          "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
+          "id": "2090408400077206081",
+          "url": "https://www.zhihu.com/question/2081708619905745132/answer/2090408400077206081",
+          "summary": "薛其坤看起来今年希望不大，但是起码在国外也有呼声了。照这个趋势下去，拿奖还是很有希望的。",
+          "people": [],
+          "directions": [],
+          "reason": "作者称今年希望不大，是对2026年的否定预测。",
+          "reviewed": true,
+          "reviewMethod": "zhida",
+          "reviewModel": "zhida-fast-1p5",
+          "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
+          "id": "2089295324380714018",
+          "url": "https://www.zhihu.com/question/2081708619905745132/answer/2089295324380714018",
+          "summary": "Sajeev John，Eli Yablonovitch。 光子晶体没拿奖以前我每年都看好这两位。",
+          "people": [
+            "Sajeev John",
+            "Eli Yablonovitch"
+          ],
+          "directions": [
+            "光子晶体"
+          ],
+          "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+          "reviewed": true,
+          "reviewMethod": "human",
           "reviewModel": null,
           "reviewEvidence": [],
           "aiAssisted": false,
@@ -4201,20 +4352,6 @@
           "reviewed": true,
           "reviewMethod": "human",
           "reviewModel": null,
-          "reviewEvidence": [],
-          "aiAssisted": false,
-          "warnings": []
-        },
-        {
-          "id": "2090429973781803320",
-          "url": "https://www.zhihu.com/question/2081708619905745132/answer/2090429973781803320",
-          "summary": "参与一下明天即将揭晓的物理学诺奖预测，按活动提供的四种预测思路，每个角度单独确定一组正式预测： 1️⃣赛博预测｜用AI大模型算一算 [图片] 【本角度正式预测人选】：Pablo Jarillo‑Herrero +Allan MacDonald、Eva Y. Andrei 【获奖理由】： 他的名字多次出现在今年AI多模型推演里，在赔率榜单也靠前。魔角石墨烯是理论加实验多人接力完成的成果，上面两位也是该领域奠基者，存在共享获奖的可能性。 AI结合历年诺奖数据给到…",
-          "people": [],
-          "directions": [],
-          "reason": "直答输出校验失败，待人工复核：人名/方向缺少原文依据",
-          "reviewed": false,
-          "reviewMethod": "zhida",
-          "reviewModel": "zhida-fast-1p5",
           "reviewEvidence": [],
           "aiAssisted": false,
           "warnings": []
@@ -4250,25 +4387,6 @@
           "warnings": []
         },
         {
-          "id": "2089295324380714018",
-          "url": "https://www.zhihu.com/question/2081708619905745132/answer/2089295324380714018",
-          "summary": "Sajeev John，Eli Yablonovitch。 光子晶体没拿奖以前我每年都看好这两位。",
-          "people": [
-            "Sajeev John",
-            "Eli Yablonovitch"
-          ],
-          "directions": [
-            "光子晶体"
-          ],
-          "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
-          "reviewed": true,
-          "reviewMethod": "human",
-          "reviewModel": null,
-          "reviewEvidence": [],
-          "aiAssisted": false,
-          "warnings": []
-        },
-        {
           "id": "2089288004070387792",
           "url": "https://www.zhihu.com/question/2081708619905745132/answer/2089288004070387792",
           "summary": "张翔前，解决了爱因斯坦都未能解决的统一场论 雷绍武，提出运动力理论 杨建磊，提出粒子力学和盘古方程。 手动狗头",
@@ -4283,15 +4401,15 @@
           "warnings": []
         },
         {
-          "id": "2090408400077206081",
-          "url": "https://www.zhihu.com/question/2081708619905745132/answer/2090408400077206081",
-          "summary": "薛其坤看起来今年希望不大，但是起码在国外也有呼声了。照这个趋势下去，拿奖还是很有希望的。",
+          "id": "2089286588031358414",
+          "url": "https://www.zhihu.com/question/2081708619905745132/answer/2089286588031358414",
+          "summary": "我的理论出来是不是影响很多人拿奖呢？ [图片] 时间不是流，能量不是量，自旋不是转.pdf ANG‑TOE‑对原有理论的历史归位清单.pdf 时空是错觉，力也是假象.pdf ANG角动量网络几何学^7链接编织而成的宇宙拓扑图景.pdf 万物皆旋：角动量如何投影出你看到的一切.pdf ANG‑TOE v2.2 Skill Package + Full‑Domain Knowledge Base.md Hierarchy of Intelligence Based on Angular Momentum Manipulation Ability.pdf ANG-TOE v2.0 …",
           "people": [],
           "directions": [],
-          "reason": "作者称今年希望不大，是对2026年的否定预测。",
+          "reason": "自荐理论，无明确预测",
           "reviewed": true,
-          "reviewMethod": "zhida",
-          "reviewModel": "zhida-fast-1p5",
+          "reviewMethod": "human",
+          "reviewModel": null,
           "reviewEvidence": [],
           "aiAssisted": false,
           "warnings": []
@@ -4431,15 +4549,84 @@
           "warnings": []
         },
         {
-          "id": "2089286588031358414",
-          "url": "https://www.zhihu.com/question/2081708619905745132/answer/2089286588031358414",
-          "summary": "我的理论出来是不是影响很多人拿奖呢？ [图片] 时间不是流，能量不是量，自旋不是转.pdf ANG‑TOE‑对原有理论的历史归位清单.pdf 时空是错觉，力也是假象.pdf ANG角动量网络几何学^7链接编织而成的宇宙拓扑图景.pdf 万物皆旋：角动量如何投影出你看到的一切.pdf ANG‑TOE v2.2 Skill Package + Full‑Domain Knowledge Base.md Hierarchy of Intelligence Based on Angular Momentum Manipulation Ability.pdf ANG-TOE v2.0 …",
+          "id": "2090503431991587939",
+          "url": "https://www.zhihu.com/question/2081708619905745132/answer/2090503431991587939",
+          "summary": "潘建伟可能因为他对量子力学的研究获得中国第一个诺贝尔物理学奖；王贻芳也有可能因为他对中微子的研究获得中国第一个诺贝尔物理学奖，因为他发现了中微子的第3种振荡方式，发现前两种振荡方式的人都已经获得了诺贝尔物理学奖。",
+          "people": [
+            "潘建伟",
+            "王贻芳"
+          ],
+          "directions": [
+            "量子力学",
+            "中微子"
+          ],
+          "reason": "明确正向预测潘建伟和王贻芳可能获奖及对应方向。",
+          "reviewed": true,
+          "reviewMethod": "zhida",
+          "reviewModel": "zhida-fast-1p5",
+          "reviewEvidence": [
+            {
+              "kind": "people",
+              "name": "潘建伟",
+              "quote": "潘建伟可能因为他对量子力学的研究获得中国第一个诺贝尔物理学奖"
+            },
+            {
+              "kind": "people",
+              "name": "王贻芳",
+              "quote": "王贻芳也有可能因为他对中微子的研究获得中国第一个诺贝尔物理学奖"
+            },
+            {
+              "kind": "directions",
+              "name": "量子力学",
+              "quote": "潘建伟可能因为他对量子力学的研究获得中国第一个诺贝尔物理学奖"
+            },
+            {
+              "kind": "directions",
+              "name": "中微子",
+              "quote": "王贻芳也有可能因为他对中微子的研究获得中国第一个诺贝尔物理学奖"
+            }
+          ],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
+          "id": "2090611625313186486",
+          "url": "https://www.zhihu.com/question/2081708619905745132/answer/2090611625313186486",
+          "summary": "这个题目推给我，说明网络真正民主。 除了物理两个字我认得之外，我压根不知道我何德何能能够预测诺贝尔物理奖。 期待看到真正回答这个题目的大佬，估计能答这个题目的人，是不是自己离得奖也不远了？",
           "people": [],
           "directions": [],
-          "reason": "自荐理论，无明确预测",
+          "reason": "作者明确表示无法预测，未给出任何人选或方向。",
           "reviewed": true,
-          "reviewMethod": "human",
-          "reviewModel": null,
+          "reviewMethod": "zhida",
+          "reviewModel": "zhida-fast-1p5",
+          "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
+          "id": "2090577136193115070",
+          "url": "https://www.zhihu.com/question/2081708619905745132/answer/2090577136193115070",
+          "summary": "参与一下，我会选： John B. Pendry、David R. Smith 和 Ulf Leonhardt。 在超材料、负折射和变换光学领域的开创性贡献。之所以押这个方向，不是因为它是今年最热的候选，而恰恰是因为它已经“成熟得有点像该发了”。 传统材料的介电常数和磁导率主要由自然材料本身决定，而超材料通过人工设计亚波长尺度的结构，可以获得自然界中很难出现的电磁响应，例如负折射率。 Pendry在1990年代末到2000年前后，系统提出了人工实现负介电…",
+          "people": [],
+          "directions": [],
+          "reason": "直答输出校验失败，待人工复核：人名/方向缺少原文依据",
+          "reviewed": false,
+          "reviewMethod": "zhida",
+          "reviewModel": "zhida-fast-1p5",
+          "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
+          "id": "2090521510205199053",
+          "url": "https://www.zhihu.com/question/2081708619905745132/answer/2090521510205199053",
+          "summary": "感觉capasso，pendry，OLED，Jun Ye都是迟早的事🤔",
+          "people": [],
+          "directions": [],
+          "reason": "直答输出校验失败，待人工复核：人名/方向缺少原文依据",
+          "reviewed": false,
+          "reviewMethod": "zhida",
+          "reviewModel": "zhida-fast-1p5",
           "reviewEvidence": [],
           "aiAssisted": false,
           "warnings": []
@@ -4450,10 +4637,10 @@
           "summary": "我会押Eugene Mele。 第二候选是Alexei Kitaev，第三候选是John Preskill。 而且我认为，今年诺贝尔委员会可能会把过去二十多年量子信息革命中最基础、最底层的理论工作，再奖励一次。 因为时间点其实非常微妙。 2024年诺贝尔物理学奖给了Hopfield和Hinton，奖励神经网络的基础性工作。2025年又给了Clarke、Devoret和Martinis，奖励宏观量子隧穿和电路中的能量量子化。官方公布的2025年奖项明确强调，这些实验直接打开了量子计算…",
           "people": [],
           "directions": [],
-          "reason": "待复核：新增或摘要有变更",
+          "reason": "直答输出校验失败，待人工复核：人名/方向缺少原文依据",
           "reviewed": false,
-          "reviewMethod": null,
-          "reviewModel": null,
+          "reviewMethod": "zhida",
+          "reviewModel": "zhida-fast-1p5",
           "reviewEvidence": [],
           "aiAssisted": false,
           "warnings": []
@@ -4467,6 +4654,182 @@
           "reason": "评论，无具体预测",
           "reviewed": true,
           "reviewMethod": "human",
+          "reviewModel": null,
+          "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
+          "id": "2090599493754434456",
+          "url": "https://www.zhihu.com/question/2081708619905745132/answer/2090599493754434456",
+          "summary": "我猜是神经网络/AI的统计物理理论 理由是假如AI对人类有巨大影响力，那么在这上面了解的越多贡献就越大",
+          "people": [],
+          "directions": [
+            "神经网络/AI的统计物理理论"
+          ],
+          "reason": "作者明确预测的方向，但无对应规范人名。",
+          "reviewed": true,
+          "reviewMethod": "zhida",
+          "reviewModel": "zhida-fast-1p5",
+          "reviewEvidence": [
+            {
+              "kind": "directions",
+              "name": "神经网络/AI的统计物理理论",
+              "quote": "我猜是神经网络/AI的统计物理理论"
+            }
+          ],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
+          "id": "2090598791003092793",
+          "url": "https://www.zhihu.com/question/2081708619905745132/answer/2090598791003092793",
+          "summary": "不管谁获奖，薛其坤是不可能获奖的，原创贡献不够的，这是毫无疑问的。",
+          "people": [],
+          "directions": [],
+          "reason": "否定预测，非正向。",
+          "reviewed": true,
+          "reviewMethod": "zhida",
+          "reviewModel": "zhida-fast-1p5",
+          "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
+          "id": "2090588859830739114",
+          "url": "https://www.zhihu.com/question/2081708619905745132/answer/2090588859830739114",
+          "summary": "薛其坤，不为别的，多少沾亲带故的不是。。。",
+          "people": [],
+          "directions": [],
+          "reason": "直答输出校验失败，待人工复核：提取列表无效",
+          "reviewed": false,
+          "reviewMethod": "zhida",
+          "reviewModel": "zhida-fast-1p5",
+          "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
+          "id": "2090585653008454826",
+          "url": "https://www.zhihu.com/question/2081708619905745132/answer/2090585653008454826",
+          "summary": "2026年第一个诺贝尔奖揭晓了（生理学或医学奖），颁给了美、德三位科学家，核心成果是光门控离子通道、光遗传学。 [图片] 简单讲就是人类终于进一步实现了“用光精准开关大脑神经细胞”，对脑科学、精神疾病治疗、神经研究都是颠覆性突破，属于…呃，反正就是很NB的成果，我能想到的就是人脑芯片，也就是创新药器械。 下周要创新药要爆发了。 而且今年诺奖奖金还涨了，单项1200万瑞典克朗（约815万人民币），有点多啊，话说我有没有…",
+          "people": [],
+          "directions": [],
+          "reason": "内容为生理学或医学奖回顾与股市评论，奖项不匹配。",
+          "reviewed": true,
+          "reviewMethod": "zhida",
+          "reviewModel": "zhida-fast-1p5",
+          "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
+          "id": "2090570618882343008",
+          "url": "https://www.zhihu.com/question/2081708619905745132/answer/2090570618882343008",
+          "summary": "有AB相位（直觉），因为我认为诺奖评委是聪明人",
+          "people": [],
+          "directions": [],
+          "reason": "待复核：新增或摘要有变更",
+          "reviewed": false,
+          "reviewMethod": null,
+          "reviewModel": null,
+          "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
+          "id": "2090567799244599426",
+          "url": "https://www.zhihu.com/question/2081708619905745132/answer/2090567799244599426",
+          "summary": "再奶一下Masato Sagawa",
+          "people": [],
+          "directions": [],
+          "reason": "待复核：新增或摘要有变更",
+          "reviewed": false,
+          "reviewMethod": null,
+          "reviewModel": null,
+          "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
+          "id": "2090557842801669386",
+          "url": "https://www.zhihu.com/question/2081708619905745132/answer/2090557842801669386",
+          "summary": "我把2026 诺贝尔物理学奖押给「超冷原子体系的量子调控与光晶格精密测量」 Immanuel Bloch（马普量子光学所 / 慕尼黑大学） 叶军（Jun Ye）（NIST / 科罗拉多大学 JILA） 香取秀俊（Hidetoshi Katori）（东京大学 / 理化学研究所） 三人里 Bloch+叶军 是 2026 沃尔夫物理奖得主，香取秀俊是光晶格钟原案提出者。 物理学奖最难猜，但今年有几个信号叠得很重： 1. 风向标刚在开奖前点火 2026 年 10 月初，沃尔夫物理学奖给了 Bloch…",
+          "people": [],
+          "directions": [],
+          "reason": "待复核：新增或摘要有变更",
+          "reviewed": false,
+          "reviewMethod": null,
+          "reviewModel": null,
+          "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
+          "id": "2090549669357150927",
+          "url": "https://www.zhihu.com/question/2081708619905745132/answer/2090549669357150927",
+          "summary": "这个可是真的不太好预测呀。",
+          "people": [],
+          "directions": [],
+          "reason": "待复核：新增或摘要有变更",
+          "reviewed": false,
+          "reviewMethod": null,
+          "reviewModel": null,
+          "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
+          "id": "2090546202496521024",
+          "url": "https://www.zhihu.com/question/2081708619905745132/answer/2090546202496521024",
+          "summary": "近五年诺贝尔物理学奖依次授予了复杂物理系统(2021)、量子信息与量子力学基础实验(2022)、阿秒光物理与原子过程超快测量(2023)、人工神经网络的物理学基础(2024)以及超导电路中的宏观量子隧穿效应与能量量子化(2025)。可以看出，近年的诺奖偏好在基础交叉学科、前沿量子科技与传统宏观物理之间进行轮换。基于物理学各子领域的获奖周期与突破性成果的积淀，我罗列四组强有力的候选方向，并从中选定一组作为2026年的正式预测。 方…",
+          "people": [],
+          "directions": [],
+          "reason": "待复核：新增或摘要有变更",
+          "reviewed": false,
+          "reviewMethod": null,
+          "reviewModel": null,
+          "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
+          "id": "2090541104873595040",
+          "url": "https://www.zhihu.com/question/2081708619905745132/answer/2090541104873595040",
+          "summary": "John Pendry吧",
+          "people": [],
+          "directions": [],
+          "reason": "待复核：新增或摘要有变更",
+          "reviewed": false,
+          "reviewMethod": null,
+          "reviewModel": null,
+          "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
+          "id": "2090523995338699680",
+          "url": "https://www.zhihu.com/question/2081708619905745132/answer/2090523995338699680",
+          "summary": "我",
+          "people": [],
+          "directions": [],
+          "reason": "待复核：新增或摘要有变更",
+          "reviewed": false,
+          "reviewMethod": null,
+          "reviewModel": null,
+          "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
+          "id": "2090514380807001324",
+          "url": "https://www.zhihu.com/question/2081708619905745132/answer/2090514380807001324",
+          "summary": "纠缠三元数元公理体系·完全论证版——从元公理到2026年诺贝尔奖17位候选人的逐人演绎证明（永纠缠论·纠缠三元数体系文档·元公理演绎卷·第二版） 作者：孙远 版本：v2.0（2026-10-05） 凡例：本卷对v1.0做三级加固——（1）元公理不再直接列出，而是逐条给出本体论证（为何必须如此设定）；（2）每条引理、定理给出分步形式化证明；（3）17位候选人每人单列一节，完成”成就陈述→三元数定位→定理逐步代入→可检验预言”四段…",
+          "people": [],
+          "directions": [],
+          "reason": "待复核：新增或摘要有变更",
+          "reviewed": false,
+          "reviewMethod": null,
           "reviewModel": null,
           "reviewEvidence": [],
           "aiAssisted": false,
@@ -4635,11 +4998,11 @@
       "english": "CHEMISTRY",
       "symbol": "C",
       "questionUrl": "https://www.zhihu.com/question/2081709501913248924",
-      "fetchedAt": "2026-10-05T09:03:01.963142+00:00",
+      "fetchedAt": "2026-10-05T19:17:48.799960+00:00",
       "complete": true,
-      "total": 23,
+      "total": 27,
       "valid": 17,
-      "pending": 4,
+      "pending": 8,
       "excluded": 2,
       "people": [
         {
@@ -4650,8 +5013,8 @@
           "count": 3,
           "sourceIds": [
             "2084012229733638437",
-            "2090420401813959146",
-            "2090414959339611926"
+            "2090414959339611926",
+            "2090420401813959146"
           ],
           "aiCount": 0,
           "warnings": []
@@ -4664,8 +5027,8 @@
           "count": 3,
           "sourceIds": [
             "2084012229733638437",
-            "2090420401813959146",
-            "2090414959339611926"
+            "2090414959339611926",
+            "2090420401813959146"
           ],
           "aiCount": 0,
           "warnings": []
@@ -4678,8 +5041,8 @@
           "count": 3,
           "sourceIds": [
             "2084012229733638437",
-            "2090420401813959146",
-            "2090414959339611926"
+            "2090414959339611926",
+            "2090420401813959146"
           ],
           "aiCount": 0,
           "warnings": []
@@ -5497,6 +5860,54 @@
           "warnings": []
         },
         {
+          "id": "2090424739823085246",
+          "url": "https://www.zhihu.com/question/2081709501913248924/answer/2090424739823085246",
+          "summary": "理综奖预测依然是情怀组：卢煜明院士 卢教授其实每年有两次冲击诺奖的机会，一次在生医，一次在化学，他在2016年获得的引文桂冠奖就是被划在化学领域，如果今年理综奖又回到了生物化学方向，还是有可能听到他的名字的，当然一人独得的概率很小，或许会把“更高通量更低成本的Solexa DNA测序技术”和“以孕妇血浆DNA分析为本的无创产前诊断技术”组合在一起给奖： Shankar Balasubramanian ¼ ，David Klenerman ¼，卢煜明 ½ …",
+          "people": [],
+          "directions": [],
+          "reason": "直答输出校验失败，待人工复核：人名/方向缺少原文依据",
+          "reviewed": false,
+          "reviewMethod": "zhida",
+          "reviewModel": "zhida-fast-1p5",
+          "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
+          "id": "2090414959339611926",
+          "url": "https://www.zhihu.com/question/2081709501913248924/answer/2090414959339611926",
+          "summary": "之前参加过化学哲学的会议，但自己对于化学的前沿领域不熟悉，同学校化学哲学的老师聊了聊，我对 2026 年诺贝尔化学奖的正式预测是： 尚卡尔·巴拉苏布拉马尼安（Shankar Balasubramanian）、戴维·克莱纳曼（David Klenerman）与帕斯卡尔·迈耶（Pascal Mayer），表彰他们对大规模并行 DNA 测序的奠基性贡献。我看好这个方向，因为它改变了生命科学获取数据的能力，而这种改变的基础，是核苷酸化学、表面化学、酶促反应和光学检…",
+          "people": [
+            "Shankar Balasubramanian",
+            "David Klenerman",
+            "Pascal Mayer"
+          ],
+          "directions": [],
+          "reason": "作者明确给出2026年化学奖三位作家的正式预测。",
+          "reviewed": true,
+          "reviewMethod": "zhida",
+          "reviewModel": "zhida-fast-1p5",
+          "reviewEvidence": [
+            {
+              "kind": "people",
+              "name": "Shankar Balasubramanian",
+              "quote": "尚卡尔·巴拉苏布拉马尼安（Shankar Balasubramanian）、戴维·克莱纳曼（David Klenerman）与帕斯卡尔·迈耶（Pascal Mayer），表彰他们对大规模并行 DNA 测序的奠基性贡献"
+            },
+            {
+              "kind": "people",
+              "name": "David Klenerman",
+              "quote": "尚卡尔·巴拉苏布拉马尼安（Shankar Balasubramanian）、戴维·克莱纳曼（David Klenerman）与帕斯卡尔·迈耶（Pascal Mayer），表彰他们对大规模并行 DNA 测序的奠基性贡献"
+            },
+            {
+              "kind": "people",
+              "name": "Pascal Mayer",
+              "quote": "尚卡尔·巴拉苏布拉马尼安（Shankar Balasubramanian）、戴维·克莱纳曼（David Klenerman）与帕斯卡尔·迈耶（Pascal Mayer），表彰他们对大规模并行 DNA 测序的奠基性贡献"
+            }
+          ],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
           "id": "2088300759255343133",
           "url": "https://www.zhihu.com/question/2081709501913248924/answer/2088300759255343133",
           "summary": "我让豆包给推荐，它给出来了这么一组，日本🇯🇵➕韩国🇰🇷➕英国🇬🇧组合的诺贝尔化学奖候补。（三位一体，合起来正好够一个化学奖） 宫坂力（Tsutomu Miyasaka，日本，桐荫横滨大学） 宫坂力是钙钛矿太阳能电池的开创者。在染料敏化太阳能电池的研究基础上，他在2009年首次将甲胺铅碘卤化物钙钛矿材料用作光电吸收层，制造出世界上第一台钙钛矿太阳能原型器件。尽管初代器件效率低下、电解液体系极不稳定，但这篇论文正式开启了…",
@@ -5512,6 +5923,20 @@
           "reviewModel": null,
           "reviewEvidence": [],
           "aiAssisted": true,
+          "warnings": []
+        },
+        {
+          "id": "2090434212310554442",
+          "url": "https://www.zhihu.com/question/2081709501913248924/answer/2090434212310554442",
+          "summary": "摘要：2024年诺贝尔物理学奖和化学奖都颁给了人工智能的开路人。两年后，今年这份诺奖热门名单上，我挑了三个把AI用进研究核心的人，有人用Transformer读DNA，有人拿AI设计的蛋白当进化起点。 今晚17点30分，2026年的诺贝尔奖就要开奖了，头一个公布的是生理学或医学奖。 得先说清楚，诺奖委员会的提名名单从不对外公布，所谓热门名单，都是媒体和数据机构按论文影响力猜的。今晚之前，这些名字一个都不算数。 我也不想猜谁会得…",
+          "people": [],
+          "directions": [],
+          "reason": "直答无法确定，待人工复核：摘要截断且作者明确表示不想猜谁会得奖，未给出具体预测人名或方向。",
+          "reviewed": false,
+          "reviewMethod": "zhida",
+          "reviewModel": "zhida-fast-1p5",
+          "reviewEvidence": [],
+          "aiAssisted": false,
           "warnings": []
         },
         {
@@ -5560,9 +5985,25 @@
           "warnings": []
         },
         {
-          "id": "2090476370212172373",
-          "url": "https://www.zhihu.com/question/2081709501913248924/answer/2090476370212172373",
-          "summary": "Michele Parrinello Roberto Car Alessandro Laio? 我猜测是 前两位 或者 三人组，后者的话主题可能是： For the development of transformative methods for atomistic molecular simulation Car + Parrinello → ab initio molecular dynamics → 让计算机能够在量子力学层面模拟运动中的原子和化学过程 Parrinello + Laio → metadynamics → 让模拟跨越自由能势垒、观察稀有事件并获得自由能景观",
+          "id": "2083342696903717415",
+          "url": "https://www.zhihu.com/question/2081709501913248924/answer/2083342696903717415",
+          "summary": "Frustrated Lewis Pair（FLP）有没有一丝丝可能？（瞎猜）",
+          "people": [],
+          "directions": [
+            "受阻路易斯酸碱对"
+          ],
+          "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+          "reviewed": true,
+          "reviewMethod": "human",
+          "reviewModel": null,
+          "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
+          "id": "2090532326279209480",
+          "url": "https://www.zhihu.com/question/2081709501913248924/answer/2090532326279209480",
+          "summary": "复制一下去年的预测， 1. Roberto Car; Michele Parrinello 2. Peter G. Schultz; Stuart L. Schreiber 今年加上 David R. Liu 吧。话说感觉 yCD 真的好难 engineer，很多年前 Baker 组报道过一个稳定性提升的 yCD triplet mutant，我读博的时候也试着搞一些点突变进去，用的还是 Baker 组后来报道的 MSA 排除进化保守位点 + ProteinMPNN 重新设计的方法，结果不仅稳定性没提升，活性也基本搞没了…",
           "people": [],
           "directions": [],
           "reason": "待复核：新增或摘要有变更",
@@ -5574,29 +6015,29 @@
           "warnings": []
         },
         {
-          "id": "2090434212310554442",
-          "url": "https://www.zhihu.com/question/2081709501913248924/answer/2090434212310554442",
-          "summary": "摘要：2024年诺贝尔物理学奖和化学奖都颁给了人工智能的开路人。两年后，今年这份诺奖热门名单上，我挑了三个把AI用进研究核心的人，有人用Transformer读DNA，有人拿AI设计的蛋白当进化起点。 今晚17点30分，2026年的诺贝尔奖就要开奖了，头一个公布的是生理学或医学奖。 得先说清楚，诺奖委员会的提名名单从不对外公布，所谓热门名单，都是媒体和数据机构按论文影响力猜的。今晚之前，这些名字一个都不算数。 我也不想猜谁会得…",
+          "id": "2090504079319605900",
+          "url": "https://www.zhihu.com/question/2081709501913248924/answer/2090504079319605900",
+          "summary": "马延和的团队可能因为发现了二氧化碳固碳方法，从而获得中国第一个诺贝尔化学奖。",
           "people": [],
           "directions": [],
-          "reason": "直答无法确定，待人工复核：摘要截断且作者明确表示不想猜谁会得奖，未给出具体预测人名或方向。",
+          "reason": "待复核：新增或摘要有变更",
           "reviewed": false,
-          "reviewMethod": "zhida",
-          "reviewModel": "zhida-fast-1p5",
+          "reviewMethod": null,
+          "reviewModel": null,
           "reviewEvidence": [],
           "aiAssisted": false,
           "warnings": []
         },
         {
-          "id": "2090424739823085246",
-          "url": "https://www.zhihu.com/question/2081709501913248924/answer/2090424739823085246",
-          "summary": "理综奖预测依然是情怀组：卢煜明院士 卢教授其实每年有两次冲击诺奖的机会，一次在生医，一次在化学，他在2016年获得的引文桂冠奖就是被划在化学领域，如果今年理综奖又回到了生物化学方向，还是有可能听到他的名字的，当然一人独得的概率很小，或许会把“更高通量更低成本的Solexa DNA测序技术”和“以孕妇血浆DNA分析为本的无创产前诊断技术”组合在一起给奖： Shankar Balasubramanian ¼ ，David Klenerman ¼，卢煜明 ½ …",
+          "id": "2090476370212172373",
+          "url": "https://www.zhihu.com/question/2081709501913248924/answer/2090476370212172373",
+          "summary": "Michele Parrinello Roberto Car Alessandro Laio? 我猜测是 前两位 或者 三人组，后者的话主题可能是： For the development of transformative methods for atomistic molecular simulation Car + Parrinello → ab initio molecular dynamics → 让计算机能够在量子力学层面模拟运动中的原子和化学过程 Parrinello + Laio → metadynamics → 让模拟跨越自由能势垒、观察稀有事件并获得自由能景观",
           "people": [],
           "directions": [],
-          "reason": "直答输出校验失败，待人工复核：人名/方向缺少原文依据",
+          "reason": "待复核：新增或摘要有变更",
           "reviewed": false,
-          "reviewMethod": "zhida",
-          "reviewModel": "zhida-fast-1p5",
+          "reviewMethod": null,
+          "reviewModel": null,
           "reviewEvidence": [],
           "aiAssisted": false,
           "warnings": []
@@ -5643,40 +6084,6 @@
           "warnings": []
         },
         {
-          "id": "2090414959339611926",
-          "url": "https://www.zhihu.com/question/2081709501913248924/answer/2090414959339611926",
-          "summary": "之前参加过化学哲学的会议，但自己对于化学的前沿领域不熟悉，同学校化学哲学的老师聊了聊，我对 2026 年诺贝尔化学奖的正式预测是： 尚卡尔·巴拉苏布拉马尼安（Shankar Balasubramanian）、戴维·克莱纳曼（David Klenerman）与帕斯卡尔·迈耶（Pascal Mayer），表彰他们对大规模并行 DNA 测序的奠基性贡献。我看好这个方向，因为它改变了生命科学获取数据的能力，而这种改变的基础，是核苷酸化学、表面化学、酶促反应和光学检…",
-          "people": [
-            "Shankar Balasubramanian",
-            "David Klenerman",
-            "Pascal Mayer"
-          ],
-          "directions": [],
-          "reason": "作者明确给出2026年化学奖三位作家的正式预测。",
-          "reviewed": true,
-          "reviewMethod": "zhida",
-          "reviewModel": "zhida-fast-1p5",
-          "reviewEvidence": [
-            {
-              "kind": "people",
-              "name": "Shankar Balasubramanian",
-              "quote": "尚卡尔·巴拉苏布拉马尼安（Shankar Balasubramanian）、戴维·克莱纳曼（David Klenerman）与帕斯卡尔·迈耶（Pascal Mayer），表彰他们对大规模并行 DNA 测序的奠基性贡献"
-            },
-            {
-              "kind": "people",
-              "name": "David Klenerman",
-              "quote": "尚卡尔·巴拉苏布拉马尼安（Shankar Balasubramanian）、戴维·克莱纳曼（David Klenerman）与帕斯卡尔·迈耶（Pascal Mayer），表彰他们对大规模并行 DNA 测序的奠基性贡献"
-            },
-            {
-              "kind": "people",
-              "name": "Pascal Mayer",
-              "quote": "尚卡尔·巴拉苏布拉马尼安（Shankar Balasubramanian）、戴维·克莱纳曼（David Klenerman）与帕斯卡尔·迈耶（Pascal Mayer），表彰他们对大规模并行 DNA 测序的奠基性贡献"
-            }
-          ],
-          "aiAssisted": false,
-          "warnings": []
-        },
-        {
           "id": "2089115093577607038",
           "url": "https://www.zhihu.com/question/2081709501913248924/answer/2089115093577607038",
           "summary": "化学奖会发给OLED的发明人们",
@@ -5709,16 +6116,28 @@
           "warnings": []
         },
         {
-          "id": "2083342696903717415",
-          "url": "https://www.zhihu.com/question/2081709501913248924/answer/2083342696903717415",
-          "summary": "Frustrated Lewis Pair（FLP）有没有一丝丝可能？（瞎猜）",
+          "id": "2090591248625185437",
+          "url": "https://www.zhihu.com/question/2081709501913248924/answer/2090591248625185437",
+          "summary": "Dna encoded library总有一天会获得",
           "people": [],
-          "directions": [
-            "受阻路易斯酸碱对"
-          ],
-          "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
-          "reviewed": true,
-          "reviewMethod": "human",
+          "directions": [],
+          "reason": "待复核：新增或摘要有变更",
+          "reviewed": false,
+          "reviewMethod": null,
+          "reviewModel": null,
+          "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
+          "id": "2090500411404898489",
+          "url": "https://www.zhihu.com/question/2081709501913248924/answer/2090500411404898489",
+          "summary": "基因测序",
+          "people": [],
+          "directions": [],
+          "reason": "待复核：新增或摘要有变更",
+          "reviewed": false,
+          "reviewMethod": null,
           "reviewModel": null,
           "reviewEvidence": [],
           "aiAssisted": false,
@@ -5839,11 +6258,11 @@
       "english": "LITERATURE",
       "symbol": "L",
       "questionUrl": "https://www.zhihu.com/question/2085781961016960614",
-      "fetchedAt": "2026-10-05T09:03:03.546817+00:00",
+      "fetchedAt": "2026-10-05T19:17:50.419479+00:00",
       "complete": true,
-      "total": 30,
+      "total": 33,
       "valid": 12,
-      "pending": 4,
+      "pending": 7,
       "excluded": 14,
       "people": [
         {
@@ -6129,6 +6548,20 @@
           "warnings": []
         },
         {
+          "id": "2089087876738953715",
+          "url": "https://www.zhihu.com/question/2085781961016960614/answer/2089087876738953715",
+          "summary": "2018年诺奖评委会重组以来，颁奖人选方面确实呈现出许多显著的规律性。规律背后，往往也能找到一些说得过去的理由。 比如说男女作者轮流坐庄，体现的是评委会在制度化地修复历史性别失衡。要说以后严格这么配额倒不至于，但是钟摆绝对不可能一直往一个方向偏斜了。 再比如题材视角上，正在经历由外向内。 过去诺奖偏好宏大题材，马尔克斯、略萨，都是全景式的历史大叙事。当下开始向内收缩，聚焦历史暴力、权力结构所引发的个体…",
+          "people": [],
+          "directions": [],
+          "reason": "摘要截断，未显示具体预测",
+          "reviewed": true,
+          "reviewMethod": "human",
+          "reviewModel": null,
+          "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
           "id": "2090085674334564563",
           "url": "https://www.zhihu.com/question/2085781961016960614/answer/2090085674334564563",
           "summary": "去年我不小心猜中了获奖者： 克拉斯纳霍尔凯·拉斯洛。2025诺贝尔文学奖，你认为哪位作家胜算最大？ 今年如果不猜一下，对不起去年。 可是这样一年一年猜下去，真的有意思吗？年年都猜中，绝无可能，所以「打脸」是不可避免的。虽然有啪啪打脸的觉悟，还是要认真分析一下，不然对不起点进来看回答的知友。 文学奖不像物理、化学奖。 理工科奖项表彰的是 可验证的客观发现。一个物理理论是否正确，可以通过实验反复验证；一种新化…",
@@ -6160,12 +6593,12 @@
           "warnings": []
         },
         {
-          "id": "2089087876738953715",
-          "url": "https://www.zhihu.com/question/2085781961016960614/answer/2089087876738953715",
-          "summary": "2018年诺奖评委会重组以来，颁奖人选方面确实呈现出许多显著的规律性。规律背后，往往也能找到一些说得过去的理由。 比如说男女作者轮流坐庄，体现的是评委会在制度化地修复历史性别失衡。要说以后严格这么配额倒不至于，但是钟摆绝对不可能一直往一个方向偏斜了。 再比如题材视角上，正在经历由外向内。 过去诺奖偏好宏大题材，马尔克斯、略萨，都是全景式的历史大叙事。当下开始向内收缩，聚焦历史暴力、权力结构所引发的个体…",
+          "id": "2090105778371930028",
+          "url": "https://www.zhihu.com/question/2085781961016960614/answer/2090105778371930028",
+          "summary": "首先，关于赔率…今年Ladbrokes目前把残雪列为10/1第一，之后是村上春树14/1、Murnane和Pynchon 16/1，Cristina Rivera Garza、Vila-Matas、Lídia Jorge、乌利茨卡娅等20/1；卡森反而掉到了33/1。但诺奖赔率有一个要命的缺陷，即市场在猜“谁像诺奖作家”，瑞典学院却是在五个人左右的真实短名单中做比较。外界甚至不知道谁进入了最后五人。而评奖的正式机制是：每年约有200名被提名者，诺贝尔委员会先缩至约15人，5月底再缩…",
           "people": [],
           "directions": [],
-          "reason": "摘要截断，未显示具体预测",
+          "reason": "摘要为赔率与评奖机制讨论，未显示本人明确预测；不计正向票",
           "reviewed": true,
           "reviewMethod": "human",
           "reviewModel": null,
@@ -6180,20 +6613,6 @@
           "people": [],
           "directions": [],
           "reason": "转述赔率榜，未表达本人选择",
-          "reviewed": true,
-          "reviewMethod": "human",
-          "reviewModel": null,
-          "reviewEvidence": [],
-          "aiAssisted": false,
-          "warnings": []
-        },
-        {
-          "id": "2090105778371930028",
-          "url": "https://www.zhihu.com/question/2085781961016960614/answer/2090105778371930028",
-          "summary": "首先，关于赔率…今年Ladbrokes目前把残雪列为10/1第一，之后是村上春树14/1、Murnane和Pynchon 16/1，Cristina Rivera Garza、Vila-Matas、Lídia Jorge、乌利茨卡娅等20/1；卡森反而掉到了33/1。但诺奖赔率有一个要命的缺陷，即市场在猜“谁像诺奖作家”，瑞典学院却是在五个人左右的真实短名单中做比较。外界甚至不知道谁进入了最后五人。而评奖的正式机制是：每年约有200名被提名者，诺贝尔委员会先缩至约15人，5月底再缩…",
-          "people": [],
-          "directions": [],
-          "reason": "摘要为赔率与评奖机制讨论，未显示本人明确预测；不计正向票",
           "reviewed": true,
           "reviewMethod": "human",
           "reviewModel": null,
@@ -6247,20 +6666,6 @@
           "warnings": []
         },
         {
-          "id": "2090400222811796839",
-          "url": "https://www.zhihu.com/question/2085781961016960614/answer/2090400222811796839",
-          "summary": "我猜残雪。没别的原因，就是支持国人获奖。既然聊到这个，顺便说说先锋小说到底在玩什么，以及赔率这么高、读者却说看不懂是怎么回事。 残雪是1985年开始写作的，四十年里一直写先锋小说。她的同代人里，很多人试验一阵就转了向：余华写完《现实一种》之后写出了《活着》和《许三观卖血记》，格非后来写了《江南三部曲》，都回到了有人物、有故事的写法上。残雪没有转，她在同一条路上越走越远，越走越深。 先锋小说兴起于八十年…",
-          "people": [],
-          "directions": [],
-          "reason": "待复核：新增或摘要有变更",
-          "reviewed": false,
-          "reviewMethod": null,
-          "reviewModel": null,
-          "reviewEvidence": [],
-          "aiAssisted": false,
-          "warnings": []
-        },
-        {
           "id": "2090258199513395742",
           "url": "https://www.zhihu.com/question/2085781961016960614/answer/2090258199513395742",
           "summary": "这两天在读《人妻教師が教え子の女子高生にドはまりする話》，我想说入間人間应该拿诺贝尔文学奖 不开玩笑，根据历史或者组委会的喜好去猜人确实不是我擅长的，我有读过的文学家也只是很偏很小的一部分。但我还是很希望品钦能够获奖，因为这有极大的可能促成 Against the Days, Mason and Dixon 和 Shadow Tickets 这三部小说的中译。或者德里罗，在我最喜欢的几位小说家里他是另一位最有可能得诺奖的。",
@@ -6285,6 +6690,20 @@
               "quote": "或者德里罗，在我最喜欢的几位小说家里他是另一位最有可能得诺奖的。"
             }
           ],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
+          "id": "2090400222811796839",
+          "url": "https://www.zhihu.com/question/2085781961016960614/answer/2090400222811796839",
+          "summary": "我猜残雪。没别的原因，就是支持国人获奖。既然聊到这个，顺便说说先锋小说到底在玩什么，以及赔率这么高、读者却说看不懂是怎么回事。 残雪是1985年开始写作的，四十年里一直写先锋小说。她的同代人里，很多人试验一阵就转了向：余华写完《现实一种》之后写出了《活着》和《许三观卖血记》，格非后来写了《江南三部曲》，都回到了有人物、有故事的写法上。残雪没有转，她在同一条路上越走越远，越走越深。 先锋小说兴起于八十年…",
+          "people": [],
+          "directions": [],
+          "reason": "待复核：新增或摘要有变更",
+          "reviewed": false,
+          "reviewMethod": null,
+          "reviewModel": null,
+          "reviewEvidence": [],
           "aiAssisted": false,
           "warnings": []
         },
@@ -6414,6 +6833,20 @@
           "warnings": []
         },
         {
+          "id": "2090517298188644964",
+          "url": "https://www.zhihu.com/question/2085781961016960614/answer/2090517298188644964",
+          "summary": "学习久留美酱，我已经押了自己的全部生活费给 安妮·卡森（Anne Carson），这次预测相对保守一些，如果没押中，到时候直播空中飞人（这个选择多少有些奇怪，因为我很难向一个没读过她的人用一句话解释她到底写什么，说她是诗人，不够；说她是古典学家，好像又把人说得太冷；她翻译萨福和索福克勒斯，也写离婚、游泳、母亲、哥哥、玛丽莲·梦露，写一只长着翅膀的红色怪物怎样爱上赫拉克勒斯，甚至会把一本书装进盒子，做成一长条…",
+          "people": [],
+          "directions": [],
+          "reason": "待复核：新增或摘要有变更",
+          "reviewed": false,
+          "reviewMethod": null,
+          "reviewModel": null,
+          "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
           "id": "2090236154150904765",
           "url": "https://www.zhihu.com/question/2085781961016960614/answer/2090236154150904765",
           "summary": "我推测应该是杰梅卡·金凯德和玛曼达·恩戈兹·阿迪契中二选一 金凯德的创伤议题和诺奖近几年的风向很契合，阿迪契同理。而且在如今世界冲突愈演愈烈的情况下，阿迪契作品中宏大与微观、战争与体制都体现出的创伤内容（战争/少数族裔/移民）可能更受青睐。 至于很多人提到的埃彭贝克，我认为目前是不太可能，虽然24年拿了贝克奖，但是作品数和内容宽度都是还不够的。如果她能以这样的势头继续创作大约三部作品，那么以她的作品素…",
@@ -6444,16 +6877,14 @@
           ]
         },
         {
-          "id": "2089392708926416791",
-          "url": "https://www.zhihu.com/question/2085781961016960614/answer/2089392708926416791",
-          "summary": "预测三位： 1. 克里斯蒂娜·里韦拉·加尔萨（Cristina Rivera Garza） 2025年颁给匈牙利男作家克拉斯诺霍尔卡伊后，按学院近十年“男女交替”的节奏，2026年大概率属于女性。 拉美地区自2010年巴尔加斯·略萨后已空缺16年，加尔萨是当下拉美最具国际能见度的作家之一。2024年她凭《莉莉亚娜不可战胜的夏天》获普利策回忆录奖，该书将个人伤痛转化为对性别暴力的结构性批判，正是学院近年偏好的“参与性写作”。 她62岁，处于获奖…",
-          "people": [
-            "克里斯蒂娜·里韦拉·加尔萨"
-          ],
+          "id": "2090473636692078612",
+          "url": "https://www.zhihu.com/question/2085781961016960614/answer/2090473636692078612",
+          "summary": "其实我不太关心诺奖，除非颁给品钦或者德里罗。 我觉得诺奖作者构成的文学地图也不适合作为构建一个有效的审美体系参考，世界文学这个研究主题也不是我所感兴趣的，自然也不太想去考虑它究竟是有变成cosmopolitan tribunal of literature的风险还是认为赋予文学作品可译性只会是把巴黎、伦敦、纽约之外的文学带进巴黎、伦敦、纽约的评价体系。不过想一下我自己的偏好其实也挺狭窄的，或者可以被white Anglo-American male high-l…",
+          "people": [],
           "directions": [],
-          "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
-          "reviewed": true,
-          "reviewMethod": "human",
+          "reason": "待复核：新增或摘要有变更",
+          "reviewed": false,
+          "reviewMethod": null,
           "reviewModel": null,
           "reviewEvidence": [],
           "aiAssisted": false,
@@ -6466,6 +6897,36 @@
           "people": [
             "安妮·卡森",
             "玛格丽特·阿特伍德"
+          ],
+          "directions": [],
+          "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+          "reviewed": true,
+          "reviewMethod": "human",
+          "reviewModel": null,
+          "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
+          "id": "2090540181287867813",
+          "url": "https://www.zhihu.com/question/2085781961016960614/answer/2090540181287867813",
+          "summary": "猜测6位作家，加拿大的安妮·卡森，同为加拿大的阿特伍德，美国的恩德里克，出身于西印度群岛的琴凯德，墨西哥的加尔萨，新西兰的埃莉诺·卡顿。",
+          "people": [],
+          "directions": [],
+          "reason": "待复核：新增或摘要有变更",
+          "reviewed": false,
+          "reviewMethod": null,
+          "reviewModel": null,
+          "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
+          "id": "2089392708926416791",
+          "url": "https://www.zhihu.com/question/2085781961016960614/answer/2089392708926416791",
+          "summary": "预测三位： 1. 克里斯蒂娜·里韦拉·加尔萨（Cristina Rivera Garza） 2025年颁给匈牙利男作家克拉斯诺霍尔卡伊后，按学院近十年“男女交替”的节奏，2026年大概率属于女性。 拉美地区自2010年巴尔加斯·略萨后已空缺16年，加尔萨是当下拉美最具国际能见度的作家之一。2024年她凭《莉莉亚娜不可战胜的夏天》获普利策回忆录奖，该书将个人伤痛转化为对性别暴力的结构性批判，正是学院近年偏好的“参与性写作”。 她62岁，处于获奖…",
+          "people": [
+            "克里斯蒂娜·里韦拉·加尔萨"
           ],
           "directions": [],
           "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
@@ -6493,9 +6954,9 @@
           "warnings": []
         },
         {
-          "id": "2090473636692078612",
-          "url": "https://www.zhihu.com/question/2085781961016960614/answer/2090473636692078612",
-          "summary": "其实我不太关心诺奖，除非颁给品钦或者德里罗。 我觉得诺奖作者构成的文学地图也不适合作为构建一个有效的审美体系参考，世界文学这个研究主题也不是我所感兴趣的，自然也不太想去考虑它究竟是有变成cosmopolitan tribunal of literature的风险还是认为赋予文学作品可译性只会是把巴黎、伦敦、纽约之外的文学带进巴黎、伦敦、纽约的评价体系。不过想一下我自己的偏好其实也挺狭窄的，或者可以被white Anglo-American male high-l…",
+          "id": "2090591571620242229",
+          "url": "https://www.zhihu.com/question/2085781961016960614/answer/2090591571620242229",
+          "summary": "风水轮流转，也该轮到残雪或者村上春树了，不过我不太懂当代文学，也没读过残雪，我不知道为什么她年年都能上赔率榜。",
           "people": [],
           "directions": [],
           "reason": "待复核：新增或摘要有变更",
@@ -6563,11 +7024,11 @@
       "english": "ECONOMIC SCIENCES",
       "symbol": "E",
       "questionUrl": "https://www.zhihu.com/question/2084054769849611542",
-      "fetchedAt": "2026-10-05T09:03:06.991532+00:00",
+      "fetchedAt": "2026-10-05T19:17:52.062870+00:00",
       "complete": true,
-      "total": 38,
+      "total": 40,
       "valid": 21,
-      "pending": 2,
+      "pending": 4,
       "excluded": 15,
       "people": [
         {
@@ -7584,6 +8045,20 @@
           "warnings": []
         },
         {
+          "id": "2090515668852650755",
+          "url": "https://www.zhihu.com/question/2084054769849611542/answer/2090515668852650755",
+          "summary": "张维为，陈平，范勇鹏，翟东升",
+          "people": [],
+          "directions": [],
+          "reason": "待复核：新增或摘要有变更",
+          "reviewed": false,
+          "reviewMethod": null,
+          "reviewModel": null,
+          "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
           "id": "2087294981040093116",
           "url": "https://www.zhihu.com/question/2084054769849611542/answer/2087294981040093116",
           "summary": "林毅夫！ 林毅夫！ 林毅夫！",
@@ -7741,6 +8216,20 @@
           "warnings": []
         },
         {
+          "id": "2090445818193093100",
+          "url": "https://www.zhihu.com/question/2084054769849611542/answer/2090445818193093100",
+          "summary": "在2025年，诺贝尔经济学奖授予了创新增长理论，它聚焦在创造性破坏对经济发展的核心作用。 在2026年回望，现在的全球经济仍然有多重的挑战，数字平台的垄断侵蚀着发展活力，AI技术发展正在增加劳动市场的结构性的矛盾，气候转型的成本与贫富分化激增社会矛盾共识，而产业的反垄断行动亟待完善深化。 而诺奖的评委会也青睐直面现实的痛点，同时兼具理论的深度与政策实践价值的研究，它不仅是对学术洞见的肯定，亦是破解经济发展提…",
+          "people": [],
+          "directions": [],
+          "reason": "待复核：新增或摘要有变更",
+          "reviewed": false,
+          "reviewMethod": null,
+          "reviewModel": null,
+          "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
           "id": "2089072391817263078",
           "url": "https://www.zhihu.com/question/2084054769849611542/answer/2089072391817263078",
           "summary": "猜一手老头： 托马斯•皮凯蒂（Thomas Piketty）、伊曼纽尔•赛斯（Emmanuel Saez） 加布里埃尔•祖克曼（Gabriel Zucman） 顺便写一下颁奖词：感谢其在收入分配不均与财富不平等领域作出的巨大贡献！！！🏅🏅🏅",
@@ -7755,20 +8244,6 @@
           "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
           "reviewed": true,
           "reviewMethod": "human",
-          "reviewModel": null,
-          "reviewEvidence": [],
-          "aiAssisted": false,
-          "warnings": []
-        },
-        {
-          "id": "2090445818193093100",
-          "url": "https://www.zhihu.com/question/2084054769849611542/answer/2090445818193093100",
-          "summary": "在2025年，诺贝尔经济学奖授予了创新增长理论，它聚焦在创造性破坏对经济发展的核心作用。 在2026年回望，现在的全球经济仍然有多重的挑战，数字平台的垄断侵蚀着发展活力，AI技术发展正在增加劳动市场的结构性的矛盾，气候转型的成本与贫富分化激增社会矛盾共识，而产业的反垄断行动亟待完善深化。 而诺奖的评委会也青睐直面现实的痛点，同时兼具理论的深度与政策实践价值的研究，它不仅是对学术洞见的肯定，亦是破解经济发展提…",
-          "people": [],
-          "directions": [],
-          "reason": "待复核：新增或摘要有变更",
-          "reviewed": false,
-          "reviewMethod": null,
           "reviewModel": null,
           "reviewEvidence": [],
           "aiAssisted": false,
@@ -7794,6 +8269,34 @@
           "warnings": []
         },
         {
+          "id": "2090525407527303023",
+          "url": "https://www.zhihu.com/question/2084054769849611542/answer/2090525407527303023",
+          "summary": "经济学奖其实比物理、化学更难押，因为它很少存在一个清晰的“某年某月某日发现了什么”的瞬间，一套理论往往要经过二三十年的学术争论、经验检验和现实应用，才会被确认到底改变了多少经济学。可如果今年必须只留下一个正式答案，我会把票投给一个非常符合2026年时代背景、同时又已经沉淀足够久的方向： 数字经济与信息技术经济学，正式预测 Susan C. Athey（苏珊·阿西）和 Hal R. Varian（哈尔·瓦里安）共同获奖。我的预测获…",
+          "people": [],
+          "directions": [],
+          "reason": "待复核：新增或摘要有变更",
+          "reviewed": false,
+          "reviewMethod": null,
+          "reviewModel": null,
+          "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
+          "id": "2090455598257259349",
+          "url": "https://www.zhihu.com/question/2084054769849611542/answer/2090455598257259349",
+          "summary": "按照历年诺贝尔经济学奖板块轮动的传统看，我认为可以大致分解为：微观经济学，宏观经济学，金融学，发展经济学，劳动经济学及其他（其他包括财政学，纯计量经济学方法论，产业组织，制度经济学等）按照近十年发奖，金融学(22年)，劳动经济学（21 23年），发展经济学（25年）微观经济学（20年）都发了，虽然23和25年也可以对上部分宏观，但不太符合得奖者的主要研究领域。所以今年大概率是宏观领域得奖，其次是其他板块。 基于此…",
+          "people": [],
+          "directions": [],
+          "reason": "待复核：新增或摘要有变更",
+          "reviewed": false,
+          "reviewMethod": null,
+          "reviewModel": null,
+          "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
           "id": "2088989034861290920",
           "url": "https://www.zhihu.com/question/2084054769849611542/answer/2088989034861290920",
           "summary": "计量经济学理论方向，可能斯坦福的susan athey、mit的Victor Chernozhukov、Whitney Newey做因果推断与机器学习很前沿，不一定今年能颁给他们，但我想他们肯定是值得诺奖的。 另外LSE如果说political economy方向，Tim Besley教授应该也是热门候选。",
@@ -7810,20 +8313,6 @@
           "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
           "reviewed": true,
           "reviewMethod": "human",
-          "reviewModel": null,
-          "reviewEvidence": [],
-          "aiAssisted": false,
-          "warnings": []
-        },
-        {
-          "id": "2090455598257259349",
-          "url": "https://www.zhihu.com/question/2084054769849611542/answer/2090455598257259349",
-          "summary": "按照历年诺贝尔经济学奖板块轮动的传统看，我认为可以大致分解为：微观经济学，宏观经济学，金融学，发展经济学，劳动经济学及其他（其他包括财政学，纯计量经济学方法论，产业组织，制度经济学等）按照近十年发奖，金融学(22年)，劳动经济学（21 23年），发展经济学（25年）微观经济学（20年）都发了，虽然23和25年也可以对上部分宏观，但不太符合得奖者的主要研究领域。所以今年大概率是宏观领域得奖，其次是其他板块。 基于此…",
-          "people": [],
-          "directions": [],
-          "reason": "待复核：新增或摘要有变更",
-          "reviewed": false,
-          "reviewMethod": null,
           "reviewModel": null,
           "reviewEvidence": [],
           "aiAssisted": false,

@@ -1415,12 +1415,17 @@
       "warnings": []
     },
     "2083757224137070144": {
-      "summaryHash": "4518f24aa95957f470a62af745b7e8e2d1efe01797c0681c26103542e305a9fe",
+      "summaryHash": "d8274a8d90c0dcecf6f913592bf0087e1f141bdd18b33b537dc9793751374600",
       "reviewed": true,
       "people": [],
       "directions": [],
-      "reason": "历史评论",
-      "warnings": []
+      "reason": "否定转角石墨烯能获奖，属否定预测",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-05T19:18:02.348875+00:00",
+      "evidence": [],
+      "auditFile": "801cff6ad7b8aace0b27fca7074ecb6b9f62699e6aedf8f4fd4dedd7c61783de.json"
     },
     "2085328806546614126": {
       "summaryHash": "0b30ac6d3f0c97a6d6b7ecc8d2947f0c1fe0eb61379069cdc598f34ac50c61c6",
@@ -1961,6 +1966,225 @@
       "reviewMethod": "zhida",
       "model": "zhida-fast-1p5",
       "auditFile": "d666af0ffa91974bde22b8e94d83c8bd7d539afe27f32142d81b1f4c312dd4a2.json"
+    },
+    "2090464750438299468": {
+      "summaryHash": "081f94f99f8659eaf7ff162d3c9bfdf6f5faae2bc8aaea29fbb3c6c6ca021cf8",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "仅转述热门名单和风向标新闻，非作者本人预测",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-05T19:18:02.347927+00:00",
+      "evidence": [],
+      "auditFile": "801cff6ad7b8aace0b27fca7074ecb6b9f62699e6aedf8f4fd4dedd7c61783de.json"
+    },
+    "2090546592034170392": {
+      "summaryHash": "6a3a5c8b197a2308d338d66d69263dd2c26b02d2a569960b14013f4424aa22be",
+      "reviewed": true,
+      "people": [
+        "薛其坤",
+        "叶军"
+      ],
+      "directions": [],
+      "reason": "作者明确押注薛其坤并提及叶军为被反复提起的预测人选",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-05T19:18:02.347954+00:00",
+      "evidence": [
+        {
+          "kind": "people",
+          "name": "薛其坤",
+          "quote": "我押下薛其坤吧，希望这位雄起一波"
+        },
+        {
+          "kind": "people",
+          "name": "叶军",
+          "quote": "其实今年诺奖物理学奖的预测圈子里，有两个华人名字被反复提起，薛其坤和叶军"
+        }
+      ],
+      "auditFile": "801cff6ad7b8aace0b27fca7074ecb6b9f62699e6aedf8f4fd4dedd7c61783de.json"
+    },
+    "2090474764116684803": {
+      "summaryHash": "ba7cc8baa1e9efa2aa0f06ba939bd7a0537685da13e79598aa531c19dd32a059",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "仅评论获奖趣味标准，无任何人名或方向预测",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-05T19:18:02.348866+00:00",
+      "evidence": [],
+      "auditFile": "801cff6ad7b8aace0b27fca7074ecb6b9f62699e6aedf8f4fd4dedd7c61783de.json"
+    },
+    "2090441847994835915": {
+      "summaryHash": "3d26783149aa61829de9e1ff561e90789944e2525116540c705babd6ce3ea42a",
+      "reviewed": false,
+      "people": [],
+      "directions": [],
+      "reason": "直答输出校验失败，待人工复核：人名/方向缺少原文依据",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "auditFile": "801cff6ad7b8aace0b27fca7074ecb6b9f62699e6aedf8f4fd4dedd7c61783de.json"
+    },
+    "2090593239237771469": {
+      "summaryHash": "ebf0b9252fc78e7558a666d358603cd8460295a7f2e40d364bf3a76148012f3a",
+      "reviewed": false,
+      "people": [],
+      "directions": [],
+      "reason": "直答输出校验失败，待人工复核：人名/方向缺少原文依据",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "auditFile": "8cd20d3ce34e64841a6df6a64576eedfe9d6d0e4d6d2a384802996e69cc8bee4.json"
+    },
+    "2090503431991587939": {
+      "summaryHash": "ebe0eb30d8af18e0644c2bbcb394f5eb22c911627aca27b1295db6014a3833eb",
+      "reviewed": true,
+      "people": [
+        "潘建伟",
+        "王贻芳"
+      ],
+      "directions": [
+        "量子力学",
+        "中微子"
+      ],
+      "reason": "明确正向预测潘建伟和王贻芳可能获奖及对应方向。",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-05T19:18:19.846699+00:00",
+      "evidence": [
+        {
+          "kind": "people",
+          "name": "潘建伟",
+          "quote": "潘建伟可能因为他对量子力学的研究获得中国第一个诺贝尔物理学奖"
+        },
+        {
+          "kind": "people",
+          "name": "王贻芳",
+          "quote": "王贻芳也有可能因为他对中微子的研究获得中国第一个诺贝尔物理学奖"
+        },
+        {
+          "kind": "directions",
+          "name": "量子力学",
+          "quote": "潘建伟可能因为他对量子力学的研究获得中国第一个诺贝尔物理学奖"
+        },
+        {
+          "kind": "directions",
+          "name": "中微子",
+          "quote": "王贻芳也有可能因为他对中微子的研究获得中国第一个诺贝尔物理学奖"
+        }
+      ],
+      "auditFile": "8cd20d3ce34e64841a6df6a64576eedfe9d6d0e4d6d2a384802996e69cc8bee4.json"
+    },
+    "2090611625313186486": {
+      "summaryHash": "cab9da6524bbd5d7ff8a6ee10e22b42221eae81d7d6205288276196e2caff41e",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "作者明确表示无法预测，未给出任何人选或方向。",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-05T19:18:19.846964+00:00",
+      "evidence": [],
+      "auditFile": "8cd20d3ce34e64841a6df6a64576eedfe9d6d0e4d6d2a384802996e69cc8bee4.json"
+    },
+    "2090577136193115070": {
+      "summaryHash": "cffa5861a21f1fa6132808eb35c073cdecbb1d3234c4fc7094d539d3eee21b93",
+      "reviewed": false,
+      "people": [],
+      "directions": [],
+      "reason": "直答输出校验失败，待人工复核：人名/方向缺少原文依据",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "auditFile": "8cd20d3ce34e64841a6df6a64576eedfe9d6d0e4d6d2a384802996e69cc8bee4.json"
+    },
+    "2090521510205199053": {
+      "summaryHash": "14aabc5cf087a78e10ace455c67363ec73597bc63a0d65f914e84e68fc64f170",
+      "reviewed": false,
+      "people": [],
+      "directions": [],
+      "reason": "直答输出校验失败，待人工复核：人名/方向缺少原文依据",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "auditFile": "8cd20d3ce34e64841a6df6a64576eedfe9d6d0e4d6d2a384802996e69cc8bee4.json"
+    },
+    "2090438950154400918": {
+      "summaryHash": "bed88751d815470ae509319926956ebae505f3e3c573dc82e1b1be2f466cad77",
+      "reviewed": false,
+      "people": [],
+      "directions": [],
+      "reason": "直答输出校验失败，待人工复核：人名/方向缺少原文依据",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "auditFile": "a09934cb0de652daaf71b17bb7fba8a91679863af409e1c444633f0b9625492c.json"
+    },
+    "2090599493754434456": {
+      "summaryHash": "f3979bc16db64d7b6ddf99defc7828553a868f691ed5838a1cb56c792cc71ea2",
+      "reviewed": true,
+      "people": [],
+      "directions": [
+        "神经网络/AI的统计物理理论"
+      ],
+      "reason": "作者明确预测的方向，但无对应规范人名。",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-05T19:18:28.187089+00:00",
+      "evidence": [
+        {
+          "kind": "directions",
+          "name": "神经网络/AI的统计物理理论",
+          "quote": "我猜是神经网络/AI的统计物理理论"
+        }
+      ],
+      "auditFile": "a09934cb0de652daaf71b17bb7fba8a91679863af409e1c444633f0b9625492c.json"
+    },
+    "2090598791003092793": {
+      "summaryHash": "acc848a946496a7cca9d129bf3393e8c688668be1a316345a5b1c911fc8160f9",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "否定预测，非正向。",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-05T19:18:28.187146+00:00",
+      "evidence": [],
+      "auditFile": "a09934cb0de652daaf71b17bb7fba8a91679863af409e1c444633f0b9625492c.json"
+    },
+    "2090588859830739114": {
+      "summaryHash": "d7a48a5a404a140e717d5471adf46ff932d39c10294936def9530250c0eeffec",
+      "reviewed": false,
+      "people": [],
+      "directions": [],
+      "reason": "直答输出校验失败，待人工复核：提取列表无效",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "auditFile": "a09934cb0de652daaf71b17bb7fba8a91679863af409e1c444633f0b9625492c.json"
+    },
+    "2090585653008454826": {
+      "summaryHash": "1d89c45a904723af9d82788b6018ae3034e20612794a94dd02a3cfd09ba59ca0",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "内容为生理学或医学奖回顾与股市评论，奖项不匹配。",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-05T19:18:28.187241+00:00",
+      "evidence": [],
+      "auditFile": "a09934cb0de652daaf71b17bb7fba8a91679863af409e1c444633f0b9625492c.json"
     }
   },
   "chemistry": {

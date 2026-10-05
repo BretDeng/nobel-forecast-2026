@@ -1,0 +1,27 @@
+{
+  "model": "zhida-fast-1p5",
+  "category": "physics",
+  "summaryHashes": {
+    "2090593239237771469": "ebf0b9252fc78e7558a666d358603cd8460295a7f2e40d364bf3a76148012f3a",
+    "2090503431991587939": "ebe0eb30d8af18e0644c2bbcb394f5eb22c911627aca27b1295db6014a3833eb",
+    "2090611625313186486": "cab9da6524bbd5d7ff8a6ee10e22b42221eae81d7d6205288276196e2caff41e",
+    "2090577136193115070": "cffa5861a21f1fa6132808eb35c073cdecbb1d3234c4fc7094d539d3eee21b93",
+    "2090521510205199053": "14aabc5cf087a78e10ace455c67363ec73597bc63a0d65f914e84e68fc64f170"
+  },
+  "response": {
+    "id": "chatcmpl-a447fd34-ba6c-41db-a6c4-b01c95f7c0ac",
+    "object": "chat.completion",
+    "created": 1791227899,
+    "model": "zhida-fast-1p5",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "{\"items\":[{\"id\":\"2090593239237771469\",\"status\":\"include\",\"people\":[{\"name\":\"Michael Berry\",\"evidence\":\"为什么Berry获得诺贝尔奖是历史的必然？\"}],\"directions\":[],\"reason\":\"标题明确主张Berry获奖是历史必然，属于正向预测。\"},{\"id\":\"2090503431991587939\",\"status\":\"include\",\"people\":[{\"name\":\"潘建伟\",\"evidence\":\"潘建伟可能因为他对量子力学的研究获得中国第一个诺贝尔物理学奖\"},{\"name\":\"王贻芳\",\"evidence\":\"王贻芳也有可能因为他对中微子的研究获得中国第一个诺贝尔物理学奖\"}],\"directions\":[{\"name\":\"量子力学\",\"evidence\":\"潘建伟可能因为他对量子力学的研究获得中国第一个诺贝尔物理学奖\"},{\"name\":\"中微子\",\"evidence\":\"王贻芳也有可能因为他对中微子的研究获得中国第一个诺贝尔物理学奖\"}],\"reason\":\"明确正向预测潘建伟和王贻芳可能获奖及对应方向。\"},{\"id\":\"2090611625313186486\",\"status\":\"exclude\",\"people\":[],\"directions\":[],\"reason\":\"作者明确表示无法预测，未给出任何人选或方向。\"},{\"id\":\"2090577136193115070\",\"status\":\"include\",\"people\":[{\"name\":\"John Pendry\",\"evidence\":\"我会选： John B. Pendry、David R. Smith 和 Ulf Leonhardt。\"},{\"name\":\"David Smith\",\"evidence\":\"我会选： John B. Pendry、David R. Smith 和 Ulf Leonhardt。\"},{\"name\":\"Ulf Leonhardt\",\"evidence\":\"我会选： John B. Pendry、David R. Smith 和 Ulf Leonhardt。\"}],\"directions\":[{\"name\":\"超材料与负折射率\",\"evidence\":\"在超材料、负折射和变换光学领域的开创性贡献。\"}],\"reason\":\"作者明确表态选择三人在超材料、负折射和变换光学领域获奖。\"},{\"id\":\"2090521510205199053\",\"status\":\"include\",\"people\":[{\"name\":\"Federico Capasso\",\"evidence\":\"感觉capasso，pendry，OLED，Jun Ye都是迟早的事🤔\"},{\"name\":\"John Pendry\",\"evidence\":\"感觉capasso，pendry，OLED，Jun Ye都是迟早的事🤔\"},{\"name\":\"叶军\",\"evidence\":\"感觉capasso，pendry，OLED，Jun Ye都是迟早的事🤔\"}],\"directions\":[{\"name\":\"OLED\",\"evidence\":\"感觉capasso，pendry，OLED，Jun Ye都是迟早的事🤔\"}],\"reason\":\"作者明确预测这些人和OLED方向获奖是迟早的事。\"}]}"
+        },
+        "finish_reason": "stop"
+      }
+    ]
+  }
+}
