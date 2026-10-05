@@ -29,6 +29,11 @@ class ZhidaReviewTests(unittest.TestCase):
   with self.assertRaises(ValueError):validate(item,self.source('背景'),{'people':{},'directions':{}})
  def test_aliases_do_not_split_existing_candidates(self):
   self.assertEqual(canonicalize('Dennis Lo','我预测Dennis Lo',{'卢煜明':['卢煜明','Dennis Lo']}),'卢煜明')
+ def test_mojsov_chinese_quote_supports_existing_candidate(self):
+  catalogs={'people':catalog_for({'medicine':{'a':{'people':['Svetlana Mojsov']}}},'medicine','people'),'directions':{}}
+  text='获奖人选：斯维特兰娜·莫伊索'
+  result=validate(self.item(people=[{'name':'Svetlana Mojsov','evidence':text}]),self.source(text),catalogs,'medicine')
+  self.assertEqual(result['people'],['Svetlana Mojsov'])
  def test_malformed_output_rejected(self):
   with self.assertRaises(ValueError):parse_response({'choices':[{'message':{'content':'我预测三个人。'}}]})
  def test_protocol_parsed_without_extraneous_prose(self):

@@ -544,14 +544,43 @@
     },
     "2090231295540455238": {
       "summaryHash": "4028889160dce67b956d81954ca8714eeba0ac1f262ac50873f4f92b8541fc9e",
-      "reviewed": false,
-      "people": [],
-      "directions": [],
-      "reason": "直答输出校验失败，待人工复核：人名/方向缺少原文依据",
+      "reviewed": true,
+      "people": [
+        "Daniel Drucker",
+        "Jens Juul Holst",
+        "Svetlana Mojsov"
+      ],
+      "directions": [
+        "GLP-1"
+      ],
+      "reason": "作者明确预测GLP-1方向及三位获奖人选，属于2026年本奖项的正向预测。",
       "warnings": [],
       "reviewMethod": "zhida",
       "model": "zhida-fast-1p5",
-      "auditFile": "9cdd41d8ff382ef258fdc3b2ac2df49ea55c7a630564ebed740408cec2140322.json"
+      "reviewedAt": "2026-10-05T02:18:24.090437+00:00",
+      "evidence": [
+        {
+          "kind": "people",
+          "name": "Daniel Drucker",
+          "quote": "获奖人选： 丹尼尔·德鲁克（Daniel J. Drucker）、延斯·尤尔·霍斯特（Jens Juul Holst）和斯维特兰娜·莫伊索"
+        },
+        {
+          "kind": "people",
+          "name": "Jens Juul Holst",
+          "quote": "获奖人选： 丹尼尔·德鲁克（Daniel J. Drucker）、延斯·尤尔·霍斯特（Jens Juul Holst）和斯维特兰娜·莫伊索"
+        },
+        {
+          "kind": "people",
+          "name": "Svetlana Mojsov",
+          "quote": "获奖人选： 丹尼尔·德鲁克（Daniel J. Drucker）、延斯·尤尔·霍斯特（Jens Juul Holst）和斯维特兰娜·莫伊索"
+        },
+        {
+          "kind": "directions",
+          "name": "GLP-1",
+          "quote": "获奖成果： GLP-1（胰高血糖素样肽-1）的发现与机制阐明"
+        }
+      ],
+      "auditFile": "dcc1f8640a891fd73183c462509c3f26be94018a6e4d8ea099c5e83c774b7e76.json"
     },
     "2090191964071375559": {
       "summaryHash": "2fe89013fa7fe4bd82f61d6b277c4c318a2282492ed6f6dc90724815d7e34a86",
@@ -591,6 +620,268 @@
       "reviewedAt": "2026-10-05T02:07:21.026943+00:00",
       "evidence": [],
       "auditFile": "9cdd41d8ff382ef258fdc3b2ac2df49ea55c7a630564ebed740408cec2140322.json"
+    },
+    "2090195993891546193": {
+      "summaryHash": "8011db08c24d37da30141adb1a156f48d07b594633f8c107aaf99a384c2b3f31",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "仅表达对艾滋病治愈的愿望，未提出2026年该奖项的作者预测人名或方向。",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-05T02:16:01.605388+00:00",
+      "evidence": [],
+      "auditFile": "0f7293542d7378b978083890fe2d7f213710f6791f3b3be92feb8631ec1dd71d.json"
+    },
+    "2090381661833795115": {
+      "summaryHash": "40fd3438d8fd80cfea8fcf56b40d59f86fc8c0c60bc2e71ae2cc0eeb585cd148",
+      "reviewed": true,
+      "people": [],
+      "directions": [
+        "GLP-1"
+      ],
+      "reason": "作者明确将GLP-1及其生理调节机制列为2026年生理学或医学奖的世纪最大热门，属于明确正向预测；摘要截断但已给出预测语境，未提及具体人名。",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-05T02:16:09.420052+00:00",
+      "evidence": [
+        {
+          "kind": "directions",
+          "name": "GLP-1",
+          "quote": "1. 世纪最大热门与修罗场：GLP-1及其生理调节机制按对现代人类社会的重构程度算，GLP-1靶点如果拿不到"
+        }
+      ],
+      "auditFile": "0b818ba5b8c9c9fb60cb07b0f4f0aebfe2429d440ebbd865024a9c8331b5aa21.json"
+    },
+    "2090381611544192598": {
+      "summaryHash": "36013401a885ade734401b557161c008b8fdfc88d6afeb3771910c38c721b98c",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "文本为个人感叹，不含对2026年生理学或医学奖的任何预测。",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-05T02:16:15.728692+00:00",
+      "evidence": [],
+      "auditFile": "48a01f191042e7bd4edcd7bc3fb306e3bbabf8dc6a107142275bea76f93045e3.json"
+    },
+    "2090368072955720054": {
+      "summaryHash": "7932f0352d52bc3ed1fe7511fc99a7f0f71c99de2d91ef212566ebe9089000d1",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "摘要仅写“乔治朱”，无法辨识具体候选人；不猜测姓名身份。",
+      "warnings": [
+        "原摘要候选身份无法辨识，不计票"
+      ],
+      "reviewMethod": "human",
+      "reviewedAt": "2026-10-05T02:24:33.353132+00:00",
+      "evidence": [],
+      "previousAuditFile": "df6afd8f472f96fefbb22357c35bde1f9a23ee71f7cc74fe5f469939884559eb.json"
+    },
+    "2090360272632469501": {
+      "summaryHash": "1555990818e0243d3dfac5c23290375fe9ad3bbc01720f4dcb3e0beb2cd79ddc",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "摘要无2026年生理学或医学奖的明确预测内容。",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-05T02:18:32.545165+00:00",
+      "evidence": [],
+      "auditFile": "768628f690c42f0fd38741a36ea350cd03c909a9709c93ad80040024933b7afe.json"
+    },
+    "2090378245564789103": {
+      "summaryHash": "facd70753c4b9f93c91df3b0542646c9f211a33635e2799fd219f7637affd15a",
+      "reviewed": true,
+      "people": [
+        "Masashi Yanagisawa"
+      ],
+      "directions": [
+        "食欲素与睡眠调控"
+      ],
+      "reason": "作者明确预测柳泽正史因食欲素研究获奖。",
+      "warnings": [],
+      "reviewMethod": "human",
+      "reviewedAt": "2026-10-05T02:24:33.352409+00:00",
+      "evidence": [
+        {
+          "kind": "people",
+          "name": "Masashi Yanagisawa",
+          "quote": "今年的诺奖又要被日本人拿走了 柳泽正史 食欲素"
+        },
+        {
+          "kind": "directions",
+          "name": "食欲素与睡眠调控",
+          "quote": "柳泽正史 食欲素 发现食欲素神经肽"
+        }
+      ]
+    },
+    "2090266604999386134": {
+      "summaryHash": "b70bb4acc0484cf040de4c07c60f9db722283da2c4a672c39291de621e92c33f",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "“我”为自指玩笑，没有可辨识的诺奖候选。",
+      "warnings": [],
+      "reviewMethod": "human",
+      "reviewedAt": "2026-10-05T02:24:33.353180+00:00",
+      "evidence": []
+    },
+    "2090265614430508304": {
+      "summaryHash": "d498ab08357fb14c08a84833f36277f23158bf7115e6868a7419dee4949a9c16",
+      "reviewed": true,
+      "people": [
+        "陈志坚"
+      ],
+      "directions": [],
+      "reason": "在本年度奖项预测问题下直接回答候选人姓名，计为对陈志坚的提名。",
+      "warnings": [],
+      "reviewMethod": "human",
+      "reviewedAt": "2026-10-05T02:24:33.353220+00:00",
+      "evidence": [
+        {
+          "kind": "people",
+          "name": "陈志坚",
+          "quote": "陈志坚"
+        }
+      ]
+    },
+    "2090244046824519609": {
+      "summaryHash": "be743bc118641035f04cb9f0ba685ab38899c0cc140f881f19a56b39106d7294",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "可见摘要仅介绍预测方法并回顾2025年获奖内容，没有出现可计票的2026年候选；不补全截断部分。",
+      "warnings": [
+        "摘要截断；当前可见内容没有明确的本届预测"
+      ],
+      "reviewMethod": "human",
+      "reviewedAt": "2026-10-05T02:24:33.353310+00:00",
+      "evidence": []
+    },
+    "2090214441451254231": {
+      "summaryHash": "76776b1670814a31440002c8a0ccbb9e1f3d18cce4df7a5c25963963c319589f",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "可见摘要仅说明请AI预测并回顾2024年化学奖，没有给出本届医学奖候选；不补全截断部分。",
+      "warnings": [
+        "摘要截断；当前可见内容没有明确的本届预测"
+      ],
+      "reviewMethod": "human",
+      "reviewedAt": "2026-10-05T02:24:33.353349+00:00",
+      "evidence": []
+    },
+    "2090182473258887131": {
+      "summaryHash": "2ba29b005c5eab7c62f67460700da79cd046a6ad18d36e14775c06ae67884048",
+      "reviewed": true,
+      "people": [
+        "Daniel Drucker",
+        "Jens Juul Holst",
+        "Svetlana Mojsov",
+        "卢煜明"
+      ],
+      "directions": [
+        "GLP-1"
+      ],
+      "reason": "明确列出本届第一梯队三位候选及GLP-1研究；后文卢煜明姓名完整可见且被列为第二梯队候选，亦计票。",
+      "warnings": [
+        "摘要截断；只统计截断前可见的完整候选名称"
+      ],
+      "reviewMethod": "human",
+      "reviewedAt": "2026-10-05T02:24:33.353390+00:00",
+      "evidence": [
+        {
+          "kind": "people",
+          "name": "Daniel Drucker",
+          "quote": "候选人：Daniel J. Drucker、Jens Juul Holst、Svetlana Mojsov"
+        },
+        {
+          "kind": "people",
+          "name": "Jens Juul Holst",
+          "quote": "候选人：Daniel J. Drucker、Jens Juul Holst、Svetlana Mojsov"
+        },
+        {
+          "kind": "people",
+          "name": "Svetlana Mojsov",
+          "quote": "候选人：Daniel J. Drucker、Jens Juul Holst、Svetlana Mojsov"
+        },
+        {
+          "kind": "people",
+          "name": "卢煜明",
+          "quote": "第二梯队热门候选 1. 卢煜明"
+        },
+        {
+          "kind": "directions",
+          "name": "GLP-1",
+          "quote": "第一梯队最大热门：GLP‑1（胰高血糖素样肽‑1）相关研究"
+        }
+      ]
+    },
+    "2090329731656949872": {
+      "summaryHash": "8896ea78cfb22d020a5eb88ec6ae429c44ec378e5ca410afcd59cdf67ca19faf",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "仅表达对奖项评判的态度，没有提出具体候选或获奖方向。",
+      "warnings": [],
+      "reviewMethod": "human",
+      "reviewedAt": "2026-10-05T02:24:33.353703+00:00",
+      "evidence": []
+    },
+    "2090212812714947366": {
+      "summaryHash": "438f3dc90b2c8a975384ff8315c9f247f766252ee2947b26a1f22425053bf575",
+      "reviewed": true,
+      "people": [
+        "Daniel Drucker",
+        "Jens Juul Holst",
+        "Svetlana Mojsov"
+      ],
+      "directions": [
+        "GLP-1"
+      ],
+      "reason": "作者明确预测GLP-1成果及三位获奖人。",
+      "warnings": [],
+      "reviewMethod": "human",
+      "reviewedAt": "2026-10-05T02:24:33.353742+00:00",
+      "evidence": [
+        {
+          "kind": "people",
+          "name": "Daniel Drucker",
+          "quote": "我预测最终获奖成果是—GLP-1生物学机制的发现与代谢疾病治疗的突破，获奖人：Daniel J. Drucker（加拿大）、Jens Juul Holst（丹麦）、Svetlana Mojsov（北马其顿裔美国）"
+        },
+        {
+          "kind": "people",
+          "name": "Jens Juul Holst",
+          "quote": "我预测最终获奖成果是—GLP-1生物学机制的发现与代谢疾病治疗的突破，获奖人：Daniel J. Drucker（加拿大）、Jens Juul Holst（丹麦）、Svetlana Mojsov（北马其顿裔美国）"
+        },
+        {
+          "kind": "people",
+          "name": "Svetlana Mojsov",
+          "quote": "我预测最终获奖成果是—GLP-1生物学机制的发现与代谢疾病治疗的突破，获奖人：Daniel J. Drucker（加拿大）、Jens Juul Holst（丹麦）、Svetlana Mojsov（北马其顿裔美国）"
+        },
+        {
+          "kind": "directions",
+          "name": "GLP-1",
+          "quote": "我预测最终获奖成果是—GLP-1生物学机制的发现与代谢疾病治疗的突破，获奖人：Daniel J. Drucker（加拿大）、Jens Juul Holst（丹麦）、Svetlana Mojsov（北马其顿裔美国）"
+        }
+      ]
+    },
+    "2090209029880541866": {
+      "summaryHash": "2f0545c2501984898ea822516623838778c126bcb75cceee1e889ace49eb24db",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "仅评论减肥药推广，没有提出作者本人的预测。",
+      "warnings": [],
+      "reviewMethod": "human",
+      "reviewedAt": "2026-10-05T02:24:33.353991+00:00",
+      "evidence": []
     }
   },
   "physics": {
@@ -1334,6 +1625,122 @@
       "directions": [],
       "reason": "询问未来年份，不是今年预测",
       "warnings": []
+    },
+    "2090379736577066980": {
+      "summaryHash": "cd87e6565ca4b2a0216796a96fd77318fd42caa2fb8da113c7eafae2f563e6bd",
+      "reviewed": true,
+      "people": [
+        "Martin Rees",
+        "Ken'ichi Nomoto",
+        "斯坦福・伍斯利"
+      ],
+      "directions": [
+        "天体物理学"
+      ],
+      "reason": "作者明确提出今年的三位天体物理学家；第三位中文姓名完整可见，保留原文写法，不补全截断的英文。",
+      "warnings": [
+        "第三位候选英文截断，使用完整可见的中文姓名"
+      ],
+      "reviewMethod": "human",
+      "reviewedAt": "2026-10-05T02:24:33.354051+00:00",
+      "evidence": [
+        {
+          "kind": "people",
+          "name": "Martin Rees",
+          "quote": "我今年的预测是下面三位天体物理学家： 马丁・里斯（Martin Rees）、野本宪一（Ken'ichi Nomoto）、斯坦福・伍斯利"
+        },
+        {
+          "kind": "people",
+          "name": "Ken'ichi Nomoto",
+          "quote": "我今年的预测是下面三位天体物理学家： 马丁・里斯（Martin Rees）、野本宪一（Ken'ichi Nomoto）、斯坦福・伍斯利"
+        },
+        {
+          "kind": "people",
+          "name": "斯坦福・伍斯利",
+          "quote": "我今年的预测是下面三位天体物理学家： 马丁・里斯（Martin Rees）、野本宪一（Ken'ichi Nomoto）、斯坦福・伍斯利"
+        },
+        {
+          "kind": "directions",
+          "name": "天体物理学",
+          "quote": "我今年的预测是下面三位天体物理学家： 马丁・里斯（Martin Rees）、野本宪一（Ken'ichi Nomoto）、斯坦福・伍斯利"
+        }
+      ]
+    },
+    "2090196038061659870": {
+      "summaryHash": "fd449aeb314d0372487f1f34fe410b35bec2c65cadd1f3e1e3ebbdf338c8988a",
+      "reviewed": true,
+      "people": [
+        "Michael Berry",
+        "Charles L. Kane",
+        "薛其坤"
+      ],
+      "directions": [
+        "几何相位与 AB 效应",
+        "拓扑绝缘体",
+        "量子反常霍尔效应"
+      ],
+      "reason": "作者明确希望Berry、Kane与薛其坤的组合获奖；丁肇中仅为背景中的会议主持人，不计票。",
+      "warnings": [],
+      "reviewMethod": "human",
+      "reviewedAt": "2026-10-05T02:24:33.354316+00:00",
+      "evidence": [
+        {
+          "kind": "people",
+          "name": "Michael Berry",
+          "quote": "希望是这个复旦-中植科学奖曾给出的皆大欢喜的名单组合吧（丁肇中主持了那届终审会议）： Sir Michael V. Berry（贝里相位）½，Charles L. Kane（拓扑绝缘体理论提出）¼，薛其坤（量子反常霍尔效应）¼"
+        },
+        {
+          "kind": "people",
+          "name": "Charles L. Kane",
+          "quote": "希望是这个复旦-中植科学奖曾给出的皆大欢喜的名单组合吧（丁肇中主持了那届终审会议）： Sir Michael V. Berry（贝里相位）½，Charles L. Kane（拓扑绝缘体理论提出）¼，薛其坤（量子反常霍尔效应）¼"
+        },
+        {
+          "kind": "people",
+          "name": "薛其坤",
+          "quote": "希望是这个复旦-中植科学奖曾给出的皆大欢喜的名单组合吧（丁肇中主持了那届终审会议）： Sir Michael V. Berry（贝里相位）½，Charles L. Kane（拓扑绝缘体理论提出）¼，薛其坤（量子反常霍尔效应）¼"
+        },
+        {
+          "kind": "directions",
+          "name": "几何相位与 AB 效应",
+          "quote": "希望是这个复旦-中植科学奖曾给出的皆大欢喜的名单组合吧（丁肇中主持了那届终审会议）： Sir Michael V. Berry（贝里相位）½，Charles L. Kane（拓扑绝缘体理论提出）¼，薛其坤（量子反常霍尔效应）¼"
+        },
+        {
+          "kind": "directions",
+          "name": "拓扑绝缘体",
+          "quote": "希望是这个复旦-中植科学奖曾给出的皆大欢喜的名单组合吧（丁肇中主持了那届终审会议）： Sir Michael V. Berry（贝里相位）½，Charles L. Kane（拓扑绝缘体理论提出）¼，薛其坤（量子反常霍尔效应）¼"
+        },
+        {
+          "kind": "directions",
+          "name": "量子反常霍尔效应",
+          "quote": "希望是这个复旦-中植科学奖曾给出的皆大欢喜的名单组合吧（丁肇中主持了那届终审会议）： Sir Michael V. Berry（贝里相位）½，Charles L. Kane（拓扑绝缘体理论提出）¼，薛其坤（量子反常霍尔效应）¼"
+        }
+      ]
+    },
+    "2090167021757641846": {
+      "summaryHash": "81cdaffdf80ff7517a00f13346e7639ec7b67e29c1f1ac89d9fa9c44a9e2fb9c",
+      "reviewed": true,
+      "people": [
+        "薛其坤"
+      ],
+      "directions": [
+        "量子反常霍尔效应"
+      ],
+      "reason": "明确押注薛其坤及量子反常霍尔效应实验观测。",
+      "warnings": [],
+      "reviewMethod": "human",
+      "reviewedAt": "2026-10-05T02:24:33.354709+00:00",
+      "evidence": [
+        {
+          "kind": "people",
+          "name": "薛其坤",
+          "quote": "如果让我现在只押一组，我会把 2026 年诺贝尔物理学奖押在薛其坤团队实现的“量子反常霍尔效应实验观测”上，而且正式预测的人选，我会写薛其坤。"
+        },
+        {
+          "kind": "directions",
+          "name": "量子反常霍尔效应",
+          "quote": "2026 年诺贝尔物理学奖押在薛其坤团队实现的“量子反常霍尔效应实验观测”上"
+        }
+      ]
     }
   },
   "chemistry": {
@@ -1556,6 +1963,38 @@
       "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
       "warnings": [
         "该回答将已获 2025 化学奖的 MOF 再预测为 2026。保留原始预测，标记事实错误。"
+      ]
+    },
+    "2090327594453439337": {
+      "summaryHash": "b2d3bfbb3b415dad67d730c2f3610ae7496512f165169fc49019487942d5e09e",
+      "reviewed": true,
+      "people": [
+        "Stuart Schreiber"
+      ],
+      "directions": [
+        "化学生物学",
+        "靶向蛋白降解"
+      ],
+      "reason": "作者以Schreiber姓名作答，并明确认为成果分量和时机均具备；化学生物学和PROTAC/分子胶方向在摘要中直接可见。",
+      "warnings": [],
+      "reviewMethod": "human",
+      "reviewedAt": "2026-10-05T02:24:33.354842+00:00",
+      "evidence": [
+        {
+          "kind": "people",
+          "name": "Stuart Schreiber",
+          "quote": "Stuart L. Schreiber，化学生物学的奠基人。"
+        },
+        {
+          "kind": "directions",
+          "name": "化学生物学",
+          "quote": "Stuart L. Schreiber，化学生物学的奠基人。"
+        },
+        {
+          "kind": "directions",
+          "name": "靶向蛋白降解",
+          "quote": "大火的 PROTAC 和分子胶"
+        }
       ]
     }
   },
@@ -1786,6 +2225,71 @@
       "reviewedAt": "2026-10-04T08:18:56.421979+00:00",
       "evidence": [],
       "auditFile": "e37a0dbd57a12a3c695cb7426cb48bc81670ed13b7904533efb95cf2d2823a52.json"
+    },
+    "2090258199513395742": {
+      "summaryHash": "0e10c8d36d6df25ab7e522a3700728b7c2972856d2898bef64f3de954cf8afe9",
+      "reviewed": true,
+      "people": [
+        "托马斯·品钦",
+        "德里罗"
+      ],
+      "directions": [],
+      "reason": "“不开玩笑”之后明确希望品钦获奖，并列德里罗为另一位候选；前文入間人間为玩笑语境，不计票。",
+      "warnings": [],
+      "reviewMethod": "human",
+      "reviewedAt": "2026-10-05T02:24:33.354960+00:00",
+      "evidence": [
+        {
+          "kind": "people",
+          "name": "托马斯·品钦",
+          "quote": "我还是很希望品钦能够获奖"
+        },
+        {
+          "kind": "people",
+          "name": "德里罗",
+          "quote": "或者德里罗，在我最喜欢的几位小说家里他是另一位最有可能得诺奖的。"
+        }
+      ]
+    },
+    "2090354887892656877": {
+      "summaryHash": "0b6c30af8527730bbf2caa7af704b68d88c5bdb3ad706ef3885222edc7fd955e",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "可见摘要只讨论候选名单、赔率与预测的不确定性；具体选择被截断，没有可计票的作家姓名。",
+      "warnings": [
+        "摘要截断；当前可见内容没有明确的本届预测"
+      ],
+      "reviewMethod": "human",
+      "reviewedAt": "2026-10-05T02:24:33.355026+00:00",
+      "evidence": []
+    },
+    "2090236154150904765": {
+      "summaryHash": "03f459d022cd6600dade15bc4d886c184074419ecc2dd5f676b4254697eeb99c",
+      "reviewed": true,
+      "people": [
+        "杰梅卡·金凯德",
+        "玛曼达·恩戈兹·阿迪契"
+      ],
+      "directions": [],
+      "reason": "明确预测金凯德与阿迪契二选一，均计票；对埃彭贝克的预测为否定，不计票。",
+      "warnings": [
+        "阿迪契姓名按摘要原文保留，未补写原文没有的译名"
+      ],
+      "reviewMethod": "human",
+      "reviewedAt": "2026-10-05T02:24:33.355043+00:00",
+      "evidence": [
+        {
+          "kind": "people",
+          "name": "杰梅卡·金凯德",
+          "quote": "我推测应该是杰梅卡·金凯德和玛曼达·恩戈兹·阿迪契中二选一"
+        },
+        {
+          "kind": "people",
+          "name": "玛曼达·恩戈兹·阿迪契",
+          "quote": "我推测应该是杰梅卡·金凯德和玛曼达·恩戈兹·阿迪契中二选一"
+        }
+      ]
     }
   },
   "economics": {

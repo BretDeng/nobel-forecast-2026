@@ -12,16 +12,16 @@
       "fetchedAt": "2026-10-05T02:07:00.895541+00:00",
       "complete": true,
       "total": 58,
-      "valid": 29,
-      "pending": 15,
-      "excluded": 14,
+      "valid": 35,
+      "pending": 0,
+      "excluded": 23,
       "people": [
         {
           "id": "ef82e18aa50e",
           "rank": 1,
           "name": "Svetlana Mojsov",
           "english": "",
-          "count": 10,
+          "count": 13,
           "sourceIds": [
             "2083502051263365892",
             "2085763396524303455",
@@ -29,67 +29,85 @@
             "2090286367808942201",
             "2089175500887422474",
             "2089414145582094038",
+            "2090231295540455238",
             "2088923824045795014",
             "2090084712450728871",
             "2089012656174907831",
+            "2090182473258887131",
+            "2090212812714947366",
             "2089493489851619162"
           ],
           "aiCount": 1,
-          "warnings": []
+          "warnings": [
+            "摘要截断；只统计截断前可见的完整候选名称"
+          ]
         },
         {
           "id": "f613ae1f3af9",
           "rank": 2,
           "name": "Jens Juul Holst",
           "english": "",
-          "count": 8,
+          "count": 11,
           "sourceIds": [
             "2083502051263365892",
             "2085763396524303455",
             "2090286367808942201",
             "2089175500887422474",
             "2089414145582094038",
+            "2090231295540455238",
             "2088923824045795014",
             "2090084712450728871",
+            "2090182473258887131",
+            "2090212812714947366",
             "2089493489851619162"
           ],
           "aiCount": 1,
-          "warnings": []
+          "warnings": [
+            "摘要截断；只统计截断前可见的完整候选名称"
+          ]
         },
         {
           "id": "122b2561df68",
           "rank": 3,
           "name": "Daniel Drucker",
           "english": "",
-          "count": 7,
+          "count": 10,
           "sourceIds": [
             "2083502051263365892",
             "2085763396524303455",
             "2090286367808942201",
             "2089175500887422474",
+            "2090231295540455238",
             "2088923824045795014",
             "2090084712450728871",
+            "2090182473258887131",
+            "2090212812714947366",
             "2089493489851619162"
           ],
           "aiCount": 1,
-          "warnings": []
+          "warnings": [
+            "摘要截断；只统计截断前可见的完整候选名称"
+          ]
         },
         {
           "id": "c5af76e887e4",
           "rank": 4,
           "name": "卢煜明",
           "english": "Dennis Lo",
-          "count": 6,
+          "count": 7,
           "sourceIds": [
             "2083502051263365892",
             "2089250052975997891",
             "2088365149392576618",
             "2083542936847905704",
             "2086385674786289108",
-            "2089423892951708259"
+            "2089423892951708259",
+            "2090182473258887131"
           ],
           "aiCount": 0,
-          "warnings": []
+          "warnings": [
+            "摘要截断；只统计截断前可见的完整候选名称"
+          ]
         },
         {
           "id": "6d5f834407cf",
@@ -169,8 +187,38 @@
           "warnings": []
         },
         {
+          "id": "9961b2f76d4c",
+          "rank": 9,
+          "name": "Masashi Yanagisawa",
+          "english": "",
+          "count": 3,
+          "sourceIds": [
+            "2088365149392576618",
+            "2084819205300413285",
+            "2090378245564789103"
+          ],
+          "aiCount": 0,
+          "warnings": []
+        },
+        {
+          "id": "11fb6ce5048f",
+          "rank": 9,
+          "name": "陈志坚",
+          "english": "Zhijian Chen",
+          "count": 3,
+          "sourceIds": [
+            "2088365149392576618",
+            "2088190417590293973",
+            "2090265614430508304"
+          ],
+          "aiCount": 0,
+          "warnings": [
+            "刘如谦：回答更看好化学奖，但在本医学问题中也列为候选。"
+          ]
+        },
+        {
           "id": "1c4cdad77020",
-          "rank": 10,
+          "rank": 12,
           "name": "Brian Druker",
           "english": "",
           "count": 2,
@@ -183,7 +231,7 @@
         },
         {
           "id": "44dae4ba9d12",
-          "rank": 10,
+          "rank": 12,
           "name": "Emmanuel Mignot",
           "english": "",
           "count": 2,
@@ -195,36 +243,8 @@
           "warnings": []
         },
         {
-          "id": "9961b2f76d4c",
-          "rank": 10,
-          "name": "Masashi Yanagisawa",
-          "english": "",
-          "count": 2,
-          "sourceIds": [
-            "2088365149392576618",
-            "2084819205300413285"
-          ],
-          "aiCount": 0,
-          "warnings": []
-        },
-        {
-          "id": "11fb6ce5048f",
-          "rank": 10,
-          "name": "陈志坚",
-          "english": "Zhijian Chen",
-          "count": 2,
-          "sourceIds": [
-            "2088365149392576618",
-            "2088190417590293973"
-          ],
-          "aiCount": 0,
-          "warnings": [
-            "刘如谦：回答更看好化学奖，但在本医学问题中也列为候选。"
-          ]
-        },
-        {
           "id": "2c8a49c25edd",
-          "rank": 10,
+          "rank": 12,
           "name": "陈竺",
           "english": "Zhu Chen",
           "count": 2,
@@ -484,7 +504,7 @@
           "rank": 1,
           "name": "GLP-1",
           "english": "",
-          "count": 15,
+          "count": 19,
           "sourceIds": [
             "2083502051263365892",
             "2085763396524303455",
@@ -493,17 +513,23 @@
             "2088365149392576618",
             "2089175500887422474",
             "2089414145582094038",
+            "2090231295540455238",
             "2088923824045795014",
             "2090084712450728871",
             "2089012656174907831",
             "2088327025325097452",
             "2085312058820649377",
+            "2090381661833795115",
+            "2090182473258887131",
             "2085642492532336169",
             "2083614045878346108",
+            "2090212812714947366",
             "2089493489851619162"
           ],
           "aiCount": 1,
-          "warnings": []
+          "warnings": [
+            "摘要截断；只统计截断前可见的完整候选名称"
+          ]
         },
         {
           "id": "2122c7fe72dd",
@@ -539,8 +565,23 @@
           "warnings": []
         },
         {
-          "id": "7bf85b8e55ce",
+          "id": "1d852da8ff51",
           "rank": 4,
+          "name": "食欲素与睡眠调控",
+          "english": "",
+          "count": 4,
+          "sourceIds": [
+            "2083502051263365892",
+            "2088365149392576618",
+            "2084819205300413285",
+            "2090378245564789103"
+          ],
+          "aiCount": 0,
+          "warnings": []
+        },
+        {
+          "id": "7bf85b8e55ce",
+          "rank": 5,
           "name": "白血病靶向与分化治疗",
           "english": "",
           "count": 3,
@@ -548,20 +589,6 @@
             "2090071229386462555",
             "2086038511082287783",
             "2087527799691142324"
-          ],
-          "aiCount": 0,
-          "warnings": []
-        },
-        {
-          "id": "1d852da8ff51",
-          "rank": 4,
-          "name": "食欲素与睡眠调控",
-          "english": "",
-          "count": 3,
-          "sourceIds": [
-            "2083502051263365892",
-            "2088365149392576618",
-            "2084819205300413285"
           ],
           "aiCount": 0,
           "warnings": []
@@ -1144,13 +1171,40 @@
           "id": "2090231295540455238",
           "url": "https://www.zhihu.com/question/2081709250993303561/answer/2090231295540455238",
           "summary": "刚查了一下，原来这个诺奖连个公开的候选人名单都没有，那我这预测和大海捞针有什么区别？ 只能是重在参与了～ 我从主办方提供的四个评选角度，每个都来预测一组吧，希望能猜中：） 01 不出所料，众望所归组这个我随大流，选了最热的，大家都投的那一组。 获奖成果： GLP-1（胰高血糖素样肽-1）的发现与机制阐明。 获奖人选： 丹尼尔·德鲁克（Daniel J. Drucker）、延斯·尤尔·霍斯特（Jens Juul Holst）和斯维特兰娜·莫伊索…",
-          "people": [],
-          "directions": [],
-          "reason": "直答输出校验失败，待人工复核：人名/方向缺少原文依据",
-          "reviewed": false,
+          "people": [
+            "Daniel Drucker",
+            "Jens Juul Holst",
+            "Svetlana Mojsov"
+          ],
+          "directions": [
+            "GLP-1"
+          ],
+          "reason": "作者明确预测GLP-1方向及三位获奖人选，属于2026年本奖项的正向预测。",
+          "reviewed": true,
           "reviewMethod": "zhida",
           "reviewModel": "zhida-fast-1p5",
-          "reviewEvidence": [],
+          "reviewEvidence": [
+            {
+              "kind": "people",
+              "name": "Daniel Drucker",
+              "quote": "获奖人选： 丹尼尔·德鲁克（Daniel J. Drucker）、延斯·尤尔·霍斯特（Jens Juul Holst）和斯维特兰娜·莫伊索"
+            },
+            {
+              "kind": "people",
+              "name": "Jens Juul Holst",
+              "quote": "获奖人选： 丹尼尔·德鲁克（Daniel J. Drucker）、延斯·尤尔·霍斯特（Jens Juul Holst）和斯维特兰娜·莫伊索"
+            },
+            {
+              "kind": "people",
+              "name": "Svetlana Mojsov",
+              "quote": "获奖人选： 丹尼尔·德鲁克（Daniel J. Drucker）、延斯·尤尔·霍斯特（Jens Juul Holst）和斯维特兰娜·莫伊索"
+            },
+            {
+              "kind": "directions",
+              "name": "GLP-1",
+              "quote": "获奖成果： GLP-1（胰高血糖素样肽-1）的发现与机制阐明"
+            }
+          ],
           "aiAssisted": false,
           "warnings": []
         },
@@ -1414,10 +1468,10 @@
           "summary": "希望艾滋病能治疗并痊愈",
           "people": [],
           "directions": [],
-          "reason": "待复核：新增或摘要有变更",
-          "reviewed": false,
-          "reviewMethod": null,
-          "reviewModel": null,
+          "reason": "仅表达对艾滋病治愈的愿望，未提出2026年该奖项的作者预测人名或方向。",
+          "reviewed": true,
+          "reviewMethod": "zhida",
+          "reviewModel": "zhida-fast-1p5",
           "reviewEvidence": [],
           "aiAssisted": false,
           "warnings": []
@@ -1462,12 +1516,20 @@
           "url": "https://www.zhihu.com/question/2081709250993303561/answer/2090381661833795115",
           "summary": "生理或医学奖一直存在显性钟摆效应：2024年颁给了模型生物分子调控机制（Ambros 与 Ruvkun 的 microRNA），去年2025年又把拖了三十年的账还给了外周免疫耐受与Treg细胞（Brunkow、Ramsdell 和坂口志文）。连着两年都在死磕底层分子与细胞免疫机制，今年评委会的心理钟摆大概率会狠狠偏向 具备颠覆性临床转化的重大生理学发现。1. 世纪最大热门与修罗场：GLP-1及其生理调节机制按对现代人类社会的重构程度算，GLP-1靶点如果拿不到…",
           "people": [],
-          "directions": [],
-          "reason": "待复核：新增或摘要有变更",
-          "reviewed": false,
-          "reviewMethod": null,
-          "reviewModel": null,
-          "reviewEvidence": [],
+          "directions": [
+            "GLP-1"
+          ],
+          "reason": "作者明确将GLP-1及其生理调节机制列为2026年生理学或医学奖的世纪最大热门，属于明确正向预测；摘要截断但已给出预测语境，未提及具体人名。",
+          "reviewed": true,
+          "reviewMethod": "zhida",
+          "reviewModel": "zhida-fast-1p5",
+          "reviewEvidence": [
+            {
+              "kind": "directions",
+              "name": "GLP-1",
+              "quote": "1. 世纪最大热门与修罗场：GLP-1及其生理调节机制按对现代人类社会的重构程度算，GLP-1靶点如果拿不到"
+            }
+          ],
           "aiAssisted": false,
           "warnings": []
         },
@@ -1477,10 +1539,10 @@
           "summary": "能把我的病治好，就天天磕头",
           "people": [],
           "directions": [],
-          "reason": "待复核：新增或摘要有变更",
-          "reviewed": false,
-          "reviewMethod": null,
-          "reviewModel": null,
+          "reason": "文本为个人感叹，不含对2026年生理学或医学奖的任何预测。",
+          "reviewed": true,
+          "reviewMethod": "zhida",
+          "reviewModel": "zhida-fast-1p5",
           "reviewEvidence": [],
           "aiAssisted": false,
           "warnings": []
@@ -1489,13 +1551,28 @@
           "id": "2090378245564789103",
           "url": "https://www.zhihu.com/question/2081709250993303561/answer/2090378245564789103",
           "summary": "虽然很不愿意承认。 但是今年的诺奖又要被日本人拿走了 柳泽正史 食欲素 发现食欲素神经肽，证明这个分子缺失会导致 发作性睡病（猝倒型嗜睡）；解释大脑维持清醒的核心机制，催生失眠、嗜睡新药这不仅仅是简单的治疗失眠嗜睡。 他是搞清楚了人是怎么维持清醒的。 这里面蕴含了巨大的商业价值。 因为保持清醒是当今社会一个重要的状态。 这个东西甚至未来可能用于痴呆，抑郁，休克的研究。",
-          "people": [],
-          "directions": [],
-          "reason": "待复核：新增或摘要有变更",
-          "reviewed": false,
-          "reviewMethod": null,
+          "people": [
+            "Masashi Yanagisawa"
+          ],
+          "directions": [
+            "食欲素与睡眠调控"
+          ],
+          "reason": "作者明确预测柳泽正史因食欲素研究获奖。",
+          "reviewed": true,
+          "reviewMethod": "human",
           "reviewModel": null,
-          "reviewEvidence": [],
+          "reviewEvidence": [
+            {
+              "kind": "people",
+              "name": "Masashi Yanagisawa",
+              "quote": "今年的诺奖又要被日本人拿走了 柳泽正史 食欲素"
+            },
+            {
+              "kind": "directions",
+              "name": "食欲素与睡眠调控",
+              "quote": "柳泽正史 食欲素 发现食欲素神经肽"
+            }
+          ],
           "aiAssisted": false,
           "warnings": []
         },
@@ -1505,13 +1582,15 @@
           "summary": "乔治朱",
           "people": [],
           "directions": [],
-          "reason": "待复核：新增或摘要有变更",
-          "reviewed": false,
-          "reviewMethod": null,
+          "reason": "摘要仅写“乔治朱”，无法辨识具体候选人；不猜测姓名身份。",
+          "reviewed": true,
+          "reviewMethod": "human",
           "reviewModel": null,
           "reviewEvidence": [],
           "aiAssisted": false,
-          "warnings": []
+          "warnings": [
+            "原摘要候选身份无法辨识，不计票"
+          ]
         },
         {
           "id": "2090360272632469501",
@@ -1519,10 +1598,10 @@
           "summary": "洋奖，不测",
           "people": [],
           "directions": [],
-          "reason": "待复核：新增或摘要有变更",
-          "reviewed": false,
-          "reviewMethod": null,
-          "reviewModel": null,
+          "reason": "摘要无2026年生理学或医学奖的明确预测内容。",
+          "reviewed": true,
+          "reviewMethod": "zhida",
+          "reviewModel": "zhida-fast-1p5",
           "reviewEvidence": [],
           "aiAssisted": false,
           "warnings": []
@@ -1533,9 +1612,9 @@
           "summary": "我",
           "people": [],
           "directions": [],
-          "reason": "待复核：新增或摘要有变更",
-          "reviewed": false,
-          "reviewMethod": null,
+          "reason": "“我”为自指玩笑，没有可辨识的诺奖候选。",
+          "reviewed": true,
+          "reviewMethod": "human",
           "reviewModel": null,
           "reviewEvidence": [],
           "aiAssisted": false,
@@ -1545,13 +1624,21 @@
           "id": "2090265614430508304",
           "url": "https://www.zhihu.com/question/2081709250993303561/answer/2090265614430508304",
           "summary": "陈志坚",
-          "people": [],
+          "people": [
+            "陈志坚"
+          ],
           "directions": [],
-          "reason": "待复核：新增或摘要有变更",
-          "reviewed": false,
-          "reviewMethod": null,
+          "reason": "在本年度奖项预测问题下直接回答候选人姓名，计为对陈志坚的提名。",
+          "reviewed": true,
+          "reviewMethod": "human",
           "reviewModel": null,
-          "reviewEvidence": [],
+          "reviewEvidence": [
+            {
+              "kind": "people",
+              "name": "陈志坚",
+              "quote": "陈志坚"
+            }
+          ],
           "aiAssisted": false,
           "warnings": []
         },
@@ -1561,13 +1648,15 @@
           "summary": "创作声明：1.包含投资理财内容；2.夹带有不少私货甚至说全是私货 中原猫猫也来预测一下。 （其实我感觉我这么预测有点像考研政治押题的风格，不像是正经的生物学研究生的风格） 去年的预测以预测考研政治大题的方式预测成功了33.3％或11.1％，大概有统计学意义，还算是部分成功了；今年我接着以同样的预测考研政治的方法预测今年的诺贝尔生医奖。 去年的预测： 2025 年诺贝尔生理学或医学奖颁给外周免疫耐受性三位研究者，如何通…",
           "people": [],
           "directions": [],
-          "reason": "待复核：新增或摘要有变更",
-          "reviewed": false,
-          "reviewMethod": null,
+          "reason": "可见摘要仅介绍预测方法并回顾2025年获奖内容，没有出现可计票的2026年候选；不补全截断部分。",
+          "reviewed": true,
+          "reviewMethod": "human",
           "reviewModel": null,
           "reviewEvidence": [],
           "aiAssisted": false,
-          "warnings": []
+          "warnings": [
+            "摘要截断；当前可见内容没有明确的本届预测"
+          ]
         },
         {
           "id": "2090214441451254231",
@@ -1575,27 +1664,64 @@
           "summary": "你要我预测，那我就大胆预测，毕竟我是预测过好几次的人~~战绩可查 [文章: 我算了一笔账：AI 费率正在以「倍率」为单位坠落] 这次我请deepseek预测了一下 AlphaFold已经拿过诺奖了，但拿的是化学奖 2024年诺贝尔化学奖已经授予David Baker、Demis Hassabis和John Jumper，表彰他们在蛋白质结构预测和计算蛋白质设计方面的贡献。AlphaFold2能够预测约2亿种已知蛋白质的复杂结构，全球超过200万研究者使用该模型。诺贝尔奖极少在短时间内对…",
           "people": [],
           "directions": [],
-          "reason": "待复核：新增或摘要有变更",
-          "reviewed": false,
-          "reviewMethod": null,
+          "reason": "可见摘要仅说明请AI预测并回顾2024年化学奖，没有给出本届医学奖候选；不补全截断部分。",
+          "reviewed": true,
+          "reviewMethod": "human",
           "reviewModel": null,
           "reviewEvidence": [],
           "aiAssisted": false,
-          "warnings": []
+          "warnings": [
+            "摘要截断；当前可见内容没有明确的本届预测"
+          ]
         },
         {
           "id": "2090182473258887131",
           "url": "https://www.zhihu.com/question/2081709250993303561/answer/2090182473258887131",
           "summary": "第一梯队最大热门：GLP‑1（胰高血糖素样肽‑1）相关研究 候选人：Daniel J. Drucker、Jens Juul Holst、Svetlana Mojsov 核心贡献：阐明GLP‑1肠促胰素系统的作用机制，推动了GLP‑1类药物研发，也就是大家熟知的降糖、减重药物，彻底改变糖尿病与肥胖症的临床治疗格局。 这项研究持续数十年，从基础生理机制到落地成重磅药物，兼顾基础科学价值与巨大的公共卫生意义，是今年呼声最高的一组人选。 第二梯队热门候选 1. 卢煜明（…",
-          "people": [],
-          "directions": [],
-          "reason": "待复核：新增或摘要有变更",
-          "reviewed": false,
-          "reviewMethod": null,
+          "people": [
+            "Daniel Drucker",
+            "Jens Juul Holst",
+            "Svetlana Mojsov",
+            "卢煜明"
+          ],
+          "directions": [
+            "GLP-1"
+          ],
+          "reason": "明确列出本届第一梯队三位候选及GLP-1研究；后文卢煜明姓名完整可见且被列为第二梯队候选，亦计票。",
+          "reviewed": true,
+          "reviewMethod": "human",
           "reviewModel": null,
-          "reviewEvidence": [],
+          "reviewEvidence": [
+            {
+              "kind": "people",
+              "name": "Daniel Drucker",
+              "quote": "候选人：Daniel J. Drucker、Jens Juul Holst、Svetlana Mojsov"
+            },
+            {
+              "kind": "people",
+              "name": "Jens Juul Holst",
+              "quote": "候选人：Daniel J. Drucker、Jens Juul Holst、Svetlana Mojsov"
+            },
+            {
+              "kind": "people",
+              "name": "Svetlana Mojsov",
+              "quote": "候选人：Daniel J. Drucker、Jens Juul Holst、Svetlana Mojsov"
+            },
+            {
+              "kind": "people",
+              "name": "卢煜明",
+              "quote": "第二梯队热门候选 1. 卢煜明"
+            },
+            {
+              "kind": "directions",
+              "name": "GLP-1",
+              "quote": "第一梯队最大热门：GLP‑1（胰高血糖素样肽‑1）相关研究"
+            }
+          ],
           "aiAssisted": false,
-          "warnings": []
+          "warnings": [
+            "摘要截断；只统计截断前可见的完整候选名称"
+          ]
         },
         {
           "id": "2089088054992675165",
@@ -1683,9 +1809,9 @@
           "summary": "有必要让那帮傲慢的白皮猪，拿着带着偏见的尺子，来衡量中国科学家吗？干自己的，就是了！",
           "people": [],
           "directions": [],
-          "reason": "待复核：新增或摘要有变更",
-          "reviewed": false,
-          "reviewMethod": null,
+          "reason": "仅表达对奖项评判的态度，没有提出具体候选或获奖方向。",
+          "reviewed": true,
+          "reviewMethod": "human",
           "reviewModel": null,
           "reviewEvidence": [],
           "aiAssisted": false,
@@ -1695,13 +1821,40 @@
           "id": "2090212812714947366",
           "url": "https://www.zhihu.com/question/2081709250993303561/answer/2090212812714947366",
           "summary": "我预测最终获奖成果是—GLP-1生物学机制的发现与代谢疾病治疗的突破，获奖人：Daniel J. Drucker（加拿大）、Jens Juul Holst（丹麦）、Svetlana Mojsov（北马其顿裔美国） 根据近些年的临床数据和诊疗经历来看，我觉得他们得诺贝尔生理学或医学奖名副其实。之前GLP-1受体激动剂没有应用于临床时，多数2型糖尿病面临降糖容易但血糖很难稳定下来的局面，降糖的同时也容易引发低血糖，现在应用于临床后不仅降低了低血糖的风险，血…",
-          "people": [],
-          "directions": [],
-          "reason": "待复核：新增或摘要有变更",
-          "reviewed": false,
-          "reviewMethod": null,
+          "people": [
+            "Daniel Drucker",
+            "Jens Juul Holst",
+            "Svetlana Mojsov"
+          ],
+          "directions": [
+            "GLP-1"
+          ],
+          "reason": "作者明确预测GLP-1成果及三位获奖人。",
+          "reviewed": true,
+          "reviewMethod": "human",
           "reviewModel": null,
-          "reviewEvidence": [],
+          "reviewEvidence": [
+            {
+              "kind": "people",
+              "name": "Daniel Drucker",
+              "quote": "我预测最终获奖成果是—GLP-1生物学机制的发现与代谢疾病治疗的突破，获奖人：Daniel J. Drucker（加拿大）、Jens Juul Holst（丹麦）、Svetlana Mojsov（北马其顿裔美国）"
+            },
+            {
+              "kind": "people",
+              "name": "Jens Juul Holst",
+              "quote": "我预测最终获奖成果是—GLP-1生物学机制的发现与代谢疾病治疗的突破，获奖人：Daniel J. Drucker（加拿大）、Jens Juul Holst（丹麦）、Svetlana Mojsov（北马其顿裔美国）"
+            },
+            {
+              "kind": "people",
+              "name": "Svetlana Mojsov",
+              "quote": "我预测最终获奖成果是—GLP-1生物学机制的发现与代谢疾病治疗的突破，获奖人：Daniel J. Drucker（加拿大）、Jens Juul Holst（丹麦）、Svetlana Mojsov（北马其顿裔美国）"
+            },
+            {
+              "kind": "directions",
+              "name": "GLP-1",
+              "quote": "我预测最终获奖成果是—GLP-1生物学机制的发现与代谢疾病治疗的突破，获奖人：Daniel J. Drucker（加拿大）、Jens Juul Holst（丹麦）、Svetlana Mojsov（北马其顿裔美国）"
+            }
+          ],
           "aiAssisted": false,
           "warnings": []
         },
@@ -1711,9 +1864,9 @@
           "summary": "一堆卖减肥药的推广",
           "people": [],
           "directions": [],
-          "reason": "待复核：新增或摘要有变更",
-          "reviewed": false,
-          "reviewMethod": null,
+          "reason": "仅评论减肥药推广，没有提出作者本人的预测。",
+          "reviewed": true,
+          "reviewMethod": "human",
           "reviewModel": null,
           "reviewEvidence": [],
           "aiAssisted": false,
@@ -1796,13 +1949,50 @@
       "fetchedAt": "2026-10-05T02:07:04.326424+00:00",
       "complete": true,
       "total": 68,
-      "valid": 38,
-      "pending": 3,
+      "valid": 41,
+      "pending": 0,
       "excluded": 27,
       "people": [
         {
-          "id": "b34aac9ffdb3",
+          "id": "3c1a368214fd",
           "rank": 1,
+          "name": "薛其坤",
+          "english": "Xue Qikun",
+          "count": 8,
+          "sourceIds": [
+            "2089178150047586062",
+            "2090196038061659870",
+            "2088043224178997139",
+            "2084763356947298189",
+            "2089669867985166779",
+            "2090167021757641846",
+            "2089775645387761107",
+            "2089401407313012136"
+          ],
+          "aiCount": 1,
+          "warnings": []
+        },
+        {
+          "id": "d5aa34258347",
+          "rank": 2,
+          "name": "Michael Berry",
+          "english": "",
+          "count": 7,
+          "sourceIds": [
+            "2083334221356085859",
+            "2089318299809194871",
+            "2083519423214895770",
+            "2090196038061659870",
+            "2089143162719696431",
+            "2086797950701913759",
+            "2087985314631512389"
+          ],
+          "aiCount": 0,
+          "warnings": []
+        },
+        {
+          "id": "b34aac9ffdb3",
+          "rank": 2,
           "name": "叶军",
           "english": "Jun Ye",
           "count": 7,
@@ -1816,40 +2006,6 @@
             "2090040241117730612"
           ],
           "aiCount": 0,
-          "warnings": []
-        },
-        {
-          "id": "d5aa34258347",
-          "rank": 2,
-          "name": "Michael Berry",
-          "english": "",
-          "count": 6,
-          "sourceIds": [
-            "2083334221356085859",
-            "2089318299809194871",
-            "2083519423214895770",
-            "2089143162719696431",
-            "2086797950701913759",
-            "2087985314631512389"
-          ],
-          "aiCount": 0,
-          "warnings": []
-        },
-        {
-          "id": "3c1a368214fd",
-          "rank": 2,
-          "name": "薛其坤",
-          "english": "Xue Qikun",
-          "count": 6,
-          "sourceIds": [
-            "2089178150047586062",
-            "2088043224178997139",
-            "2084763356947298189",
-            "2089669867985166779",
-            "2089775645387761107",
-            "2089401407313012136"
-          ],
-          "aiCount": 1,
           "warnings": []
         },
         {
@@ -2006,6 +2162,21 @@
           "warnings": []
         },
         {
+          "id": "690e976003c0",
+          "rank": 10,
+          "name": "Martin Rees",
+          "english": "",
+          "count": 2,
+          "sourceIds": [
+            "2090379736577066980",
+            "2083474238879671977"
+          ],
+          "aiCount": 0,
+          "warnings": [
+            "第三位候选英文截断，使用完整可见的中文姓名"
+          ]
+        },
+        {
           "id": "a63b37ecd29e",
           "rank": 10,
           "name": "Rafi Bistritzer",
@@ -2085,7 +2256,7 @@
         },
         {
           "id": "12684fe32728",
-          "rank": 21,
+          "rank": 22,
           "name": "Alessandra Buonanno",
           "english": "",
           "count": 1,
@@ -2097,7 +2268,7 @@
         },
         {
           "id": "933d62ed3f06",
-          "rank": 21,
+          "rank": 22,
           "name": "Andrea Alù",
           "english": "",
           "count": 1,
@@ -2109,7 +2280,7 @@
         },
         {
           "id": "b38890209d90",
-          "rank": 21,
+          "rank": 22,
           "name": "Bertrand Halperin",
           "english": "",
           "count": 1,
@@ -2121,7 +2292,7 @@
         },
         {
           "id": "e9f6603bf537",
-          "rank": 21,
+          "rank": 22,
           "name": "Carlos Frenk",
           "english": "",
           "count": 1,
@@ -2133,7 +2304,7 @@
         },
         {
           "id": "50ae7a6c3f5f",
-          "rank": 21,
+          "rank": 22,
           "name": "Charles Bennett",
           "english": "",
           "count": 1,
@@ -2144,8 +2315,20 @@
           "warnings": []
         },
         {
+          "id": "ecdeebe37000",
+          "rank": 22,
+          "name": "Charles L. Kane",
+          "english": "",
+          "count": 1,
+          "sourceIds": [
+            "2090196038061659870"
+          ],
+          "aiCount": 0,
+          "warnings": []
+        },
+        {
           "id": "be374be9c922",
-          "rank": 21,
+          "rank": 22,
           "name": "Christopher Jarzynski",
           "english": "",
           "count": 1,
@@ -2157,7 +2340,7 @@
         },
         {
           "id": "3cdb2b79c9da",
-          "rank": 21,
+          "rank": 22,
           "name": "David Deutsch",
           "english": "",
           "count": 1,
@@ -2169,7 +2352,7 @@
         },
         {
           "id": "ac808a00798a",
-          "rank": 21,
+          "rank": 22,
           "name": "David Payne",
           "english": "",
           "count": 1,
@@ -2181,7 +2364,7 @@
         },
         {
           "id": "4bf5c936d55a",
-          "rank": 21,
+          "rank": 22,
           "name": "Edward Farhi",
           "english": "",
           "count": 1,
@@ -2193,7 +2376,7 @@
         },
         {
           "id": "35b1edbdf60e",
-          "rank": 21,
+          "rank": 22,
           "name": "Emmanuel Desurvire",
           "english": "",
           "count": 1,
@@ -2205,7 +2388,7 @@
         },
         {
           "id": "b19b101ee4a1",
-          "rank": 21,
+          "rank": 22,
           "name": "Eva Andrei",
           "english": "",
           "count": 1,
@@ -2217,7 +2400,7 @@
         },
         {
           "id": "450da7f0d69f",
-          "rank": 21,
+          "rank": 22,
           "name": "Hideo Hosono",
           "english": "",
           "count": 1,
@@ -2229,7 +2412,7 @@
         },
         {
           "id": "dbe5e0df008f",
-          "rank": 21,
+          "rank": 22,
           "name": "Hidetoshi Nishimori",
           "english": "",
           "count": 1,
@@ -2241,7 +2424,7 @@
         },
         {
           "id": "577e92149f09",
-          "rank": 21,
+          "rank": 22,
           "name": "Jainendra Jain",
           "english": "",
           "count": 1,
@@ -2253,7 +2436,7 @@
         },
         {
           "id": "1c6f196b662d",
-          "rank": 21,
+          "rank": 22,
           "name": "James Eisenstein",
           "english": "",
           "count": 1,
@@ -2265,7 +2448,7 @@
         },
         {
           "id": "11f468c35e43",
-          "rank": 21,
+          "rank": 22,
           "name": "Jun Akimitsu",
           "english": "",
           "count": 1,
@@ -2276,8 +2459,22 @@
           "warnings": []
         },
         {
+          "id": "bdfac2aa0ab3",
+          "rank": 22,
+          "name": "Ken'ichi Nomoto",
+          "english": "",
+          "count": 1,
+          "sourceIds": [
+            "2090379736577066980"
+          ],
+          "aiCount": 0,
+          "warnings": [
+            "第三位候选英文截断，使用完整可见的中文姓名"
+          ]
+        },
+        {
           "id": "d9f40437575e",
-          "rank": 21,
+          "rank": 22,
           "name": "Mark Thompson",
           "english": "",
           "count": 1,
@@ -2288,20 +2485,8 @@
           "warnings": []
         },
         {
-          "id": "690e976003c0",
-          "rank": 21,
-          "name": "Martin Rees",
-          "english": "",
-          "count": 1,
-          "sourceIds": [
-            "2083474238879671977"
-          ],
-          "aiCount": 0,
-          "warnings": []
-        },
-        {
           "id": "e93160ef2070",
-          "rank": 21,
+          "rank": 22,
           "name": "Moty Heiblum",
           "english": "",
           "count": 1,
@@ -2313,7 +2498,7 @@
         },
         {
           "id": "bb9fc0d75b54",
-          "rank": 21,
+          "rank": 22,
           "name": "Robert Dennard",
           "english": "",
           "count": 1,
@@ -2325,7 +2510,7 @@
         },
         {
           "id": "5008de40fb29",
-          "rank": 21,
+          "rank": 22,
           "name": "Roy Kerr",
           "english": "",
           "count": 1,
@@ -2337,7 +2522,7 @@
         },
         {
           "id": "9c76205195c3",
-          "rank": 21,
+          "rank": 22,
           "name": "Stephen Forrest",
           "english": "",
           "count": 1,
@@ -2349,7 +2534,7 @@
         },
         {
           "id": "4de953b04927",
-          "rank": 21,
+          "rank": 22,
           "name": "Tadashi Kadowaki",
           "english": "",
           "count": 1,
@@ -2361,7 +2546,7 @@
         },
         {
           "id": "f2588e84d38a",
-          "rank": 21,
+          "rank": 22,
           "name": "Toshiki Tajima",
           "english": "",
           "count": 1,
@@ -2373,7 +2558,7 @@
         },
         {
           "id": "e6eedc0eee41",
-          "rank": 21,
+          "rank": 22,
           "name": "Wim Leemans",
           "english": "",
           "count": 1,
@@ -2385,7 +2570,7 @@
         },
         {
           "id": "3a07a40bc353",
-          "rank": 21,
+          "rank": 22,
           "name": "Yoshinori Tokura",
           "english": "",
           "count": 1,
@@ -2397,7 +2582,7 @@
         },
         {
           "id": "e428ea677d02",
-          "rank": 21,
+          "rank": 22,
           "name": "佐川真人",
           "english": "",
           "count": 1,
@@ -2409,7 +2594,7 @@
         },
         {
           "id": "6911e9efc1a3",
-          "rank": 21,
+          "rank": 22,
           "name": "大野英男",
           "english": "",
           "count": 1,
@@ -2421,7 +2606,7 @@
         },
         {
           "id": "9995b15ee4a3",
-          "rank": 21,
+          "rank": 22,
           "name": "安达千波矢",
           "english": "",
           "count": 1,
@@ -2432,8 +2617,22 @@
           "warnings": []
         },
         {
+          "id": "bbd4964b6df5",
+          "rank": 22,
+          "name": "斯坦福・伍斯利",
+          "english": "",
+          "count": 1,
+          "sourceIds": [
+            "2090379736577066980"
+          ],
+          "aiCount": 0,
+          "warnings": [
+            "第三位候选英文截断，使用完整可见的中文姓名"
+          ]
+        },
+        {
           "id": "da7b348e676d",
-          "rank": 21,
+          "rank": 22,
           "name": "邓青云",
           "english": "Ching W. Tang",
           "count": 1,
@@ -2445,7 +2644,7 @@
         },
         {
           "id": "eb855cfe456e",
-          "rank": 21,
+          "rank": 22,
           "name": "陈丕燊",
           "english": "",
           "count": 1,
@@ -2457,7 +2656,7 @@
         },
         {
           "id": "b671c880f145",
-          "rank": 21,
+          "rank": 22,
           "name": "饭岛澄男",
           "english": "",
           "count": 1,
@@ -2474,12 +2673,13 @@
           "rank": 1,
           "name": "几何相位与 AB 效应",
           "english": "",
-          "count": 8,
+          "count": 9,
           "sourceIds": [
             "2083334221356085859",
             "2083617705861583236",
             "2089318299809194871",
             "2083519423214895770",
+            "2090196038061659870",
             "2086930764889843362",
             "2089143162719696431",
             "2086797950701913759",
@@ -2508,14 +2708,16 @@
         },
         {
           "id": "7004a0aebf84",
-          "rank": 3,
+          "rank": 2,
           "name": "量子反常霍尔效应",
           "english": "",
-          "count": 5,
+          "count": 7,
           "sourceIds": [
             "2089178150047586062",
+            "2090196038061659870",
             "2084763356947298189",
             "2089669867985166779",
+            "2090167021757641846",
             "2089775645387761107",
             "2089401407313012136"
           ],
@@ -2552,6 +2754,22 @@
           "warnings": []
         },
         {
+          "id": "a8758b7c7c0c",
+          "rank": 5,
+          "name": "天体物理学",
+          "english": "",
+          "count": 3,
+          "sourceIds": [
+            "2090379736577066980",
+            "2083474238879671977",
+            "2089559227413091853"
+          ],
+          "aiCount": 0,
+          "warnings": [
+            "第三位候选英文截断，使用完整可见的中文姓名"
+          ]
+        },
+        {
           "id": "8533f1c4ea31",
           "rank": 5,
           "name": "存储器与自旋电子学",
@@ -2581,7 +2799,7 @@
         },
         {
           "id": "b67be877b919",
-          "rank": 8,
+          "rank": 9,
           "name": "光子晶体",
           "english": "",
           "count": 2,
@@ -2594,7 +2812,7 @@
         },
         {
           "id": "6747773f8677",
-          "rank": 8,
+          "rank": 9,
           "name": "光纤通信",
           "english": "",
           "count": 2,
@@ -2606,21 +2824,8 @@
           "warnings": []
         },
         {
-          "id": "a8758b7c7c0c",
-          "rank": 8,
-          "name": "天体物理学",
-          "english": "",
-          "count": 2,
-          "sourceIds": [
-            "2083474238879671977",
-            "2089559227413091853"
-          ],
-          "aiCount": 0,
-          "warnings": []
-        },
-        {
           "id": "7a2f289f2801",
-          "rank": 8,
+          "rank": 9,
           "name": "等离子体尾场加速",
           "english": "",
           "count": 2,
@@ -2633,7 +2838,7 @@
         },
         {
           "id": "4489c1bf1e86",
-          "rank": 8,
+          "rank": 9,
           "name": "超冷原子量子模拟",
           "english": "",
           "count": 2,
@@ -2646,7 +2851,7 @@
         },
         {
           "id": "7a2e71af08cc",
-          "rank": 8,
+          "rank": 9,
           "name": "超导材料与强关联电子",
           "english": "",
           "count": 2,
@@ -2659,7 +2864,7 @@
         },
         {
           "id": "a19455672b1e",
-          "rank": 8,
+          "rank": 9,
           "name": "超材料与负折射率",
           "english": "",
           "count": 2,
@@ -2726,6 +2931,18 @@
           "count": 1,
           "sourceIds": [
             "2088043224178997139"
+          ],
+          "aiCount": 0,
+          "warnings": []
+        },
+        {
+          "id": "f73eeed380db",
+          "rank": 15,
+          "name": "拓扑绝缘体",
+          "english": "",
+          "count": 1,
+          "sourceIds": [
+            "2090196038061659870"
           ],
           "aiCount": 0,
           "warnings": []
@@ -3092,15 +3309,44 @@
           "id": "2090379736577066980",
           "url": "https://www.zhihu.com/question/2081708619905745132/answer/2090379736577066980",
           "summary": "去年写过一个预测，盘点了天体物理和宇宙学领域可能拿诺奖的物理学家： 你对于2025年诺贝尔物理学奖的预测是什么，谁最有可能获奖? 今年诺贝尔物理学奖评审委员会主席Mark Pearce的研究领域是天体物理，而且天体物理领域上次获奖已经是6年前了，所以感觉今年的奖有希望轮到天体物理（嗯…强行加buff） 我今年的预测是下面三位天体物理学家： 马丁・里斯（Martin Rees）、野本宪一（Ken'ichi Nomoto）、斯坦福・伍斯利（Stanfo…",
-          "people": [],
-          "directions": [],
-          "reason": "待复核：新增或摘要有变更",
-          "reviewed": false,
-          "reviewMethod": null,
+          "people": [
+            "Martin Rees",
+            "Ken'ichi Nomoto",
+            "斯坦福・伍斯利"
+          ],
+          "directions": [
+            "天体物理学"
+          ],
+          "reason": "作者明确提出今年的三位天体物理学家；第三位中文姓名完整可见，保留原文写法，不补全截断的英文。",
+          "reviewed": true,
+          "reviewMethod": "human",
           "reviewModel": null,
-          "reviewEvidence": [],
+          "reviewEvidence": [
+            {
+              "kind": "people",
+              "name": "Martin Rees",
+              "quote": "我今年的预测是下面三位天体物理学家： 马丁・里斯（Martin Rees）、野本宪一（Ken'ichi Nomoto）、斯坦福・伍斯利"
+            },
+            {
+              "kind": "people",
+              "name": "Ken'ichi Nomoto",
+              "quote": "我今年的预测是下面三位天体物理学家： 马丁・里斯（Martin Rees）、野本宪一（Ken'ichi Nomoto）、斯坦福・伍斯利"
+            },
+            {
+              "kind": "people",
+              "name": "斯坦福・伍斯利",
+              "quote": "我今年的预测是下面三位天体物理学家： 马丁・里斯（Martin Rees）、野本宪一（Ken'ichi Nomoto）、斯坦福・伍斯利"
+            },
+            {
+              "kind": "directions",
+              "name": "天体物理学",
+              "quote": "我今年的预测是下面三位天体物理学家： 马丁・里斯（Martin Rees）、野本宪一（Ken'ichi Nomoto）、斯坦福・伍斯利"
+            }
+          ],
           "aiAssisted": false,
-          "warnings": []
+          "warnings": [
+            "第三位候选英文截断，使用完整可见的中文姓名"
+          ]
         },
         {
           "id": "2089107528739246239",
@@ -3187,13 +3433,52 @@
           "id": "2090196038061659870",
           "url": "https://www.zhihu.com/question/2081708619905745132/answer/2090196038061659870",
           "summary": "今年因为有引文桂冠奖的加持，所以感觉薛其坤院士的呼声声量大了不少，目前来看他是最接近物理诺奖的中国学者但也仍在“排队候奖”，假以时日瑞典的电话打来，希望是这个复旦-中植科学奖曾给出的皆大欢喜的名单组合吧（丁肇中主持了那届终审会议）： Sir Michael V. Berry（贝里相位）½，Charles L. Kane（拓扑绝缘体理论提出）¼，薛其坤（量子反常霍尔效应）¼ [图片] [图片]",
-          "people": [],
-          "directions": [],
-          "reason": "待复核：新增或摘要有变更",
-          "reviewed": false,
-          "reviewMethod": null,
+          "people": [
+            "Michael Berry",
+            "Charles L. Kane",
+            "薛其坤"
+          ],
+          "directions": [
+            "几何相位与 AB 效应",
+            "拓扑绝缘体",
+            "量子反常霍尔效应"
+          ],
+          "reason": "作者明确希望Berry、Kane与薛其坤的组合获奖；丁肇中仅为背景中的会议主持人，不计票。",
+          "reviewed": true,
+          "reviewMethod": "human",
           "reviewModel": null,
-          "reviewEvidence": [],
+          "reviewEvidence": [
+            {
+              "kind": "people",
+              "name": "Michael Berry",
+              "quote": "希望是这个复旦-中植科学奖曾给出的皆大欢喜的名单组合吧（丁肇中主持了那届终审会议）： Sir Michael V. Berry（贝里相位）½，Charles L. Kane（拓扑绝缘体理论提出）¼，薛其坤（量子反常霍尔效应）¼"
+            },
+            {
+              "kind": "people",
+              "name": "Charles L. Kane",
+              "quote": "希望是这个复旦-中植科学奖曾给出的皆大欢喜的名单组合吧（丁肇中主持了那届终审会议）： Sir Michael V. Berry（贝里相位）½，Charles L. Kane（拓扑绝缘体理论提出）¼，薛其坤（量子反常霍尔效应）¼"
+            },
+            {
+              "kind": "people",
+              "name": "薛其坤",
+              "quote": "希望是这个复旦-中植科学奖曾给出的皆大欢喜的名单组合吧（丁肇中主持了那届终审会议）： Sir Michael V. Berry（贝里相位）½，Charles L. Kane（拓扑绝缘体理论提出）¼，薛其坤（量子反常霍尔效应）¼"
+            },
+            {
+              "kind": "directions",
+              "name": "几何相位与 AB 效应",
+              "quote": "希望是这个复旦-中植科学奖曾给出的皆大欢喜的名单组合吧（丁肇中主持了那届终审会议）： Sir Michael V. Berry（贝里相位）½，Charles L. Kane（拓扑绝缘体理论提出）¼，薛其坤（量子反常霍尔效应）¼"
+            },
+            {
+              "kind": "directions",
+              "name": "拓扑绝缘体",
+              "quote": "希望是这个复旦-中植科学奖曾给出的皆大欢喜的名单组合吧（丁肇中主持了那届终审会议）： Sir Michael V. Berry（贝里相位）½，Charles L. Kane（拓扑绝缘体理论提出）¼，薛其坤（量子反常霍尔效应）¼"
+            },
+            {
+              "kind": "directions",
+              "name": "量子反常霍尔效应",
+              "quote": "希望是这个复旦-中植科学奖曾给出的皆大欢喜的名单组合吧（丁肇中主持了那届终审会议）： Sir Michael V. Berry（贝里相位）½，Charles L. Kane（拓扑绝缘体理论提出）¼，薛其坤（量子反常霍尔效应）¼"
+            }
+          ],
           "aiAssisted": false,
           "warnings": []
         },
@@ -3708,13 +3993,28 @@
           "id": "2090167021757641846",
           "url": "https://www.zhihu.com/question/2081708619905745132/answer/2090167021757641846",
           "summary": "如果让我现在只押一组，我会把 2026 年诺贝尔物理学奖押在薛其坤团队实现的“量子反常霍尔效应实验观测”上，而且正式预测的人选，我会写薛其坤。 原因并不是因为他是中国科学家，而是从“诺奖喜欢什么样的成果”来看，这项工作确实很符合物理学奖一贯偏好的几个条件：它是一个长期被理论预言、但迟迟没有在实验中真正实现的重要量子现象；实现以后又迅速成为拓扑量子物态研究里的标志性结果；从发现到现在已经过去十多年，科学…",
-          "people": [],
-          "directions": [],
-          "reason": "待复核：新增或摘要有变更",
-          "reviewed": false,
-          "reviewMethod": null,
+          "people": [
+            "薛其坤"
+          ],
+          "directions": [
+            "量子反常霍尔效应"
+          ],
+          "reason": "明确押注薛其坤及量子反常霍尔效应实验观测。",
+          "reviewed": true,
+          "reviewMethod": "human",
           "reviewModel": null,
-          "reviewEvidence": [],
+          "reviewEvidence": [
+            {
+              "kind": "people",
+              "name": "薛其坤",
+              "quote": "如果让我现在只押一组，我会把 2026 年诺贝尔物理学奖押在薛其坤团队实现的“量子反常霍尔效应实验观测”上，而且正式预测的人选，我会写薛其坤。"
+            },
+            {
+              "kind": "directions",
+              "name": "量子反常霍尔效应",
+              "quote": "2026 年诺贝尔物理学奖押在薛其坤团队实现的“量子反常霍尔效应实验观测”上"
+            }
+          ],
           "aiAssisted": false,
           "warnings": []
         },
@@ -4003,8 +4303,8 @@
       "fetchedAt": "2026-10-05T02:07:06.006312+00:00",
       "complete": true,
       "total": 17,
-      "valid": 14,
-      "pending": 1,
+      "valid": 15,
+      "pending": 0,
       "excluded": 2,
       "people": [
         {
@@ -4086,6 +4386,19 @@
           "warnings": []
         },
         {
+          "id": "193b3c03df90",
+          "rank": 1,
+          "name": "Stuart Schreiber",
+          "english": "",
+          "count": 2,
+          "sourceIds": [
+            "2083055746896478323",
+            "2090327594453439337"
+          ],
+          "aiCount": 0,
+          "warnings": []
+        },
+        {
           "id": "2f64b5409340",
           "rank": 1,
           "name": "刘如谦",
@@ -4100,7 +4413,7 @@
         },
         {
           "id": "b50d19c4b8e0",
-          "rank": 8,
+          "rank": 9,
           "name": "Anthony Hyman",
           "english": "",
           "count": 1,
@@ -4112,7 +4425,7 @@
         },
         {
           "id": "5eb996fd2a29",
-          "rank": 8,
+          "rank": 9,
           "name": "Arthur Horwich",
           "english": "",
           "count": 1,
@@ -4124,7 +4437,7 @@
         },
         {
           "id": "1ebc9bf1f47b",
-          "rank": 8,
+          "rank": 9,
           "name": "Bonnie Bassler",
           "english": "",
           "count": 1,
@@ -4136,7 +4449,7 @@
         },
         {
           "id": "27deda34c107",
-          "rank": 8,
+          "rank": 9,
           "name": "Clifford Brangwynne",
           "english": "",
           "count": 1,
@@ -4148,7 +4461,7 @@
         },
         {
           "id": "adc963a1bcc5",
-          "rank": 8,
+          "rank": 9,
           "name": "Craig Crews",
           "english": "",
           "count": 1,
@@ -4160,7 +4473,7 @@
         },
         {
           "id": "724458501301",
-          "rank": 8,
+          "rank": 9,
           "name": "David Klenerman",
           "english": "",
           "count": 1,
@@ -4172,7 +4485,7 @@
         },
         {
           "id": "e8f82499832d",
-          "rank": 8,
+          "rank": 9,
           "name": "Harry Gray",
           "english": "",
           "count": 1,
@@ -4184,7 +4497,7 @@
         },
         {
           "id": "d4ddf4348ce2",
-          "rank": 8,
+          "rank": 9,
           "name": "Jay Winkler",
           "english": "",
           "count": 1,
@@ -4196,7 +4509,7 @@
         },
         {
           "id": "9e4d00a01ca4",
-          "rank": 8,
+          "rank": 9,
           "name": "Jeffrey Gordon",
           "english": "",
           "count": 1,
@@ -4208,7 +4521,7 @@
         },
         {
           "id": "1aad90d74aef",
-          "rank": 8,
+          "rank": 9,
           "name": "John Hartwig",
           "english": "",
           "count": 1,
@@ -4220,7 +4533,7 @@
         },
         {
           "id": "f734ddcd6924",
-          "rank": 8,
+          "rank": 9,
           "name": "Krzysztof Matyjaszewski",
           "english": "",
           "count": 1,
@@ -4232,7 +4545,7 @@
         },
         {
           "id": "a4cd0ac45b17",
-          "rank": 8,
+          "rank": 9,
           "name": "Michael Rosen",
           "english": "",
           "count": 1,
@@ -4244,7 +4557,7 @@
         },
         {
           "id": "5a51fdd07aa4",
-          "rank": 8,
+          "rank": 9,
           "name": "Mitsuo Sawamoto",
           "english": "",
           "count": 1,
@@ -4256,7 +4569,7 @@
         },
         {
           "id": "c7d59b371397",
-          "rank": 8,
+          "rank": 9,
           "name": "Nathanael Gray",
           "english": "",
           "count": 1,
@@ -4268,7 +4581,7 @@
         },
         {
           "id": "8765fed0b6bd",
-          "rank": 8,
+          "rank": 9,
           "name": "Omar Yaghi",
           "english": "",
           "count": 1,
@@ -4282,7 +4595,7 @@
         },
         {
           "id": "ad9979ed7b49",
-          "rank": 8,
+          "rank": 9,
           "name": "Pascal Mayer",
           "english": "",
           "count": 1,
@@ -4294,7 +4607,7 @@
         },
         {
           "id": "3dba656de8bb",
-          "rank": 8,
+          "rank": 9,
           "name": "Peter Greenberg",
           "english": "",
           "count": 1,
@@ -4306,7 +4619,7 @@
         },
         {
           "id": "fd5796aaea8b",
-          "rank": 8,
+          "rank": 9,
           "name": "Peter Schultz",
           "english": "",
           "count": 1,
@@ -4318,7 +4631,7 @@
         },
         {
           "id": "1ec87f1f208c",
-          "rank": 8,
+          "rank": 9,
           "name": "Peter Walter",
           "english": "",
           "count": 1,
@@ -4330,7 +4643,7 @@
         },
         {
           "id": "a2b5b99c3ce0",
-          "rank": 8,
+          "rank": 9,
           "name": "Raymond Deshaies",
           "english": "",
           "count": 1,
@@ -4342,7 +4655,7 @@
         },
         {
           "id": "04b9be92fdd9",
-          "rank": 8,
+          "rank": 9,
           "name": "Shankar Balasubramanian",
           "english": "",
           "count": 1,
@@ -4354,7 +4667,7 @@
         },
         {
           "id": "7a015cb0e779",
-          "rank": 8,
+          "rank": 9,
           "name": "Stephen Buchwald",
           "english": "",
           "count": 1,
@@ -4365,20 +4678,8 @@
           "warnings": []
         },
         {
-          "id": "193b3c03df90",
-          "rank": 8,
-          "name": "Stuart Schreiber",
-          "english": "",
-          "count": 1,
-          "sourceIds": [
-            "2083055746896478323"
-          ],
-          "aiCount": 0,
-          "warnings": []
-        },
-        {
           "id": "aa60308d4e34",
-          "rank": 8,
+          "rank": 9,
           "name": "Susumu Kitagawa",
           "english": "",
           "count": 1,
@@ -4392,7 +4693,7 @@
         },
         {
           "id": "4472fbf7392d",
-          "rank": 8,
+          "rank": 9,
           "name": "Takeshi Oka",
           "english": "",
           "count": 1,
@@ -4404,7 +4705,7 @@
         },
         {
           "id": "186bcb43b4a2",
-          "rank": 8,
+          "rank": 9,
           "name": "Yoshitaka Tanimura",
           "english": "",
           "count": 1,
@@ -4416,7 +4717,7 @@
         },
         {
           "id": "35a64e9f45ba",
-          "rank": 8,
+          "rank": 9,
           "name": "宫坂力",
           "english": "Tsutomu Miyasaka",
           "count": 1,
@@ -4428,7 +4729,7 @@
         },
         {
           "id": "d6745991fb78",
-          "rank": 8,
+          "rank": 9,
           "name": "森和俊",
           "english": "Kazutoshi Mori",
           "count": 1,
@@ -4440,7 +4741,7 @@
         },
         {
           "id": "041b55ee25ec",
-          "rank": 8,
+          "rank": 9,
           "name": "沈建仁",
           "english": "Jian-Ren Shen",
           "count": 1,
@@ -4452,7 +4753,7 @@
         },
         {
           "id": "338b1f5d7ccf",
-          "rank": 8,
+          "rank": 9,
           "name": "翁启惠",
           "english": "Chi-Huey Wong",
           "count": 1,
@@ -4473,6 +4774,19 @@
           "sourceIds": [
             "2084296242725663899",
             "2084775277981340202"
+          ],
+          "aiCount": 0,
+          "warnings": []
+        },
+        {
+          "id": "1c8eb726231e",
+          "rank": 1,
+          "name": "化学生物学",
+          "english": "",
+          "count": 2,
+          "sourceIds": [
+            "2083055746896478323",
+            "2090327594453439337"
           ],
           "aiCount": 0,
           "warnings": []
@@ -4517,8 +4831,21 @@
           "warnings": []
         },
         {
+          "id": "68e625fe6bc6",
+          "rank": 1,
+          "name": "靶向蛋白降解",
+          "english": "",
+          "count": 2,
+          "sourceIds": [
+            "2084012229733638437",
+            "2090327594453439337"
+          ],
+          "aiCount": 0,
+          "warnings": []
+        },
+        {
           "id": "0a4d3a9efeb8",
-          "rank": 5,
+          "rank": 7,
           "name": "OLED",
           "english": "",
           "count": 1,
@@ -4530,7 +4857,7 @@
         },
         {
           "id": "1ca35b9fed0d",
-          "rank": 5,
+          "rank": 7,
           "name": "下一代 DNA 测序",
           "english": "",
           "count": 1,
@@ -4542,7 +4869,7 @@
         },
         {
           "id": "10e33b3110fb",
-          "rank": 5,
+          "rank": 7,
           "name": "光合作用",
           "english": "",
           "count": 1,
@@ -4553,20 +4880,8 @@
           "warnings": []
         },
         {
-          "id": "1c8eb726231e",
-          "rank": 5,
-          "name": "化学生物学",
-          "english": "",
-          "count": 1,
-          "sourceIds": [
-            "2083055746896478323"
-          ],
-          "aiCount": 0,
-          "warnings": []
-        },
-        {
           "id": "c69812362428",
-          "rank": 5,
+          "rank": 7,
           "name": "受阻路易斯酸碱对",
           "english": "",
           "count": 1,
@@ -4578,7 +4893,7 @@
         },
         {
           "id": "f5be1411eed7",
-          "rank": 5,
+          "rank": 7,
           "name": "可控自由基聚合",
           "english": "",
           "count": 1,
@@ -4590,7 +4905,7 @@
         },
         {
           "id": "1b4371c4a9dd",
-          "rank": 5,
+          "rank": 7,
           "name": "层级运动方程",
           "english": "",
           "count": 1,
@@ -4602,7 +4917,7 @@
         },
         {
           "id": "a5b95e4f0350",
-          "rank": 5,
+          "rank": 7,
           "name": "生物分子凝聚体",
           "english": "",
           "count": 1,
@@ -4614,7 +4929,7 @@
         },
         {
           "id": "6caa5e44468a",
-          "rank": 5,
+          "rank": 7,
           "name": "生物电子转移",
           "english": "",
           "count": 1,
@@ -4626,7 +4941,7 @@
         },
         {
           "id": "ad1d59109219",
-          "rank": 5,
+          "rank": 7,
           "name": "细菌群体感应",
           "english": "",
           "count": 1,
@@ -4638,7 +4953,7 @@
         },
         {
           "id": "6abe12db341c",
-          "rank": 5,
+          "rank": 7,
           "name": "肠道微生物组",
           "english": "",
           "count": 1,
@@ -4650,7 +4965,7 @@
         },
         {
           "id": "33368d852616",
-          "rank": 5,
+          "rank": 7,
           "name": "金属有机框架（MOF）",
           "english": "",
           "count": 1,
@@ -4664,7 +4979,7 @@
         },
         {
           "id": "d4038691313b",
-          "rank": 5,
+          "rank": 7,
           "name": "钙钛矿太阳能电池",
           "english": "",
           "count": 1,
@@ -4676,20 +4991,8 @@
         },
         {
           "id": "e6f20cac28ae",
-          "rank": 5,
+          "rank": 7,
           "name": "钯催化交叉偶联",
-          "english": "",
-          "count": 1,
-          "sourceIds": [
-            "2084012229733638437"
-          ],
-          "aiCount": 0,
-          "warnings": []
-        },
-        {
-          "id": "68e625fe6bc6",
-          "rank": 5,
-          "name": "靶向蛋白降解",
           "english": "",
           "count": 1,
           "sourceIds": [
@@ -4952,13 +5255,34 @@
           "id": "2090327594453439337",
           "url": "https://www.zhihu.com/question/2081709501913248924/answer/2090327594453439337",
           "summary": "Stuart L. Schreiber，化学生物学的奠基人。他发现的 mTOR 重塑了人们对营养感知、衰老和癌症的理解；而他当年研究的 FK506、雷帕霉素，本质上就是最早的分子胶。大火的 PROTAC 和分子胶，追根溯源都是这套\"化学诱导邻近\"的思路。今年全球首款 PROTAC 药物获批上市，三十年前埋下的种子终于结成了药：学术分量早就够了，时机也刚刚好。",
-          "people": [],
-          "directions": [],
-          "reason": "待复核：新增或摘要有变更",
-          "reviewed": false,
-          "reviewMethod": null,
+          "people": [
+            "Stuart Schreiber"
+          ],
+          "directions": [
+            "化学生物学",
+            "靶向蛋白降解"
+          ],
+          "reason": "作者以Schreiber姓名作答，并明确认为成果分量和时机均具备；化学生物学和PROTAC/分子胶方向在摘要中直接可见。",
+          "reviewed": true,
+          "reviewMethod": "human",
           "reviewModel": null,
-          "reviewEvidence": [],
+          "reviewEvidence": [
+            {
+              "kind": "people",
+              "name": "Stuart Schreiber",
+              "quote": "Stuart L. Schreiber，化学生物学的奠基人。"
+            },
+            {
+              "kind": "directions",
+              "name": "化学生物学",
+              "quote": "Stuart L. Schreiber，化学生物学的奠基人。"
+            },
+            {
+              "kind": "directions",
+              "name": "靶向蛋白降解",
+              "quote": "大火的 PROTAC 和分子胶"
+            }
+          ],
           "aiAssisted": false,
           "warnings": []
         },
@@ -5045,9 +5369,9 @@
       "fetchedAt": "2026-10-05T02:07:07.743564+00:00",
       "complete": true,
       "total": 26,
-      "valid": 10,
-      "pending": 3,
-      "excluded": 13,
+      "valid": 12,
+      "pending": 0,
+      "excluded": 14,
       "people": [
         {
           "id": "dfab570ca487",
@@ -5093,6 +5417,19 @@
           "warnings": []
         },
         {
+          "id": "f509f83d8930",
+          "rank": 3,
+          "name": "托马斯·品钦",
+          "english": "Thomas Pynchon",
+          "count": 2,
+          "sourceIds": [
+            "2090258199513395742",
+            "2088840004390990441"
+          ],
+          "aiCount": 0,
+          "warnings": []
+        },
+        {
           "id": "da4f1d5f2c1a",
           "rank": 3,
           "name": "燕妮·埃彭贝克",
@@ -5120,7 +5457,7 @@
         },
         {
           "id": "5244af364c52",
-          "rank": 6,
+          "rank": 7,
           "name": "克里斯蒂娜·佩里·罗西",
           "english": "",
           "count": 1,
@@ -5132,7 +5469,7 @@
         },
         {
           "id": "e116f76ad89e",
-          "rank": 6,
+          "rank": 7,
           "name": "德博拉·莱维",
           "english": "",
           "count": 1,
@@ -5143,20 +5480,48 @@
           "warnings": []
         },
         {
-          "id": "f509f83d8930",
-          "rank": 6,
-          "name": "托马斯·品钦",
-          "english": "Thomas Pynchon",
+          "id": "3e4f4aa7f27e",
+          "rank": 7,
+          "name": "德里罗",
+          "english": "",
           "count": 1,
           "sourceIds": [
-            "2088840004390990441"
+            "2090258199513395742"
           ],
           "aiCount": 0,
           "warnings": []
         },
         {
+          "id": "1d0574ca7dec",
+          "rank": 7,
+          "name": "杰梅卡·金凯德",
+          "english": "",
+          "count": 1,
+          "sourceIds": [
+            "2090236154150904765"
+          ],
+          "aiCount": 0,
+          "warnings": [
+            "阿迪契姓名按摘要原文保留，未补写原文没有的译名"
+          ]
+        },
+        {
+          "id": "9a28ba5634ee",
+          "rank": 7,
+          "name": "玛曼达·恩戈兹·阿迪契",
+          "english": "",
+          "count": 1,
+          "sourceIds": [
+            "2090236154150904765"
+          ],
+          "aiCount": 0,
+          "warnings": [
+            "阿迪契姓名按摘要原文保留，未补写原文没有的译名"
+          ]
+        },
+        {
           "id": "f4ddfa07a087",
-          "rank": 6,
+          "rank": 7,
           "name": "米歇尔·德克雷策",
           "english": "",
           "count": 1,
@@ -5168,7 +5533,7 @@
         },
         {
           "id": "0507fb611a45",
-          "rank": 6,
+          "rank": 7,
           "name": "米歇尔·维勒贝克",
           "english": "Michel Houellebecq",
           "count": 1,
@@ -5180,7 +5545,7 @@
         },
         {
           "id": "60a04f2ae725",
-          "rank": 6,
+          "rank": 7,
           "name": "罗莎·蒙特罗",
           "english": "",
           "count": 1,
@@ -5192,7 +5557,7 @@
         },
         {
           "id": "8f87fb0e8fcc",
-          "rank": 6,
+          "rank": 7,
           "name": "莉迪亚·若热",
           "english": "",
           "count": 1,
@@ -5204,7 +5569,7 @@
         },
         {
           "id": "81df9febce14",
-          "rank": 6,
+          "rank": 7,
           "name": "蕾切尔·卡斯克",
           "english": "",
           "count": 1,
@@ -5216,7 +5581,7 @@
         },
         {
           "id": "33bebe79de1b",
-          "rank": 6,
+          "rank": 7,
           "name": "阿里·史密斯",
           "english": "",
           "count": 1,
@@ -5495,13 +5860,27 @@
           "id": "2090258199513395742",
           "url": "https://www.zhihu.com/question/2085781961016960614/answer/2090258199513395742",
           "summary": "这两天在读《人妻教師が教え子の女子高生にドはまりする話》，我想说入間人間应该拿诺贝尔文学奖 不开玩笑，根据历史或者组委会的喜好去猜人确实不是我擅长的，我有读过的文学家也只是很偏很小的一部分。但我还是很希望品钦能够获奖，因为这有极大的可能促成 Against the Days, Mason and Dixon 和 Shadow Tickets 这三部小说的中译。或者德里罗，在我最喜欢的几位小说家里他是另一位最有可能得诺奖的。",
-          "people": [],
+          "people": [
+            "托马斯·品钦",
+            "德里罗"
+          ],
           "directions": [],
-          "reason": "待复核：新增或摘要有变更",
-          "reviewed": false,
-          "reviewMethod": null,
+          "reason": "“不开玩笑”之后明确希望品钦获奖，并列德里罗为另一位候选；前文入間人間为玩笑语境，不计票。",
+          "reviewed": true,
+          "reviewMethod": "human",
           "reviewModel": null,
-          "reviewEvidence": [],
+          "reviewEvidence": [
+            {
+              "kind": "people",
+              "name": "托马斯·品钦",
+              "quote": "我还是很希望品钦能够获奖"
+            },
+            {
+              "kind": "people",
+              "name": "德里罗",
+              "quote": "或者德里罗，在我最喜欢的几位小说家里他是另一位最有可能得诺奖的。"
+            }
+          ],
           "aiAssisted": false,
           "warnings": []
         },
@@ -5557,27 +5936,45 @@
           "summary": "诺贝尔文学奖可能是所有诺奖里最不适合“看赔率押答案”的一个，因为物理、化学至少还能顺着重大成果、引文和前哨奖往回推，文学奖却连真正的候选名单都看不到。瑞典学院把提名与评审材料保密50年，外界所谓“热门候选人”，本质上都是根据作品地位、翻译传播、历年获奖结构和市场赔率反推出来的，所以每年开奖前看起来有十几个“稳得不能再稳”的名字，最后门一打开，依然可能让所有人愣几秒。 但如果知乎这次活动要求我只能留…",
           "people": [],
           "directions": [],
-          "reason": "待复核：新增或摘要有变更",
-          "reviewed": false,
-          "reviewMethod": null,
+          "reason": "可见摘要只讨论候选名单、赔率与预测的不确定性；具体选择被截断，没有可计票的作家姓名。",
+          "reviewed": true,
+          "reviewMethod": "human",
           "reviewModel": null,
           "reviewEvidence": [],
           "aiAssisted": false,
-          "warnings": []
+          "warnings": [
+            "摘要截断；当前可见内容没有明确的本届预测"
+          ]
         },
         {
           "id": "2090236154150904765",
           "url": "https://www.zhihu.com/question/2085781961016960614/answer/2090236154150904765",
           "summary": "我推测应该是杰梅卡·金凯德和玛曼达·恩戈兹·阿迪契中二选一 金凯德的创伤议题和诺奖近几年的风向很契合，阿迪契同理。而且在如今世界冲突愈演愈烈的情况下，阿迪契作品中宏大与微观、战争与体制都体现出的创伤内容（战争/少数族裔/移民）可能更受青睐。 至于很多人提到的埃彭贝克，我认为目前是不太可能，虽然24年拿了贝克奖，但是作品数和内容宽度都是还不够的。如果她能以这样的势头继续创作大约三部作品，那么以她的作品素…",
-          "people": [],
+          "people": [
+            "杰梅卡·金凯德",
+            "玛曼达·恩戈兹·阿迪契"
+          ],
           "directions": [],
-          "reason": "待复核：新增或摘要有变更",
-          "reviewed": false,
-          "reviewMethod": null,
+          "reason": "明确预测金凯德与阿迪契二选一，均计票；对埃彭贝克的预测为否定，不计票。",
+          "reviewed": true,
+          "reviewMethod": "human",
           "reviewModel": null,
-          "reviewEvidence": [],
+          "reviewEvidence": [
+            {
+              "kind": "people",
+              "name": "杰梅卡·金凯德",
+              "quote": "我推测应该是杰梅卡·金凯德和玛曼达·恩戈兹·阿迪契中二选一"
+            },
+            {
+              "kind": "people",
+              "name": "玛曼达·恩戈兹·阿迪契",
+              "quote": "我推测应该是杰梅卡·金凯德和玛曼达·恩戈兹·阿迪契中二选一"
+            }
+          ],
           "aiAssisted": false,
-          "warnings": []
+          "warnings": [
+            "阿迪契姓名按摘要原文保留，未补写原文没有的译名"
+          ]
         },
         {
           "id": "2089269542379959533",

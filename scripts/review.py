@@ -10,6 +10,11 @@ from deadlines import is_open
 MODEL='zhida-fast-1p5'
 ALIASES={
  'Daniel Drucker':['Daniel J. Drucker','Daniel J Drucker'],
+ 'Svetlana Mojsov':['斯维特兰娜·莫伊索'],
+ 'Masashi Yanagisawa':['柳泽正史'],
+ 'Michael Berry':['Sir Michael V. Berry','Michael V. Berry'],
+ 'Stuart Schreiber':['Stuart L. Schreiber'],
+ '托马斯·品钦':['品钦'],
  'Franz-Ulrich Hartl':['Ulrich Hartl'],
  '卢煜明':['Yuk Ming Dennis Lo','Yuk-Ming Dennis Lo','LO Yuk Ming, Dennis'],
  'GLP-1':['GLP1','GLP-1药物','胰高血糖素样肽'],
@@ -22,6 +27,8 @@ ALIASES={
  '自组装单分子层':['自组装单分子层','SAMs'],
  '魔角石墨烯与转角电子学':['魔角石墨烯','twistronics'],
  '白血病靶向与分化治疗':['白血病靶向治疗','白血病分化治疗','伊马替尼'],
+ '食欲素与睡眠调控':['食欲素'],
+ '靶向蛋白降解':['PROTAC','分子胶'],
  '实证产业组织与 BLP':['BLP','实证产业组织'],
  '数字经济与信息技术':['信息技术经济学','数字经济'],
  '国际贸易与企业异质性':['国际贸易','企业异质性'],

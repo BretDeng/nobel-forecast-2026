@@ -1,0 +1,23 @@
+{
+  "model": "zhida-fast-1p5",
+  "category": "medicine",
+  "summaryHashes": {
+    "2090195993891546193": "8011db08c24d37da30141adb1a156f48d07b594633f8c107aaf99a384c2b3f31"
+  },
+  "response": {
+    "id": "chatcmpl-9844a17b-77c1-4ea8-8515-7d32045759a2",
+    "object": "chat.completion",
+    "created": 1791166561,
+    "model": "zhida-fast-1p5",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "{\"items\":[{\"id\":\"2090195993891546193\",\"status\":\"exclude\",\"people\":[],\"directions\":[],\"reason\":\"仅表达对艾滋病治愈的愿望，未提出2026年该奖项的作者预测人名或方向。\"}]}"
+        },
+        "finish_reason": "stop"
+      }
+    ]
+  }
+}

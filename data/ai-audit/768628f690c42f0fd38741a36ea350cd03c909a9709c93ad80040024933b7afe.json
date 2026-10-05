@@ -1,0 +1,23 @@
+{
+  "model": "zhida-fast-1p5",
+  "category": "medicine",
+  "summaryHashes": {
+    "2090360272632469501": "1555990818e0243d3dfac5c23290375fe9ad3bbc01720f4dcb3e0beb2cd79ddc"
+  },
+  "response": {
+    "id": "chatcmpl-ad13f737-8598-4831-969d-2c791156efcf",
+    "object": "chat.completion",
+    "created": 1791166712,
+    "model": "zhida-fast-1p5",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "{\"items\":[{\"id\":\"2090360272632469501\",\"status\":\"exclude\",\"people\":[],\"directions\":[],\"reason\":\"摘要无2026年生理学或医学奖的明确预测内容。\"}]}"
+        },
+        "finish_reason": "stop"
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "model": "zhida-fast-1p5",
+  "category": "medicine",
+  "summaryHashes": {
+    "2090231295540455238": "4028889160dce67b956d81954ca8714eeba0ac1f262ac50873f4f92b8541fc9e"
+  },
+  "response": {
+    "id": "chatcmpl-33f8e7be-98fc-4083-9343-897256cfeecf",
+    "object": "chat.completion",
+    "created": 1791166557,
+    "model": "zhida-fast-1p5",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "{\"items\":[{\"id\":\"2090231295540455238\",\"status\":\"include\",\"people\":[{\"name\":\"Daniel J. Drucker\",\"evidence\":\"获奖人选： 丹尼尔·德鲁克（Daniel J. Drucker）、延斯·尤尔·霍斯特（Jens Juul Holst）和斯维特兰娜·莫伊索\"},{\"name\":\"Jens Juul Holst\",\"evidence\":\"获奖人选： 丹尼尔·德鲁克（Daniel J. Drucker）、延斯·尤尔·霍斯特（Jens Juul Holst）和斯维特兰娜·莫伊索\"},{\"name\":\"Svetlana Mojsov\",\"evidence\":\"丹尼尔·德鲁克（Daniel J. Drucker）、延斯·尤尔·霍斯特（Jens Juul Holst）和斯维特兰娜·莫伊索\"}],\"directions\":[{\"name\":\"GLP-1\",\"evidence\":\"获奖成果： GLP-1（胰高血糖素样肽-1）的发现与机制阐明。\"}],\"reason\":\"作者明确预测2026年生理学或医学奖授予GLP-1相关工作及三位人选。\"}]}"
+        },
+        "finish_reason": "stop"
+      }
+    ]
+  }
+}

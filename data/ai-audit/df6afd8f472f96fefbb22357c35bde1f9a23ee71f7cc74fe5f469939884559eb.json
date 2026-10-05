@@ -1,0 +1,23 @@
+{
+  "model": "zhida-fast-1p5",
+  "category": "medicine",
+  "summaryHashes": {
+    "2090368072955720054": "7932f0352d52bc3ed1fe7511fc99a7f0f71c99de2d91ef212566ebe9089000d1"
+  },
+  "response": {
+    "id": "chatcmpl-dbda33d9-b853-4ba8-9b69-2f1474d726bd",
+    "object": "chat.completion",
+    "created": 1791166708,
+    "model": "zhida-fast-1p5",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "{\"items\":[{\"id\":\"2090368072955720054\",\"status\":\"uncertain\",\"people\":[],\"directions\":[],\"reason\":\"摘要仅包含人名'乔治朱'，无任何预测语境，无法确认是否为对该奖项的明确正向预测。\"}]}"
+        },
+        "finish_reason": "stop"
+      }
+    ]
+  }
+}

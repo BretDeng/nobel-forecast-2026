@@ -1,0 +1,23 @@
+{
+  "model": "zhida-fast-1p5",
+  "category": "medicine",
+  "summaryHashes": {
+    "2090381661833795115": "40fd3438d8fd80cfea8fcf56b40d59f86fc8c0c60bc2e71ae2cc0eeb585cd148"
+  },
+  "response": {
+    "id": "chatcmpl-2e0b77c0-1df6-456e-b387-67f1bb65fc7e",
+    "object": "chat.completion",
+    "created": 1791166569,
+    "model": "zhida-fast-1p5",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "{\"items\":[{\"id\":\"2090381661833795115\",\"status\":\"include\",\"people\":[],\"directions\":[{\"name\":\"GLP-1\",\"evidence\":\"1. 世纪最大热门与修罗场：GLP-1及其生理调节机制按对现代人类社会的重构程度算，GLP-1靶点如果拿不到\"}],\"reason\":\"作者明确将GLP-1及其生理调节机制列为2026年生理学或医学奖的世纪最大热门，属于明确正向预测；摘要截断但已给出预测语境，未提及具体人名。\"}]}"
+        },
+        "finish_reason": "stop"
+      }
+    ]
+  }
+}
