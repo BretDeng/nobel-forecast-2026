@@ -1,0 +1,27 @@
+{
+  "model": "zhida-fast-1p5",
+  "category": "physics",
+  "summaryHashes": {
+    "2090557842801669386": "943720d9228928387b0c5088f79336a5233cf165db7fb759660c75f90409291b",
+    "2090549669357150927": "aeb02c8a47c0377869e23bcca7649669a8ab49da81912575f32f5429af90ceb0",
+    "2090546202496521024": "4cc9e39e10be931ed54c0054fed3bec7db7c5871e7c88cf0e927d56d5769f482",
+    "2090541104873595040": "7a1a90b04890a9bce183fc5b1748b9b2e4cbb53decafa1f0b984727964169a72",
+    "2090523995338699680": "b70bb4acc0484cf040de4c07c60f9db722283da2c4a672c39291de621e92c33f"
+  },
+  "response": {
+    "id": "chatcmpl-1bf93cd7-0dd8-4d18-aeb3-985006b6faf8",
+    "object": "chat.completion",
+    "created": 1791249512,
+    "model": "zhida-fast-1p5",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "{\"items\":[{\"id\":\"2090557842801669386\",\"status\":\"include\",\"people\":[{\"name\":\"Immanuel Bloch\",\"evidence\":\"我把2026 诺贝尔物理学奖押给「超冷原子体系的量子调控与光晶格精密测量」 Immanuel Bloch\"},{\"name\":\"叶军\",\"evidence\":\"叶军（Jun Ye）（NIST / 科罗拉多大学 JILA）\"},{\"name\":\"香取秀俊\",\"evidence\":\"香取秀俊（Hidetoshi Katori）（东京大学 / 理化学研究所）\"}],\"directions\":[{\"name\":\"超冷原子量子模拟\",\"evidence\":\"「超冷原子体系的量子调控与光晶格精密测量」\"},{\"name\":\"光晶格原子钟\",\"evidence\":\"香取秀俊是光晶格钟原案提出者\"}],\"reason\":\"作者明确将2026诺贝尔物理学奖押给三人及超冷原子/光晶格方向。\"},{\"id\":\"2090549669357150927\",\"status\":\"exclude\",\"people\":[],\"directions\":[],\"reason\":\"仅表达预测困难，无任何预测内容。\"},{\"id\":\"2090546202496521024\",\"status\":\"uncertain\",\"people\":[],\"directions\":[],\"reason\":\"摘要截断，声称罗列四组候选方向但具体内容未出现，语境模糊不得补全。\"},{\"id\":\"2090541104873595040\",\"status\":\"include\",\"people\":[{\"name\":\"John Pendry\",\"evidence\":\"John Pendry吧\"}],\"directions\":[],\"reason\":\"作者明确预测John Pendry获奖。\"},{\"id\":\"2090523995338699680\",\"status\":\"exclude\",\"people\":[],\"directions\":[],\"reason\":\"内容仅为“我”，无预测信息。\"}]}"
+        },
+        "finish_reason": "stop"
+      }
+    ]
+  }
+}

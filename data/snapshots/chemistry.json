@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-05T19:17:48.799960+00:00",
+  "fetchedAt": "2026-10-06T01:18:12.717263+00:00",
   "pages": [
     {
       "Code": 0,
@@ -68,6 +68,18 @@
           },
           {
             "ContentType": "answer",
+            "ContentToken": "2083342696903717415",
+            "Url": "https://www.zhihu.com/question/2081709501913248924/answer/2083342696903717415",
+            "Summary": "Frustrated Lewis Pair（FLP）有没有一丝丝可能？（瞎猜）"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2090723794172359756",
+            "Url": "https://www.zhihu.com/question/2081709501913248924/answer/2090723794172359756",
+            "Summary": "不出所料，我对于2026年诺贝尔化学奖的预测是基础研究领域的蛋白质长程电子转移成果。获奖科学家是来自加州理工学院的哈里·格雷(Harry Gray)与杰伊·温克勒(Jay Winkler)。两位科学家是非常出色的科研搭子，一起合作数十年，揭示了蛋白质如何实现长距离的电子交换机制，为理解蛋白质生理功能提供了关键依据，帮助学界窥见了细胞产生与能量传递的内在原理。 两位科学家的研究成果根本性改变了从靶向药物治疗到清洁能源生产等一系…"
+          },
+          {
+            "ContentType": "answer",
             "ContentToken": "2090434212310554442",
             "Url": "https://www.zhihu.com/question/2081709501913248924/answer/2090434212310554442",
             "Summary": "摘要：2024年诺贝尔物理学奖和化学奖都颁给了人工智能的开路人。两年后，今年这份诺奖热门名单上，我挑了三个把AI用进研究核心的人，有人用Transformer读DNA，有人拿AI设计的蛋白当进化起点。 今晚17点30分，2026年的诺贝尔奖就要开奖了，头一个公布的是生理学或医学奖。 得先说清楚，诺奖委员会的提名名单从不对外公布，所谓热门名单，都是媒体和数据机构按论文影响力猜的。今晚之前，这些名字一个都不算数。 我也不想猜谁会得…"
@@ -83,12 +95,6 @@
             "ContentToken": "2089180421460333700",
             "Url": "https://www.zhihu.com/question/2081709501913248924/answer/2089180421460333700",
             "Summary": "照例参加赛博预测。我预测的人选是： 刘如谦 ，David Allara、Ralph Nuzzo、Jacob Sagiv，Harry Gray、Jay Winkler以下是ChatGPT给出的完整报告： 如果只让我押一个名字，我押刘如谦（David R. Liu）；如果押一个获奖方向，我最看好“精准基因编辑”。 不过这是低置信度预测，不是认定他今年一定获奖。截至 2026年10月2日，今年化学奖尚未揭晓；官方公布日期是 10月7日 。结合刚发布的公开资料，我的预测榜如下。1．首选：刘如谦…"
-          },
-          {
-            "ContentType": "answer",
-            "ContentToken": "2083342696903717415",
-            "Url": "https://www.zhihu.com/question/2081709501913248924/answer/2083342696903717415",
-            "Summary": "Frustrated Lewis Pair（FLP）有没有一丝丝可能？（瞎猜）"
           },
           {
             "ContentType": "answer",
@@ -110,12 +116,6 @@
           },
           {
             "ContentType": "answer",
-            "ContentToken": "2090420401813959146",
-            "Url": "https://www.zhihu.com/question/2081709501913248924/answer/2090420401813959146",
-            "Summary": "如果今年只能押一组，我反而不会追最新的“碱基编辑”，也不会直接跟着科睿唯安今年新公布的候选名单走。我会把 2026 年诺贝尔化学奖正式押在 下一代 DNA 测序（Next-Generation Sequencing，NGS）上，人选选择 Shankar Balasubramanian、David Klenerman 和 Pascal Mayer，因为这三个人的成果已经从一项实验室技术，变成了现代生命科学最基础的基础设施之一。我的正式预测是： Shankar Balasubramanian、David Klenerman、Pasca…"
-          },
-          {
-            "ContentType": "answer",
             "ContentToken": "2089115093577607038",
             "Url": "https://www.zhihu.com/question/2081709501913248924/answer/2089115093577607038",
             "Summary": "化学奖会发给OLED的发明人们"
@@ -125,6 +125,12 @@
             "ContentToken": "2084856699308061881",
             "Url": "https://www.zhihu.com/question/2081709501913248924/answer/2084856699308061881",
             "Summary": "Takeshi Oka"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2090420401813959146",
+            "Url": "https://www.zhihu.com/question/2081709501913248924/answer/2090420401813959146",
+            "Summary": "如果今年只能押一组，我反而不会追最新的“碱基编辑”，也不会直接跟着科睿唯安今年新公布的候选名单走。我会把 2026 年诺贝尔化学奖正式押在 下一代 DNA 测序（Next-Generation Sequencing，NGS）上，人选选择 Shankar Balasubramanian、David Klenerman 和 Pascal Mayer，因为这三个人的成果已经从一项实验室技术，变成了现代生命科学最基础的基础设施之一。我的正式预测是： Shankar Balasubramanian、David Klenerman、Pasca…"
           },
           {
             "ContentType": "answer",

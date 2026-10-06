@@ -1,0 +1,27 @@
+{
+  "model": "zhida-fast-1p5",
+  "category": "physics",
+  "summaryHashes": {
+    "2090720471952126008": "f9a24cf5066e47addba139c1d268fdf3ec708ecb49ee275b09faa2d32b7c3ccc",
+    "2090645326889750976": "364cd892313750fc0bb19d3fd338e2bbc14823a5888b210a059488d87d0abcb9",
+    "2090714214037984732": "342f3f6d91151f70a7326a3caf4ba1631a457aca44cf7e667b44f9877f5c5609",
+    "2090570618882343008": "d1048ed889ae3190e699d7198055c02a33001c7a79b5011976310b5eb1507fd1",
+    "2090567799244599426": "831903ec024e029495756b6661d82ae34b980c53d21309f5ed0647c0dec5fcf1"
+  },
+  "response": {
+    "id": "chatcmpl-43670654-4003-431f-a42c-72851cf935d1",
+    "object": "chat.completion",
+    "created": 1791249505,
+    "model": "zhida-fast-1p5",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "{\"items\":[{\"id\":\"2090720471952126008\",\"status\":\"include\",\"people\":[{\"name\":\"PaulGrannis\",\"evidence\":\"PaulGrannis、MelvynShochet和GiorgioBellettini三位科学家分别在实验设计、数据分析和国际合作上起了关键作用，很有可能共同获此殊荣\"},{\"name\":\"MelvynShochet\",\"evidence\":\"PaulGrannis、MelvynShochet和GiorgioBellettini三位科学家分别在实验设计、数据分析和国际合作上起了关键作用，很有可能共同获此殊荣\"},{\"name\":\"GiorgioBellettini\",\"evidence\":\"PaulGrannis、MelvynShochet和GiorgioBellettini三位科学家分别在实验设计、数据分析和国际合作上起了关键作用，很有可能共同获此殊荣\"}],\"directions\":[{\"name\":\"粒子物理\",\"evidence\":\"我对2026年诺贝尔物理学奖的预测是粒子物理领域的顶夸克\"}],\"reason\":\"作者明确正向预测三位科学家因粒子物理顶夸克工作获奖。\"},{\"id\":\"2090645326889750976\",\"status\":\"uncertain\",\"people\":[],\"directions\":[],\"reason\":\"只泛称日本物理学家会获奖，未给出具体人名或方向。\"},{\"id\":\"2090714214037984732\",\"status\":\"uncertain\",\"people\":[],\"directions\":[],\"reason\":\"作者自称不了解物理，仅列举出名的中国人并转述媒体成果，未明确表态预测谁获奖，且文本截断。\"},{\"id\":\"2090570618882343008\",\"status\":\"include\",\"people\":[],\"directions\":[{\"name\":\"几何相位与 AB 效应\",\"evidence\":\"有AB相位（直觉）\"}],\"reason\":\"作者正向预测AB相位方向获奖。\"},{\"id\":\"2090567799244599426\",\"status\":\"include\",\"people\":[{\"name\":\"佐川真人\",\"evidence\":\"再奶一下Masato Sagawa\"}],\"directions\":[],\"reason\":\"作者表达希望佐川真人（Masato Sagawa）获奖。\"}]}"
+        },
+        "finish_reason": "stop"
+      }
+    ]
+  }
+}

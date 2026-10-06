@@ -2185,6 +2185,191 @@
       "reviewedAt": "2026-10-05T19:18:28.187241+00:00",
       "evidence": [],
       "auditFile": "a09934cb0de652daaf71b17bb7fba8a91679863af409e1c444633f0b9625492c.json"
+    },
+    "2090720471952126008": {
+      "summaryHash": "f9a24cf5066e47addba139c1d268fdf3ec708ecb49ee275b09faa2d32b7c3ccc",
+      "reviewed": true,
+      "people": [
+        "PaulGrannis",
+        "MelvynShochet",
+        "GiorgioBellettini"
+      ],
+      "directions": [
+        "粒子物理"
+      ],
+      "reason": "作者明确正向预测三位科学家因粒子物理顶夸克工作获奖。",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-06T01:18:25.421985+00:00",
+      "evidence": [
+        {
+          "kind": "people",
+          "name": "PaulGrannis",
+          "quote": "PaulGrannis、MelvynShochet和GiorgioBellettini三位科学家分别在实验设计、数据分析和国际合作上起了关键作用，很有可能共同获此殊荣"
+        },
+        {
+          "kind": "people",
+          "name": "MelvynShochet",
+          "quote": "PaulGrannis、MelvynShochet和GiorgioBellettini三位科学家分别在实验设计、数据分析和国际合作上起了关键作用，很有可能共同获此殊荣"
+        },
+        {
+          "kind": "people",
+          "name": "GiorgioBellettini",
+          "quote": "PaulGrannis、MelvynShochet和GiorgioBellettini三位科学家分别在实验设计、数据分析和国际合作上起了关键作用，很有可能共同获此殊荣"
+        },
+        {
+          "kind": "directions",
+          "name": "粒子物理",
+          "quote": "我对2026年诺贝尔物理学奖的预测是粒子物理领域的顶夸克"
+        }
+      ],
+      "auditFile": "aed9c56ec3f79b87e0307c27ea97c3e4fd03cb462befac7d0676c70dd340ddcc.json"
+    },
+    "2090645326889750976": {
+      "summaryHash": "364cd892313750fc0bb19d3fd338e2bbc14823a5888b210a059488d87d0abcb9",
+      "reviewed": false,
+      "people": [],
+      "directions": [],
+      "reason": "直答无法确定，待人工复核：只泛称日本物理学家会获奖，未给出具体人名或方向。",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-06T01:18:25.423417+00:00",
+      "evidence": [],
+      "auditFile": "aed9c56ec3f79b87e0307c27ea97c3e4fd03cb462befac7d0676c70dd340ddcc.json"
+    },
+    "2090714214037984732": {
+      "summaryHash": "342f3f6d91151f70a7326a3caf4ba1631a457aca44cf7e667b44f9877f5c5609",
+      "reviewed": false,
+      "people": [],
+      "directions": [],
+      "reason": "直答无法确定，待人工复核：作者自称不了解物理，仅列举出名的中国人并转述媒体成果，未明确表态预测谁获奖，且文本截断。",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-06T01:18:25.423431+00:00",
+      "evidence": [],
+      "auditFile": "aed9c56ec3f79b87e0307c27ea97c3e4fd03cb462befac7d0676c70dd340ddcc.json"
+    },
+    "2090570618882343008": {
+      "summaryHash": "d1048ed889ae3190e699d7198055c02a33001c7a79b5011976310b5eb1507fd1",
+      "reviewed": false,
+      "people": [],
+      "directions": [],
+      "reason": "直答输出校验失败，待人工复核：人名/方向缺少原文依据",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "auditFile": "aed9c56ec3f79b87e0307c27ea97c3e4fd03cb462befac7d0676c70dd340ddcc.json"
+    },
+    "2090567799244599426": {
+      "summaryHash": "831903ec024e029495756b6661d82ae34b980c53d21309f5ed0647c0dec5fcf1",
+      "reviewed": false,
+      "people": [],
+      "directions": [],
+      "reason": "直答输出校验失败，待人工复核：人名/方向缺少原文依据",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "auditFile": "aed9c56ec3f79b87e0307c27ea97c3e4fd03cb462befac7d0676c70dd340ddcc.json"
+    },
+    "2090557842801669386": {
+      "summaryHash": "943720d9228928387b0c5088f79336a5233cf165db7fb759660c75f90409291b",
+      "reviewed": false,
+      "people": [],
+      "directions": [],
+      "reason": "直答输出校验失败，待人工复核：人名/方向缺少原文依据",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "auditFile": "30bc4365757333e6486b7d4989b78296c9b8fd21da47d057328da1f08010d089.json"
+    },
+    "2090549669357150927": {
+      "summaryHash": "aeb02c8a47c0377869e23bcca7649669a8ab49da81912575f32f5429af90ceb0",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "仅表达预测困难，无任何预测内容。",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-06T01:18:32.477708+00:00",
+      "evidence": [],
+      "auditFile": "30bc4365757333e6486b7d4989b78296c9b8fd21da47d057328da1f08010d089.json"
+    },
+    "2090546202496521024": {
+      "summaryHash": "4cc9e39e10be931ed54c0054fed3bec7db7c5871e7c88cf0e927d56d5769f482",
+      "reviewed": false,
+      "people": [],
+      "directions": [],
+      "reason": "直答无法确定，待人工复核：摘要截断，声称罗列四组候选方向但具体内容未出现，语境模糊不得补全。",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-06T01:18:32.477718+00:00",
+      "evidence": [],
+      "auditFile": "30bc4365757333e6486b7d4989b78296c9b8fd21da47d057328da1f08010d089.json"
+    },
+    "2090541104873595040": {
+      "summaryHash": "7a1a90b04890a9bce183fc5b1748b9b2e4cbb53decafa1f0b984727964169a72",
+      "reviewed": true,
+      "people": [
+        "John Pendry"
+      ],
+      "directions": [],
+      "reason": "作者明确预测John Pendry获奖。",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-06T01:18:32.477724+00:00",
+      "evidence": [
+        {
+          "kind": "people",
+          "name": "John Pendry",
+          "quote": "John Pendry吧"
+        }
+      ],
+      "auditFile": "30bc4365757333e6486b7d4989b78296c9b8fd21da47d057328da1f08010d089.json"
+    },
+    "2090523995338699680": {
+      "summaryHash": "b70bb4acc0484cf040de4c07c60f9db722283da2c4a672c39291de621e92c33f",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "内容仅为“我”，无预测信息。",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-06T01:18:32.477836+00:00",
+      "evidence": [],
+      "auditFile": "30bc4365757333e6486b7d4989b78296c9b8fd21da47d057328da1f08010d089.json"
+    },
+    "2090514380807001324": {
+      "summaryHash": "2d3517170b804ac39aa91021d3fe2a8a29643d3cc260d030ebf0184a22fe654e",
+      "reviewed": false,
+      "people": [],
+      "directions": [],
+      "reason": "直答无法确定，待人工复核：摘要仅声称有17位候选人但未列出任何具体人名或方向，内容截断且语境模糊，无法提取明确预测。",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-06T01:18:37.438733+00:00",
+      "evidence": [],
+      "auditFile": "5520da8308cdaab6c02c66e09fcd3535d874d66a76a9eacd9abb4bebc77f06fa.json"
+    },
+    "2090478366709248771": {
+      "summaryHash": "992a002e8a191dab436baa72f74d2db9f9567cab7fde6dc56045a6353ac87524",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "仅为对预测行为的感叹评论，未包含任何2026年获奖人预测。",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-06T01:18:37.438752+00:00",
+      "evidence": [],
+      "auditFile": "5520da8308cdaab6c02c66e09fcd3535d874d66a76a9eacd9abb4bebc77f06fa.json"
     }
   },
   "chemistry": {
