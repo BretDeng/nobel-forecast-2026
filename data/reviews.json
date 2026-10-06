@@ -2735,6 +2735,162 @@
         }
       ],
       "auditFile": "29f9ad5f425a7920489dec7f558ee88c7769f6aedadd2a6d69e0be4a6f482b2f.json"
+    },
+    "2090723794172359756": {
+      "summaryHash": "38affba870bc1786a9b541a64e35ec639a254713c33f8d77b23110ce0ad7bd67",
+      "reviewed": false,
+      "people": [],
+      "directions": [],
+      "reason": "直答输出校验失败，待人工复核：人名/方向缺少原文依据",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "auditFile": "131c63cf13fe9f3e1817156be7d67f248c8774bb144f9343f0d9860391be42ae.json"
+    },
+    "2090771376785323976": {
+      "summaryHash": "09c88238d11df3e1d077342d9841540ff85a2f6fa09ebff4ce70697389c3c224",
+      "reviewed": false,
+      "people": [],
+      "directions": [],
+      "reason": "直答无法确定，待人工复核：摘要截断且未给出具体获奖人选或方向的明确预测。",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-06T08:58:30.799218+00:00",
+      "evidence": [],
+      "auditFile": "131c63cf13fe9f3e1817156be7d67f248c8774bb144f9343f0d9860391be42ae.json"
+    },
+    "2090751833484665020": {
+      "summaryHash": "596d11a1fafb5da318a8407bfb420ce9519d25f310359ea7558ba0c9deaaaf66",
+      "reviewed": true,
+      "people": [
+        "David Allara",
+        "Ralph Nuzzo",
+        "Jacob Sagiv"
+      ],
+      "directions": [
+        "自组装单分子层"
+      ],
+      "reason": "作者明确预测三人因自组装单分子层研究获2026年诺贝尔化学奖。",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-06T08:58:30.799232+00:00",
+      "evidence": [
+        {
+          "kind": "people",
+          "name": "David Allara",
+          "quote": "预测结果是自组装单分子层研究领域的开创者，他们分别是美国学者戴维·阿拉拉（David Allara）"
+        },
+        {
+          "kind": "people",
+          "name": "Ralph Nuzzo",
+          "quote": "戴维·阿拉拉（David Allara）和拉尔夫·努佐（Ralph Nuzzo）"
+        },
+        {
+          "kind": "people",
+          "name": "Jacob Sagiv",
+          "quote": "以及来自以色列的雅各布·萨吉夫(Jacob Sagiv）"
+        },
+        {
+          "kind": "directions",
+          "name": "自组装单分子层",
+          "quote": "我对于2026年诺贝尔化学奖的预测结果是自组装单分子层研究领域的开创者"
+        }
+      ],
+      "auditFile": "131c63cf13fe9f3e1817156be7d67f248c8774bb144f9343f0d9860391be42ae.json"
+    },
+    "2090532326279209480": {
+      "summaryHash": "4191460f604df54832fa2f50b55e77113809c2a722ef799aed43ac05faa5c9dc",
+      "reviewed": false,
+      "people": [],
+      "directions": [],
+      "reason": "直答输出校验失败，待人工复核：人名/方向缺少原文依据",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "auditFile": "131c63cf13fe9f3e1817156be7d67f248c8774bb144f9343f0d9860391be42ae.json"
+    },
+    "2090504079319605900": {
+      "summaryHash": "1c8da607af4f902f772a13fbb12ece19416ab66b4e3144bfeb7db9ca494c8224",
+      "reviewed": true,
+      "people": [
+        "马延和"
+      ],
+      "directions": [
+        "二氧化碳固碳"
+      ],
+      "reason": "作者明确预测马延和团队因二氧化碳固碳方法获诺贝尔化学奖。",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-06T08:58:30.799801+00:00",
+      "evidence": [
+        {
+          "kind": "people",
+          "name": "马延和",
+          "quote": "马延和的团队可能因为发现了二氧化碳固碳方法"
+        },
+        {
+          "kind": "directions",
+          "name": "二氧化碳固碳",
+          "quote": "马延和的团队可能因为发现了二氧化碳固碳方法，从而获得中国第一个诺贝尔化学奖"
+        }
+      ],
+      "auditFile": "131c63cf13fe9f3e1817156be7d67f248c8774bb144f9343f0d9860391be42ae.json"
+    },
+    "2090476370212172373": {
+      "summaryHash": "f2f626545ff3628b70f2ae331bd92c01a79f5a5c00c58767160e4a8c8c74da84",
+      "reviewed": false,
+      "people": [],
+      "directions": [],
+      "reason": "直答输出校验失败，待人工复核：新增名称不在引用中，不允许补写",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "auditFile": "3ba065c6a4a4af0e5842dd5bad387b20614e00e0288a879e175b54c1ffff328f.json"
+    },
+    "2090591248625185437": {
+      "summaryHash": "061720b15a86f425a7af0368bf61c82014c15e4661e9d526492d4a688dabf2b0",
+      "reviewed": true,
+      "people": [],
+      "directions": [
+        "Dna encoded library"
+      ],
+      "reason": "作者预测DNA encoded library方向终将获奖。",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-06T08:58:44.951340+00:00",
+      "evidence": [
+        {
+          "kind": "directions",
+          "name": "Dna encoded library",
+          "quote": "Dna encoded library总有一天会获得"
+        }
+      ],
+      "auditFile": "3ba065c6a4a4af0e5842dd5bad387b20614e00e0288a879e175b54c1ffff328f.json"
+    },
+    "2090500411404898489": {
+      "summaryHash": "85e612f4314ba73ed09f830b92f10840c87bbd5926f3274ebf65370565f4d932",
+      "reviewed": true,
+      "people": [],
+      "directions": [
+        "基因测序"
+      ],
+      "reason": "作者正向预测基因测序方向。",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-06T08:58:44.951392+00:00",
+      "evidence": [
+        {
+          "kind": "directions",
+          "name": "基因测序",
+          "quote": "基因测序"
+        }
+      ],
+      "auditFile": "3ba065c6a4a4af0e5842dd5bad387b20614e00e0288a879e175b54c1ffff328f.json"
     }
   },
   "literature": {

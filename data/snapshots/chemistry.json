@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-06T01:18:12.717263+00:00",
+  "fetchedAt": "2026-10-06T08:58:14.486948+00:00",
   "pages": [
     {
       "Code": 0,
@@ -38,27 +38,33 @@
           },
           {
             "ContentType": "answer",
-            "ContentToken": "2090393970794828822",
-            "Url": "https://www.zhihu.com/question/2081709501913248924/answer/2090393970794828822",
-            "Summary": "希望理论计算领域 做出让大家眼前一亮的含金量极高的动江关大成就的化学家拿奖 “希望能看到理论，实验，和计算模拟三足鼎立时代的真正到来，给研究领域带来真正的繁荣”"
-          },
-          {
-            "ContentType": "answer",
-            "ContentToken": "2084775277981340202",
-            "Url": "https://www.zhihu.com/question/2081709501913248924/answer/2084775277981340202",
-            "Summary": "投给Roberto Car & Michele Parrinello‬一票虽然不太可能，因为不久前发给了蛋白质预测。也许这个领域还需要一针强心剂去刺激一下味蕾，然后过几年就合适发给两位前辈了。 [图片]"
-          },
-          {
-            "ContentType": "answer",
             "ContentToken": "2090424739823085246",
             "Url": "https://www.zhihu.com/question/2081709501913248924/answer/2090424739823085246",
             "Summary": "理综奖预测依然是情怀组：卢煜明院士 卢教授其实每年有两次冲击诺奖的机会，一次在生医，一次在化学，他在2016年获得的引文桂冠奖就是被划在化学领域，如果今年理综奖又回到了生物化学方向，还是有可能听到他的名字的，当然一人独得的概率很小，或许会把“更高通量更低成本的Solexa DNA测序技术”和“以孕妇血浆DNA分析为本的无创产前诊断技术”组合在一起给奖： Shankar Balasubramanian ¼ ，David Klenerman ¼，卢煜明 ½ …"
           },
           {
             "ContentType": "answer",
+            "ContentToken": "2090393970794828822",
+            "Url": "https://www.zhihu.com/question/2081709501913248924/answer/2090393970794828822",
+            "Summary": "希望理论计算领域 做出让大家眼前一亮的含金量极高的动江关大成就的化学家拿奖 “希望能看到理论，实验，和计算模拟三足鼎立时代的真正到来，给研究领域带来真正的繁荣”"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2090723794172359756",
+            "Url": "https://www.zhihu.com/question/2081709501913248924/answer/2090723794172359756",
+            "Summary": "不出所料，我对于2026年诺贝尔化学奖的预测是基础研究领域的蛋白质长程电子转移成果。获奖科学家是来自加州理工学院的哈里·格雷(Harry Gray)与杰伊·温克勒(Jay Winkler)。两位科学家是非常出色的科研搭子，一起合作数十年，揭示了蛋白质如何实现长距离的电子交换机制，为理解蛋白质生理功能提供了关键依据，帮助学界窥见了细胞产生与能量传递的内在原理。 两位科学家的研究成果根本性改变了从靶向药物治疗到清洁能源生产等一系…"
+          },
+          {
+            "ContentType": "answer",
             "ContentToken": "2090414959339611926",
             "Url": "https://www.zhihu.com/question/2081709501913248924/answer/2090414959339611926",
             "Summary": "之前参加过化学哲学的会议，但自己对于化学的前沿领域不熟悉，同学校化学哲学的老师聊了聊，我对 2026 年诺贝尔化学奖的正式预测是： 尚卡尔·巴拉苏布拉马尼安（Shankar Balasubramanian）、戴维·克莱纳曼（David Klenerman）与帕斯卡尔·迈耶（Pascal Mayer），表彰他们对大规模并行 DNA 测序的奠基性贡献。我看好这个方向，因为它改变了生命科学获取数据的能力，而这种改变的基础，是核苷酸化学、表面化学、酶促反应和光学检…"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2084775277981340202",
+            "Url": "https://www.zhihu.com/question/2081709501913248924/answer/2084775277981340202",
+            "Summary": "投给Roberto Car & Michele Parrinello‬一票虽然不太可能，因为不久前发给了蛋白质预测。也许这个领域还需要一针强心剂去刺激一下味蕾，然后过几年就合适发给两位前辈了。 [图片]"
           },
           {
             "ContentType": "answer",
@@ -71,12 +77,6 @@
             "ContentToken": "2083342696903717415",
             "Url": "https://www.zhihu.com/question/2081709501913248924/answer/2083342696903717415",
             "Summary": "Frustrated Lewis Pair（FLP）有没有一丝丝可能？（瞎猜）"
-          },
-          {
-            "ContentType": "answer",
-            "ContentToken": "2090723794172359756",
-            "Url": "https://www.zhihu.com/question/2081709501913248924/answer/2090723794172359756",
-            "Summary": "不出所料，我对于2026年诺贝尔化学奖的预测是基础研究领域的蛋白质长程电子转移成果。获奖科学家是来自加州理工学院的哈里·格雷(Harry Gray)与杰伊·温克勒(Jay Winkler)。两位科学家是非常出色的科研搭子，一起合作数十年，揭示了蛋白质如何实现长距离的电子交换机制，为理解蛋白质生理功能提供了关键依据，帮助学界窥见了细胞产生与能量传递的内在原理。 两位科学家的研究成果根本性改变了从靶向药物治疗到清洁能源生产等一系…"
           },
           {
             "ContentType": "answer",
@@ -95,6 +95,24 @@
             "ContentToken": "2089180421460333700",
             "Url": "https://www.zhihu.com/question/2081709501913248924/answer/2089180421460333700",
             "Summary": "照例参加赛博预测。我预测的人选是： 刘如谦 ，David Allara、Ralph Nuzzo、Jacob Sagiv，Harry Gray、Jay Winkler以下是ChatGPT给出的完整报告： 如果只让我押一个名字，我押刘如谦（David R. Liu）；如果押一个获奖方向，我最看好“精准基因编辑”。 不过这是低置信度预测，不是认定他今年一定获奖。截至 2026年10月2日，今年化学奖尚未揭晓；官方公布日期是 10月7日 。结合刚发布的公开资料，我的预测榜如下。1．首选：刘如谦…"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2090420401813959146",
+            "Url": "https://www.zhihu.com/question/2081709501913248924/answer/2090420401813959146",
+            "Summary": "如果今年只能押一组，我反而不会追最新的“碱基编辑”，也不会直接跟着科睿唯安今年新公布的候选名单走。我会把 2026 年诺贝尔化学奖正式押在 下一代 DNA 测序（Next-Generation Sequencing，NGS）上，人选选择 Shankar Balasubramanian、David Klenerman 和 Pascal Mayer，因为这三个人的成果已经从一项实验室技术，变成了现代生命科学最基础的基础设施之一。我的正式预测是： Shankar Balasubramanian、David Klenerman、Pasca…"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2090771376785323976",
+            "Url": "https://www.zhihu.com/question/2081709501913248924/answer/2090771376785323976",
+            "Summary": "每一年诺贝尔奖预测都是神仙打架，诺贝尔生物学或医学奖忘记猜了，最后看看获奖结果，估计我自己猜了也可能猜不中。今天闲着也是闲着猜一下化学奖吧，万一天上掉馅饼呢! 诺贝尔化学奖应该更难预测，世界上有名的接近诺贝尔奖水平的化学家太多了，因为感觉化学几个热门方向依然很分散了致敬这些为了人类科学进步做出来重大贡献的科学家们！ 勉勉强强猜一次啊。「不出所料！」：已在相关学科领域内众望所归，享誉多年，只等加冕诺…"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2090751833484665020",
+            "Url": "https://www.zhihu.com/question/2081709501913248924/answer/2090751833484665020",
+            "Summary": "诺贝尔科学家预测很难的，我去年参照网上各种热榜反复比对，结果也没有一个预测结果是正确的。今年就随随便便预测一个吧，凑个热闹。 不出所料，我对于2026年诺贝尔化学奖的预测结果是自组装单分子层研究领域的开创者，他们分别是美国学者戴维·阿拉拉（David Allara）和拉尔夫·努佐（Ralph Nuzzo），以及来自以色列的雅各布·萨吉夫(Jacob Sagiv）。他们三个获得诺贝尔化学奖的优势是入选了“引文桂冠”。 所谓自组装单分子层…"
           },
           {
             "ContentType": "answer",
@@ -125,12 +143,6 @@
             "ContentToken": "2084856699308061881",
             "Url": "https://www.zhihu.com/question/2081709501913248924/answer/2084856699308061881",
             "Summary": "Takeshi Oka"
-          },
-          {
-            "ContentType": "answer",
-            "ContentToken": "2090420401813959146",
-            "Url": "https://www.zhihu.com/question/2081709501913248924/answer/2090420401813959146",
-            "Summary": "如果今年只能押一组，我反而不会追最新的“碱基编辑”，也不会直接跟着科睿唯安今年新公布的候选名单走。我会把 2026 年诺贝尔化学奖正式押在 下一代 DNA 测序（Next-Generation Sequencing，NGS）上，人选选择 Shankar Balasubramanian、David Klenerman 和 Pascal Mayer，因为这三个人的成果已经从一项实验室技术，变成了现代生命科学最基础的基础设施之一。我的正式预测是： Shankar Balasubramanian、David Klenerman、Pasca…"
           },
           {
             "ContentType": "answer",
