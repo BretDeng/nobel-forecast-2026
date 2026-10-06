@@ -981,16 +981,15 @@
     },
     "2090425698527752696": {
       "summaryHash": "089585dc70167597f129ca31d0b75b5502cb4355cb8fcd4198c337c4cce21070",
-      "reviewed": false,
+      "reviewed": true,
       "people": [],
       "directions": [],
-      "reason": "直答无法确定，待人工复核：文本过于简略，无明确人选或方向预测。",
+      "reason": "仅泛指境外幸运儿，没有可识别的具体候选或研究方向。",
       "warnings": [],
-      "reviewMethod": "zhida",
-      "model": "zhida-fast-1p5",
-      "reviewedAt": "2026-10-05T05:42:06.854978+00:00",
+      "reviewMethod": "human",
+      "reviewedAt": "2026-10-06T10:13:26.322764+00:00",
       "evidence": [],
-      "auditFile": "5f350879b6af068a5f1bbcf94480a5c3a116329fd447db69547e10714c7916bf.json"
+      "previousAuditFile": "5f350879b6af068a5f1bbcf94480a5c3a116329fd447db69547e10714c7916bf.json"
     },
     "2090409151851651804": {
       "summaryHash": "5b8200feb9bf98cbd73e609033c1e48c32fef2dbfadcad5bc6c5584e6dca7444",
@@ -1004,6 +1003,356 @@
       "reviewedAt": "2026-10-05T05:42:12.520318+00:00",
       "evidence": [],
       "auditFile": "ba1ab4d4b25620e9854711ba5227f9f69de807f6af9051c07f8e966cb313172e.json"
+    },
+    "2090441778176512498": {
+      "summaryHash": "7e71337d9a0fccf082b7b034244543e621c30a321f590ff6743a7e56cd7e0037",
+      "reviewed": true,
+      "people": [
+        "Emmanuel Mignot",
+        "Masashi Yanagisawa",
+        "Daniel Drucker",
+        "Jens Juul Holst",
+        "Svetlana Mojsov",
+        "Carl June",
+        "James Fujimoto",
+        "David Huang",
+        "Eric Swanson"
+      ],
+      "directions": [
+        "食欲素与睡眠调控",
+        "GLP-1",
+        "CAR-T 细胞疗法",
+        "光学相干断层成像"
+      ],
+      "reason": "作者列出三个梯队及被低估的OCT方向，全部为明确正向预测；截断后的理由不补写。",
+      "warnings": [],
+      "reviewMethod": "human",
+      "reviewedAt": "2026-10-06T10:13:26.319371+00:00",
+      "evidence": [
+        {
+          "kind": "people",
+          "name": "Emmanuel Mignot",
+          "quote": "第一档我会押Emmanuel Mignot和Masashi Yanagisawa，也就是食欲素与睡眠觉醒机制。 第二档，我会押Daniel J. Drucker、Jens Juul Holst和Svetlana Mojsov，也就是近年来风靡全球的GLP-1。 第三档，则是Carl June所代表的CAR-T细胞治疗。 另外还有一个我认为非常容易被低估的方向，就是James Fujimoto、David Huang和Eric Swanson的OCT，也就是光学相干断层成像。 今年最强的诺贝尔信号，不是GLP-1，而是食欲素。 因为就在诺贝尔…"
+        },
+        {
+          "kind": "people",
+          "name": "Masashi Yanagisawa",
+          "quote": "第一档我会押Emmanuel Mignot和Masashi Yanagisawa，也就是食欲素与睡眠觉醒机制。 第二档，我会押Daniel J. Drucker、Jens Juul Holst和Svetlana Mojsov，也就是近年来风靡全球的GLP-1。 第三档，则是Carl June所代表的CAR-T细胞治疗。 另外还有一个我认为非常容易被低估的方向，就是James Fujimoto、David Huang和Eric Swanson的OCT，也就是光学相干断层成像。 今年最强的诺贝尔信号，不是GLP-1，而是食欲素。 因为就在诺贝尔…"
+        },
+        {
+          "kind": "people",
+          "name": "Daniel Drucker",
+          "quote": "第一档我会押Emmanuel Mignot和Masashi Yanagisawa，也就是食欲素与睡眠觉醒机制。 第二档，我会押Daniel J. Drucker、Jens Juul Holst和Svetlana Mojsov，也就是近年来风靡全球的GLP-1。 第三档，则是Carl June所代表的CAR-T细胞治疗。 另外还有一个我认为非常容易被低估的方向，就是James Fujimoto、David Huang和Eric Swanson的OCT，也就是光学相干断层成像。 今年最强的诺贝尔信号，不是GLP-1，而是食欲素。 因为就在诺贝尔…"
+        },
+        {
+          "kind": "people",
+          "name": "Jens Juul Holst",
+          "quote": "第一档我会押Emmanuel Mignot和Masashi Yanagisawa，也就是食欲素与睡眠觉醒机制。 第二档，我会押Daniel J. Drucker、Jens Juul Holst和Svetlana Mojsov，也就是近年来风靡全球的GLP-1。 第三档，则是Carl June所代表的CAR-T细胞治疗。 另外还有一个我认为非常容易被低估的方向，就是James Fujimoto、David Huang和Eric Swanson的OCT，也就是光学相干断层成像。 今年最强的诺贝尔信号，不是GLP-1，而是食欲素。 因为就在诺贝尔…"
+        },
+        {
+          "kind": "people",
+          "name": "Svetlana Mojsov",
+          "quote": "第一档我会押Emmanuel Mignot和Masashi Yanagisawa，也就是食欲素与睡眠觉醒机制。 第二档，我会押Daniel J. Drucker、Jens Juul Holst和Svetlana Mojsov，也就是近年来风靡全球的GLP-1。 第三档，则是Carl June所代表的CAR-T细胞治疗。 另外还有一个我认为非常容易被低估的方向，就是James Fujimoto、David Huang和Eric Swanson的OCT，也就是光学相干断层成像。 今年最强的诺贝尔信号，不是GLP-1，而是食欲素。 因为就在诺贝尔…"
+        },
+        {
+          "kind": "people",
+          "name": "Carl June",
+          "quote": "第一档我会押Emmanuel Mignot和Masashi Yanagisawa，也就是食欲素与睡眠觉醒机制。 第二档，我会押Daniel J. Drucker、Jens Juul Holst和Svetlana Mojsov，也就是近年来风靡全球的GLP-1。 第三档，则是Carl June所代表的CAR-T细胞治疗。 另外还有一个我认为非常容易被低估的方向，就是James Fujimoto、David Huang和Eric Swanson的OCT，也就是光学相干断层成像。 今年最强的诺贝尔信号，不是GLP-1，而是食欲素。 因为就在诺贝尔…"
+        },
+        {
+          "kind": "people",
+          "name": "James Fujimoto",
+          "quote": "第一档我会押Emmanuel Mignot和Masashi Yanagisawa，也就是食欲素与睡眠觉醒机制。 第二档，我会押Daniel J. Drucker、Jens Juul Holst和Svetlana Mojsov，也就是近年来风靡全球的GLP-1。 第三档，则是Carl June所代表的CAR-T细胞治疗。 另外还有一个我认为非常容易被低估的方向，就是James Fujimoto、David Huang和Eric Swanson的OCT，也就是光学相干断层成像。 今年最强的诺贝尔信号，不是GLP-1，而是食欲素。 因为就在诺贝尔…"
+        },
+        {
+          "kind": "people",
+          "name": "David Huang",
+          "quote": "第一档我会押Emmanuel Mignot和Masashi Yanagisawa，也就是食欲素与睡眠觉醒机制。 第二档，我会押Daniel J. Drucker、Jens Juul Holst和Svetlana Mojsov，也就是近年来风靡全球的GLP-1。 第三档，则是Carl June所代表的CAR-T细胞治疗。 另外还有一个我认为非常容易被低估的方向，就是James Fujimoto、David Huang和Eric Swanson的OCT，也就是光学相干断层成像。 今年最强的诺贝尔信号，不是GLP-1，而是食欲素。 因为就在诺贝尔…"
+        },
+        {
+          "kind": "people",
+          "name": "Eric Swanson",
+          "quote": "第一档我会押Emmanuel Mignot和Masashi Yanagisawa，也就是食欲素与睡眠觉醒机制。 第二档，我会押Daniel J. Drucker、Jens Juul Holst和Svetlana Mojsov，也就是近年来风靡全球的GLP-1。 第三档，则是Carl June所代表的CAR-T细胞治疗。 另外还有一个我认为非常容易被低估的方向，就是James Fujimoto、David Huang和Eric Swanson的OCT，也就是光学相干断层成像。 今年最强的诺贝尔信号，不是GLP-1，而是食欲素。 因为就在诺贝尔…"
+        },
+        {
+          "kind": "directions",
+          "name": "食欲素与睡眠调控",
+          "quote": "第一档我会押Emmanuel Mignot和Masashi Yanagisawa，也就是食欲素与睡眠觉醒机制。 第二档，我会押Daniel J. Drucker、Jens Juul Holst和Svetlana Mojsov，也就是近年来风靡全球的GLP-1。 第三档，则是Carl June所代表的CAR-T细胞治疗。 另外还有一个我认为非常容易被低估的方向，就是James Fujimoto、David Huang和Eric Swanson的OCT，也就是光学相干断层成像。 今年最强的诺贝尔信号，不是GLP-1，而是食欲素。 因为就在诺贝尔…"
+        },
+        {
+          "kind": "directions",
+          "name": "GLP-1",
+          "quote": "第一档我会押Emmanuel Mignot和Masashi Yanagisawa，也就是食欲素与睡眠觉醒机制。 第二档，我会押Daniel J. Drucker、Jens Juul Holst和Svetlana Mojsov，也就是近年来风靡全球的GLP-1。 第三档，则是Carl June所代表的CAR-T细胞治疗。 另外还有一个我认为非常容易被低估的方向，就是James Fujimoto、David Huang和Eric Swanson的OCT，也就是光学相干断层成像。 今年最强的诺贝尔信号，不是GLP-1，而是食欲素。 因为就在诺贝尔…"
+        },
+        {
+          "kind": "directions",
+          "name": "CAR-T 细胞疗法",
+          "quote": "第一档我会押Emmanuel Mignot和Masashi Yanagisawa，也就是食欲素与睡眠觉醒机制。 第二档，我会押Daniel J. Drucker、Jens Juul Holst和Svetlana Mojsov，也就是近年来风靡全球的GLP-1。 第三档，则是Carl June所代表的CAR-T细胞治疗。 另外还有一个我认为非常容易被低估的方向，就是James Fujimoto、David Huang和Eric Swanson的OCT，也就是光学相干断层成像。 今年最强的诺贝尔信号，不是GLP-1，而是食欲素。 因为就在诺贝尔…"
+        },
+        {
+          "kind": "directions",
+          "name": "光学相干断层成像",
+          "quote": "第一档我会押Emmanuel Mignot和Masashi Yanagisawa，也就是食欲素与睡眠觉醒机制。 第二档，我会押Daniel J. Drucker、Jens Juul Holst和Svetlana Mojsov，也就是近年来风靡全球的GLP-1。 第三档，则是Carl June所代表的CAR-T细胞治疗。 另外还有一个我认为非常容易被低估的方向，就是James Fujimoto、David Huang和Eric Swanson的OCT，也就是光学相干断层成像。 今年最强的诺贝尔信号，不是GLP-1，而是食欲素。 因为就在诺贝尔…"
+        }
+      ]
+    },
+    "2090439695482230423": {
+      "summaryHash": "728902eb760dd146d1da768cd4af0b502024f055e3d80e64fdd71bf6021c3ff2",
+      "reviewed": true,
+      "people": [
+        "Svetlana Mojsov",
+        "Jens Juul Holst",
+        "Daniel Drucker"
+      ],
+      "directions": [
+        "GLP-1"
+      ],
+      "reason": "作者明确按获奖可能性排列预估得主，现有摘要可见GLP-1及三位候选。",
+      "warnings": [],
+      "reviewMethod": "human",
+      "reviewedAt": "2026-10-06T10:13:26.321113+00:00",
+      "evidence": [
+        {
+          "kind": "people",
+          "name": "Svetlana Mojsov",
+          "quote": "还有4个小时就要揭晓了，最后汇总一下竞猜情况。 下面按照获奖可能性大小排列，列出核心预估得主、主要研究成果、研究的意义（即对社会的贡献）。 1 GLP-1信号通路发现与药物开发 核心预估得主： Svetlana Mojsov、Jens Juul Holst、Daniel Drucker主要研究成果：发现了 胰高血糖素样肽-1（GLP-1）的生物学机制，并成功将其从一种肠道激素转化为治疗2型糖尿病和肥胖症的革命性药物（如司美格鲁肽、替尔泊肽）。研究的意义：彻底…"
+        },
+        {
+          "kind": "people",
+          "name": "Jens Juul Holst",
+          "quote": "还有4个小时就要揭晓了，最后汇总一下竞猜情况。 下面按照获奖可能性大小排列，列出核心预估得主、主要研究成果、研究的意义（即对社会的贡献）。 1 GLP-1信号通路发现与药物开发 核心预估得主： Svetlana Mojsov、Jens Juul Holst、Daniel Drucker主要研究成果：发现了 胰高血糖素样肽-1（GLP-1）的生物学机制，并成功将其从一种肠道激素转化为治疗2型糖尿病和肥胖症的革命性药物（如司美格鲁肽、替尔泊肽）。研究的意义：彻底…"
+        },
+        {
+          "kind": "people",
+          "name": "Daniel Drucker",
+          "quote": "还有4个小时就要揭晓了，最后汇总一下竞猜情况。 下面按照获奖可能性大小排列，列出核心预估得主、主要研究成果、研究的意义（即对社会的贡献）。 1 GLP-1信号通路发现与药物开发 核心预估得主： Svetlana Mojsov、Jens Juul Holst、Daniel Drucker主要研究成果：发现了 胰高血糖素样肽-1（GLP-1）的生物学机制，并成功将其从一种肠道激素转化为治疗2型糖尿病和肥胖症的革命性药物（如司美格鲁肽、替尔泊肽）。研究的意义：彻底…"
+        },
+        {
+          "kind": "directions",
+          "name": "GLP-1",
+          "quote": "还有4个小时就要揭晓了，最后汇总一下竞猜情况。 下面按照获奖可能性大小排列，列出核心预估得主、主要研究成果、研究的意义（即对社会的贡献）。 1 GLP-1信号通路发现与药物开发 核心预估得主： Svetlana Mojsov、Jens Juul Holst、Daniel Drucker主要研究成果：发现了 胰高血糖素样肽-1（GLP-1）的生物学机制，并成功将其从一种肠道激素转化为治疗2型糖尿病和肥胖症的革命性药物（如司美格鲁肽、替尔泊肽）。研究的意义：彻底…"
+        }
+      ]
+    },
+    "2090477361049366548": {
+      "summaryHash": "124fa1a8fad89e09f8faa8b7238f046b0b4e66be982a0f29c7e0d3cff773071f",
+      "reviewed": true,
+      "people": [
+        "卢煜明"
+      ],
+      "directions": [
+        "游离 DNA 与无创产前检测"
+      ],
+      "reason": "作者明确预测卢煜明以胎儿游离DNA及无创产前检测研究获奖。",
+      "warnings": [],
+      "reviewMethod": "human",
+      "reviewedAt": "2026-10-06T10:13:26.321415+00:00",
+      "evidence": [
+        {
+          "kind": "people",
+          "name": "卢煜明",
+          "quote": "距离 2026 年诺贝尔生理学或医学奖揭晓的时刻越来越近了，我预测有望获奖的是： 香港中文大学医学院卢煜明教授 [图片] 他的一项重要贡献是在孕妇血液中发现胎儿游离 DNA（cell-free fetal DNA，cffDNA [1]），进而研发了唐氏综合征的无创产前检测（Non-Invasive Prenatal Testing，NIPT）。这项工作将使广大孕妇免于接受一种增加流产风险的手术[2]，可以说功德无量，而且在全球医学领域影响深远。 凭借这一成果，卢煜明教授在 2016 年获…"
+        },
+        {
+          "kind": "directions",
+          "name": "游离 DNA 与无创产前检测",
+          "quote": "距离 2026 年诺贝尔生理学或医学奖揭晓的时刻越来越近了，我预测有望获奖的是： 香港中文大学医学院卢煜明教授 [图片] 他的一项重要贡献是在孕妇血液中发现胎儿游离 DNA（cell-free fetal DNA，cffDNA [1]），进而研发了唐氏综合征的无创产前检测（Non-Invasive Prenatal Testing，NIPT）。这项工作将使广大孕妇免于接受一种增加流产风险的手术[2]，可以说功德无量，而且在全球医学领域影响深远。 凭借这一成果，卢煜明教授在 2016 年获…"
+        }
+      ]
+    },
+    "2090478956487127265": {
+      "summaryHash": "7a4c8d2245faa64d4bf52a1a4db8dd71a3407f990f734887430e65dbab1fce12",
+      "reviewed": true,
+      "people": [
+        "陈志坚"
+      ],
+      "directions": [
+        "cGAS–STING 与先天免疫"
+      ],
+      "reason": "作者明确第一位押陈志坚，并说明cGAS介导DNA感知机制；只提取可见cGAS方向，不补写被截断的通路。",
+      "warnings": [],
+      "reviewMethod": "human",
+      "reviewedAt": "2026-10-06T10:13:26.321598+00:00",
+      "evidence": [
+        {
+          "kind": "people",
+          "name": "陈志坚",
+          "quote": "根据目前的信号，第一位我会押陈志坚（Zhijian “James” Chen） 2026 年诺贝尔生理学或医学奖即将公布，对此你有哪些期待？ 他已经形成了非常典型的诺奖前置奖励链，2019 年生命科学突破奖、2023 年霍维茨奖、2024 年拉斯克基础医学研究奖，2026 年又获得日本国际奖。尤其重要的是，他的核心贡献非常容易被诺奖委员会写成一句清楚的颁奖理由——“发现 cGAS 及其介导的胞质 DNA 感知机制”。2012—2013 年，他的团队发现 cGAMP …"
+        },
+        {
+          "kind": "directions",
+          "name": "cGAS–STING 与先天免疫",
+          "quote": "根据目前的信号，第一位我会押陈志坚（Zhijian “James” Chen） 2026 年诺贝尔生理学或医学奖即将公布，对此你有哪些期待？ 他已经形成了非常典型的诺奖前置奖励链，2019 年生命科学突破奖、2023 年霍维茨奖、2024 年拉斯克基础医学研究奖，2026 年又获得日本国际奖。尤其重要的是，他的核心贡献非常容易被诺奖委员会写成一句清楚的颁奖理由——“发现 cGAS 及其介导的胞质 DNA 感知机制”。2012—2013 年，他的团队发现 cGAMP …"
+        }
+      ]
+    },
+    "2090477997983846968": {
+      "summaryHash": "a1660a44e44e9802a78132b479c99a2d3d0c25a48b473d2bd40569bc96af42c5",
+      "reviewed": true,
+      "people": [
+        "Daniel Drucker",
+        "Jens Juul Holst",
+        "Svetlana Mojsov"
+      ],
+      "directions": [
+        "GLP-1"
+      ],
+      "reason": "作者采用AI预测，但明确将GLP-1及三位候选作为自身本届预测，按既定口径纳入。",
+      "warnings": [],
+      "reviewMethod": "human",
+      "reviewedAt": "2026-10-06T10:13:26.321777+00:00",
+      "evidence": [
+        {
+          "kind": "people",
+          "name": "Daniel Drucker",
+          "quote": "我选择从赛博预测角度，也就是AI大模型角度预测。 最热门角度依次预测。 一、GLP-1的发现与药物转化方面： 主要有Daniel J. Drucker、Jens Juul Holst、Svetlana Mojsov这几位。 获奖理由：Mojsov鉴定出GLP-1的生物活性形式GLP-1(7-37)，Holst证明其能以葡萄糖依赖方式促进胰岛素分泌，Drucker系统阐明了GLP-1的生理功能并推动向药物转化。基于该激素开发的司美格鲁肽等药物不仅降糖，还显著减重并降低心血管风险。这个领域也比…"
+        },
+        {
+          "kind": "people",
+          "name": "Jens Juul Holst",
+          "quote": "我选择从赛博预测角度，也就是AI大模型角度预测。 最热门角度依次预测。 一、GLP-1的发现与药物转化方面： 主要有Daniel J. Drucker、Jens Juul Holst、Svetlana Mojsov这几位。 获奖理由：Mojsov鉴定出GLP-1的生物活性形式GLP-1(7-37)，Holst证明其能以葡萄糖依赖方式促进胰岛素分泌，Drucker系统阐明了GLP-1的生理功能并推动向药物转化。基于该激素开发的司美格鲁肽等药物不仅降糖，还显著减重并降低心血管风险。这个领域也比…"
+        },
+        {
+          "kind": "people",
+          "name": "Svetlana Mojsov",
+          "quote": "我选择从赛博预测角度，也就是AI大模型角度预测。 最热门角度依次预测。 一、GLP-1的发现与药物转化方面： 主要有Daniel J. Drucker、Jens Juul Holst、Svetlana Mojsov这几位。 获奖理由：Mojsov鉴定出GLP-1的生物活性形式GLP-1(7-37)，Holst证明其能以葡萄糖依赖方式促进胰岛素分泌，Drucker系统阐明了GLP-1的生理功能并推动向药物转化。基于该激素开发的司美格鲁肽等药物不仅降糖，还显著减重并降低心血管风险。这个领域也比…"
+        },
+        {
+          "kind": "directions",
+          "name": "GLP-1",
+          "quote": "我选择从赛博预测角度，也就是AI大模型角度预测。 最热门角度依次预测。 一、GLP-1的发现与药物转化方面： 主要有Daniel J. Drucker、Jens Juul Holst、Svetlana Mojsov这几位。 获奖理由：Mojsov鉴定出GLP-1的生物活性形式GLP-1(7-37)，Holst证明其能以葡萄糖依赖方式促进胰岛素分泌，Drucker系统阐明了GLP-1的生理功能并推动向药物转化。基于该激素开发的司美格鲁肽等药物不仅降糖，还显著减重并降低心血管风险。这个领域也比…"
+        }
+      ]
+    },
+    "2090476238473262404": {
+      "summaryHash": "e1697e36c084b17bd73f8353e593a3cc03cfb6662c1444c7dc9af7c4bd00dac6",
+      "reviewed": true,
+      "people": [
+        "Davor Solter",
+        "M. Azim Surani"
+      ],
+      "directions": [
+        "基因组印记"
+      ],
+      "reason": "作者明确预测Solter和Surani的基因组印记工作。",
+      "warnings": [],
+      "reviewMethod": "human",
+      "reviewedAt": "2026-10-06T10:13:26.322086+00:00",
+      "evidence": [
+        {
+          "kind": "people",
+          "name": "Davor Solter",
+          "quote": "我的预测是从“不是哥们”角度预测的。 首先，Davor Solter 和 M. Azim Surani，他们可以课题都是基因组印记。 身份上：马克斯·普朗克是免疫生物学与表观遗传学研究所荣休主任。M. Azim Surani（1945年生），英国剑桥大学Gurdon研究所生殖系与表观遗传学研究主任，2025年京都奖基础科学奖得主。 获奖理由：我们每个人身上的基因，都是一套从爸妈各拿一半。按照经典遗传学，这两套基因地位平等，谁都能干活，一个坏了另一个还能…"
+        },
+        {
+          "kind": "people",
+          "name": "M. Azim Surani",
+          "quote": "我的预测是从“不是哥们”角度预测的。 首先，Davor Solter 和 M. Azim Surani，他们可以课题都是基因组印记。 身份上：马克斯·普朗克是免疫生物学与表观遗传学研究所荣休主任。M. Azim Surani（1945年生），英国剑桥大学Gurdon研究所生殖系与表观遗传学研究主任，2025年京都奖基础科学奖得主。 获奖理由：我们每个人身上的基因，都是一套从爸妈各拿一半。按照经典遗传学，这两套基因地位平等，谁都能干活，一个坏了另一个还能…"
+        },
+        {
+          "kind": "directions",
+          "name": "基因组印记",
+          "quote": "我的预测是从“不是哥们”角度预测的。 首先，Davor Solter 和 M. Azim Surani，他们可以课题都是基因组印记。 身份上：马克斯·普朗克是免疫生物学与表观遗传学研究所荣休主任。M. Azim Surani（1945年生），英国剑桥大学Gurdon研究所生殖系与表观遗传学研究主任，2025年京都奖基础科学奖得主。 获奖理由：我们每个人身上的基因，都是一套从爸妈各拿一半。按照经典遗传学，这两套基因地位平等，谁都能干活，一个坏了另一个还能…"
+        }
+      ]
+    },
+    "2090464264519790638": {
+      "summaryHash": "8806564be9dd2db383a4017cb0823760b3dd007f3d4fffba037b6f96d1d9ac48",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "王楚钦及32的梗为明显玩笑，非医学奖预测。",
+      "warnings": [],
+      "reviewMethod": "human",
+      "reviewedAt": "2026-10-06T10:13:26.322310+00:00",
+      "evidence": []
+    },
+    "2090460831402279942": {
+      "summaryHash": "67ffc81e5ada3ca25612a3628a92ffc5808a5cdeb06e8df122f3b94abf6d1baf",
+      "reviewed": true,
+      "people": [],
+      "directions": [
+        "B 细胞与 T 细胞",
+        "GLP-1"
+      ],
+      "reason": "作者明确希望T/B淋巴细胞方向获奖，并认为GLP-1更可能；希望与备选均计票。",
+      "warnings": [],
+      "reviewMethod": "human",
+      "reviewedAt": "2026-10-06T10:13:26.322357+00:00",
+      "evidence": [
+        {
+          "kind": "directions",
+          "name": "B 细胞与 T 细胞",
+          "quote": "希望是t b淋巴细胞，但实际更可能是一直造势的glp1"
+        },
+        {
+          "kind": "directions",
+          "name": "GLP-1",
+          "quote": "希望是t b淋巴细胞，但实际更可能是一直造势的glp1"
+        }
+      ]
+    },
+    "2090460772790965519": {
+      "summaryHash": "a71f445d35779eded53cea1e54f9bbf22b62267f629e30f18bc54f5fa7057c40",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "只有图片占位符，接口摘要没有可辨识的候选或方向。",
+      "warnings": [],
+      "reviewMethod": "human",
+      "reviewedAt": "2026-10-06T10:13:26.322487+00:00",
+      "evidence": []
+    },
+    "2090457601196692244": {
+      "summaryHash": "47889510671314901bbb840d3e106d2a18f9ca5134d7ba54f07847c5c99503d3",
+      "reviewed": true,
+      "people": [],
+      "directions": [
+        "分子伴侣"
+      ],
+      "reason": "在医学奖预测问题下直接提出分子伴侣方向，计为作者选择。",
+      "warnings": [],
+      "reviewMethod": "human",
+      "reviewedAt": "2026-10-06T10:13:26.322532+00:00",
+      "evidence": [
+        {
+          "kind": "directions",
+          "name": "分子伴侣",
+          "quote": "分子伴侣～"
+        }
+      ]
+    },
+    "2090449521918723417": {
+      "summaryHash": "593deac5063e0377be5de541a5c5c0b3877d8fbe8b2a3323bf68a08bea0ae1f9",
+      "reviewed": true,
+      "people": [
+        "Robert Weinberg"
+      ],
+      "directions": [],
+      "reason": "在医学奖问题下直接回答Weinberg，按本领域既有候选Robert Weinberg规范化。",
+      "warnings": [],
+      "reviewMethod": "human",
+      "reviewedAt": "2026-10-06T10:13:26.322616+00:00",
+      "evidence": [
+        {
+          "kind": "people",
+          "name": "Robert Weinberg",
+          "quote": "weinberg"
+        }
+      ]
+    },
+    "2090449005516007176": {
+      "summaryHash": "73a536eab0e8c5d5cd79099da74937f0f9c9408ba56c386a0d918e3cca1b7173",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "文本主要概述外界热门与预测共识，并含严重转写错误；没有可清晰分辨的作者本人选择，不计正向票。",
+      "warnings": [
+        "摘要含转写错误，不猜测缺失或混乱的人名"
+      ],
+      "reviewMethod": "human",
+      "reviewedAt": "2026-10-06T10:13:26.322718+00:00",
+      "evidence": []
     }
   },
   "physics": {
@@ -1953,14 +2302,132 @@
     },
     "2090429973781803320": {
       "summaryHash": "1b4a708c68e46c25abe2015e82280a1c658d76619ad70351c32d423fb9a8c713",
-      "reviewed": false,
+      "reviewed": true,
+      "people": [
+        "Pablo Jarillo-Herrero",
+        "Allan MacDonald",
+        "Eva Andrei"
+      ],
+      "directions": [
+        "魔角石墨烯与转角电子学"
+      ],
+      "reason": "作者将AI推演组正式确定为自身预测，明确列出三位候选和魔角石墨烯方向。",
+      "warnings": [],
+      "reviewMethod": "human",
+      "reviewedAt": "2026-10-06T10:13:26.323068+00:00",
+      "evidence": [
+        {
+          "kind": "people",
+          "name": "Pablo Jarillo-Herrero",
+          "quote": "参与一下明天即将揭晓的物理学诺奖预测，按活动提供的四种预测思路，每个角度单独确定一组正式预测： 1️⃣赛博预测｜用AI大模型算一算 [图片] 【本角度正式预测人选】：Pablo Jarillo‑Herrero +Allan MacDonald、Eva Y. Andrei 【获奖理由】： 他的名字多次出现在今年AI多模型推演里，在赔率榜单也靠前。魔角石墨烯是理论加实验多人接力完成的成果，上面两位也是该领域奠基者，存在共享获奖的可能性。 AI结合历年诺奖数据给到…"
+        },
+        {
+          "kind": "people",
+          "name": "Allan MacDonald",
+          "quote": "参与一下明天即将揭晓的物理学诺奖预测，按活动提供的四种预测思路，每个角度单独确定一组正式预测： 1️⃣赛博预测｜用AI大模型算一算 [图片] 【本角度正式预测人选】：Pablo Jarillo‑Herrero +Allan MacDonald、Eva Y. Andrei 【获奖理由】： 他的名字多次出现在今年AI多模型推演里，在赔率榜单也靠前。魔角石墨烯是理论加实验多人接力完成的成果，上面两位也是该领域奠基者，存在共享获奖的可能性。 AI结合历年诺奖数据给到…"
+        },
+        {
+          "kind": "people",
+          "name": "Eva Andrei",
+          "quote": "参与一下明天即将揭晓的物理学诺奖预测，按活动提供的四种预测思路，每个角度单独确定一组正式预测： 1️⃣赛博预测｜用AI大模型算一算 [图片] 【本角度正式预测人选】：Pablo Jarillo‑Herrero +Allan MacDonald、Eva Y. Andrei 【获奖理由】： 他的名字多次出现在今年AI多模型推演里，在赔率榜单也靠前。魔角石墨烯是理论加实验多人接力完成的成果，上面两位也是该领域奠基者，存在共享获奖的可能性。 AI结合历年诺奖数据给到…"
+        },
+        {
+          "kind": "directions",
+          "name": "魔角石墨烯与转角电子学",
+          "quote": "参与一下明天即将揭晓的物理学诺奖预测，按活动提供的四种预测思路，每个角度单独确定一组正式预测： 1️⃣赛博预测｜用AI大模型算一算 [图片] 【本角度正式预测人选】：Pablo Jarillo‑Herrero +Allan MacDonald、Eva Y. Andrei 【获奖理由】： 他的名字多次出现在今年AI多模型推演里，在赔率榜单也靠前。魔角石墨烯是理论加实验多人接力完成的成果，上面两位也是该领域奠基者，存在共享获奖的可能性。 AI结合历年诺奖数据给到…"
+        }
+      ],
+      "previousAuditFile": "d666af0ffa91974bde22b8e94d83c8bd7d539afe27f32142d81b1f4c312dd4a2.json"
+    },
+    "2090464750438299468": {
+      "summaryHash": "081f94f99f8659eaf7ff162d3c9bfdf6f5faae2bc8aaea29fbb3c6c6ca021cf8",
+      "reviewed": true,
       "people": [],
       "directions": [],
-      "reason": "直答输出校验失败，待人工复核：人名/方向缺少原文依据",
+      "reason": "仅介绍媒体热门名单和前哨奖，没有给出作者本人的明确预测。",
       "warnings": [],
-      "reviewMethod": "zhida",
-      "model": "zhida-fast-1p5",
-      "auditFile": "d666af0ffa91974bde22b8e94d83c8bd7d539afe27f32142d81b1f4c312dd4a2.json"
+      "reviewMethod": "human",
+      "reviewedAt": "2026-10-06T10:13:26.322831+00:00",
+      "evidence": []
+    },
+    "2090474764116684803": {
+      "summaryHash": "ba7cc8baa1e9efa2aa0f06ba939bd7a0537685da13e79598aa531c19dd32a059",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "仅评论奖项品味，没有候选或研究方向的明确预测。",
+      "warnings": [],
+      "reviewMethod": "human",
+      "reviewedAt": "2026-10-06T10:13:26.322889+00:00",
+      "evidence": []
+    },
+    "2090441847994835915": {
+      "summaryHash": "3d26783149aa61829de9e1ff561e90789944e2525116540c705babd6ce3ea42a",
+      "reviewed": true,
+      "people": [
+        "Alexei Kitaev"
+      ],
+      "directions": [],
+      "reason": "首晟为已故人物及假设语境，不计票；作者明确提出Kitaev应当获奖。",
+      "warnings": [],
+      "reviewMethod": "human",
+      "reviewedAt": "2026-10-06T10:13:26.322944+00:00",
+      "evidence": [
+        {
+          "kind": "people",
+          "name": "Alexei Kitaev",
+          "quote": "其实如果不是首晟去世了的话，topological insulation 应该有一席之地的。其他的Kitaev吧，他也早就该得了。"
+        }
+      ]
+    },
+    "2090438950154400918": {
+      "summaryHash": "bed88751d815470ae509319926956ebae505f3e3c573dc82e1b1be2f466cad77",
+      "reviewed": true,
+      "people": [
+        "Eugene Mele",
+        "Alexei Kitaev",
+        "John Preskill"
+      ],
+      "directions": [
+        "量子信息"
+      ],
+      "reason": "作者明确押Mele，并将Kitaev和Preskill作为二、三候选；量子信息理论为明确看好方向。",
+      "warnings": [],
+      "reviewMethod": "human",
+      "reviewedAt": "2026-10-06T10:13:26.323432+00:00",
+      "evidence": [
+        {
+          "kind": "people",
+          "name": "Eugene Mele",
+          "quote": "我会押Eugene Mele。 第二候选是Alexei Kitaev，第三候选是John Preskill。 而且我认为，今年诺贝尔委员会可能会把过去二十多年量子信息革命中最基础、最底层的理论工作，再奖励一次。 因为时间点其实非常微妙。 2024年诺贝尔物理学奖给了Hopfield和Hinton，奖励神经网络的基础性工作。2025年又给了Clarke、Devoret和Martinis，奖励宏观量子隧穿和电路中的能量量子化。官方公布的2025年奖项明确强调，这些实验直接打开了量子计算…"
+        },
+        {
+          "kind": "people",
+          "name": "Alexei Kitaev",
+          "quote": "我会押Eugene Mele。 第二候选是Alexei Kitaev，第三候选是John Preskill。 而且我认为，今年诺贝尔委员会可能会把过去二十多年量子信息革命中最基础、最底层的理论工作，再奖励一次。 因为时间点其实非常微妙。 2024年诺贝尔物理学奖给了Hopfield和Hinton，奖励神经网络的基础性工作。2025年又给了Clarke、Devoret和Martinis，奖励宏观量子隧穿和电路中的能量量子化。官方公布的2025年奖项明确强调，这些实验直接打开了量子计算…"
+        },
+        {
+          "kind": "people",
+          "name": "John Preskill",
+          "quote": "我会押Eugene Mele。 第二候选是Alexei Kitaev，第三候选是John Preskill。 而且我认为，今年诺贝尔委员会可能会把过去二十多年量子信息革命中最基础、最底层的理论工作，再奖励一次。 因为时间点其实非常微妙。 2024年诺贝尔物理学奖给了Hopfield和Hinton，奖励神经网络的基础性工作。2025年又给了Clarke、Devoret和Martinis，奖励宏观量子隧穿和电路中的能量量子化。官方公布的2025年奖项明确强调，这些实验直接打开了量子计算…"
+        },
+        {
+          "kind": "directions",
+          "name": "量子信息",
+          "quote": "我会押Eugene Mele。 第二候选是Alexei Kitaev，第三候选是John Preskill。 而且我认为，今年诺贝尔委员会可能会把过去二十多年量子信息革命中最基础、最底层的理论工作，再奖励一次。 因为时间点其实非常微妙。 2024年诺贝尔物理学奖给了Hopfield和Hinton，奖励神经网络的基础性工作。2025年又给了Clarke、Devoret和Martinis，奖励宏观量子隧穿和电路中的能量量子化。官方公布的2025年奖项明确强调，这些实验直接打开了量子计算…"
+        }
+      ]
+    },
+    "2090478366709248771": {
+      "summaryHash": "992a002e8a191dab436baa72f74d2db9f9567cab7fde6dc56045a6353ac87524",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "仅评论历年预测，没有给出候选或方向。",
+      "warnings": [],
+      "reviewMethod": "human",
+      "reviewedAt": "2026-10-06T10:13:26.323753+00:00",
+      "evidence": []
     }
   },
   "chemistry": {
@@ -2219,16 +2686,23 @@
     },
     "2090393970794828822": {
       "summaryHash": "c5bdfd2a2b41227e60101bc0ab7ed2af397715fef4ce668001f1f29d5a9f1980",
-      "reviewed": false,
+      "reviewed": true,
       "people": [],
-      "directions": [],
-      "reason": "直答无法确定，待人工复核：仅表达希望理论计算领域化学家拿奖，未给出具体人名或明确方向，语境模糊。",
+      "directions": [
+        "理论计算领域"
+      ],
+      "reason": "作者明确希望理论计算领域获奖，没有具体人名，不推导候选。",
       "warnings": [],
-      "reviewMethod": "zhida",
-      "model": "zhida-fast-1p5",
-      "reviewedAt": "2026-10-05T05:42:49.552383+00:00",
-      "evidence": [],
-      "auditFile": "29f9ad5f425a7920489dec7f558ee88c7769f6aedadd2a6d69e0be4a6f482b2f.json"
+      "reviewMethod": "human",
+      "reviewedAt": "2026-10-06T10:13:26.323792+00:00",
+      "evidence": [
+        {
+          "kind": "directions",
+          "name": "理论计算领域",
+          "quote": "希望理论计算领域 做出让大家眼前一亮的含金量极高的动江关大成就的化学家拿奖 “希望能看到理论，实验，和计算模拟三足鼎立时代的真正到来，给研究领域带来真正的繁荣”"
+        }
+      ],
+      "previousAuditFile": "29f9ad5f425a7920489dec7f558ee88c7769f6aedadd2a6d69e0be4a6f482b2f.json"
     },
     "2090414959339611926": {
       "summaryHash": "ed65763d0552167a58169cedaadc67c47e88f53b20d70420b27ff9e07f7b1a8a",
@@ -2265,27 +2739,60 @@
     },
     "2090434212310554442": {
       "summaryHash": "cba77f2aec8e6aa31b1753e620f5b9c4867cfaeb5a9297b046ba77797f586e90",
-      "reviewed": false,
+      "reviewed": true,
       "people": [],
       "directions": [],
-      "reason": "直答无法确定，待人工复核：摘要截断且作者明确表示不想猜谁会得奖，未给出具体预测人名或方向。",
+      "reason": "可见摘要回顾AI获奖及热门名单，并明确说不想猜谁得奖；没有可计票的作者选择。",
       "warnings": [],
-      "reviewMethod": "zhida",
-      "model": "zhida-fast-1p5",
-      "reviewedAt": "2026-10-05T05:42:49.552710+00:00",
+      "reviewMethod": "human",
+      "reviewedAt": "2026-10-06T10:13:26.323858+00:00",
       "evidence": [],
-      "auditFile": "29f9ad5f425a7920489dec7f558ee88c7769f6aedadd2a6d69e0be4a6f482b2f.json"
+      "previousAuditFile": "29f9ad5f425a7920489dec7f558ee88c7769f6aedadd2a6d69e0be4a6f482b2f.json"
     },
     "2090424739823085246": {
       "summaryHash": "5f1a49caffbad54cbf3861671f9eb8617cf1487ab35357e60a4f83488c29b47f",
-      "reviewed": false,
-      "people": [],
-      "directions": [],
-      "reason": "直答输出校验失败，待人工复核：人名/方向缺少原文依据",
+      "reviewed": true,
+      "people": [
+        "卢煜明",
+        "Shankar Balasubramanian",
+        "David Klenerman"
+      ],
+      "directions": [
+        "下一代 DNA 测序",
+        "无创产前诊断技术"
+      ],
+      "reason": "作者明确预测卢煜明，并提出与Balasubramanian、Klenerman组合获奖；两项技术方向直接可见。",
       "warnings": [],
-      "reviewMethod": "zhida",
-      "model": "zhida-fast-1p5",
-      "auditFile": "29f9ad5f425a7920489dec7f558ee88c7769f6aedadd2a6d69e0be4a6f482b2f.json"
+      "reviewMethod": "human",
+      "reviewedAt": "2026-10-06T10:13:26.323893+00:00",
+      "evidence": [
+        {
+          "kind": "people",
+          "name": "卢煜明",
+          "quote": "理综奖预测依然是情怀组：卢煜明院士 卢教授其实每年有两次冲击诺奖的机会，一次在生医，一次在化学，他在2016年获得的引文桂冠奖就是被划在化学领域，如果今年理综奖又回到了生物化学方向，还是有可能听到他的名字的，当然一人独得的概率很小，或许会把“更高通量更低成本的Solexa DNA测序技术”和“以孕妇血浆DNA分析为本的无创产前诊断技术”组合在一起给奖： Shankar Balasubramanian ¼ ，David Klenerman ¼，卢煜明 ½ …"
+        },
+        {
+          "kind": "people",
+          "name": "Shankar Balasubramanian",
+          "quote": "理综奖预测依然是情怀组：卢煜明院士 卢教授其实每年有两次冲击诺奖的机会，一次在生医，一次在化学，他在2016年获得的引文桂冠奖就是被划在化学领域，如果今年理综奖又回到了生物化学方向，还是有可能听到他的名字的，当然一人独得的概率很小，或许会把“更高通量更低成本的Solexa DNA测序技术”和“以孕妇血浆DNA分析为本的无创产前诊断技术”组合在一起给奖： Shankar Balasubramanian ¼ ，David Klenerman ¼，卢煜明 ½ …"
+        },
+        {
+          "kind": "people",
+          "name": "David Klenerman",
+          "quote": "理综奖预测依然是情怀组：卢煜明院士 卢教授其实每年有两次冲击诺奖的机会，一次在生医，一次在化学，他在2016年获得的引文桂冠奖就是被划在化学领域，如果今年理综奖又回到了生物化学方向，还是有可能听到他的名字的，当然一人独得的概率很小，或许会把“更高通量更低成本的Solexa DNA测序技术”和“以孕妇血浆DNA分析为本的无创产前诊断技术”组合在一起给奖： Shankar Balasubramanian ¼ ，David Klenerman ¼，卢煜明 ½ …"
+        },
+        {
+          "kind": "directions",
+          "name": "下一代 DNA 测序",
+          "quote": "理综奖预测依然是情怀组：卢煜明院士 卢教授其实每年有两次冲击诺奖的机会，一次在生医，一次在化学，他在2016年获得的引文桂冠奖就是被划在化学领域，如果今年理综奖又回到了生物化学方向，还是有可能听到他的名字的，当然一人独得的概率很小，或许会把“更高通量更低成本的Solexa DNA测序技术”和“以孕妇血浆DNA分析为本的无创产前诊断技术”组合在一起给奖： Shankar Balasubramanian ¼ ，David Klenerman ¼，卢煜明 ½ …"
+        },
+        {
+          "kind": "directions",
+          "name": "无创产前诊断技术",
+          "quote": "理综奖预测依然是情怀组：卢煜明院士 卢教授其实每年有两次冲击诺奖的机会，一次在生医，一次在化学，他在2016年获得的引文桂冠奖就是被划在化学领域，如果今年理综奖又回到了生物化学方向，还是有可能听到他的名字的，当然一人独得的概率很小，或许会把“更高通量更低成本的Solexa DNA测序技术”和“以孕妇血浆DNA分析为本的无创产前诊断技术”组合在一起给奖： Shankar Balasubramanian ¼ ，David Klenerman ¼，卢煜明 ½ …"
+        }
+      ],
+      "previousAuditFile": "29f9ad5f425a7920489dec7f558ee88c7769f6aedadd2a6d69e0be4a6f482b2f.json"
     },
     "2090420401813959146": {
       "summaryHash": "3808c270e2f09389840e4e9675a3ca8c1244998efb0a103b4826a2cbc3b91628",
@@ -2326,6 +2833,37 @@
         }
       ],
       "auditFile": "29f9ad5f425a7920489dec7f558ee88c7769f6aedadd2a6d69e0be4a6f482b2f.json"
+    },
+    "2090476370212172373": {
+      "summaryHash": "3ecd3c0530a3c06a37651771455d051a5e5c905da34b3efba96f8056fe097034",
+      "reviewed": true,
+      "people": [
+        "Michele Parrinello",
+        "Roberto Car",
+        "Alessandro Laio"
+      ],
+      "directions": [],
+      "reason": "作者直接列出三位化学奖候选，问号为备选语气，仍按多选计票。",
+      "warnings": [],
+      "reviewMethod": "human",
+      "reviewedAt": "2026-10-06T10:13:26.324185+00:00",
+      "evidence": [
+        {
+          "kind": "people",
+          "name": "Michele Parrinello",
+          "quote": "Michele Parrinello Roberto Car Alessandro Laio?"
+        },
+        {
+          "kind": "people",
+          "name": "Roberto Car",
+          "quote": "Michele Parrinello Roberto Car Alessandro Laio?"
+        },
+        {
+          "kind": "people",
+          "name": "Alessandro Laio",
+          "quote": "Michele Parrinello Roberto Car Alessandro Laio?"
+        }
+      ]
     }
   },
   "literature": {
@@ -2618,6 +3156,106 @@
           "kind": "people",
           "name": "玛曼达·恩戈兹·阿迪契",
           "quote": "我推测应该是杰梅卡·金凯德和玛曼达·恩戈兹·阿迪契中二选一"
+        }
+      ]
+    },
+    "2090429139929121731": {
+      "summaryHash": "293843c055243d15ec7523e60915ebebaeaba6bd4c9866393616897df3bd03e4",
+      "reviewed": true,
+      "people": [
+        "安妮·卡森",
+        "莉迪亚·若热",
+        "阿兰达蒂·洛伊",
+        "残雪"
+      ],
+      "directions": [],
+      "reason": "明确押宝四位女作家；若热译名沿用既有规范名。",
+      "warnings": [],
+      "reviewMethod": "human",
+      "reviewedAt": "2026-10-06T10:13:26.324348+00:00",
+      "evidence": [
+        {
+          "kind": "people",
+          "name": "安妮·卡森",
+          "quote": "按照最近十年不成文的性别轮换规则，押宝四位女作家（隐隐感觉今年的文学诺奖会搞事爆冷，不过要是能再推出来一位鲜为人知的冷门宝藏作家也不错）： 🇨🇦 安妮·卡森，🇵🇹 利迪娅·若热 🇮🇳 阿兰达蒂·洛伊，🇨🇳 残雪 [图片]"
+        },
+        {
+          "kind": "people",
+          "name": "莉迪亚·若热",
+          "quote": "按照最近十年不成文的性别轮换规则，押宝四位女作家（隐隐感觉今年的文学诺奖会搞事爆冷，不过要是能再推出来一位鲜为人知的冷门宝藏作家也不错）： 🇨🇦 安妮·卡森，🇵🇹 利迪娅·若热 🇮🇳 阿兰达蒂·洛伊，🇨🇳 残雪 [图片]"
+        },
+        {
+          "kind": "people",
+          "name": "阿兰达蒂·洛伊",
+          "quote": "按照最近十年不成文的性别轮换规则，押宝四位女作家（隐隐感觉今年的文学诺奖会搞事爆冷，不过要是能再推出来一位鲜为人知的冷门宝藏作家也不错）： 🇨🇦 安妮·卡森，🇵🇹 利迪娅·若热 🇮🇳 阿兰达蒂·洛伊，🇨🇳 残雪 [图片]"
+        },
+        {
+          "kind": "people",
+          "name": "残雪",
+          "quote": "按照最近十年不成文的性别轮换规则，押宝四位女作家（隐隐感觉今年的文学诺奖会搞事爆冷，不过要是能再推出来一位鲜为人知的冷门宝藏作家也不错）： 🇨🇦 安妮·卡森，🇵🇹 利迪娅·若热 🇮🇳 阿兰达蒂·洛伊，🇨🇳 残雪 [图片]"
+        }
+      ]
+    },
+    "2090392316410323498": {
+      "summaryHash": "9e51f8ddc92e3394093a37c416cfc14effc39e65381867856f3dc1e00ba4e78d",
+      "reviewed": true,
+      "people": [
+        "残雪"
+      ],
+      "directions": [],
+      "reason": "作者将残雪确定为赛博预测角度的正式人选，不补全后面被截断的组别。",
+      "warnings": [],
+      "reviewMethod": "human",
+      "reviewedAt": "2026-10-06T10:13:26.324549+00:00",
+      "evidence": [
+        {
+          "kind": "people",
+          "name": "残雪",
+          "quote": "这次的诺奖预言家活动，按要求回答中可以罗列多组预测， 对应官方提供的四种预测思路，每个角度单独确定一组正式预测，内容如下： 1️⃣赛博预测｜用AI大模型算一算 【本角度正式预测人选】：残雪【获奖理由】： 残雪算是赔率榜单的老熟人了，陪跑赛道很常见这个名字。让AI依照往年诺奖结果作推演，她的名字一定会排名靠前。 她的作品个人风格极强，如果评委今年考虑把奖项给到东亚作家，残雪就存在一定机会。 [图片] 2️⃣不出所料…"
+        }
+      ]
+    },
+    "2090400222811796839": {
+      "summaryHash": "7e8e77d4653be6b3d6a902ad46cfae208308b63ec1fe2ed9a95e083376674c22",
+      "reviewed": true,
+      "people": [
+        "残雪"
+      ],
+      "directions": [],
+      "reason": "作者明确说我猜残雪，后面的作品讨论不额外提名其他作家。",
+      "warnings": [],
+      "reviewMethod": "human",
+      "reviewedAt": "2026-10-06T10:13:26.324607+00:00",
+      "evidence": [
+        {
+          "kind": "people",
+          "name": "残雪",
+          "quote": "我猜残雪。没别的原因，就是支持国人获奖。既然聊到这个，顺便说说先锋小说到底在玩什么，以及赔率这么高、读者却说看不懂是怎么回事。 残雪是1985年开始写作的，四十年里一直写先锋小说。她的同代人里，很多人试验一阵就转了向：余华写完《现实一种》之后写出了《活着》和《许三观卖血记》，格非后来写了《江南三部曲》，都回到了有人物、有故事的写法上。残雪没有转，她在同一条路上越走越远，越走越深。 先锋小说兴起于八十年…"
+        }
+      ]
+    },
+    "2090473636692078612": {
+      "summaryHash": "8dce36dde1747045f821df7e297cd273ccb6ff2f7b3c3940865ab5a2cf467e3c",
+      "reviewed": true,
+      "people": [
+        "托马斯·品钦",
+        "德里罗"
+      ],
+      "directions": [],
+      "reason": "作者明确只期待品钦或德里罗获奖，属于明确希望获奖的候选。",
+      "warnings": [],
+      "reviewMethod": "human",
+      "reviewedAt": "2026-10-06T10:13:26.324662+00:00",
+      "evidence": [
+        {
+          "kind": "people",
+          "name": "托马斯·品钦",
+          "quote": "其实我不太关心诺奖，除非颁给品钦或者德里罗。 我觉得诺奖作者构成的文学地图也不适合作为构建一个有效的审美体系参考，世界文学这个研究主题也不是我所感兴趣的，自然也不太想去考虑它究竟是有变成cosmopolitan tribunal of literature的风险还是认为赋予文学作品可译性只会是把巴黎、伦敦、纽约之外的文学带进巴黎、伦敦、纽约的评价体系。不过想一下我自己的偏好其实也挺狭窄的，或者可以被white Anglo-American male high-l…"
+        },
+        {
+          "kind": "people",
+          "name": "德里罗",
+          "quote": "其实我不太关心诺奖，除非颁给品钦或者德里罗。 我觉得诺奖作者构成的文学地图也不适合作为构建一个有效的审美体系参考，世界文学这个研究主题也不是我所感兴趣的，自然也不太想去考虑它究竟是有变成cosmopolitan tribunal of literature的风险还是认为赋予文学作品可译性只会是把巴黎、伦敦、纽约之外的文学带进巴黎、伦敦、纽约的评价体系。不过想一下我自己的偏好其实也挺狭窄的，或者可以被white Anglo-American male high-l…"
         }
       ]
     }
@@ -3056,6 +3694,38 @@
       "reviewedAt": "2026-10-04T10:58:11.539941+00:00",
       "evidence": [],
       "auditFile": "e248bcbf42f7e97b9ceddfcab75f33040bc21a91c14924b5f31c4dbe463c6258.json"
+    },
+    "2090445818193093100": {
+      "summaryHash": "2d77dbdbd1f5e60a454233b6a34c444eb250ee96977de95a7cccf9adba1beb22",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "可见内容分析经济痛点与评委偏好，未给出作者明确选择的候选或本届获奖方向，不补全截断部分。",
+      "warnings": [
+        "摘要截断；可见部分未出现明确预测"
+      ],
+      "reviewMethod": "human",
+      "reviewedAt": "2026-10-06T10:13:26.324808+00:00",
+      "evidence": []
+    },
+    "2090455598257259349": {
+      "summaryHash": "5f18a5553e1b6ed7326c1aab4e6ea28a6ef213984e09a1baf787ef91ea0f3553",
+      "reviewed": true,
+      "people": [],
+      "directions": [
+        "宏观经济学"
+      ],
+      "reason": "作者明确预测今年宏观领域最可能获奖；“其他板块”不可辨识具体方向，不补写候选。",
+      "warnings": [],
+      "reviewMethod": "human",
+      "reviewedAt": "2026-10-06T10:13:26.324845+00:00",
+      "evidence": [
+        {
+          "kind": "directions",
+          "name": "宏观经济学",
+          "quote": "按照历年诺贝尔经济学奖板块轮动的传统看，我认为可以大致分解为：微观经济学，宏观经济学，金融学，发展经济学，劳动经济学及其他（其他包括财政学，纯计量经济学方法论，产业组织，制度经济学等）按照近十年发奖，金融学(22年)，劳动经济学（21 23年），发展经济学（25年）微观经济学（20年）都发了，虽然23和25年也可以对上部分宏观，但不太符合得奖者的主要研究领域。所以今年大概率是宏观领域得奖，其次是其他板块。 基于此…"
+        }
+      ]
     }
   }
 }

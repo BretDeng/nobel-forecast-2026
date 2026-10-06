@@ -3,9 +3,11 @@ import argparse, datetime, json, os, subprocess, tempfile, time
 from pathlib import Path
 from build import ROOT, CATEGORIES
 from deadlines import is_open
+from finalization import finalized_for
 DEFAULT=Path.home()/'Library/Application Support/zhihu-cli/current/zhihu-cli'
 class DeadlineReached(RuntimeError):pass
 def fetch(binary, category, url):
+ if finalized_for(category,ROOT):raise DeadlineReached('该奖项已完成最终更新并封榜')
  pages=[]; offset='0'; seen=set()
  for _ in range(100):
   if not is_open(category):raise DeadlineReached('该奖项已到封榜时间')
@@ -33,7 +35,7 @@ def sync_fetch(binary,category_ids=None):
  try:
   for index,(key,label,_,qid,_) in enumerate(CATEGORIES):
    if category_ids is not None and key not in category_ids:continue
-   if not is_open(key):
+   if finalized_for(key,ROOT) or not is_open(key):
     print('已封榜，跳过：'+label,flush=True);continue
    if index: time.sleep(1)
    if not is_open(key):continue

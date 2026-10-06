@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-05T05:41:44.835165+00:00",
+  "fetchedAt": "2026-10-05T08:35:10.406043+00:00",
   "pages": [
     {
       "Code": 0,
@@ -26,15 +26,15 @@
           },
           {
             "ContentType": "answer",
-            "ContentToken": "2089250052975997891",
-            "Url": "https://www.zhihu.com/question/2081709250993303561/answer/2089250052975997891",
-            "Summary": "我继续奶卢煜明（LO Yuk Ming, Dennis）吧。诺贝尔生理学或医学奖，我决定年年奶卢煜明，奶到他得奖或者知乎没人看为止。 卢煜明院士最具代表性的工作自然是“无创产前检测（Non-invasive Prenatal Testing，NIPT）”。 1997年，卢院士发现孕妇血浆里存在来自胎儿的游离DNA。通过这一发现发展的“唐筛”技术只需要抽取少量孕妇的静脉血，就可以对胎儿DNA进行筛查，从而避免了羊水穿刺和可能的流产风险。相关检查，不再需要仔细权…"
-          },
-          {
-            "ContentType": "answer",
             "ContentToken": "2089033893651420256",
             "Url": "https://www.zhihu.com/question/2081709250993303561/answer/2089033893651420256",
             "Summary": "既然给了四个角度，那就四个都占上。 不过，每个角度只押一项成果、一组人选…总不能把半本《细胞生物学》的目录抄过来，开奖以后说自己押中了，虽然只是个社交平台，不过也不太好… “不出所料”这一票，押GLP-1的发现与药物开发，人选是乔尔·哈贝纳（Joel Habener）、斯韦特兰娜·莫伊索夫（Svetlana Mojsov）、洛特·比耶尔·克努森（Lotte Bjerre Knudsen）。虽然学名一般我们没太听过，但只要提一句“司美格鲁肽背后的…"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2089250052975997891",
+            "Url": "https://www.zhihu.com/question/2081709250993303561/answer/2089250052975997891",
+            "Summary": "我继续奶卢煜明（LO Yuk Ming, Dennis）吧。诺贝尔生理学或医学奖，我决定年年奶卢煜明，奶到他得奖或者知乎没人看为止。 卢煜明院士最具代表性的工作自然是“无创产前检测（Non-invasive Prenatal Testing，NIPT）”。 1997年，卢院士发现孕妇血浆里存在来自胎儿的游离DNA。通过这一发现发展的“唐筛”技术只需要抽取少量孕妇的静脉血，就可以对胎儿DNA进行筛查，从而避免了羊水穿刺和可能的流产风险。相关检查，不再需要仔细权…"
           },
           {
             "ContentType": "answer",
@@ -98,15 +98,15 @@
           },
           {
             "ContentType": "answer",
-            "ContentToken": "2083542936847905704",
-            "Url": "https://www.zhihu.com/question/2081709250993303561/answer/2083542936847905704",
-            "Summary": "我的六组回答。 Seiji Ogawa+其他 （⭐ ✨ ★ ✦ ） 表彰发现血氧水平依赖（BOLD）效应，开创功能性磁共振成像（fMRI）技术，让人类可以无创观测活体大脑的功能活动，彻底重塑现代认知神经科学、精神病学、脑疾病研究。 [图片] Yuk-Ming Dennis Lo（⭐ ✨ ★） 发现孕妇外周血中存在胎儿游离DNA，开创无创产前基因诊断技术；奠定血浆游离DNA液体活检（癌症早筛）的基础 [图片] Karl Deisseroth，Peter Hegemann，Gero Miesenböck（…"
-          },
-          {
-            "ContentType": "answer",
             "ContentToken": "2090231295540455238",
             "Url": "https://www.zhihu.com/question/2081709250993303561/answer/2090231295540455238",
             "Summary": "刚查了一下，原来这个诺奖连个公开的候选人名单都没有，那我这预测和大海捞针有什么区别？ 只能是重在参与了～ 我从主办方提供的四个评选角度，每个都来预测一组吧，希望能猜中：） 01 不出所料，众望所归组这个我随大流，选了最热的，大家都投的那一组。 获奖成果： GLP-1（胰高血糖素样肽-1）的发现与机制阐明。 获奖人选： 丹尼尔·德鲁克（Daniel J. Drucker）、延斯·尤尔·霍斯特（Jens Juul Holst）和斯维特兰娜·莫伊索…"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2083542936847905704",
+            "Url": "https://www.zhihu.com/question/2081709250993303561/answer/2083542936847905704",
+            "Summary": "我的六组回答。 Seiji Ogawa+其他 （⭐ ✨ ★ ✦ ） 表彰发现血氧水平依赖（BOLD）效应，开创功能性磁共振成像（fMRI）技术，让人类可以无创观测活体大脑的功能活动，彻底重塑现代认知神经科学、精神病学、脑疾病研究。 [图片] Yuk-Ming Dennis Lo（⭐ ✨ ★） 发现孕妇外周血中存在胎儿游离DNA，开创无创产前基因诊断技术；奠定血浆游离DNA液体活检（癌症早筛）的基础 [图片] Karl Deisseroth，Peter Hegemann，Gero Miesenböck（…"
           },
           {
             "ContentType": "answer",
@@ -122,15 +122,21 @@
           },
           {
             "ContentType": "answer",
+            "ContentToken": "2087623438085124176",
+            "Url": "https://www.zhihu.com/question/2081709250993303561/answer/2087623438085124176",
+            "Summary": "Max D. Cooper、Jacques Miller，这两位发现了B细胞和T细胞，都九十来岁了。虽然我觉得今年也不会给，但毫无疑问这么多年没给是诺奖的损失。"
+          },
+          {
+            "ContentType": "answer",
             "ContentToken": "2089654077416330116",
             "Url": "https://www.zhihu.com/question/2081709250993303561/answer/2089654077416330116",
             "Summary": "伟大的科学家詹艳华，中国的爱因斯坦，这么多年，就没获一个奖，代表作，新的物理学，电磁磁场力学，量子引力力学，熵量物理学，浮动力学，宇宙压强，热子湍流推动恒星的运转，质量的起源暗物质暗能量，多元物理学，多篇数学基础科学论文。 [图片] [图片] [图片] [图片] [图片] [图片] [图片] [图片] [图片]"
           },
           {
             "ContentType": "answer",
-            "ContentToken": "2087623438085124176",
-            "Url": "https://www.zhihu.com/question/2081709250993303561/answer/2087623438085124176",
-            "Summary": "Max D. Cooper、Jacques Miller，这两位发现了B细胞和T细胞，都九十来岁了。虽然我觉得今年也不会给，但毫无疑问这么多年没给是诺奖的损失。"
+            "ContentToken": "2090394060452373351",
+            "Url": "https://www.zhihu.com/question/2081709250993303561/answer/2090394060452373351",
+            "Summary": "我预测：卢煜明将凭借他发明的“无创产前检测”技术赢得2026年的诺贝尔生理学或医学奖。 [图片] 目前已知的人类遗产缺陷大约有6000种以上，这些遗传缺陷轻则带来身体残疾，重则危及生命。 20世纪60年代以来，一些发达国家率先开展新生儿产前检测，以尽量避免具有先天残疾或遗传缺陷的婴儿诞生。其他国家也纷纷效仿，比如在中国，产前遗传检测几乎成为每个婴儿出生前都必须经历的过程。 [图片] 但是，从事产前检测的医生们面临一个难题，就是如…"
           },
           {
             "ContentType": "answer",
@@ -152,21 +158,15 @@
           },
           {
             "ContentType": "answer",
-            "ContentToken": "2090394060452373351",
-            "Url": "https://www.zhihu.com/question/2081709250993303561/answer/2090394060452373351",
-            "Summary": "我预测：卢煜明将凭借他发明的“无创产前检测”技术赢得2026年的诺贝尔生理学或医学奖。 [图片] 目前已知的人类遗产缺陷大约有6000种以上，这些遗传缺陷轻则带来身体残疾，重则危及生命。 20世纪60年代以来，一些发达国家率先开展新生儿产前检测，以尽量避免具有先天残疾或遗传缺陷的婴儿诞生。其他国家也纷纷效仿，比如在中国，产前遗传检测几乎成为每个婴儿出生前都必须经历的过程。 [图片] 但是，从事产前检测的医生们面临一个难题，就是如…"
-          },
-          {
-            "ContentType": "answer",
             "ContentToken": "2086803812023538864",
             "Url": "https://www.zhihu.com/question/2081709250993303561/answer/2086803812023538864",
             "Summary": "第零組，年年陪跑組：B細胞 & T 細胞 誰說去年給了坂口志文的調節T細胞，今年就不會再給細胞的 獲獎者：Max D. Cooper, Jacques Miller --- 第一組，還是年年陪跑組：光遺傳學（Optogenetics） Karl Deisseroth，Peter Hegemann，Gero Miesenböck --- 第二組：2024年物理給辛頓，化學給Deepmind ，生醫這邊遲來的蹭熱度 多巴胺、獎勵機制與強化學習（Dopamine & Reward Circuitry） 獲獎者：Wolfram Schultz, Peter Dayan, Raym…"
           },
           {
             "ContentType": "answer",
-            "ContentToken": "2086038511082287783",
-            "Url": "https://www.zhihu.com/question/2081709250993303561/answer/2086038511082287783",
-            "Summary": "我发现大家都跟着热点猜, GLP-1和cell free DNA翻来覆去的出现。我按照对个人对自己研究领域的了解给两组 Set1: Somatic Stem Cell Discovery Hans Clevers, Irving Weissman. Hans Clevers这个不用多介绍了吧，现在广泛应用的类器官就是从他这里开始的。Irv Weissman基本是hematopoetic stem cell的奠基人。一系列工作理清了骨髓里面的lineage发育顺序。 Set2: Leukemia curative therapy and mechanism Huges de The, Zhu Chen…"
+            "ContentToken": "2090410784794981806",
+            "Url": "https://www.zhihu.com/question/2081709250993303561/answer/2090410784794981806",
+            "Summary": "我的正式预测是： 卢煜明，获奖成果为发现母体血浆中的胎儿游离DNA，并推动无创产前检测的建立。共同获奖人选中，我认为Stephen Quake也有机会，但主押卢煜明。由于从业经历，我对于医学的研究成果，一直有个观点：一项医学发现，最终是否能够造福患者，需要经过基于大量诊疗实践、甚至是长时间的临床验证。 而在诺贝尔医学奖历史上，其实不缺少发现的时候很惊艳，发了顶刊，拿了诺奖，最后却证明不成立或者副作用很大。 所以，…"
           },
           {
             "ContentType": "answer",
@@ -182,15 +182,15 @@
           },
           {
             "ContentType": "answer",
-            "ContentToken": "2089423892951708259",
-            "Url": "https://www.zhihu.com/question/2081709250993303561/answer/2089423892951708259",
-            "Summary": "医学不懂，跟风预测一个光遗传学三人组 Karl Deisseroth，Peter Hegemann，Gero Miesenböck 备选组卢煜明教授？不过肯定不会是他自己单独得，和谁一起暂时没想好 光遗传学的可能获奖意义:光遗传学不仅用于治疗，它更是目前研究大脑如何工作的最强大工具 。它就像一把人类终于打造出来的“上帝之手”，可以拨动大脑中的任何一根“琴弦”，听它会发出什么样的“声音”，从而反向推导出大脑这个最复杂“乐器”的总谱。 这个方向的…"
+            "ContentToken": "2086038511082287783",
+            "Url": "https://www.zhihu.com/question/2081709250993303561/answer/2086038511082287783",
+            "Summary": "我发现大家都跟着热点猜, GLP-1和cell free DNA翻来覆去的出现。我按照对个人对自己研究领域的了解给两组 Set1: Somatic Stem Cell Discovery Hans Clevers, Irving Weissman. Hans Clevers这个不用多介绍了吧，现在广泛应用的类器官就是从他这里开始的。Irv Weissman基本是hematopoetic stem cell的奠基人。一系列工作理清了骨髓里面的lineage发育顺序。 Set2: Leukemia curative therapy and mechanism Huges de The, Zhu Chen…"
           },
           {
             "ContentType": "answer",
-            "ContentToken": "2090410784794981806",
-            "Url": "https://www.zhihu.com/question/2081709250993303561/answer/2090410784794981806",
-            "Summary": "我的正式预测是： 卢煜明，获奖成果为发现母体血浆中的胎儿游离DNA，并推动无创产前检测的建立。共同获奖人选中，我认为Stephen Quake也有机会，但主押卢煜明。由于从业经历，我对于医学的研究成果，一直有个观点：一项医学发现，最终是否能够造福患者，需要经过基于大量诊疗实践、甚至是长时间的临床验证。 而在诺贝尔医学奖历史上，其实不缺少发现的时候很惊艳，发了顶刊，拿了诺奖，最后却证明不成立或者副作用很大。 所以，…"
+            "ContentToken": "2089423892951708259",
+            "Url": "https://www.zhihu.com/question/2081709250993303561/answer/2089423892951708259",
+            "Summary": "医学不懂，跟风预测一个光遗传学三人组 Karl Deisseroth，Peter Hegemann，Gero Miesenböck 备选组卢煜明教授？不过肯定不会是他自己单独得，和谁一起暂时没想好 光遗传学的可能获奖意义:光遗传学不仅用于治疗，它更是目前研究大脑如何工作的最强大工具 。它就像一把人类终于打造出来的“上帝之手”，可以拨动大脑中的任何一根“琴弦”，听它会发出什么样的“声音”，从而反向推导出大脑这个最复杂“乐器”的总谱。 这个方向的…"
           },
           {
             "ContentType": "answer",
@@ -218,6 +218,18 @@
           },
           {
             "ContentType": "answer",
+            "ContentToken": "2090441778176512498",
+            "Url": "https://www.zhihu.com/question/2081709250993303561/answer/2090441778176512498",
+            "Summary": "第一档我会押Emmanuel Mignot和Masashi Yanagisawa，也就是食欲素与睡眠觉醒机制。 第二档，我会押Daniel J. Drucker、Jens Juul Holst和Svetlana Mojsov，也就是近年来风靡全球的GLP-1。 第三档，则是Carl June所代表的CAR-T细胞治疗。 另外还有一个我认为非常容易被低估的方向，就是James Fujimoto、David Huang和Eric Swanson的OCT，也就是光学相干断层成像。 今年最强的诺贝尔信号，不是GLP-1，而是食欲素。 因为就在诺贝尔…"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2090439695482230423",
+            "Url": "https://www.zhihu.com/question/2081709250993303561/answer/2090439695482230423",
+            "Summary": "还有4个小时就要揭晓了，最后汇总一下竞猜情况。 下面按照获奖可能性大小排列，列出核心预估得主、主要研究成果、研究的意义（即对社会的贡献）。 1 GLP-1信号通路发现与药物开发 核心预估得主： Svetlana Mojsov、Jens Juul Holst、Daniel Drucker主要研究成果：发现了 胰高血糖素样肽-1（GLP-1）的生物学机制，并成功将其从一种肠道激素转化为治疗2型糖尿病和肥胖症的革命性药物（如司美格鲁肽、替尔泊肽）。研究的意义：彻底…"
+          },
+          {
+            "ContentType": "answer",
             "ContentToken": "2090405173696935316",
             "Url": "https://www.zhihu.com/question/2081709250993303561/answer/2090405173696935316",
             "Summary": "GLP-1 更稳、更符合诺奖一贯偏好。 我看好 GLP-1 顺利登顶。 它不是“爆冷”题材，而是典型的“该来的终于来了”——把基础肠道内分泌发现，变成改变数亿人生活方式与疾病负担的重磅疗法。 CAR-T 和基因编辑更有机会在未来几年轮到，但今年面对 GLP-1 的临床冲击力与预测指标一致性，爆冷难度不小。 从 Clarivate Citation Laureates 2026、Lasker 奖、预测市场（Kalshi 等把 Drucker 相关 GLP-1 工作放在 25–30% 左右领先位置…"
@@ -242,6 +254,12 @@
           },
           {
             "ContentType": "answer",
+            "ContentToken": "2090477361049366548",
+            "Url": "https://www.zhihu.com/question/2081709250993303561/answer/2090477361049366548",
+            "Summary": "距离 2026 年诺贝尔生理学或医学奖揭晓的时刻越来越近了，我预测有望获奖的是： 香港中文大学医学院卢煜明教授 [图片] 他的一项重要贡献是在孕妇血液中发现胎儿游离 DNA（cell-free fetal DNA，cffDNA [1]），进而研发了唐氏综合征的无创产前检测（Non-Invasive Prenatal Testing，NIPT）。这项工作将使广大孕妇免于接受一种增加流产风险的手术[2]，可以说功德无量，而且在全球医学领域影响深远。 凭借这一成果，卢煜明教授在 2016 年获…"
+          },
+          {
+            "ContentType": "answer",
             "ContentToken": "2090378245564789103",
             "Url": "https://www.zhihu.com/question/2081709250993303561/answer/2090378245564789103",
             "Summary": "虽然很不愿意承认。 但是今年的诺奖又要被日本人拿走了 柳泽正史 食欲素 发现食欲素神经肽，证明这个分子缺失会导致 发作性睡病（猝倒型嗜睡）；解释大脑维持清醒的核心机制，催生失眠、嗜睡新药这不仅仅是简单的治疗失眠嗜睡。 他是搞清楚了人是怎么维持清醒的。 这里面蕴含了巨大的商业价值。 因为保持清醒是当今社会一个重要的状态。 这个东西甚至未来可能用于痴呆，抑郁，休克的研究。"
@@ -251,6 +269,72 @@
             "ContentToken": "2089550792445400468",
             "Url": "https://www.zhihu.com/question/2081709250993303561/answer/2089550792445400468",
             "Summary": "感觉最早开始关注“你对xxxx年诺贝尔奖的预测是什么”这类问题的时候，我还是个初中生，转眼间发现这些榜单上的很多人都离我并不远hhhhh，所以本文预测带有很强的个人偏见，更多是希望他们能获奖，而不是概率上最高 Timothy \"Tim\" Springer, Harvard Medical School & Boston Children's Hospital, for the discovery of ICAM-LFA interactions [图片] Tim可能是整个生物学界最富有的科学家 -- 他真的在福布斯富豪榜上。得益于他的各种投…"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2090478956487127265",
+            "Url": "https://www.zhihu.com/question/2081709250993303561/answer/2090478956487127265",
+            "Summary": "根据目前的信号，第一位我会押陈志坚（Zhijian “James” Chen） 2026 年诺贝尔生理学或医学奖即将公布，对此你有哪些期待？ 他已经形成了非常典型的诺奖前置奖励链，2019 年生命科学突破奖、2023 年霍维茨奖、2024 年拉斯克基础医学研究奖，2026 年又获得日本国际奖。尤其重要的是，他的核心贡献非常容易被诺奖委员会写成一句清楚的颁奖理由——“发现 cGAS 及其介导的胞质 DNA 感知机制”。2012—2013 年，他的团队发现 cGAMP …"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2090477997983846968",
+            "Url": "https://www.zhihu.com/question/2081709250993303561/answer/2090477997983846968",
+            "Summary": "我选择从赛博预测角度，也就是AI大模型角度预测。 最热门角度依次预测。 一、GLP-1的发现与药物转化方面： 主要有Daniel J. Drucker、Jens Juul Holst、Svetlana Mojsov这几位。 获奖理由：Mojsov鉴定出GLP-1的生物活性形式GLP-1(7-37)，Holst证明其能以葡萄糖依赖方式促进胰岛素分泌，Drucker系统阐明了GLP-1的生理功能并推动向药物转化。基于该激素开发的司美格鲁肽等药物不仅降糖，还显著减重并降低心血管风险。这个领域也比…"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2090476238473262404",
+            "Url": "https://www.zhihu.com/question/2081709250993303561/answer/2090476238473262404",
+            "Summary": "我的预测是从“不是哥们”角度预测的。 首先，Davor Solter 和 M. Azim Surani，他们可以课题都是基因组印记。 身份上：马克斯·普朗克是免疫生物学与表观遗传学研究所荣休主任。M. Azim Surani（1945年生），英国剑桥大学Gurdon研究所生殖系与表观遗传学研究主任，2025年京都奖基础科学奖得主。 获奖理由：我们每个人身上的基因，都是一套从爸妈各拿一半。按照经典遗传学，这两套基因地位平等，谁都能干活，一个坏了另一个还能…"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2090464264519790638",
+            "Url": "https://www.zhihu.com/question/2081709250993303561/answer/2090464264519790638",
+            "Summary": "王楚钦，32，3*2 ，…。你就说该不该吧？"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2090460831402279942",
+            "Url": "https://www.zhihu.com/question/2081709250993303561/answer/2090460831402279942",
+            "Summary": "希望是t b淋巴细胞，但实际更可能是一直造势的glp1"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2090460772790965519",
+            "Url": "https://www.zhihu.com/question/2081709250993303561/answer/2090460772790965519",
+            "Summary": "[图片]"
+          }
+        ],
+        "Paging": {
+          "IsEnd": false,
+          "NextOffset": 50
+        }
+      }
+    },
+    {
+      "Code": 0,
+      "Message": "success",
+      "Data": {
+        "Items": [
+          {
+            "ContentType": "answer",
+            "ContentToken": "2090457601196692244",
+            "Url": "https://www.zhihu.com/question/2081709250993303561/answer/2090457601196692244",
+            "Summary": "分子伴侣～"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2090449521918723417",
+            "Url": "https://www.zhihu.com/question/2081709250993303561/answer/2090449521918723417",
+            "Summary": "weinberg"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2090449005516007176",
+            "Url": "https://www.zhihu.com/question/2081709250993303561/answer/2090449005516007176",
+            "Summary": "2026年诺贝尔生理学或医学奖的预测高度集中，就是glp杠一以高血糖素样肽杠一的相关研究，它被普遍认为是本届的最大热门，此外还有食欲素与睡眠机制car杠T细胞疗法cgas杠stig n通路领域也构成了强有力的竞争梯度。Glp杠一与代谢的调控，关键的候选人由于诺奖从不追受试者，该领域的奠基人之一乔尔哈贝纳已于2025年底离世，因此奖项很可能受益以下仍在世的科学家，首先就是丹尼尔德鲁克严斯尤尔霍斯特斯维特拉纳莫伊索尔索夫强劲的…"
           },
           {
             "ContentType": "answer",
@@ -305,19 +389,7 @@
             "ContentToken": "2090244046824519609",
             "Url": "https://www.zhihu.com/question/2081709250993303561/answer/2090244046824519609",
             "Summary": "创作声明：1.包含投资理财内容；2.夹带有不少私货甚至说全是私货 中原猫猫也来预测一下。 （其实我感觉我这么预测有点像考研政治押题的风格，不像是正经的生物学研究生的风格） 去年的预测以预测考研政治大题的方式预测成功了33.3％或11.1％，大概有统计学意义，还算是部分成功了；今年我接着以同样的预测考研政治的方法预测今年的诺贝尔生医奖。 去年的预测： 2025 年诺贝尔生理学或医学奖颁给外周免疫耐受性三位研究者，如何通…"
-          }
-        ],
-        "Paging": {
-          "IsEnd": false,
-          "NextOffset": 50
-        }
-      }
-    },
-    {
-      "Code": 0,
-      "Message": "success",
-      "Data": {
-        "Items": [
+          },
           {
             "ContentType": "answer",
             "ContentToken": "2090214441451254231",

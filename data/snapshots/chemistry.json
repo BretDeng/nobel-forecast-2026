@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-05T05:41:49.987396+00:00",
+  "fetchedAt": "2026-10-05T08:35:14.559663+00:00",
   "pages": [
     {
       "Code": 0,
@@ -68,6 +68,24 @@
           },
           {
             "ContentType": "answer",
+            "ContentToken": "2090434212310554442",
+            "Url": "https://www.zhihu.com/question/2081709501913248924/answer/2090434212310554442",
+            "Summary": "摘要：2024年诺贝尔物理学奖和化学奖都颁给了人工智能的开路人。两年后，今年这份诺奖热门名单上，我挑了三个把AI用进研究核心的人，有人用Transformer读DNA，有人拿AI设计的蛋白当进化起点。 今晚17点30分，2026年的诺贝尔奖就要开奖了，头一个公布的是生理学或医学奖。 得先说清楚，诺奖委员会的提名名单从不对外公布，所谓热门名单，都是媒体和数据机构按论文影响力猜的。今晚之前，这些名字一个都不算数。 我也不想猜谁会得…"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2090424739823085246",
+            "Url": "https://www.zhihu.com/question/2081709501913248924/answer/2090424739823085246",
+            "Summary": "理综奖预测依然是情怀组：卢煜明院士 卢教授其实每年有两次冲击诺奖的机会，一次在生医，一次在化学，他在2016年获得的引文桂冠奖就是被划在化学领域，如果今年理综奖又回到了生物化学方向，还是有可能听到他的名字的，当然一人独得的概率很小，或许会把“更高通量更低成本的Solexa DNA测序技术”和“以孕妇血浆DNA分析为本的无创产前诊断技术”组合在一起给奖： Shankar Balasubramanian ¼ ，David Klenerman ¼，卢煜明 ½ …"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2090420401813959146",
+            "Url": "https://www.zhihu.com/question/2081709501913248924/answer/2090420401813959146",
+            "Summary": "如果今年只能押一组，我反而不会追最新的“碱基编辑”，也不会直接跟着科睿唯安今年新公布的候选名单走。我会把 2026 年诺贝尔化学奖正式押在 下一代 DNA 测序（Next-Generation Sequencing，NGS）上，人选选择 Shankar Balasubramanian、David Klenerman 和 Pascal Mayer，因为这三个人的成果已经从一项实验室技术，变成了现代生命科学最基础的基础设施之一。我的正式预测是： Shankar Balasubramanian、David Klenerman、Pasca…"
+          },
+          {
+            "ContentType": "answer",
             "ContentToken": "2090414959339611926",
             "Url": "https://www.zhihu.com/question/2081709501913248924/answer/2090414959339611926",
             "Summary": "之前参加过化学哲学的会议，但自己对于化学的前沿领域不熟悉，同学校化学哲学的老师聊了聊，我对 2026 年诺贝尔化学奖的正式预测是： 尚卡尔·巴拉苏布拉马尼安（Shankar Balasubramanian）、戴维·克莱纳曼（David Klenerman）与帕斯卡尔·迈耶（Pascal Mayer），表彰他们对大规模并行 DNA 测序的奠基性贡献。我看好这个方向，因为它改变了生命科学获取数据的能力，而这种改变的基础，是核苷酸化学、表面化学、酶促反应和光学检…"
@@ -92,21 +110,9 @@
           },
           {
             "ContentType": "answer",
-            "ContentToken": "2090434212310554442",
-            "Url": "https://www.zhihu.com/question/2081709501913248924/answer/2090434212310554442",
-            "Summary": "摘要：2024年诺贝尔物理学奖和化学奖都颁给了人工智能的开路人。两年后，今年这份诺奖热门名单上，我挑了三个把AI用进研究核心的人，有人用Transformer读DNA，有人拿AI设计的蛋白当进化起点。 今晚17点30分，2026年的诺贝尔奖就要开奖了，头一个公布的是生理学或医学奖。 得先说清楚，诺奖委员会的提名名单从不对外公布，所谓热门名单，都是媒体和数据机构按论文影响力猜的。今晚之前，这些名字一个都不算数。 我也不想猜谁会得…"
-          },
-          {
-            "ContentType": "answer",
-            "ContentToken": "2090424739823085246",
-            "Url": "https://www.zhihu.com/question/2081709501913248924/answer/2090424739823085246",
-            "Summary": "理综奖预测依然是情怀组：卢煜明院士 卢教授其实每年有两次冲击诺奖的机会，一次在生医，一次在化学，他在2016年获得的引文桂冠奖就是被划在化学领域，如果今年理综奖又回到了生物化学方向，还是有可能听到他的名字的，当然一人独得的概率很小，或许会把“更高通量更低成本的Solexa DNA测序技术”和“以孕妇血浆DNA分析为本的无创产前诊断技术”组合在一起给奖： Shankar Balasubramanian ¼ ，David Klenerman ¼，卢煜明 ½ …"
-          },
-          {
-            "ContentType": "answer",
-            "ContentToken": "2090420401813959146",
-            "Url": "https://www.zhihu.com/question/2081709501913248924/answer/2090420401813959146",
-            "Summary": "如果今年只能押一组，我反而不会追最新的“碱基编辑”，也不会直接跟着科睿唯安今年新公布的候选名单走。我会把 2026 年诺贝尔化学奖正式押在 下一代 DNA 测序（Next-Generation Sequencing，NGS）上，人选选择 Shankar Balasubramanian、David Klenerman 和 Pascal Mayer，因为这三个人的成果已经从一项实验室技术，变成了现代生命科学最基础的基础设施之一。我的正式预测是： Shankar Balasubramanian、David Klenerman、Pasca…"
+            "ContentToken": "2090476370212172373",
+            "Url": "https://www.zhihu.com/question/2081709501913248924/answer/2090476370212172373",
+            "Summary": "Michele Parrinello Roberto Car Alessandro Laio?"
           },
           {
             "ContentType": "answer",

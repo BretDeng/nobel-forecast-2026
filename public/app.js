@@ -4,10 +4,10 @@ let data, state={cat:'medicine',mode:'people',page:'leader',search:'',excludeAi:
 let displayed=[];
 const dateFormat=new Intl.DateTimeFormat('zh-CN',{timeZone:'Asia/Hong_Kong',month:'2-digit',day:'2-digit',hour:'2-digit',minute:'2-digit',hour12:false});
 const current=()=>data.categories.find(c=>c.id===state.cat);
-const isFrozen=cat=>Boolean(cat.predictionFreezeAt)&&Date.now()>=Date.parse(cat.predictionFreezeAt);
-const freezeNote=cat=>cat.predictionFreezeAt?`${isFrozen(cat)?'已封榜 · 数据不再更新':'最后更新截止'}：${dateFormat.format(new Date(cat.predictionFreezeAt))}（香港时间）`:'';
+const isFrozen=cat=>Boolean(cat.finalizedAt)||(Boolean(cat.predictionFreezeAt)&&Date.now()>=Date.parse(cat.predictionFreezeAt));
+const freezeNote=cat=>cat.finalizedAt?`最终手动更新已封榜：${dateFormat.format(new Date(cat.finalizedAt))}（香港时间）`:cat.predictionFreezeAt?`${isFrozen(cat)?'已封榜 · 数据不再更新':'最后更新截止'}：${dateFormat.format(new Date(cat.predictionFreezeAt))}（香港时间）`:'';
 function countdownState(cat,now=Date.now()){
- const freeze=Date.parse(cat.predictionFreezeAt),announcement=Date.parse(cat.announcementAt);
+ const freeze=Date.parse(cat.finalizedAt||cat.predictionFreezeAt),announcement=Date.parse(cat.announcementAt);
  if(!Number.isFinite(freeze)||!Number.isFinite(announcement))return null;
  const phase=now<freeze?'open':now<announcement?'frozen':'announcement';
  const remaining=Math.max(0,Math.ceil(((phase==='open'?freeze:announcement)-now)/1000));
@@ -25,8 +25,8 @@ function updateCountdown(){
  for(const unit of ['days','hours','minutes','seconds'])$(`[data-countdown="${unit}"]`).textContent=String(clock[unit]).padStart(2,'0');
 }
 function renderCountdown(){
- const cat=current(),panel=$('#award-countdown');panel.hidden=!countdownState(cat);if(panel.hidden)return;
- panel.innerHTML=`<div class="countdown-main"><div class="countdown-heading"><span id="countdown-label"></span><span class="countdown-status" id="countdown-status"></span></div><div class="countdown-clock" id="countdown-clock" role="timer" aria-live="off" aria-label="距截止的剩余时间">${[['days','天'],['hours','时'],['minutes','分'],['seconds','秒']].map(([unit,label])=>`<span class="countdown-part"><strong data-countdown="${unit}">00</strong><small>${label}</small></span>`).join('')}</div><p class="countdown-finished" id="countdown-finished" hidden>等电话响，等名字揭晓。</p></div><div class="countdown-schedule"><div><span>预测封榜</span><time datetime="${esc(cat.predictionFreezeAt)}">${esc(dateFormat.format(new Date(cat.predictionFreezeAt)))}</time></div><div><span>开奖时间</span><time datetime="${esc(cat.announcementAt)}">${esc(dateFormat.format(new Date(cat.announcementAt)))}</time></div><p>香港时间 UTC+8 · 开奖前 1 小时封榜<br>开奖按官方最早揭晓时间 · <a href="${esc(cat.announcementSource)}" target="_blank" rel="noopener noreferrer">官方日程 ↗</a></p></div>`;
+ const cat=current(),freezeAt=cat.finalizedAt||cat.predictionFreezeAt,panel=$('#award-countdown');panel.hidden=!countdownState(cat);if(panel.hidden)return;
+ panel.innerHTML=`<div class="countdown-main"><div class="countdown-heading"><span id="countdown-label"></span><span class="countdown-status" id="countdown-status"></span></div><div class="countdown-clock" id="countdown-clock" role="timer" aria-live="off" aria-label="距截止的剩余时间">${[['days','天'],['hours','时'],['minutes','分'],['seconds','秒']].map(([unit,label])=>`<span class="countdown-part"><strong data-countdown="${unit}">00</strong><small>${label}</small></span>`).join('')}</div><p class="countdown-finished" id="countdown-finished" hidden>等电话响，等名字揭晓。</p></div><div class="countdown-schedule"><div><span>${cat.finalizedAt?'最终封榜':'预测封榜'}</span><time datetime="${esc(freezeAt)}">${esc(dateFormat.format(new Date(freezeAt)))}</time></div><div><span>开奖时间</span><time datetime="${esc(cat.announcementAt)}">${esc(dateFormat.format(new Date(cat.announcementAt)))}</time></div><p>香港时间 UTC+8 · ${cat.finalizedAt?'最终手动更新后封榜':'开奖前 1 小时封榜'}<br>开奖按官方最早揭晓时间 · <a href="${esc(cat.announcementSource)}" target="_blank" rel="noopener noreferrer">官方日程 ↗</a></p></div>`;
  updateCountdown();
 }
 const filteredAnswers=()=>current().answers.filter(a=>!(state.excludeAi&&a.aiAssisted));

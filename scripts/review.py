@@ -7,6 +7,7 @@ from pathlib import Path
 from build import ROOT, CATEGORIES, ENGLISH
 from fetch import DEFAULT
 from deadlines import is_open
+from finalization import finalized_for
 MODEL='zhida-fast-1p5'
 ALIASES={
  'Daniel Drucker':['Daniel J. Drucker','Daniel J Drucker'],
@@ -118,6 +119,7 @@ def save_reviews(reviews):
 def review_pending(binary=DEFAULT,retry_uncertain=False,category_ids=None):
  reviews=json.loads((ROOT/'data/reviews.json').read_text());calls=accepted=0;error=None
  for category,label,_,_,_ in CATEGORIES:
+  if finalized_for(category,ROOT):continue
   # Explicit IDs only come from a successfully captured pre-cutoff sync batch.
   if category_ids is not None:
    if category not in category_ids:continue

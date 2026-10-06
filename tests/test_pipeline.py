@@ -37,13 +37,13 @@ class PipelineTests(unittest.TestCase):
  def test_empty_page_uses_server_offset(self):
   pages=[{'Code':0,'Data':{'Items':[],'Paging':{'IsEnd':False,'NextOffset':37}}},{'Code':0,'Data':{'Items':[],'Paging':{'IsEnd':True}}}]
   with patch('fetch.is_open',return_value=True),patch('fetch.subprocess.run',side_effect=[SimpleNamespace(returncode=0,stdout=json.dumps(p)) for p in pages]) as call:
-   result=fetch(Path('/cli'),'medicine','https://www.zhihu.com/question/1')
+   result=fetch(Path('/cli'),'fixture','https://www.zhihu.com/question/1')
    self.assertEqual(call.call_args_list[1].args[0][-1],'37')
    self.assertEqual(len(result['pages']),2)
  def test_incomplete_paging_stops(self):
   response=SimpleNamespace(returncode=0,stdout=json.dumps({'Code':0,'Data':{'Items':[],'Paging':{'IsEnd':False}}}))
   with patch('fetch.is_open',return_value=True),patch('fetch.subprocess.run',return_value=response):
-   with self.assertRaisesRegex(RuntimeError,'分页信息不完整'):fetch(Path('/cli'),'medicine','https://www.zhihu.com/question/1')
+   with self.assertRaisesRegex(RuntimeError,'分页信息不完整'):fetch(Path('/cli'),'fixture','https://www.zhihu.com/question/1')
  def test_hash_change_requires_review(self):
   import build,tempfile
   # Fixed samples isolate the hash gate from changing live data and pending reviews.

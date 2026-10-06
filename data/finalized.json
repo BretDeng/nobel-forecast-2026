@@ -1,0 +1,8 @@
+{
+  "medicine": {
+    "finalizedAt": "2026-10-05T08:35:10.406043+00:00",
+    "reason": "用户明确要求本次手动更新后医学奖不再更新；本次为原截止后、官方揭晓前授权的最终补更新。",
+    "snapshotHash": "03707c82d39b3223baf642a8bfb0e3597ba7ab7dd05da2728263c0fa492488cb",
+    "reviewsHash": "647236df9196a7713afb8a3ff37f598c47a0fc7fa36ed1886c32636e4bb86b90"
+  }
+}
