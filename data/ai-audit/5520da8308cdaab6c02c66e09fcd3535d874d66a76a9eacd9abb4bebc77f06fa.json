@@ -1,0 +1,24 @@
+{
+  "model": "zhida-fast-1p5",
+  "category": "physics",
+  "summaryHashes": {
+    "2090514380807001324": "2d3517170b804ac39aa91021d3fe2a8a29643d3cc260d030ebf0184a22fe654e",
+    "2090478366709248771": "992a002e8a191dab436baa72f74d2db9f9567cab7fde6dc56045a6353ac87524"
+  },
+  "response": {
+    "id": "chatcmpl-08e9764c-3d56-43d3-826d-4f9c4d996f71",
+    "object": "chat.completion",
+    "created": 1791249517,
+    "model": "zhida-fast-1p5",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "{\"items\":[{\"id\":\"2090514380807001324\",\"status\":\"uncertain\",\"people\":[],\"directions\":[],\"reason\":\"摘要仅声称有17位候选人但未列出任何具体人名或方向，内容截断且语境模糊，无法提取明确预测。\"},{\"id\":\"2090478366709248771\",\"status\":\"exclude\",\"people\":[],\"directions\":[],\"reason\":\"仅为对预测行为的感叹评论，未包含任何2026年获奖人预测。\"}]}"
+        },
+        "finish_reason": "stop"
+      }
+    ]
+  }
+}

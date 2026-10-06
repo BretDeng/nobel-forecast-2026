@@ -1,0 +1,25 @@
+{
+  "model": "zhida-fast-1p5",
+  "category": "chemistry",
+  "summaryHashes": {
+    "2090476370212172373": "f2f626545ff3628b70f2ae331bd92c01a79f5a5c00c58767160e4a8c8c74da84",
+    "2090591248625185437": "061720b15a86f425a7af0368bf61c82014c15e4661e9d526492d4a688dabf2b0",
+    "2090500411404898489": "85e612f4314ba73ed09f830b92f10840c87bbd5926f3274ebf65370565f4d932"
+  },
+  "response": {
+    "id": "chatcmpl-febb0a2f-156f-4d4b-8d85-35c85d2e1537",
+    "object": "chat.completion",
+    "created": 1791277124,
+    "model": "zhida-fast-1p5",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "{\"items\":[{\"id\":\"2090476370212172373\",\"status\":\"include\",\"people\":[{\"name\":\"Roberto Car\",\"evidence\":\"Michele Parrinello Roberto Car Alessandro Laio? 我猜测是 前两位\"},{\"name\":\"Michele Parrinello\",\"evidence\":\"Michele Parrinello Roberto Car Alessandro Laio? 我猜测是 前两位\"},{\"name\":\"Alessandro Laio\",\"evidence\":\"我猜测是 前两位 或者 三人组\"}],\"directions\":[{\"name\":\"ab initio molecular dynamics\",\"evidence\":\"Car + Parrinello → ab initio molecular dynamics\"},{\"name\":\"metadynamics\",\"evidence\":\"Parrinello + Laio → metadynamics\"}],\"reason\":\"作者明确猜测Car、Parrinello（或加Laio）可能因分子模拟方法获奖。\"},{\"id\":\"2090591248625185437\",\"status\":\"include\",\"people\":[],\"directions\":[{\"name\":\"Dna encoded library\",\"evidence\":\"Dna encoded library总有一天会获得\"}],\"reason\":\"作者预测DNA encoded library方向终将获奖。\"},{\"id\":\"2090500411404898489\",\"status\":\"include\",\"people\":[],\"directions\":[{\"name\":\"基因测序\",\"evidence\":\"基因测序\"}],\"reason\":\"作者正向预测基因测序方向。\"}]}"
+        },
+        "finish_reason": "stop"
+      }
+    ]
+  }
+}

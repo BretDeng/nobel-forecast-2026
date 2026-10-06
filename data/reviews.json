@@ -1764,12 +1764,17 @@
       "warnings": []
     },
     "2083757224137070144": {
-      "summaryHash": "4518f24aa95957f470a62af745b7e8e2d1efe01797c0681c26103542e305a9fe",
+      "summaryHash": "d8274a8d90c0dcecf6f913592bf0087e1f141bdd18b33b537dc9793751374600",
       "reviewed": true,
       "people": [],
       "directions": [],
-      "reason": "历史评论",
-      "warnings": []
+      "reason": "否定转角石墨烯能获奖，属否定预测",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-05T19:18:02.348875+00:00",
+      "evidence": [],
+      "auditFile": "801cff6ad7b8aace0b27fca7074ecb6b9f62699e6aedf8f4fd4dedd7c61783de.json"
     },
     "2085328806546614126": {
       "summaryHash": "0b30ac6d3f0c97a6d6b7ecc8d2947f0c1fe0eb61379069cdc598f34ac50c61c6",
@@ -2344,22 +2349,53 @@
       "reviewed": true,
       "people": [],
       "directions": [],
-      "reason": "仅介绍媒体热门名单和前哨奖，没有给出作者本人的明确预测。",
+      "reason": "仅转述热门名单和风向标新闻，非作者本人预测",
       "warnings": [],
-      "reviewMethod": "human",
-      "reviewedAt": "2026-10-06T10:13:26.322831+00:00",
-      "evidence": []
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-05T19:18:02.347927+00:00",
+      "evidence": [],
+      "auditFile": "801cff6ad7b8aace0b27fca7074ecb6b9f62699e6aedf8f4fd4dedd7c61783de.json"
+    },
+    "2090546592034170392": {
+      "summaryHash": "6a3a5c8b197a2308d338d66d69263dd2c26b02d2a569960b14013f4424aa22be",
+      "reviewed": true,
+      "people": [
+        "薛其坤",
+        "叶军"
+      ],
+      "directions": [],
+      "reason": "作者明确押注薛其坤并提及叶军为被反复提起的预测人选",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-05T19:18:02.347954+00:00",
+      "evidence": [
+        {
+          "kind": "people",
+          "name": "薛其坤",
+          "quote": "我押下薛其坤吧，希望这位雄起一波"
+        },
+        {
+          "kind": "people",
+          "name": "叶军",
+          "quote": "其实今年诺奖物理学奖的预测圈子里，有两个华人名字被反复提起，薛其坤和叶军"
+        }
+      ],
+      "auditFile": "801cff6ad7b8aace0b27fca7074ecb6b9f62699e6aedf8f4fd4dedd7c61783de.json"
     },
     "2090474764116684803": {
       "summaryHash": "ba7cc8baa1e9efa2aa0f06ba939bd7a0537685da13e79598aa531c19dd32a059",
       "reviewed": true,
       "people": [],
       "directions": [],
-      "reason": "仅评论奖项品味，没有候选或研究方向的明确预测。",
+      "reason": "仅评论获奖趣味标准，无任何人名或方向预测",
       "warnings": [],
-      "reviewMethod": "human",
-      "reviewedAt": "2026-10-06T10:13:26.322889+00:00",
-      "evidence": []
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-05T19:18:02.348866+00:00",
+      "evidence": [],
+      "auditFile": "801cff6ad7b8aace0b27fca7074ecb6b9f62699e6aedf8f4fd4dedd7c61783de.json"
     },
     "2090441847994835915": {
       "summaryHash": "3d26783149aa61829de9e1ff561e90789944e2525116540c705babd6ce3ea42a",
@@ -2379,6 +2415,92 @@
           "quote": "其实如果不是首晟去世了的话，topological insulation 应该有一席之地的。其他的Kitaev吧，他也早就该得了。"
         }
       ]
+    },
+    "2090593239237771469": {
+      "summaryHash": "ebf0b9252fc78e7558a666d358603cd8460295a7f2e40d364bf3a76148012f3a",
+      "reviewed": false,
+      "people": [],
+      "directions": [],
+      "reason": "直答输出校验失败，待人工复核：人名/方向缺少原文依据",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "auditFile": "8cd20d3ce34e64841a6df6a64576eedfe9d6d0e4d6d2a384802996e69cc8bee4.json"
+    },
+    "2090503431991587939": {
+      "summaryHash": "ebe0eb30d8af18e0644c2bbcb394f5eb22c911627aca27b1295db6014a3833eb",
+      "reviewed": true,
+      "people": [
+        "潘建伟",
+        "王贻芳"
+      ],
+      "directions": [
+        "量子力学",
+        "中微子"
+      ],
+      "reason": "明确正向预测潘建伟和王贻芳可能获奖及对应方向。",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-05T19:18:19.846699+00:00",
+      "evidence": [
+        {
+          "kind": "people",
+          "name": "潘建伟",
+          "quote": "潘建伟可能因为他对量子力学的研究获得中国第一个诺贝尔物理学奖"
+        },
+        {
+          "kind": "people",
+          "name": "王贻芳",
+          "quote": "王贻芳也有可能因为他对中微子的研究获得中国第一个诺贝尔物理学奖"
+        },
+        {
+          "kind": "directions",
+          "name": "量子力学",
+          "quote": "潘建伟可能因为他对量子力学的研究获得中国第一个诺贝尔物理学奖"
+        },
+        {
+          "kind": "directions",
+          "name": "中微子",
+          "quote": "王贻芳也有可能因为他对中微子的研究获得中国第一个诺贝尔物理学奖"
+        }
+      ],
+      "auditFile": "8cd20d3ce34e64841a6df6a64576eedfe9d6d0e4d6d2a384802996e69cc8bee4.json"
+    },
+    "2090611625313186486": {
+      "summaryHash": "cab9da6524bbd5d7ff8a6ee10e22b42221eae81d7d6205288276196e2caff41e",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "作者明确表示无法预测，未给出任何人选或方向。",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-05T19:18:19.846964+00:00",
+      "evidence": [],
+      "auditFile": "8cd20d3ce34e64841a6df6a64576eedfe9d6d0e4d6d2a384802996e69cc8bee4.json"
+    },
+    "2090577136193115070": {
+      "summaryHash": "cffa5861a21f1fa6132808eb35c073cdecbb1d3234c4fc7094d539d3eee21b93",
+      "reviewed": false,
+      "people": [],
+      "directions": [],
+      "reason": "直答输出校验失败，待人工复核：人名/方向缺少原文依据",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "auditFile": "8cd20d3ce34e64841a6df6a64576eedfe9d6d0e4d6d2a384802996e69cc8bee4.json"
+    },
+    "2090521510205199053": {
+      "summaryHash": "14aabc5cf087a78e10ace455c67363ec73597bc63a0d65f914e84e68fc64f170",
+      "reviewed": false,
+      "people": [],
+      "directions": [],
+      "reason": "直答输出校验失败，待人工复核：人名/方向缺少原文依据",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "auditFile": "8cd20d3ce34e64841a6df6a64576eedfe9d6d0e4d6d2a384802996e69cc8bee4.json"
     },
     "2090438950154400918": {
       "summaryHash": "bed88751d815470ae509319926956ebae505f3e3c573dc82e1b1be2f466cad77",
@@ -2418,16 +2540,248 @@
         }
       ]
     },
+    "2090599493754434456": {
+      "summaryHash": "f3979bc16db64d7b6ddf99defc7828553a868f691ed5838a1cb56c792cc71ea2",
+      "reviewed": true,
+      "people": [],
+      "directions": [
+        "神经网络/AI的统计物理理论"
+      ],
+      "reason": "作者明确预测的方向，但无对应规范人名。",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-05T19:18:28.187089+00:00",
+      "evidence": [
+        {
+          "kind": "directions",
+          "name": "神经网络/AI的统计物理理论",
+          "quote": "我猜是神经网络/AI的统计物理理论"
+        }
+      ],
+      "auditFile": "a09934cb0de652daaf71b17bb7fba8a91679863af409e1c444633f0b9625492c.json"
+    },
+    "2090598791003092793": {
+      "summaryHash": "acc848a946496a7cca9d129bf3393e8c688668be1a316345a5b1c911fc8160f9",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "否定预测，非正向。",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-05T19:18:28.187146+00:00",
+      "evidence": [],
+      "auditFile": "a09934cb0de652daaf71b17bb7fba8a91679863af409e1c444633f0b9625492c.json"
+    },
+    "2090588859830739114": {
+      "summaryHash": "d7a48a5a404a140e717d5471adf46ff932d39c10294936def9530250c0eeffec",
+      "reviewed": false,
+      "people": [],
+      "directions": [],
+      "reason": "直答输出校验失败，待人工复核：提取列表无效",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "auditFile": "a09934cb0de652daaf71b17bb7fba8a91679863af409e1c444633f0b9625492c.json"
+    },
+    "2090585653008454826": {
+      "summaryHash": "1d89c45a904723af9d82788b6018ae3034e20612794a94dd02a3cfd09ba59ca0",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "内容为生理学或医学奖回顾与股市评论，奖项不匹配。",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-05T19:18:28.187241+00:00",
+      "evidence": [],
+      "auditFile": "a09934cb0de652daaf71b17bb7fba8a91679863af409e1c444633f0b9625492c.json"
+    },
+    "2090720471952126008": {
+      "summaryHash": "f9a24cf5066e47addba139c1d268fdf3ec708ecb49ee275b09faa2d32b7c3ccc",
+      "reviewed": true,
+      "people": [
+        "PaulGrannis",
+        "MelvynShochet",
+        "GiorgioBellettini"
+      ],
+      "directions": [
+        "粒子物理"
+      ],
+      "reason": "作者明确正向预测三位科学家因粒子物理顶夸克工作获奖。",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-06T01:18:25.421985+00:00",
+      "evidence": [
+        {
+          "kind": "people",
+          "name": "PaulGrannis",
+          "quote": "PaulGrannis、MelvynShochet和GiorgioBellettini三位科学家分别在实验设计、数据分析和国际合作上起了关键作用，很有可能共同获此殊荣"
+        },
+        {
+          "kind": "people",
+          "name": "MelvynShochet",
+          "quote": "PaulGrannis、MelvynShochet和GiorgioBellettini三位科学家分别在实验设计、数据分析和国际合作上起了关键作用，很有可能共同获此殊荣"
+        },
+        {
+          "kind": "people",
+          "name": "GiorgioBellettini",
+          "quote": "PaulGrannis、MelvynShochet和GiorgioBellettini三位科学家分别在实验设计、数据分析和国际合作上起了关键作用，很有可能共同获此殊荣"
+        },
+        {
+          "kind": "directions",
+          "name": "粒子物理",
+          "quote": "我对2026年诺贝尔物理学奖的预测是粒子物理领域的顶夸克"
+        }
+      ],
+      "auditFile": "aed9c56ec3f79b87e0307c27ea97c3e4fd03cb462befac7d0676c70dd340ddcc.json"
+    },
+    "2090645326889750976": {
+      "summaryHash": "364cd892313750fc0bb19d3fd338e2bbc14823a5888b210a059488d87d0abcb9",
+      "reviewed": false,
+      "people": [],
+      "directions": [],
+      "reason": "直答无法确定，待人工复核：只泛称日本物理学家会获奖，未给出具体人名或方向。",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-06T01:18:25.423417+00:00",
+      "evidence": [],
+      "auditFile": "aed9c56ec3f79b87e0307c27ea97c3e4fd03cb462befac7d0676c70dd340ddcc.json"
+    },
+    "2090714214037984732": {
+      "summaryHash": "342f3f6d91151f70a7326a3caf4ba1631a457aca44cf7e667b44f9877f5c5609",
+      "reviewed": false,
+      "people": [],
+      "directions": [],
+      "reason": "直答无法确定，待人工复核：作者自称不了解物理，仅列举出名的中国人并转述媒体成果，未明确表态预测谁获奖，且文本截断。",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-06T01:18:25.423431+00:00",
+      "evidence": [],
+      "auditFile": "aed9c56ec3f79b87e0307c27ea97c3e4fd03cb462befac7d0676c70dd340ddcc.json"
+    },
+    "2090570618882343008": {
+      "summaryHash": "d1048ed889ae3190e699d7198055c02a33001c7a79b5011976310b5eb1507fd1",
+      "reviewed": false,
+      "people": [],
+      "directions": [],
+      "reason": "直答输出校验失败，待人工复核：人名/方向缺少原文依据",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "auditFile": "aed9c56ec3f79b87e0307c27ea97c3e4fd03cb462befac7d0676c70dd340ddcc.json"
+    },
+    "2090567799244599426": {
+      "summaryHash": "831903ec024e029495756b6661d82ae34b980c53d21309f5ed0647c0dec5fcf1",
+      "reviewed": false,
+      "people": [],
+      "directions": [],
+      "reason": "直答输出校验失败，待人工复核：人名/方向缺少原文依据",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "auditFile": "aed9c56ec3f79b87e0307c27ea97c3e4fd03cb462befac7d0676c70dd340ddcc.json"
+    },
+    "2090557842801669386": {
+      "summaryHash": "943720d9228928387b0c5088f79336a5233cf165db7fb759660c75f90409291b",
+      "reviewed": false,
+      "people": [],
+      "directions": [],
+      "reason": "直答输出校验失败，待人工复核：人名/方向缺少原文依据",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "auditFile": "30bc4365757333e6486b7d4989b78296c9b8fd21da47d057328da1f08010d089.json"
+    },
+    "2090549669357150927": {
+      "summaryHash": "aeb02c8a47c0377869e23bcca7649669a8ab49da81912575f32f5429af90ceb0",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "仅表达预测困难，无任何预测内容。",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-06T01:18:32.477708+00:00",
+      "evidence": [],
+      "auditFile": "30bc4365757333e6486b7d4989b78296c9b8fd21da47d057328da1f08010d089.json"
+    },
+    "2090546202496521024": {
+      "summaryHash": "4cc9e39e10be931ed54c0054fed3bec7db7c5871e7c88cf0e927d56d5769f482",
+      "reviewed": false,
+      "people": [],
+      "directions": [],
+      "reason": "直答无法确定，待人工复核：摘要截断，声称罗列四组候选方向但具体内容未出现，语境模糊不得补全。",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-06T01:18:32.477718+00:00",
+      "evidence": [],
+      "auditFile": "30bc4365757333e6486b7d4989b78296c9b8fd21da47d057328da1f08010d089.json"
+    },
+    "2090541104873595040": {
+      "summaryHash": "7a1a90b04890a9bce183fc5b1748b9b2e4cbb53decafa1f0b984727964169a72",
+      "reviewed": true,
+      "people": [
+        "John Pendry"
+      ],
+      "directions": [],
+      "reason": "作者明确预测John Pendry获奖。",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-06T01:18:32.477724+00:00",
+      "evidence": [
+        {
+          "kind": "people",
+          "name": "John Pendry",
+          "quote": "John Pendry吧"
+        }
+      ],
+      "auditFile": "30bc4365757333e6486b7d4989b78296c9b8fd21da47d057328da1f08010d089.json"
+    },
+    "2090523995338699680": {
+      "summaryHash": "b70bb4acc0484cf040de4c07c60f9db722283da2c4a672c39291de621e92c33f",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "内容仅为“我”，无预测信息。",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-06T01:18:32.477836+00:00",
+      "evidence": [],
+      "auditFile": "30bc4365757333e6486b7d4989b78296c9b8fd21da47d057328da1f08010d089.json"
+    },
+    "2090514380807001324": {
+      "summaryHash": "2d3517170b804ac39aa91021d3fe2a8a29643d3cc260d030ebf0184a22fe654e",
+      "reviewed": false,
+      "people": [],
+      "directions": [],
+      "reason": "直答无法确定，待人工复核：摘要仅声称有17位候选人但未列出任何具体人名或方向，内容截断且语境模糊，无法提取明确预测。",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-06T01:18:37.438733+00:00",
+      "evidence": [],
+      "auditFile": "5520da8308cdaab6c02c66e09fcd3535d874d66a76a9eacd9abb4bebc77f06fa.json"
+    },
     "2090478366709248771": {
       "summaryHash": "992a002e8a191dab436baa72f74d2db9f9567cab7fde6dc56045a6353ac87524",
       "reviewed": true,
       "people": [],
       "directions": [],
-      "reason": "仅评论历年预测，没有给出候选或方向。",
+      "reason": "仅为对预测行为的感叹评论，未包含任何2026年获奖人预测。",
       "warnings": [],
-      "reviewMethod": "human",
-      "reviewedAt": "2026-10-06T10:13:26.323753+00:00",
-      "evidence": []
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-06T01:18:37.438752+00:00",
+      "evidence": [],
+      "auditFile": "5520da8308cdaab6c02c66e09fcd3535d874d66a76a9eacd9abb4bebc77f06fa.json"
     }
   },
   "chemistry": {
@@ -2834,36 +3188,161 @@
       ],
       "auditFile": "29f9ad5f425a7920489dec7f558ee88c7769f6aedadd2a6d69e0be4a6f482b2f.json"
     },
-    "2090476370212172373": {
-      "summaryHash": "3ecd3c0530a3c06a37651771455d051a5e5c905da34b3efba96f8056fe097034",
+    "2090723794172359756": {
+      "summaryHash": "38affba870bc1786a9b541a64e35ec639a254713c33f8d77b23110ce0ad7bd67",
+      "reviewed": false,
+      "people": [],
+      "directions": [],
+      "reason": "直答输出校验失败，待人工复核：人名/方向缺少原文依据",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "auditFile": "131c63cf13fe9f3e1817156be7d67f248c8774bb144f9343f0d9860391be42ae.json"
+    },
+    "2090771376785323976": {
+      "summaryHash": "09c88238d11df3e1d077342d9841540ff85a2f6fa09ebff4ce70697389c3c224",
+      "reviewed": false,
+      "people": [],
+      "directions": [],
+      "reason": "直答无法确定，待人工复核：摘要截断且未给出具体获奖人选或方向的明确预测。",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-06T08:58:30.799218+00:00",
+      "evidence": [],
+      "auditFile": "131c63cf13fe9f3e1817156be7d67f248c8774bb144f9343f0d9860391be42ae.json"
+    },
+    "2090751833484665020": {
+      "summaryHash": "596d11a1fafb5da318a8407bfb420ce9519d25f310359ea7558ba0c9deaaaf66",
       "reviewed": true,
       "people": [
-        "Michele Parrinello",
-        "Roberto Car",
-        "Alessandro Laio"
+        "David Allara",
+        "Ralph Nuzzo",
+        "Jacob Sagiv"
       ],
-      "directions": [],
-      "reason": "作者直接列出三位化学奖候选，问号为备选语气，仍按多选计票。",
+      "directions": [
+        "自组装单分子层"
+      ],
+      "reason": "作者明确预测三人因自组装单分子层研究获2026年诺贝尔化学奖。",
       "warnings": [],
-      "reviewMethod": "human",
-      "reviewedAt": "2026-10-06T10:13:26.324185+00:00",
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-06T08:58:30.799232+00:00",
       "evidence": [
         {
           "kind": "people",
-          "name": "Michele Parrinello",
-          "quote": "Michele Parrinello Roberto Car Alessandro Laio?"
+          "name": "David Allara",
+          "quote": "预测结果是自组装单分子层研究领域的开创者，他们分别是美国学者戴维·阿拉拉（David Allara）"
         },
         {
           "kind": "people",
-          "name": "Roberto Car",
-          "quote": "Michele Parrinello Roberto Car Alessandro Laio?"
+          "name": "Ralph Nuzzo",
+          "quote": "戴维·阿拉拉（David Allara）和拉尔夫·努佐（Ralph Nuzzo）"
         },
         {
           "kind": "people",
-          "name": "Alessandro Laio",
-          "quote": "Michele Parrinello Roberto Car Alessandro Laio?"
+          "name": "Jacob Sagiv",
+          "quote": "以及来自以色列的雅各布·萨吉夫(Jacob Sagiv）"
+        },
+        {
+          "kind": "directions",
+          "name": "自组装单分子层",
+          "quote": "我对于2026年诺贝尔化学奖的预测结果是自组装单分子层研究领域的开创者"
         }
-      ]
+      ],
+      "auditFile": "131c63cf13fe9f3e1817156be7d67f248c8774bb144f9343f0d9860391be42ae.json"
+    },
+    "2090532326279209480": {
+      "summaryHash": "4191460f604df54832fa2f50b55e77113809c2a722ef799aed43ac05faa5c9dc",
+      "reviewed": false,
+      "people": [],
+      "directions": [],
+      "reason": "直答输出校验失败，待人工复核：人名/方向缺少原文依据",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "auditFile": "131c63cf13fe9f3e1817156be7d67f248c8774bb144f9343f0d9860391be42ae.json"
+    },
+    "2090504079319605900": {
+      "summaryHash": "1c8da607af4f902f772a13fbb12ece19416ab66b4e3144bfeb7db9ca494c8224",
+      "reviewed": true,
+      "people": [
+        "马延和"
+      ],
+      "directions": [
+        "二氧化碳固碳"
+      ],
+      "reason": "作者明确预测马延和团队因二氧化碳固碳方法获诺贝尔化学奖。",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-06T08:58:30.799801+00:00",
+      "evidence": [
+        {
+          "kind": "people",
+          "name": "马延和",
+          "quote": "马延和的团队可能因为发现了二氧化碳固碳方法"
+        },
+        {
+          "kind": "directions",
+          "name": "二氧化碳固碳",
+          "quote": "马延和的团队可能因为发现了二氧化碳固碳方法，从而获得中国第一个诺贝尔化学奖"
+        }
+      ],
+      "auditFile": "131c63cf13fe9f3e1817156be7d67f248c8774bb144f9343f0d9860391be42ae.json"
+    },
+    "2090476370212172373": {
+      "summaryHash": "f2f626545ff3628b70f2ae331bd92c01a79f5a5c00c58767160e4a8c8c74da84",
+      "reviewed": false,
+      "people": [],
+      "directions": [],
+      "reason": "直答输出校验失败，待人工复核：新增名称不在引用中，不允许补写",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "auditFile": "3ba065c6a4a4af0e5842dd5bad387b20614e00e0288a879e175b54c1ffff328f.json"
+    },
+    "2090591248625185437": {
+      "summaryHash": "061720b15a86f425a7af0368bf61c82014c15e4661e9d526492d4a688dabf2b0",
+      "reviewed": true,
+      "people": [],
+      "directions": [
+        "Dna encoded library"
+      ],
+      "reason": "作者预测DNA encoded library方向终将获奖。",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-06T08:58:44.951340+00:00",
+      "evidence": [
+        {
+          "kind": "directions",
+          "name": "Dna encoded library",
+          "quote": "Dna encoded library总有一天会获得"
+        }
+      ],
+      "auditFile": "3ba065c6a4a4af0e5842dd5bad387b20614e00e0288a879e175b54c1ffff328f.json"
+    },
+    "2090500411404898489": {
+      "summaryHash": "85e612f4314ba73ed09f830b92f10840c87bbd5926f3274ebf65370565f4d932",
+      "reviewed": true,
+      "people": [],
+      "directions": [
+        "基因测序"
+      ],
+      "reason": "作者正向预测基因测序方向。",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-06T08:58:44.951392+00:00",
+      "evidence": [
+        {
+          "kind": "directions",
+          "name": "基因测序",
+          "quote": "基因测序"
+        }
+      ],
+      "auditFile": "3ba065c6a4a4af0e5842dd5bad387b20614e00e0288a879e175b54c1ffff328f.json"
     }
   },
   "literature": {
@@ -3159,6 +3638,25 @@
         }
       ]
     },
+    "2090400222811796839": {
+      "summaryHash": "7e8e77d4653be6b3d6a902ad46cfae208308b63ec1fe2ed9a95e083376674c22",
+      "reviewed": true,
+      "people": [
+        "残雪"
+      ],
+      "directions": [],
+      "reason": "作者明确说我猜残雪，后面的作品讨论不额外提名其他作家。",
+      "warnings": [],
+      "reviewMethod": "human",
+      "reviewedAt": "2026-10-06T10:13:26.324607+00:00",
+      "evidence": [
+        {
+          "kind": "people",
+          "name": "残雪",
+          "quote": "我猜残雪。没别的原因，就是支持国人获奖。既然聊到这个，顺便说说先锋小说到底在玩什么，以及赔率这么高、读者却说看不懂是怎么回事。 残雪是1985年开始写作的，四十年里一直写先锋小说。她的同代人里，很多人试验一阵就转了向：余华写完《现实一种》之后写出了《活着》和《许三观卖血记》，格非后来写了《江南三部曲》，都回到了有人物、有故事的写法上。残雪没有转，她在同一条路上越走越远，越走越深。 先锋小说兴起于八十年…"
+        }
+      ]
+    },
     "2090429139929121731": {
       "summaryHash": "293843c055243d15ec7523e60915ebebaeaba6bd4c9866393616897df3bd03e4",
       "reviewed": true,
@@ -3212,25 +3710,6 @@
           "kind": "people",
           "name": "残雪",
           "quote": "这次的诺奖预言家活动，按要求回答中可以罗列多组预测， 对应官方提供的四种预测思路，每个角度单独确定一组正式预测，内容如下： 1️⃣赛博预测｜用AI大模型算一算 【本角度正式预测人选】：残雪【获奖理由】： 残雪算是赔率榜单的老熟人了，陪跑赛道很常见这个名字。让AI依照往年诺奖结果作推演，她的名字一定会排名靠前。 她的作品个人风格极强，如果评委今年考虑把奖项给到东亚作家，残雪就存在一定机会。 [图片] 2️⃣不出所料…"
-        }
-      ]
-    },
-    "2090400222811796839": {
-      "summaryHash": "7e8e77d4653be6b3d6a902ad46cfae208308b63ec1fe2ed9a95e083376674c22",
-      "reviewed": true,
-      "people": [
-        "残雪"
-      ],
-      "directions": [],
-      "reason": "作者明确说我猜残雪，后面的作品讨论不额外提名其他作家。",
-      "warnings": [],
-      "reviewMethod": "human",
-      "reviewedAt": "2026-10-06T10:13:26.324607+00:00",
-      "evidence": [
-        {
-          "kind": "people",
-          "name": "残雪",
-          "quote": "我猜残雪。没别的原因，就是支持国人获奖。既然聊到这个，顺便说说先锋小说到底在玩什么，以及赔率这么高、读者却说看不懂是怎么回事。 残雪是1985年开始写作的，四十年里一直写先锋小说。她的同代人里，很多人试验一阵就转了向：余华写完《现实一种》之后写出了《活着》和《许三观卖血记》，格非后来写了《江南三部曲》，都回到了有人物、有故事的写法上。残雪没有转，她在同一条路上越走越远，越走越深。 先锋小说兴起于八十年…"
         }
       ]
     },

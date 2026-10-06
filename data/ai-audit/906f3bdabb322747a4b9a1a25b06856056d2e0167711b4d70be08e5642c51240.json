@@ -1,0 +1,27 @@
+{
+  "model": "zhida-fast-1p5",
+  "category": "literature",
+  "summaryHashes": {
+    "2088239503840375723": "3413c03a66a60c72623b4357ae3a07c8d6ddd665103e9a860c28a9a902b80841",
+    "2090804268278212233": "8fb4cee433b3b839aeed90dd49232225aa642cae2afd55440b0f570f7befe568",
+    "2090400222811796839": "7e8e77d4653be6b3d6a902ad46cfae208308b63ec1fe2ed9a95e083376674c22",
+    "2090429139929121731": "293843c055243d15ec7523e60915ebebaeaba6bd4c9866393616897df3bd03e4",
+    "2090758157899454004": "21ed954357a1598c38a9a72c4456a7ff99047f5c7278ffe4029c3048da7a306d"
+  },
+  "response": {
+    "id": "chatcmpl-d30d3291-8a11-4441-a303-3b21d3a218f2",
+    "object": "chat.completion",
+    "created": 1791277126,
+    "model": "zhida-fast-1p5",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "非常抱歉，我目前无法针对您的问题提供更多信息，如果您有其他的问题，我将非常乐意尽力帮助您。"
+        },
+        "finish_reason": "stop"
+      }
+    ]
+  }
+}

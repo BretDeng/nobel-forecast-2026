@@ -1,0 +1,27 @@
+{
+  "model": "zhida-fast-1p5",
+  "category": "physics",
+  "summaryHashes": {
+    "2090438950154400918": "bed88751d815470ae509319926956ebae505f3e3c573dc82e1b1be2f466cad77",
+    "2090599493754434456": "f3979bc16db64d7b6ddf99defc7828553a868f691ed5838a1cb56c792cc71ea2",
+    "2090598791003092793": "acc848a946496a7cca9d129bf3393e8c688668be1a316345a5b1c911fc8160f9",
+    "2090588859830739114": "d7a48a5a404a140e717d5471adf46ff932d39c10294936def9530250c0eeffec",
+    "2090585653008454826": "1d89c45a904723af9d82788b6018ae3034e20612794a94dd02a3cfd09ba59ca0"
+  },
+  "response": {
+    "id": "chatcmpl-292386d7-5430-4c8b-a3a5-c49a0b7efd1d",
+    "object": "chat.completion",
+    "created": 1791227908,
+    "model": "zhida-fast-1p5",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "{\"items\":[{\"id\":\"2090438950154400918\",\"status\":\"include\",\"people\":[{\"name\":\"Eugene Mele\",\"evidence\":\"我会押Eugene Mele。\"},{\"name\":\"Alexei Kitaev\",\"evidence\":\"第二候选是Alexei Kitaev\"},{\"name\":\"John Preskill\",\"evidence\":\"第三候选是John Preskill\"}],\"directions\":[{\"name\":\"量子计算\",\"evidence\":\"把过去二十多年量子信息革命中最基础、最底层的理论工作，再奖励一次\"}],\"reason\":\"作者明确给出押注和候选排序并正向预测量子信息方向。\"},{\"id\":\"2090599493754434456\",\"status\":\"include\",\"people\":[],\"directions\":[{\"name\":\"神经网络/AI的统计物理理论\",\"evidence\":\"我猜是神经网络/AI的统计物理理论\"}],\"reason\":\"作者明确预测的方向，但无对应规范人名。\"},{\"id\":\"2090598791003092793\",\"status\":\"exclude\",\"people\":[],\"directions\":[],\"reason\":\"否定预测，非正向。\"},{\"id\":\"2090588859830739114\",\"status\":\"include\",\"people\":[{\"name\":\"薛其坤\",\"evidence\":\"薛其坤，不为别的，多少沾亲带故的不是。。。\"}],\"reason\":\"作者正向提及相关联的获奖人选。\"},{\"id\":\"2090585653008454826\",\"status\":\"exclude\",\"people\":[],\"directions\":[],\"reason\":\"内容为生理学或医学奖回顾与股市评论，奖项不匹配。\"}]}"
+        },
+        "finish_reason": "stop"
+      }
+    ]
+  }
+}

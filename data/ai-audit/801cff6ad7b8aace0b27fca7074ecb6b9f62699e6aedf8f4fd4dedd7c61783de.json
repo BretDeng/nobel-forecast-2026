@@ -1,0 +1,27 @@
+{
+  "model": "zhida-fast-1p5",
+  "category": "physics",
+  "summaryHashes": {
+    "2090464750438299468": "081f94f99f8659eaf7ff162d3c9bfdf6f5faae2bc8aaea29fbb3c6c6ca021cf8",
+    "2090546592034170392": "6a3a5c8b197a2308d338d66d69263dd2c26b02d2a569960b14013f4424aa22be",
+    "2090474764116684803": "ba7cc8baa1e9efa2aa0f06ba939bd7a0537685da13e79598aa531c19dd32a059",
+    "2083757224137070144": "d8274a8d90c0dcecf6f913592bf0087e1f141bdd18b33b537dc9793751374600",
+    "2090441847994835915": "3d26783149aa61829de9e1ff561e90789944e2525116540c705babd6ce3ea42a"
+  },
+  "response": {
+    "id": "chatcmpl-30d2723b-bcd1-47bd-b209-982c2894375a",
+    "object": "chat.completion",
+    "created": 1791227882,
+    "model": "zhida-fast-1p5",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "{\"items\":[{\"id\":\"2090464750438299468\",\"status\":\"exclude\",\"people\":[],\"directions\":[],\"reason\":\"仅转述热门名单和风向标新闻，非作者本人预测\"},{\"id\":\"2090546592034170392\",\"status\":\"include\",\"people\":[{\"name\":\"薛其坤\",\"evidence\":\"我押下薛其坤吧，希望这位雄起一波\"},{\"name\":\"叶军\",\"evidence\":\"其实今年诺奖物理学奖的预测圈子里，有两个华人名字被反复提起，薛其坤和叶军\"}],\"directions\":[],\"reason\":\"作者明确押注薛其坤并提及叶军为被反复提起的预测人选\"},{\"id\":\"2090474764116684803\",\"status\":\"exclude\",\"people\":[],\"directions\":[],\"reason\":\"仅评论获奖趣味标准，无任何人名或方向预测\"},{\"id\":\"2083757224137070144\",\"status\":\"exclude\",\"people\":[],\"directions\":[],\"reason\":\"否定转角石墨烯能获奖，属否定预测\"},{\"id\":\"2090441847994835915\",\"status\":\"include\",\"people\":[{\"name\":\"Alexei Kitaev\",\"evidence\":\"其他的Kitaev吧，他也早就该得了\"}],\"directions\":[],\"reason\":\"作者明确认为Kitaev该得奖，张首晟为已故假设性提及不纳入\"}]}"
+        },
+        "finish_reason": "stop"
+      }
+    ]
+  }
+}
