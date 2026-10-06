@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-06T08:58:17.654680+00:00",
+  "fetchedAt": "2026-10-06T16:48:42.157331+00:00",
   "pages": [
     {
       "Code": 0,
@@ -158,15 +158,15 @@
           },
           {
             "ContentType": "answer",
-            "ContentToken": "2084243921903919492",
-            "Url": "https://www.zhihu.com/question/2084054769849611542/answer/2084243921903919492",
-            "Summary": "肯定是西方经济学的卫道士"
-          },
-          {
-            "ContentType": "answer",
             "ContentToken": "2090445818193093100",
             "Url": "https://www.zhihu.com/question/2084054769849611542/answer/2090445818193093100",
             "Summary": "在2025年，诺贝尔经济学奖授予了创新增长理论，它聚焦在创造性破坏对经济发展的核心作用。 在2026年回望，现在的全球经济仍然有多重的挑战，数字平台的垄断侵蚀着发展活力，AI技术发展正在增加劳动市场的结构性的矛盾，气候转型的成本与贫富分化激增社会矛盾共识，而产业的反垄断行动亟待完善深化。 而诺奖的评委会也青睐直面现实的痛点，同时兼具理论的深度与政策实践价值的研究，它不仅是对学术洞见的肯定，亦是破解经济发展提…"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2084243921903919492",
+            "Url": "https://www.zhihu.com/question/2084054769849611542/answer/2084243921903919492",
+            "Summary": "肯定是西方经济学的卫道士"
           },
           {
             "ContentType": "answer",
@@ -209,6 +209,12 @@
             "ContentToken": "2088989034861290920",
             "Url": "https://www.zhihu.com/question/2084054769849611542/answer/2088989034861290920",
             "Summary": "计量经济学理论方向，可能斯坦福的susan athey、mit的Victor Chernozhukov、Whitney Newey做因果推断与机器学习很前沿，不一定今年能颁给他们，但我想他们肯定是值得诺奖的。 另外LSE如果说political economy方向，Tim Besley教授应该也是热门候选。"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2090898829063221625",
+            "Url": "https://www.zhihu.com/question/2084054769849611542/answer/2090898829063221625",
+            "Summary": "1.Susan Athey + Hal Varian：数字经济与IT经济学的顶级热门。 2026年9月17日，科睿唯安刚刚公布了 2026年引文桂冠奖，Susan Athey 与 Hal Varian 双双榜上有名，获奖评语正是：“对信息技术经济学的开拓性分析（for pioneering analysis of the economics of information technology）”。 Hal Varian（谷歌前首席经济学家 / 伯克利名誉教授）： 将经济学成功融入硅谷商业基因。他早在90年代出版的《信息规则》（Information Ru…"
           },
           {
             "ContentType": "answer",
