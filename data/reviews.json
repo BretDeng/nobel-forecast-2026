@@ -3343,6 +3343,214 @@
         }
       ],
       "auditFile": "3ba065c6a4a4af0e5842dd5bad387b20614e00e0288a879e175b54c1ffff328f.json"
+    },
+    "2090918646453364024": {
+      "summaryHash": "6405f9226ad6ba8c8ff23aad53d63512ba7e573728176fc654f1019db9a14296",
+      "reviewed": false,
+      "people": [],
+      "directions": [],
+      "reason": "直答输出校验失败，待人工复核：人名/方向缺少原文依据",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "auditFile": "d70fd49d53a667a12d67ecc1c7fe8bf7881526b7de0bab91f4239ec1a3269afe.json"
+    },
+    "2090914079875528547": {
+      "summaryHash": "ffbea68e99ec603de36a4c97a8501e9160a1778e7a0da3101ce67ce288f9385e",
+      "reviewed": false,
+      "people": [],
+      "directions": [],
+      "reason": "直答无法确定，待人工复核：作者预测了AIE，但AIE不在规范方向清单中且语境模糊，不确定是否纳入。",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-06T22:39:34.907623+00:00",
+      "evidence": [],
+      "auditFile": "d70fd49d53a667a12d67ecc1c7fe8bf7881526b7de0bab91f4239ec1a3269afe.json"
+    },
+    "2090884151771714665": {
+      "summaryHash": "034d48ac6ce3ab8d4c698004238ac852ed67b2208f76d53b6b3c5f044d6729aa",
+      "reviewed": true,
+      "people": [
+        "Craig Crews",
+        "Raymond Deshaies",
+        "Stuart Schreiber"
+      ],
+      "directions": [
+        "靶向蛋白降解",
+        "化学生物学"
+      ],
+      "reason": "作者将靶向蛋白降解方向及其开创者列为预测。",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-06T22:39:34.907636+00:00",
+      "evidence": [
+        {
+          "kind": "people",
+          "name": "Craig Crews",
+          "quote": "克雷格·克鲁斯（Craig Crews）、雷蒙德·德沙伊（Raymond Deshaies）、史图尔特·施赖伯（Stuart Schreiber） 开创 靶向蛋白降解技术与分子胶概念"
+        },
+        {
+          "kind": "people",
+          "name": "Raymond Deshaies",
+          "quote": "克雷格·克鲁斯（Craig Crews）、雷蒙德·德沙伊（Raymond Deshaies）、史图尔特·施赖伯（Stuart Schreiber） 开创 靶向蛋白降解技术与分子胶概念"
+        },
+        {
+          "kind": "people",
+          "name": "Stuart Schreiber",
+          "quote": "克雷格·克鲁斯（Craig Crews）、雷蒙德·德沙伊（Raymond Deshaies）、史图尔特·施赖伯（Stuart Schreiber） 开创 靶向蛋白降解技术与分子胶概念"
+        },
+        {
+          "kind": "directions",
+          "name": "靶向蛋白降解",
+          "quote": "1.靶向蛋白降解与分子胶（PROTAC & Molecular Glues）"
+        },
+        {
+          "kind": "directions",
+          "name": "化学生物学",
+          "quote": "这是近 20 年来化学生物学对新药研发最具颠覆性的突破"
+        }
+      ],
+      "auditFile": "d70fd49d53a667a12d67ecc1c7fe8bf7881526b7de0bab91f4239ec1a3269afe.json"
+    },
+    "2090879560342685458": {
+      "summaryHash": "696846ad56cc32832b24b2f12b3ce32a413b613a12cd0ca94d27e54f8e3acd2d",
+      "reviewed": true,
+      "people": [],
+      "directions": [
+        "半导体光催化"
+      ],
+      "reason": "作者明确预测半导体光催化方向。",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-06T22:39:34.908026+00:00",
+      "evidence": [
+        {
+          "kind": "directions",
+          "name": "半导体光催化",
+          "quote": "光催化。 既然赌了个概率超小的，那不如玩的更刺激一些。 半导体光催化。"
+        }
+      ],
+      "auditFile": "d70fd49d53a667a12d67ecc1c7fe8bf7881526b7de0bab91f4239ec1a3269afe.json"
+    },
+    "2090868242638181252": {
+      "summaryHash": "bbdb2808e498eedf30a3593f45a2568894c3661cb4a1b0a33ad32a10525126e4",
+      "reviewed": false,
+      "people": [],
+      "directions": [],
+      "reason": "直答输出校验失败，待人工复核：人名/方向缺少原文依据",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "auditFile": "d70fd49d53a667a12d67ecc1c7fe8bf7881526b7de0bab91f4239ec1a3269afe.json"
+    },
+    "2091035717686256984": {
+      "summaryHash": "c8b14ffadbdfe8b920e8f15a3c6423e19a8424986dbd6c48c05931344681ec32",
+      "reviewed": false,
+      "people": [],
+      "directions": [],
+      "reason": "直答输出校验失败，待人工复核：人名/方向缺少原文依据",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "auditFile": "5a0a12b637a09b776d0cfd1260e0085600fb1c86974f51799c3bf5512e76610b.json"
+    },
+    "2090951327677421147": {
+      "summaryHash": "b13c9f73b4ded65ca11a258136d01b209072a9fe7128dfbcc6bc2b6584de93bf",
+      "reviewed": true,
+      "people": [],
+      "directions": [
+        "AIE"
+      ],
+      "reason": "作者对化学奖方向给出正向猜测AIE。",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-06T22:39:44.870930+00:00",
+      "evidence": [
+        {
+          "kind": "directions",
+          "name": "AIE",
+          "quote": "没准明天化学奖也要跟团，随便猜个AIE吧"
+        }
+      ],
+      "auditFile": "5a0a12b637a09b776d0cfd1260e0085600fb1c86974f51799c3bf5512e76610b.json"
+    },
+    "2090928506892968600": {
+      "summaryHash": "dd756f78ea34f5ccee9698ab6784d2e51c71a84bd2bc72d5b5f70f659d48dd84",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "仅以Onsager和普利高津作历史类比讨论，非明确的2026化学奖预测。",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-06T22:39:44.870990+00:00",
+      "evidence": [],
+      "auditFile": "5a0a12b637a09b776d0cfd1260e0085600fb1c86974f51799c3bf5512e76610b.json"
+    },
+    "2090920039390122645": {
+      "summaryHash": "ac46364390869e93983f99f8c6de010816427a61cbdcdb7fc827f745ed14f83f",
+      "reviewed": false,
+      "people": [],
+      "directions": [],
+      "reason": "直答输出校验失败，待人工复核：人名/方向缺少原文依据",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "auditFile": "5a0a12b637a09b776d0cfd1260e0085600fb1c86974f51799c3bf5512e76610b.json"
+    },
+    "2090896917597374258": {
+      "summaryHash": "f84a9da378f68ee8c100c911bbd61a47c017cfb21c1bcab3a0a8341a352ec12c",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "仅为股票名称，无预测内容。",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-06T22:39:44.871225+00:00",
+      "evidence": [],
+      "auditFile": "5a0a12b637a09b776d0cfd1260e0085600fb1c86974f51799c3bf5512e76610b.json"
+    },
+    "2090869636908819221": {
+      "summaryHash": "11b010d862162e67f6e239df9a289527af667e022525b78134c012c68f0c79f3",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "仅泛指“某个计算组”，未给出明确人名或方向预测",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-06T22:39:49.178797+00:00",
+      "evidence": [],
+      "auditFile": "b26518b132b4f82cd87356715dd7bce3716140cd101c23eeeff68ebcde15db90.json"
+    },
+    "2090867652235375881": {
+      "summaryHash": "0837819f3494ee2f323e1d687efdfb4cfbf8546d6abba95d06bb75fd52451ddb",
+      "reviewed": false,
+      "people": [],
+      "directions": [],
+      "reason": "直答输出校验失败，待人工复核：人名/方向缺少原文依据",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "auditFile": "b26518b132b4f82cd87356715dd7bce3716140cd101c23eeeff68ebcde15db90.json"
+    },
+    "2090904569584804153": {
+      "summaryHash": "c1308991dca95a591243866ada972dff89a9f6db605fced5155809d951d358dd",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "与化学奖预测无关的玩笑式回答",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-06T22:39:49.178900+00:00",
+      "evidence": [],
+      "auditFile": "b26518b132b4f82cd87356715dd7bce3716140cd101c23eeeff68ebcde15db90.json"
     }
   },
   "literature": {

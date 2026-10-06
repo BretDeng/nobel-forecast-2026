@@ -5747,12 +5747,12 @@
       "english": "CHEMISTRY",
       "symbol": "C",
       "questionUrl": "https://www.zhihu.com/question/2081709501913248924",
-      "fetchedAt": "2026-10-06T16:48:38.669473+00:00",
+      "fetchedAt": "2026-10-06T22:39:22.842374+00:00",
       "complete": true,
-      "total": 42,
-      "valid": 23,
-      "pending": 16,
-      "excluded": 3,
+      "total": 43,
+      "valid": 26,
+      "pending": 10,
+      "excluded": 7,
       "people": [
         {
           "id": "724458501301",
@@ -5841,8 +5841,35 @@
           "warnings": []
         },
         {
+          "id": "193b3c03df90",
+          "rank": 3,
+          "name": "Stuart Schreiber",
+          "english": "",
+          "count": 3,
+          "sourceIds": [
+            "2083055746896478323",
+            "2090884151771714665",
+            "2090327594453439337"
+          ],
+          "aiCount": 0,
+          "warnings": []
+        },
+        {
+          "id": "adc963a1bcc5",
+          "rank": 8,
+          "name": "Craig Crews",
+          "english": "",
+          "count": 2,
+          "sourceIds": [
+            "2084012229733638437",
+            "2090884151771714665"
+          ],
+          "aiCount": 0,
+          "warnings": []
+        },
+        {
           "id": "0636b3b02759",
-          "rank": 7,
+          "rank": 8,
           "name": "Franz-Ulrich Hartl",
           "english": "",
           "count": 2,
@@ -5855,7 +5882,7 @@
         },
         {
           "id": "fe9d75b172fe",
-          "rank": 7,
+          "rank": 8,
           "name": "Michele Parrinello",
           "english": "",
           "count": 2,
@@ -5867,8 +5894,21 @@
           "warnings": []
         },
         {
+          "id": "a2b5b99c3ce0",
+          "rank": 8,
+          "name": "Raymond Deshaies",
+          "english": "",
+          "count": 2,
+          "sourceIds": [
+            "2084012229733638437",
+            "2090884151771714665"
+          ],
+          "aiCount": 0,
+          "warnings": []
+        },
+        {
           "id": "cd8c9c618fbe",
-          "rank": 7,
+          "rank": 8,
           "name": "Roberto Car",
           "english": "",
           "count": 2,
@@ -5880,21 +5920,8 @@
           "warnings": []
         },
         {
-          "id": "193b3c03df90",
-          "rank": 7,
-          "name": "Stuart Schreiber",
-          "english": "",
-          "count": 2,
-          "sourceIds": [
-            "2083055746896478323",
-            "2090327594453439337"
-          ],
-          "aiCount": 0,
-          "warnings": []
-        },
-        {
           "id": "2f64b5409340",
-          "rank": 7,
+          "rank": 8,
           "name": "刘如谦",
           "english": "David R. Liu",
           "count": 2,
@@ -5907,7 +5934,7 @@
         },
         {
           "id": "b50d19c4b8e0",
-          "rank": 12,
+          "rank": 14,
           "name": "Anthony Hyman",
           "english": "",
           "count": 1,
@@ -5919,7 +5946,7 @@
         },
         {
           "id": "5eb996fd2a29",
-          "rank": 12,
+          "rank": 14,
           "name": "Arthur Horwich",
           "english": "",
           "count": 1,
@@ -5931,7 +5958,7 @@
         },
         {
           "id": "1ebc9bf1f47b",
-          "rank": 12,
+          "rank": 14,
           "name": "Bonnie Bassler",
           "english": "",
           "count": 1,
@@ -5943,7 +5970,7 @@
         },
         {
           "id": "27deda34c107",
-          "rank": 12,
+          "rank": 14,
           "name": "Clifford Brangwynne",
           "english": "",
           "count": 1,
@@ -5954,20 +5981,8 @@
           "warnings": []
         },
         {
-          "id": "adc963a1bcc5",
-          "rank": 12,
-          "name": "Craig Crews",
-          "english": "",
-          "count": 1,
-          "sourceIds": [
-            "2084012229733638437"
-          ],
-          "aiCount": 0,
-          "warnings": []
-        },
-        {
           "id": "e8f82499832d",
-          "rank": 12,
+          "rank": 14,
           "name": "Harry Gray",
           "english": "",
           "count": 1,
@@ -5979,7 +5994,7 @@
         },
         {
           "id": "d4ddf4348ce2",
-          "rank": 12,
+          "rank": 14,
           "name": "Jay Winkler",
           "english": "",
           "count": 1,
@@ -5991,7 +6006,7 @@
         },
         {
           "id": "9e4d00a01ca4",
-          "rank": 12,
+          "rank": 14,
           "name": "Jeffrey Gordon",
           "english": "",
           "count": 1,
@@ -6003,7 +6018,7 @@
         },
         {
           "id": "1aad90d74aef",
-          "rank": 12,
+          "rank": 14,
           "name": "John Hartwig",
           "english": "",
           "count": 1,
@@ -6015,7 +6030,7 @@
         },
         {
           "id": "f734ddcd6924",
-          "rank": 12,
+          "rank": 14,
           "name": "Krzysztof Matyjaszewski",
           "english": "",
           "count": 1,
@@ -6027,7 +6042,7 @@
         },
         {
           "id": "a4cd0ac45b17",
-          "rank": 12,
+          "rank": 14,
           "name": "Michael Rosen",
           "english": "",
           "count": 1,
@@ -6039,7 +6054,7 @@
         },
         {
           "id": "5a51fdd07aa4",
-          "rank": 12,
+          "rank": 14,
           "name": "Mitsuo Sawamoto",
           "english": "",
           "count": 1,
@@ -6051,7 +6066,7 @@
         },
         {
           "id": "c7d59b371397",
-          "rank": 12,
+          "rank": 14,
           "name": "Nathanael Gray",
           "english": "",
           "count": 1,
@@ -6063,7 +6078,7 @@
         },
         {
           "id": "8765fed0b6bd",
-          "rank": 12,
+          "rank": 14,
           "name": "Omar Yaghi",
           "english": "",
           "count": 1,
@@ -6077,7 +6092,7 @@
         },
         {
           "id": "3dba656de8bb",
-          "rank": 12,
+          "rank": 14,
           "name": "Peter Greenberg",
           "english": "",
           "count": 1,
@@ -6089,7 +6104,7 @@
         },
         {
           "id": "fd5796aaea8b",
-          "rank": 12,
+          "rank": 14,
           "name": "Peter Schultz",
           "english": "",
           "count": 1,
@@ -6101,7 +6116,7 @@
         },
         {
           "id": "1ec87f1f208c",
-          "rank": 12,
+          "rank": 14,
           "name": "Peter Walter",
           "english": "",
           "count": 1,
@@ -6112,20 +6127,8 @@
           "warnings": []
         },
         {
-          "id": "a2b5b99c3ce0",
-          "rank": 12,
-          "name": "Raymond Deshaies",
-          "english": "",
-          "count": 1,
-          "sourceIds": [
-            "2084012229733638437"
-          ],
-          "aiCount": 0,
-          "warnings": []
-        },
-        {
           "id": "7a015cb0e779",
-          "rank": 12,
+          "rank": 14,
           "name": "Stephen Buchwald",
           "english": "",
           "count": 1,
@@ -6137,7 +6140,7 @@
         },
         {
           "id": "aa60308d4e34",
-          "rank": 12,
+          "rank": 14,
           "name": "Susumu Kitagawa",
           "english": "",
           "count": 1,
@@ -6151,7 +6154,7 @@
         },
         {
           "id": "4472fbf7392d",
-          "rank": 12,
+          "rank": 14,
           "name": "Takeshi Oka",
           "english": "",
           "count": 1,
@@ -6163,7 +6166,7 @@
         },
         {
           "id": "186bcb43b4a2",
-          "rank": 12,
+          "rank": 14,
           "name": "Yoshitaka Tanimura",
           "english": "",
           "count": 1,
@@ -6175,7 +6178,7 @@
         },
         {
           "id": "c5af76e887e4",
-          "rank": 12,
+          "rank": 14,
           "name": "卢煜明",
           "english": "Dennis Lo",
           "count": 1,
@@ -6187,7 +6190,7 @@
         },
         {
           "id": "35a64e9f45ba",
-          "rank": 12,
+          "rank": 14,
           "name": "宫坂力",
           "english": "Tsutomu Miyasaka",
           "count": 1,
@@ -6199,7 +6202,7 @@
         },
         {
           "id": "d6745991fb78",
-          "rank": 12,
+          "rank": 14,
           "name": "森和俊",
           "english": "Kazutoshi Mori",
           "count": 1,
@@ -6211,7 +6214,7 @@
         },
         {
           "id": "041b55ee25ec",
-          "rank": 12,
+          "rank": 14,
           "name": "沈建仁",
           "english": "Jian-Ren Shen",
           "count": 1,
@@ -6223,7 +6226,7 @@
         },
         {
           "id": "338b1f5d7ccf",
-          "rank": 12,
+          "rank": 14,
           "name": "翁启惠",
           "english": "Chi-Huey Wong",
           "count": 1,
@@ -6235,7 +6238,7 @@
         },
         {
           "id": "5bac0d877dfa",
-          "rank": 12,
+          "rank": 14,
           "name": "马延和",
           "english": "",
           "count": 1,
@@ -6262,6 +6265,20 @@
           "warnings": []
         },
         {
+          "id": "1c8eb726231e",
+          "rank": 1,
+          "name": "化学生物学",
+          "english": "",
+          "count": 3,
+          "sourceIds": [
+            "2083055746896478323",
+            "2090884151771714665",
+            "2090327594453439337"
+          ],
+          "aiCount": 0,
+          "warnings": []
+        },
+        {
           "id": "8a3c4d55b5ba",
           "rank": 1,
           "name": "自组装单分子层",
@@ -6276,8 +6293,22 @@
           "warnings": []
         },
         {
+          "id": "68e625fe6bc6",
+          "rank": 1,
+          "name": "靶向蛋白降解",
+          "english": "",
+          "count": 3,
+          "sourceIds": [
+            "2084012229733638437",
+            "2090884151771714665",
+            "2090327594453439337"
+          ],
+          "aiCount": 0,
+          "warnings": []
+        },
+        {
           "id": "809126a6088b",
-          "rank": 3,
+          "rank": 5,
           "name": "Car–Parrinello 分子动力学",
           "english": "",
           "count": 2,
@@ -6289,21 +6320,8 @@
           "warnings": []
         },
         {
-          "id": "1c8eb726231e",
-          "rank": 3,
-          "name": "化学生物学",
-          "english": "",
-          "count": 2,
-          "sourceIds": [
-            "2083055746896478323",
-            "2090327594453439337"
-          ],
-          "aiCount": 0,
-          "warnings": []
-        },
-        {
           "id": "b2d3b624fbd6",
-          "rank": 3,
+          "rank": 5,
           "name": "精准基因编辑",
           "english": "",
           "count": 2,
@@ -6316,7 +6334,7 @@
         },
         {
           "id": "f9d8dbaef94f",
-          "rank": 3,
+          "rank": 5,
           "name": "蛋白质折叠与未折叠蛋白应答",
           "english": "",
           "count": 2,
@@ -6328,14 +6346,13 @@
           "warnings": []
         },
         {
-          "id": "68e625fe6bc6",
-          "rank": 3,
-          "name": "靶向蛋白降解",
+          "id": "be5bd49fa446",
+          "rank": 8,
+          "name": "AIE",
           "english": "",
-          "count": 2,
+          "count": 1,
           "sourceIds": [
-            "2084012229733638437",
-            "2090327594453439337"
+            "2090951327677421147"
           ],
           "aiCount": 0,
           "warnings": []
@@ -6384,6 +6401,18 @@
           "count": 1,
           "sourceIds": [
             "2085715579508470002"
+          ],
+          "aiCount": 0,
+          "warnings": []
+        },
+        {
+          "id": "78f528d39088",
+          "rank": 8,
+          "name": "半导体光催化",
+          "english": "",
+          "count": 1,
+          "sourceIds": [
+            "2090879560342685458"
           ],
           "aiCount": 0,
           "warnings": []
@@ -6634,6 +6663,20 @@
           "warnings": []
         },
         {
+          "id": "2090918646453364024",
+          "url": "https://www.zhihu.com/question/2081709501913248924/answer/2090918646453364024",
+          "summary": "第一、哈里・格雷（Harry Gray）、杰伊・温克勒（Jay Winkler，加州理工） 揭示蛋白质靠量子隧穿实现跨距离电子传递，解释光合作用、能量传递等生命基础机制。这个是最高的 第二、刘如谦（David R. Liu，哈佛 / 博德所） 碱基编辑和先导编辑，不切断 DNA 双链即可精准改字，已有 28 项临床试验 第三、阿拉拉、努佐、萨吉夫 1980 年代奠定分子自组装薄膜基础，用于涂层、催化、电子器件 哈里・格雷（Harry Gray）、杰伊・温克…",
+          "people": [],
+          "directions": [],
+          "reason": "直答输出校验失败，待人工复核：人名/方向缺少原文依据",
+          "reviewed": false,
+          "reviewMethod": "zhida",
+          "reviewModel": "zhida-fast-1p5",
+          "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
           "id": "2084558026153931043",
           "url": "https://www.zhihu.com/question/2081709501913248924/answer/2084558026153931043",
           "summary": "我今年不预测了，因为实际上从19年开始，这个趋势就没法预测了。 同样是改变世界，有的人熬到死也得不到奖，有的人死前几年被施舍一次，有的人4年就能拿奖。 因为你不知道今年诺奖委员会打算讲什么故事。想讲一个热点故事？那么近年的热门成果会拿奖；想讲一个历史传承的故事？那么过去的遗珠可能拿奖。想表示我们诺奖委员会紧跟时代潮流不是老顽固，那么就给AI4S颁奖。甚至要讲一个女科学家故事，讲一个非白人故事，拿奖的人都…",
@@ -6642,20 +6685,6 @@
           "reason": "明确表示今年不预测",
           "reviewed": true,
           "reviewMethod": "human",
-          "reviewModel": null,
-          "reviewEvidence": [],
-          "aiAssisted": false,
-          "warnings": []
-        },
-        {
-          "id": "2090918646453364024",
-          "url": "https://www.zhihu.com/question/2081709501913248924/answer/2090918646453364024",
-          "summary": "第一、哈里・格雷（Harry Gray）、杰伊・温克勒（Jay Winkler，加州理工） 揭示蛋白质靠量子隧穿实现跨距离电子传递，解释光合作用、能量传递等生命基础机制。这个是最高的 第二、刘如谦（David R. Liu，哈佛 / 博德所） 碱基编辑和先导编辑，不切断 DNA 双链即可精准改字，已有 28 项临床试验 第三、阿拉拉、努佐、萨吉夫 1980 年代奠定分子自组装薄膜基础，用于涂层、催化、电子器件 哈里・格雷（Harry Gray）、杰伊・温克…",
-          "people": [],
-          "directions": [],
-          "reason": "待复核：新增或摘要有变更",
-          "reviewed": false,
-          "reviewMethod": null,
           "reviewModel": null,
           "reviewEvidence": [],
           "aiAssisted": false,
@@ -6992,16 +7021,63 @@
           "warnings": []
         },
         {
+          "id": "2090914079875528547",
+          "url": "https://www.zhihu.com/question/2081709501913248924/answer/2090914079875528547",
+          "summary": "最近研究AIE理论化学入魔了，就预测一个AIE吧。",
+          "people": [],
+          "directions": [],
+          "reason": "直答无法确定，待人工复核：作者预测了AIE，但AIE不在规范方向清单中且语境模糊，不确定是否纳入。",
+          "reviewed": false,
+          "reviewMethod": "zhida",
+          "reviewModel": "zhida-fast-1p5",
+          "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
           "id": "2090884151771714665",
           "url": "https://www.zhihu.com/question/2081709501913248924/answer/2090884151771714665",
           "summary": "胡乱写几个吧： 1.靶向蛋白降解与分子胶（PROTAC & Molecular Glues） 克雷格·克鲁斯（Craig Crews）、雷蒙德·德沙伊（Raymond Deshaies）、史图尔特·施赖伯（Stuart Schreiber） 开创 靶向蛋白降解技术与分子胶概念，利用双功能小分子将致病蛋白拉到细胞自身的清除系统（泛素-蛋白酶体）中进行靶向销毁。这是近 20 年来化学生物学对新药研发最具颠覆性的突破，彻底解决了传统小分子难以成药的困局。但是主要是在工业界极其炽…",
-          "people": [],
-          "directions": [],
-          "reason": "待复核：新增或摘要有变更",
-          "reviewed": false,
-          "reviewMethod": null,
-          "reviewModel": null,
-          "reviewEvidence": [],
+          "people": [
+            "Craig Crews",
+            "Raymond Deshaies",
+            "Stuart Schreiber"
+          ],
+          "directions": [
+            "靶向蛋白降解",
+            "化学生物学"
+          ],
+          "reason": "作者将靶向蛋白降解方向及其开创者列为预测。",
+          "reviewed": true,
+          "reviewMethod": "zhida",
+          "reviewModel": "zhida-fast-1p5",
+          "reviewEvidence": [
+            {
+              "kind": "people",
+              "name": "Craig Crews",
+              "quote": "克雷格·克鲁斯（Craig Crews）、雷蒙德·德沙伊（Raymond Deshaies）、史图尔特·施赖伯（Stuart Schreiber） 开创 靶向蛋白降解技术与分子胶概念"
+            },
+            {
+              "kind": "people",
+              "name": "Raymond Deshaies",
+              "quote": "克雷格·克鲁斯（Craig Crews）、雷蒙德·德沙伊（Raymond Deshaies）、史图尔特·施赖伯（Stuart Schreiber） 开创 靶向蛋白降解技术与分子胶概念"
+            },
+            {
+              "kind": "people",
+              "name": "Stuart Schreiber",
+              "quote": "克雷格·克鲁斯（Craig Crews）、雷蒙德·德沙伊（Raymond Deshaies）、史图尔特·施赖伯（Stuart Schreiber） 开创 靶向蛋白降解技术与分子胶概念"
+            },
+            {
+              "kind": "directions",
+              "name": "靶向蛋白降解",
+              "quote": "1.靶向蛋白降解与分子胶（PROTAC & Molecular Glues）"
+            },
+            {
+              "kind": "directions",
+              "name": "化学生物学",
+              "quote": "这是近 20 年来化学生物学对新药研发最具颠覆性的突破"
+            }
+          ],
           "aiAssisted": false,
           "warnings": []
         },
@@ -7010,12 +7086,20 @@
           "url": "https://www.zhihu.com/question/2081709501913248924/answer/2090879560342685458",
           "summary": "光催化。 既然赌了个概率超小的，那不如玩的更刺激一些。 半导体光催化。",
           "people": [],
-          "directions": [],
-          "reason": "待复核：新增或摘要有变更",
-          "reviewed": false,
-          "reviewMethod": null,
-          "reviewModel": null,
-          "reviewEvidence": [],
+          "directions": [
+            "半导体光催化"
+          ],
+          "reason": "作者明确预测半导体光催化方向。",
+          "reviewed": true,
+          "reviewMethod": "zhida",
+          "reviewModel": "zhida-fast-1p5",
+          "reviewEvidence": [
+            {
+              "kind": "directions",
+              "name": "半导体光催化",
+              "quote": "光催化。 既然赌了个概率超小的，那不如玩的更刺激一些。 半导体光催化。"
+            }
+          ],
           "aiAssisted": false,
           "warnings": []
         },
@@ -7025,10 +7109,10 @@
           "summary": "别到时候给分子编辑了（（（ 好吧，正经预测一下：我觉得今年最大可能是生化的，高通量测序最有可能，至于protac，诺奖应该不会在第一款相关药物上市还没到半年的时候就急着给他发诺奖，碱基编辑也是临床应用还不够所以没啥可能，且还有crispr刚得完奖没多久，反之高通量测序是已经大规模应用的方法。 别的一些可能选项：我觉得ATRP/RAFT/NMP也很有可能，毕竟应用够广，这样老马估计能得奖，贵校化院刚请他来讲座可谓赢麻；LLPS…",
           "people": [],
           "directions": [],
-          "reason": "待复核：新增或摘要有变更",
+          "reason": "直答输出校验失败，待人工复核：人名/方向缺少原文依据",
           "reviewed": false,
-          "reviewMethod": null,
-          "reviewModel": null,
+          "reviewMethod": "zhida",
+          "reviewModel": "zhida-fast-1p5",
           "reviewEvidence": [],
           "aiAssisted": false,
           "warnings": []
@@ -7137,16 +7221,38 @@
           "warnings": []
         },
         {
+          "id": "2091035717686256984",
+          "url": "https://www.zhihu.com/question/2081709501913248924/answer/2091035717686256984",
+          "summary": "邓青云 (Hong Kong University of Science and Technology) Steven Van Slyke (Kateeva, Inc.) Stephen R. Forrest (University of Michigan) \"for the development of organic light-emitting diodes\" Jean Fréchet (University of California, Berkeley) C. Grant Willson (University of Texas, Austin) \"for the delevopment of chemically amplified photoresists\"",
+          "people": [],
+          "directions": [],
+          "reason": "直答输出校验失败，待人工复核：人名/方向缺少原文依据",
+          "reviewed": false,
+          "reviewMethod": "zhida",
+          "reviewModel": "zhida-fast-1p5",
+          "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
           "id": "2090951327677421147",
           "url": "https://www.zhihu.com/question/2081709501913248924/answer/2090951327677421147",
           "summary": "今天物理奖爆冷，没准明天化学奖也要跟团，随便猜个AIE吧 [图片]",
           "people": [],
-          "directions": [],
-          "reason": "待复核：新增或摘要有变更",
-          "reviewed": false,
-          "reviewMethod": null,
-          "reviewModel": null,
-          "reviewEvidence": [],
+          "directions": [
+            "AIE"
+          ],
+          "reason": "作者对化学奖方向给出正向猜测AIE。",
+          "reviewed": true,
+          "reviewMethod": "zhida",
+          "reviewModel": "zhida-fast-1p5",
+          "reviewEvidence": [
+            {
+              "kind": "directions",
+              "name": "AIE",
+              "quote": "没准明天化学奖也要跟团，随便猜个AIE吧"
+            }
+          ],
           "aiAssisted": false,
           "warnings": []
         },
@@ -7156,10 +7262,10 @@
           "summary": "有没有可能给非平衡态物理 参考Onsager和普利高津",
           "people": [],
           "directions": [],
-          "reason": "待复核：新增或摘要有变更",
-          "reviewed": false,
-          "reviewMethod": null,
-          "reviewModel": null,
+          "reason": "仅以Onsager和普利高津作历史类比讨论，非明确的2026化学奖预测。",
+          "reviewed": true,
+          "reviewMethod": "zhida",
+          "reviewModel": "zhida-fast-1p5",
           "reviewEvidence": [],
           "aiAssisted": false,
           "warnings": []
@@ -7170,24 +7276,10 @@
           "summary": "正式预测：Shankar Balasubramanian + David Klenelman + Pascal Mayer因“边合成边测序”的可逆终止子化学，把下一代高通量 DNA 测序（NGS）从概念打成桌面基础设施。 诺奖化学近几年那个脾气很明显——要“方法学+已经渗进全世界实验室”的活儿。NGS 就是这种：你做癌症panel、做单细胞、做宏基因组、做考古古DNA，背后那套荧光标记、可切除阻断基、固相簇并行读，全是这两人（加 Mayer 的簇扩增路线）焊出来的。今年他们刚拿…",
           "people": [],
           "directions": [],
-          "reason": "待复核：新增或摘要有变更",
+          "reason": "直答输出校验失败，待人工复核：人名/方向缺少原文依据",
           "reviewed": false,
-          "reviewMethod": null,
-          "reviewModel": null,
-          "reviewEvidence": [],
-          "aiAssisted": false,
-          "warnings": []
-        },
-        {
-          "id": "2090914079875528547",
-          "url": "https://www.zhihu.com/question/2081709501913248924/answer/2090914079875528547",
-          "summary": "最近研究AIE理论化学入魔了，就预测一个AIE吧。",
-          "people": [],
-          "directions": [],
-          "reason": "待复核：新增或摘要有变更",
-          "reviewed": false,
-          "reviewMethod": null,
-          "reviewModel": null,
+          "reviewMethod": "zhida",
+          "reviewModel": "zhida-fast-1p5",
           "reviewEvidence": [],
           "aiAssisted": false,
           "warnings": []
@@ -7198,10 +7290,10 @@
           "summary": "黑猫股份",
           "people": [],
           "directions": [],
-          "reason": "待复核：新增或摘要有变更",
-          "reviewed": false,
-          "reviewMethod": null,
-          "reviewModel": null,
+          "reason": "仅为股票名称，无预测内容。",
+          "reviewed": true,
+          "reviewMethod": "zhida",
+          "reviewModel": "zhida-fast-1p5",
           "reviewEvidence": [],
           "aiAssisted": false,
           "warnings": []
@@ -7212,10 +7304,10 @@
           "summary": "应该会给某个计算组吧。",
           "people": [],
           "directions": [],
-          "reason": "待复核：新增或摘要有变更",
-          "reviewed": false,
-          "reviewMethod": null,
-          "reviewModel": null,
+          "reason": "仅泛指“某个计算组”，未给出明确人名或方向预测",
+          "reviewed": true,
+          "reviewMethod": "zhida",
+          "reviewModel": "zhida-fast-1p5",
           "reviewEvidence": [],
           "aiAssisted": false,
           "warnings": []
@@ -7226,10 +7318,10 @@
           "summary": "硅基太阳能电池与染料敏化太阳能电池一个方向两代或三代技术的突破者",
           "people": [],
           "directions": [],
-          "reason": "待复核：新增或摘要有变更",
+          "reason": "直答输出校验失败，待人工复核：人名/方向缺少原文依据",
           "reviewed": false,
-          "reviewMethod": null,
-          "reviewModel": null,
+          "reviewMethod": "zhida",
+          "reviewModel": "zhida-fast-1p5",
           "reviewEvidence": [],
           "aiAssisted": false,
           "warnings": []
@@ -7367,10 +7459,10 @@
           "summary": "当然是学校排名遥遥领先的呀",
           "people": [],
           "directions": [],
-          "reason": "待复核：新增或摘要有变更",
-          "reviewed": false,
-          "reviewMethod": null,
-          "reviewModel": null,
+          "reason": "与化学奖预测无关的玩笑式回答",
+          "reviewed": true,
+          "reviewMethod": "zhida",
+          "reviewModel": "zhida-fast-1p5",
           "reviewEvidence": [],
           "aiAssisted": false,
           "warnings": []
@@ -7407,11 +7499,11 @@
       "english": "LITERATURE",
       "symbol": "L",
       "questionUrl": "https://www.zhihu.com/question/2085781961016960614",
-      "fetchedAt": "2026-10-06T16:48:40.515457+00:00",
+      "fetchedAt": "2026-10-06T22:39:24.527907+00:00",
       "complete": true,
-      "total": 40,
+      "total": 41,
       "valid": 16,
-      "pending": 11,
+      "pending": 12,
       "excluded": 13,
       "people": [
         {
@@ -7744,6 +7836,20 @@
           "warnings": []
         },
         {
+          "id": "2090105778371930028",
+          "url": "https://www.zhihu.com/question/2085781961016960614/answer/2090105778371930028",
+          "summary": "首先，关于赔率…今年Ladbrokes目前把残雪列为10/1第一，之后是村上春树14/1、Murnane和Pynchon 16/1，Cristina Rivera Garza、Vila-Matas、Lídia Jorge、乌利茨卡娅等20/1；卡森反而掉到了33/1。但诺奖赔率有一个要命的缺陷，即市场在猜“谁像诺奖作家”，瑞典学院却是在五个人左右的真实短名单中做比较。外界甚至不知道谁进入了最后五人。而评奖的正式机制是：每年约有200名被提名者，诺贝尔委员会先缩至约15人，5月底再缩…",
+          "people": [],
+          "directions": [],
+          "reason": "摘要为赔率与评奖机制讨论，未显示本人明确预测；不计正向票",
+          "reviewed": true,
+          "reviewMethod": "human",
+          "reviewModel": null,
+          "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
           "id": "2089074636675880860",
           "url": "https://www.zhihu.com/question/2085781961016960614/answer/2089074636675880860",
           "summary": "去年参加知乎的诺奖圆桌，成功预测对了 拉斯洛·克拉斯纳霍尔凯是诺贝尔文学奖得主。今年的诺奖得主，可能也会在我去年列的那几位作家之中。 如果是男作家，盲猜米歇尔·维勒贝克；如果是女作家，盲猜安妮·卡森。首先从性别上来看，今年的得主可能是一位男作家。 如果 2024 年的诺奖得主不是韩江，和柳德米拉·乌利茨卡娅相比，安妮·卡森的可能更大。 柳德米拉·乌利茨卡娅她曾经表达过一种观点： 良知是我们赖以生存的唯一手…",
@@ -7753,20 +7859,6 @@
           ],
           "directions": [],
           "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
-          "reviewed": true,
-          "reviewMethod": "human",
-          "reviewModel": null,
-          "reviewEvidence": [],
-          "aiAssisted": false,
-          "warnings": []
-        },
-        {
-          "id": "2090105778371930028",
-          "url": "https://www.zhihu.com/question/2085781961016960614/answer/2090105778371930028",
-          "summary": "首先，关于赔率…今年Ladbrokes目前把残雪列为10/1第一，之后是村上春树14/1、Murnane和Pynchon 16/1，Cristina Rivera Garza、Vila-Matas、Lídia Jorge、乌利茨卡娅等20/1；卡森反而掉到了33/1。但诺奖赔率有一个要命的缺陷，即市场在猜“谁像诺奖作家”，瑞典学院却是在五个人左右的真实短名单中做比较。外界甚至不知道谁进入了最后五人。而评奖的正式机制是：每年约有200名被提名者，诺贝尔委员会先缩至约15人，5月底再缩…",
-          "people": [],
-          "directions": [],
-          "reason": "摘要为赔率与评奖机制讨论，未显示本人明确预测；不计正向票",
           "reviewed": true,
           "reviewMethod": "human",
           "reviewModel": null,
@@ -8248,6 +8340,20 @@
           "warnings": []
         },
         {
+          "id": "2090967351806185631",
+          "url": "https://www.zhihu.com/question/2085781961016960614/answer/2090967351806185631",
+          "summary": "中国第一位诺贝尔文学奖女作家，国内冷门，今年星海稳了。",
+          "people": [],
+          "directions": [],
+          "reason": "待复核：新增或摘要有变更",
+          "reviewed": false,
+          "reviewMethod": null,
+          "reviewModel": null,
+          "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
           "id": "2090776602409971849",
           "url": "https://www.zhihu.com/question/2085781961016960614/answer/2090776602409971849",
           "summary": "我对于2026年诺贝尔文学奖的预测加拿大女作家贝拉（沈镭），她不在诺贝尔文学奖获奖热榜里，但个人很喜欢她的作品。 贝拉在跨文化、犹太流亡题材写作与国际比较文学研究领域拥有独特的位置。她的代表作《魔咒钢琴》、《幸存者之歌》等作品聚焦二战时期犹太难民流亡上海的历史，是国内较少以小说形式书写这一历史的作家。这对于世界了解犹太人这个民族有非常大的帮助。 贝拉以爱情、音乐、苦难、人性博爱为核心，融合跨地域、跨文…",
@@ -8346,7 +8452,7 @@
       "english": "ECONOMIC SCIENCES",
       "symbol": "E",
       "questionUrl": "https://www.zhihu.com/question/2084054769849611542",
-      "fetchedAt": "2026-10-06T16:48:42.157331+00:00",
+      "fetchedAt": "2026-10-06T22:39:26.088586+00:00",
       "complete": true,
       "total": 43,
       "valid": 22,

@@ -1,0 +1,27 @@
+{
+  "model": "zhida-fast-1p5",
+  "category": "chemistry",
+  "summaryHashes": {
+    "2091035717686256984": "c8b14ffadbdfe8b920e8f15a3c6423e19a8424986dbd6c48c05931344681ec32",
+    "2090951327677421147": "b13c9f73b4ded65ca11a258136d01b209072a9fe7128dfbcc6bc2b6584de93bf",
+    "2090928506892968600": "dd756f78ea34f5ccee9698ab6784d2e51c71a84bd2bc72d5b5f70f659d48dd84",
+    "2090920039390122645": "ac46364390869e93983f99f8c6de010816427a61cbdcdb7fc827f745ed14f83f",
+    "2090896917597374258": "f84a9da378f68ee8c100c911bbd61a47c017cfb21c1bcab3a0a8341a352ec12c"
+  },
+  "response": {
+    "id": "chatcmpl-4d3fa45e-0929-47cc-b23c-c01d3b3e766c",
+    "object": "chat.completion",
+    "created": 1791326384,
+    "model": "zhida-fast-1p5",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "{\"items\":[{\"id\":\"2091035717686256984\",\"status\":\"include\",\"people\":[{\"name\":\"邓青云\",\"evidence\":\"邓青云 (Hong Kong University of Science and Technology) Steven Van Slyke (Kateeva, Inc.) Stephen R. Forrest (University of Michigan) \\\"for the development of organic light-emitting diodes\\\"\"},{\"name\":\"Steven Van Slyke\",\"evidence\":\"邓青云 (Hong Kong University of Science and Technology) Steven Van Slyke (Kateeva, Inc.) Stephen R. Forrest (University of Michigan) \\\"for the development of organic light-emitting diodes\\\"\"},{\"name\":\"Stephen R. Forrest\",\"evidence\":\"邓青云 (Hong Kong University of Science and Technology) Steven Van Slyke (Kateeva, Inc.) Stephen R. Forrest (University of Michigan) \\\"for the development of organic light-emitting diodes\\\"\"},{\"name\":\"Jean Fréchet\",\"evidence\":\"Jean Fréchet (University of California, Berkeley) C. Grant Willson (University of Texas, Austin) \\\"for the delevopment of chemically amplified photoresists\\\"\"},{\"name\":\"C. Grant Willson\",\"evidence\":\"Jean Fréchet (University of California, Berkeley) C. Grant Willson (University of Texas, Austin) \\\"for the delevopment of chemically amplified photoresists\\\"\"}],\"directions\":[{\"name\":\"OLED\",\"evidence\":\"Stephen R. Forrest (University of Michigan) \\\"for the development of organic light-emitting diodes\\\"\"}],\"reason\":\"摘要明确列出化学奖预测人选及获奖理由。\"},{\"id\":\"2090951327677421147\",\"status\":\"include\",\"people\":[],\"directions\":[{\"name\":\"AIE\",\"evidence\":\"没准明天化学奖也要跟团，随便猜个AIE吧\"}],\"reason\":\"作者对化学奖方向给出正向猜测AIE。\"},{\"id\":\"2090928506892968600\",\"status\":\"exclude\",\"people\":[],\"directions\":[],\"reason\":\"仅以Onsager和普利高津作历史类比讨论，非明确的2026化学奖预测。\"},{\"id\":\"2090920039390122645\",\"status\":\"include\",\"people\":[{\"name\":\"Shankar Balasubramanian\",\"evidence\":\"正式预测：Shankar Balasubramanian + David Klenelman + Pascal Mayer因“边合成边测序”的可逆终止子化学\"},{\"name\":\"David Klenerman\",\"evidence\":\"正式预测：Shankar Balasubramanian + David Klenelman + Pascal Mayer因“边合成边测序”的可逆终止子化学\"},{\"name\":\"Pascal Mayer\",\"evidence\":\"正式预测：Shankar Balasubramanian + David Klenelman + Pascal Mayer因“边合成边测序”的可逆终止子化学\"}],\"directions\":[{\"name\":\"下一代 DNA 测序\",\"evidence\":\"把下一代高通量 DNA 测序（NGS）从概念打成桌面基础设施\"}],\"reason\":\"作者正式预测三人因NGS相关化学获奖。\"},{\"id\":\"2090896917597374258\",\"status\":\"exclude\",\"people\":[],\"directions\":[],\"reason\":\"仅为股票名称，无预测内容。\"}]}"
+        },
+        "finish_reason": "stop"
+      }
+    ]
+  }
+}

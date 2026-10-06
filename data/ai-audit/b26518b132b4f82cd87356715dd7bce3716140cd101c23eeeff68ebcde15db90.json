@@ -1,0 +1,25 @@
+{
+  "model": "zhida-fast-1p5",
+  "category": "chemistry",
+  "summaryHashes": {
+    "2090869636908819221": "11b010d862162e67f6e239df9a289527af667e022525b78134c012c68f0c79f3",
+    "2090867652235375881": "0837819f3494ee2f323e1d687efdfb4cfbf8546d6abba95d06bb75fd52451ddb",
+    "2090904569584804153": "c1308991dca95a591243866ada972dff89a9f6db605fced5155809d951d358dd"
+  },
+  "response": {
+    "id": "chatcmpl-5bdc03af-cc1c-43d5-88f3-6a7352fdadb7",
+    "object": "chat.completion",
+    "created": 1791326389,
+    "model": "zhida-fast-1p5",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "{\"items\":[{\"id\":\"2090869636908819221\",\"status\":\"exclude\",\"people\":[],\"directions\":[],\"reason\":\"仅泛指“某个计算组”，未给出明确人名或方向预测\"},{\"id\":\"2090867652235375881\",\"status\":\"include\",\"people\":[],\"directions\":[{\"name\":\"钙钛矿太阳能电池\",\"evidence\":\"硅基太阳能电池与染料敏化太阳能电池一个方向两代或三代技术的突破者\"}],\"reason\":\"预测太阳能电池方向的突破者获奖，但未点名具体人物\"},{\"id\":\"2090904569584804153\",\"status\":\"exclude\",\"people\":[],\"directions\":[],\"reason\":\"与化学奖预测无关的玩笑式回答\"}]}"
+        },
+        "finish_reason": "stop"
+      }
+    ]
+  }
+}

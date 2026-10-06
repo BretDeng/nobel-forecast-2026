@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-06T16:48:38.669473+00:00",
+  "fetchedAt": "2026-10-06T22:39:22.842374+00:00",
   "pages": [
     {
       "Code": 0,
@@ -26,15 +26,15 @@
           },
           {
             "ContentType": "answer",
-            "ContentToken": "2084558026153931043",
-            "Url": "https://www.zhihu.com/question/2081709501913248924/answer/2084558026153931043",
-            "Summary": "我今年不预测了，因为实际上从19年开始，这个趋势就没法预测了。 同样是改变世界，有的人熬到死也得不到奖，有的人死前几年被施舍一次，有的人4年就能拿奖。 因为你不知道今年诺奖委员会打算讲什么故事。想讲一个热点故事？那么近年的热门成果会拿奖；想讲一个历史传承的故事？那么过去的遗珠可能拿奖。想表示我们诺奖委员会紧跟时代潮流不是老顽固，那么就给AI4S颁奖。甚至要讲一个女科学家故事，讲一个非白人故事，拿奖的人都…"
-          },
-          {
-            "ContentType": "answer",
             "ContentToken": "2090918646453364024",
             "Url": "https://www.zhihu.com/question/2081709501913248924/answer/2090918646453364024",
             "Summary": "第一、哈里・格雷（Harry Gray）、杰伊・温克勒（Jay Winkler，加州理工） 揭示蛋白质靠量子隧穿实现跨距离电子传递，解释光合作用、能量传递等生命基础机制。这个是最高的 第二、刘如谦（David R. Liu，哈佛 / 博德所） 碱基编辑和先导编辑，不切断 DNA 双链即可精准改字，已有 28 项临床试验 第三、阿拉拉、努佐、萨吉夫 1980 年代奠定分子自组装薄膜基础，用于涂层、催化、电子器件 哈里・格雷（Harry Gray）、杰伊・温克…"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2084558026153931043",
+            "Url": "https://www.zhihu.com/question/2081709501913248924/answer/2084558026153931043",
+            "Summary": "我今年不预测了，因为实际上从19年开始，这个趋势就没法预测了。 同样是改变世界，有的人熬到死也得不到奖，有的人死前几年被施舍一次，有的人4年就能拿奖。 因为你不知道今年诺奖委员会打算讲什么故事。想讲一个热点故事？那么近年的热门成果会拿奖；想讲一个历史传承的故事？那么过去的遗珠可能拿奖。想表示我们诺奖委员会紧跟时代潮流不是老顽固，那么就给AI4S颁奖。甚至要讲一个女科学家故事，讲一个非白人故事，拿奖的人都…"
           },
           {
             "ContentType": "answer",
@@ -116,6 +116,12 @@
           },
           {
             "ContentType": "answer",
+            "ContentToken": "2090914079875528547",
+            "Url": "https://www.zhihu.com/question/2081709501913248924/answer/2090914079875528547",
+            "Summary": "最近研究AIE理论化学入魔了，就预测一个AIE吧。"
+          },
+          {
+            "ContentType": "answer",
             "ContentToken": "2090884151771714665",
             "Url": "https://www.zhihu.com/question/2081709501913248924/answer/2090884151771714665",
             "Summary": "胡乱写几个吧： 1.靶向蛋白降解与分子胶（PROTAC & Molecular Glues） 克雷格·克鲁斯（Craig Crews）、雷蒙德·德沙伊（Raymond Deshaies）、史图尔特·施赖伯（Stuart Schreiber） 开创 靶向蛋白降解技术与分子胶概念，利用双功能小分子将致病蛋白拉到细胞自身的清除系统（泛素-蛋白酶体）中进行靶向销毁。这是近 20 年来化学生物学对新药研发最具颠覆性的突破，彻底解决了传统小分子难以成药的困局。但是主要是在工业界极其炽…"
@@ -170,6 +176,12 @@
           },
           {
             "ContentType": "answer",
+            "ContentToken": "2091035717686256984",
+            "Url": "https://www.zhihu.com/question/2081709501913248924/answer/2091035717686256984",
+            "Summary": "邓青云 (Hong Kong University of Science and Technology) Steven Van Slyke (Kateeva, Inc.) Stephen R. Forrest (University of Michigan) \"for the development of organic light-emitting diodes\" Jean Fréchet (University of California, Berkeley) C. Grant Willson (University of Texas, Austin) \"for the delevopment of chemically amplified photoresists\""
+          },
+          {
+            "ContentType": "answer",
             "ContentToken": "2090951327677421147",
             "Url": "https://www.zhihu.com/question/2081709501913248924/answer/2090951327677421147",
             "Summary": "今天物理奖爆冷，没准明天化学奖也要跟团，随便猜个AIE吧 [图片]"
@@ -185,12 +197,6 @@
             "ContentToken": "2090920039390122645",
             "Url": "https://www.zhihu.com/question/2081709501913248924/answer/2090920039390122645",
             "Summary": "正式预测：Shankar Balasubramanian + David Klenelman + Pascal Mayer因“边合成边测序”的可逆终止子化学，把下一代高通量 DNA 测序（NGS）从概念打成桌面基础设施。 诺奖化学近几年那个脾气很明显——要“方法学+已经渗进全世界实验室”的活儿。NGS 就是这种：你做癌症panel、做单细胞、做宏基因组、做考古古DNA，背后那套荧光标记、可切除阻断基、固相簇并行读，全是这两人（加 Mayer 的簇扩增路线）焊出来的。今年他们刚拿…"
-          },
-          {
-            "ContentType": "answer",
-            "ContentToken": "2090914079875528547",
-            "Url": "https://www.zhihu.com/question/2081709501913248924/answer/2090914079875528547",
-            "Summary": "最近研究AIE理论化学入魔了，就预测一个AIE吧。"
           },
           {
             "ContentType": "answer",

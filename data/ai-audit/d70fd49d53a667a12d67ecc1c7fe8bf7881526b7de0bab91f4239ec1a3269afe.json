@@ -1,0 +1,27 @@
+{
+  "model": "zhida-fast-1p5",
+  "category": "chemistry",
+  "summaryHashes": {
+    "2090918646453364024": "6405f9226ad6ba8c8ff23aad53d63512ba7e573728176fc654f1019db9a14296",
+    "2090914079875528547": "ffbea68e99ec603de36a4c97a8501e9160a1778e7a0da3101ce67ce288f9385e",
+    "2090884151771714665": "034d48ac6ce3ab8d4c698004238ac852ed67b2208f76d53b6b3c5f044d6729aa",
+    "2090879560342685458": "696846ad56cc32832b24b2f12b3ce32a413b613a12cd0ca94d27e54f8e3acd2d",
+    "2090868242638181252": "bbdb2808e498eedf30a3593f45a2568894c3661cb4a1b0a33ad32a10525126e4"
+  },
+  "response": {
+    "id": "chatcmpl-133549a7-32ba-43c3-bc49-647504c02ea2",
+    "object": "chat.completion",
+    "created": 1791326374,
+    "model": "zhida-fast-1p5",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "{\"items\":[{\"id\":\"2090918646453364024\",\"status\":\"include\",\"people\":[{\"name\":\"Harry Gray\",\"evidence\":\"哈里・格雷（Harry Gray）、杰伊・温克勒（Jay Winkler，加州理工） 揭示蛋白质靠量子隧穿实现跨距离电子传递\"},{\"name\":\"Jay Winkler\",\"evidence\":\"哈里・格雷（Harry Gray）、杰伊・温克勒（Jay Winkler，加州理工） 揭示蛋白质靠量子隧穿实现跨距离电子传递\"},{\"name\":\"刘如谦\",\"evidence\":\"刘如谦（David R. Liu，哈佛 / 博德所） 碱基编辑和先导编辑\"},{\"name\":\"David Allara\",\"evidence\":\"阿拉拉、努佐、萨吉夫 1980 年代奠定分子自组装薄膜基础\"},{\"name\":\"Ralph Nuzzo\",\"evidence\":\"阿拉拉、努佐、萨吉夫 1980 年代奠定分子自组装薄膜基础\"},{\"name\":\"Jacob Sagiv\",\"evidence\":\"阿拉拉、努佐、萨吉夫 1980 年代奠定分子自组装薄膜基础\"}],\"directions\":[{\"name\":\"生物电子转移\",\"evidence\":\"揭示蛋白质靠量子隧穿实现跨距离电子传递，解释光合作用、能量传递等生命基础机制。这个是最高的\"},{\"name\":\"精准基因编辑\",\"evidence\":\"刘如谦（David R. Liu，哈佛 / 博德所） 碱基编辑和先导编辑，不切断 DNA 双链即可精准改字\"},{\"name\":\"自组装单分子层\",\"evidence\":\"阿拉拉、努佐、萨吉夫 1980 年代奠定分子自组装薄膜基础，用于涂层、催化、电子器件\"}],\"reason\":\"摘要明确列出多位化学奖预测人选及相关方向。\"},{\"id\":\"2090914079875528547\",\"status\":\"uncertain\",\"people\":[],\"directions\":[],\"reason\":\"作者预测了AIE，但AIE不在规范方向清单中且语境模糊，不确定是否纳入。\"},{\"id\":\"2090884151771714665\",\"status\":\"include\",\"people\":[{\"name\":\"Craig Crews\",\"evidence\":\"克雷格·克鲁斯（Craig Crews）、雷蒙德·德沙伊（Raymond Deshaies）、史图尔特·施赖伯（Stuart Schreiber） 开创 靶向蛋白降解技术与分子胶概念\"},{\"name\":\"Raymond Deshaies\",\"evidence\":\"克雷格·克鲁斯（Craig Crews）、雷蒙德·德沙伊（Raymond Deshaies）、史图尔特·施赖伯（Stuart Schreiber） 开创 靶向蛋白降解技术与分子胶概念\"},{\"name\":\"Stuart Schreiber\",\"evidence\":\"克雷格·克鲁斯（Craig Crews）、雷蒙德·德沙伊（Raymond Deshaies）、史图尔特·施赖伯（Stuart Schreiber） 开创 靶向蛋白降解技术与分子胶概念\"}],\"directions\":[{\"name\":\"靶向蛋白降解\",\"evidence\":\"1.靶向蛋白降解与分子胶（PROTAC & Molecular Glues）\"},{\"name\":\"化学生物学\",\"evidence\":\"这是近 20 年来化学生物学对新药研发最具颠覆性的突破\"}],\"reason\":\"作者将靶向蛋白降解方向及其开创者列为预测。\"},{\"id\":\"2090879560342685458\",\"status\":\"include\",\"people\":[],\"directions\":[{\"name\":\"半导体光催化\",\"evidence\":\"光催化。 既然赌了个概率超小的，那不如玩的更刺激一些。 半导体光催化。\"}],\"reason\":\"作者明确预测半导体光催化方向。\"},{\"id\":\"2090868242638181252\",\"status\":\"include\",\"people\":[{\"name\":\"Krzysztof Matyjaszewski\",\"evidence\":\"ATRP/RAFT/NMP也很有可能，毕竟应用够广，这样老马估计能得奖\"}],\"directions\":[{\"name\":\"下一代 DNA 测序\",\"evidence\":\"高通量测序最有可能\"},{\"name\":\"可控自由基聚合\",\"evidence\":\"我觉得ATRP/RAFT/NMP也很有可能，毕竟应用够广\"}],\"reason\":\"作者明确预测高通量测序、ATRP/RAFT/NMP及老马（Matyjaszewski），并排除PROTAC和碱基编辑。\"}]}"
+        },
+        "finish_reason": "stop"
+      }
+    ]
+  }
+}
