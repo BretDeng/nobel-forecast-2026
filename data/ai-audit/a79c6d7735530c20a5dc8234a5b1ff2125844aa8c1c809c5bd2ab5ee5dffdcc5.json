@@ -1,0 +1,27 @@
+{
+  "model": "zhida-fast-1p5",
+  "category": "literature",
+  "summaryHashes": {
+    "2091297180795589009": "091a991d4c90f22ac73aeb8e80fa6c0068fe36fe1b1630c1e919bef802f27888",
+    "2091277047016460672": "bb19561f4cc1ad121bf256ef73ced35f333537028832e0e2b5c3953592464bf5",
+    "2091249106173826296": "84a8d8da3b6d8c4c61045c0b6755d769f7ff130f753b2da63d4da4135bb02c55",
+    "2091258804881076977": "ee257f50d66d73a647d289dc2899dcef925aabf38f31f67ca2b33d7a7838ecf0",
+    "2091365200406516772": "76c0201e0c2a879a046a12dfb60d7de0544af5671cc53cf5cda626c6416b77ed"
+  },
+  "response": {
+    "id": "chatcmpl-aa09c0ff-9558-4c0c-9602-445c677a55eb",
+    "object": "chat.completion",
+    "created": 1791403133,
+    "model": "zhida-fast-1p5",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "{\"items\":[{\"id\":\"2091297180795589009\",\"status\":\"include\",\"people\":[{\"name\":\"安妮·卡森\",\"evidence\":\"正式预测：安妮·卡森（Anne Carson，加拿大）因其在诗歌、古典重构与当代散文之间的跨界写作\"},{\"name\":\"残雪\",\"evidence\":\"为啥是她不是残雪？残雪今年赔率确实第一\"}],\"directions\":[],\"reason\":\"作者明确正式预测安妮·卡森；残雪被作为赔率大热提及但被作者否定，为否定语境应排除。\"},{\"id\":\"2091277047016460672\",\"status\":\"uncertain\",\"people\":[],\"directions\":[],\"reason\":\"仅讨论残雪百科词条下架，无明确预测。\"},{\"id\":\"2091249106173826296\",\"status\":\"include\",\"people\":[{\"name\":\"玛格丽特·阿特伍德\",\"evidence\":\"今年应该是阿特伍德，现在诺奖的获奖逻辑太好猜了\"}],\"directions\":[],\"reason\":\"作者明确预测阿特伍德。\"},{\"id\":\"2091258804881076977\",\"status\":\"include\",\"people\":[{\"name\":\"米歇尔·维勒贝克\",\"evidence\":\"综合下来，我觉得最可能的就是米歇尔维勒贝克了。\"}],\"directions\":[],\"reason\":\"虽有娱乐声明但作者给出明确正向预测。\"},{\"id\":\"2091365200406516772\",\"status\":\"include\",\"people\":[{\"name\":\"品钦\",\"evidence\":\"不过我个人还是情怀猜一下品钦\"}],\"directions\":[{\"name\":\"少数族裔的亚非拉女性作家\",\"evidence\":\"按规律来说今年应该是一个少数族裔的亚非拉女性作家的可能性最高\"}],\"directions_reason\":\"\",\"reason\":\"作者明确预测品钦，并转述一般认为亚非拉女性作家可能性最高的方向。\"}]}"
+        },
+        "finish_reason": "stop"
+      }
+    ]
+  }
+}

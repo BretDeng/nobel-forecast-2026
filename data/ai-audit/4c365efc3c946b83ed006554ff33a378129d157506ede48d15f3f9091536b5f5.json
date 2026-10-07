@@ -1,0 +1,27 @@
+{
+  "model": "zhida-fast-1p5",
+  "category": "literature",
+  "summaryHashes": {
+    "2091338699300782150": "900489a6483d2007160218a949c9011df78f062742f8d94be724fe85d52ab654",
+    "2091335952069404368": "f5ad2cfbe1c191811f4af57653675dfde6a482b93e92172747d5378abef50ceb",
+    "2091315703466943354": "14b429c9df9211972cc2b3b62f252d8e7106f4e3907d88ec09e3e14e797e1c85",
+    "2091250115772265867": "4f73e80e302a8f81106ba47eb7669418c6ebb7b457b56f3a65306a6e66dfb855",
+    "2091216158540223291": "997c4cce34b5f60387757e0e65f696190197d1dd3702fd71ccaaf5e2c2d2746b"
+  },
+  "response": {
+    "id": "chatcmpl-bec29abd-06b8-43e2-945c-eec571a3fe9f",
+    "object": "chat.completion",
+    "created": 1791403148,
+    "model": "zhida-fast-1p5",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "{\"items\":[{\"id\":\"2091338699300782150\",\"status\":\"include\",\"people\":[{\"name\":\"加尔萨\",\"evidence\":\"墨西哥女作家加尔萨。《莉莉安娜不可战胜的夏天》\"}],\"directions\":[],\"reason\":\"摘要以书名语境明确正向预测加尔萨获奖。\"},{\"id\":\"2091335952069404368\",\"status\":\"include\",\"people\":[{\"name\":\"残雪\",\"evidence\":\"按照今年是诺奖老人年的安排，73岁的残雪拿奖概率确实很高。 我赌残雪。立个贴。\"}],\"directions\":[],\"reason\":\"作者明确表态自己赌残雪获奖；村上春树仅为转述赔率排名，故不提取。\"},{\"id\":\"2091315703466943354\",\"status\":\"include\",\"people\":[{\"name\":\"安妮·卡森\",\"evidence\":\"安妮·卡森\"}],\"directions\":[],\"reason\":\"摘要直接给出安妮·卡森作为预测人选。\"},{\"id\":\"2091250115772265867\",\"status\":\"include\",\"people\":[{\"name\":\"余华\",\"evidence\":\"余华 震云\"},{\"name\":\"震云\",\"evidence\":\"余华 震云\"}],\"directions\":[],\"reason\":\"摘要列出余华、震云作为预测人选，人名照抄原文实体。\"},{\"id\":\"2091216158540223291\",\"status\":\"exclude\",\"people\":[],\"directions\":[],\"reason\":\"仅预测获奖者将是诗人这一方向，未给出具体作家，文学奖只提取作家。\"}]}"
+        },
+        "finish_reason": "stop"
+      }
+    ]
+  }
+}

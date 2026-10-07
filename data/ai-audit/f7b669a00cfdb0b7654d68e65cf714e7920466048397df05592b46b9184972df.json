@@ -1,0 +1,26 @@
+{
+  "model": "zhida-fast-1p5",
+  "category": "literature",
+  "summaryHashes": {
+    "2091213425812698785": "f76b26b6c79b6d37914bb40ebece9570dff7685820d06d6cd134d6e1bd69d788",
+    "2090967351806185631": "81319c0483ea352d202181da675aba04808457be427e7bd30544f25f99de5eb2",
+    "2090725586381686775": "dd4de7f149f24e79b1747953450a9720be5a43efd021d1c62d1491829e58a40d",
+    "2091307148630402275": "52859813a0ef1158a70ef396f83cb4d2c2b2b48457ac6213a86e237f12c3662d"
+  },
+  "response": {
+    "id": "chatcmpl-620b9e57-b5a9-4027-bc7b-7b9ac6c2d9ff",
+    "object": "chat.completion",
+    "created": 1791403157,
+    "model": "zhida-fast-1p5",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "{\"items\":[{\"id\":\"2091213425812698785\",\"status\":\"exclude\",\"people\":[],\"directions\":[],\"reason\":\"仅转述博彩赔率榜热门名单并强调仅供参考，非作者本人预测。\"},{\"id\":\"2090967351806185631\",\"status\":\"uncertain\",\"people\":[],\"directions\":[],\"reason\":\"提及'中国第一位诺贝尔文学奖女作家''星海稳了'，但未明确给出具体人名，语境模糊。\"},{\"id\":\"2090725586381686775\",\"status\":\"include\",\"people\":[{\"name\":\"安妮・卡森\",\"evidence\":\"如果只看今年赔率、评审偏好综合判断， 安妮・卡森（加拿大）是当下头号热门，也是我个人最看好的人选\"}],\"directions\":[],\"reason\":\"作者明确表达个人最看好安妮・卡森获奖。\"},{\"id\":\"2091307148630402275\",\"status\":\"exclude\",\"people\":[],\"directions\":[],\"reason\":\"讨论纯文学期刊问题，仅借诺奖揭晓在即引入话题，无任何获奖预测。\"}]}"
+        },
+        "finish_reason": "stop"
+      }
+    ]
+  }
+}
