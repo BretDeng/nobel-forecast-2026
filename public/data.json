@@ -7569,24 +7569,50 @@
       "english": "LITERATURE",
       "symbol": "L",
       "questionUrl": "https://www.zhihu.com/question/2085781961016960614",
-      "fetchedAt": "2026-10-07T05:58:02.784940+00:00",
+      "fetchedAt": "2026-10-07T13:21:35.554556+00:00",
       "complete": true,
-      "total": 46,
-      "valid": 16,
-      "pending": 17,
-      "excluded": 13,
+      "total": 61,
+      "valid": 31,
+      "pending": 12,
+      "excluded": 18,
       "people": [
         {
-          "id": "dfab570ca487",
+          "id": "cfa737e36e12",
           "rank": 1,
+          "name": "残雪",
+          "english": "Can Xue",
+          "count": 11,
+          "sourceIds": [
+            "2090804268278212233",
+            "2089770194013107342",
+            "2089172447572518426",
+            "2090400222811796839",
+            "2089004408512290880",
+            "2090429139929121731",
+            "2090392316410323498",
+            "2091196005001729031",
+            "2090591571620242229",
+            "2091273935769884016",
+            "2091073144643761831"
+          ],
+          "aiCount": 1,
+          "warnings": []
+        },
+        {
+          "id": "dfab570ca487",
+          "rank": 2,
           "name": "安妮·卡森",
           "english": "Anne Carson",
-          "count": 6,
+          "count": 10,
           "sourceIds": [
+            "2090804268278212233",
+            "2088239503840375723",
             "2088898441862820372",
             "2089074636675880860",
+            "2091084159741584233",
             "2089172447572518426",
             "2090429139929121731",
+            "2090517298188644964",
             "2089269542379959533",
             "2088736454964950070"
           ],
@@ -7594,25 +7620,23 @@
           "warnings": []
         },
         {
-          "id": "cfa737e36e12",
-          "rank": 1,
-          "name": "残雪",
-          "english": "Can Xue",
-          "count": 6,
+          "id": "87ab2b1c8de7",
+          "rank": 3,
+          "name": "克里斯蒂娜·里韦拉·加尔萨",
+          "english": "Cristina Rivera Garza",
+          "count": 4,
           "sourceIds": [
-            "2089770194013107342",
-            "2089172447572518426",
-            "2089004408512290880",
-            "2090400222811796839",
-            "2090429139929121731",
-            "2090392316410323498"
+            "2090804268278212233",
+            "2091225550656483636",
+            "2088687358724126545",
+            "2089392708926416791"
           ],
-          "aiCount": 1,
+          "aiCount": 0,
           "warnings": []
         },
         {
           "id": "f509f83d8930",
-          "rank": 3,
+          "rank": 4,
           "name": "托马斯·品钦",
           "english": "Thomas Pynchon",
           "count": 3,
@@ -7625,21 +7649,8 @@
           "warnings": []
         },
         {
-          "id": "87ab2b1c8de7",
-          "rank": 4,
-          "name": "克里斯蒂娜·里韦拉·加尔萨",
-          "english": "Cristina Rivera Garza",
-          "count": 2,
-          "sourceIds": [
-            "2088687358724126545",
-            "2089392708926416791"
-          ],
-          "aiCount": 0,
-          "warnings": []
-        },
-        {
           "id": "3e4f4aa7f27e",
-          "rank": 4,
+          "rank": 5,
           "name": "德里罗",
           "english": "",
           "count": 2,
@@ -7651,8 +7662,21 @@
           "warnings": []
         },
         {
+          "id": "abc1444f3b2e",
+          "rank": 5,
+          "name": "村上春树",
+          "english": "",
+          "count": 2,
+          "sourceIds": [
+            "2091150254171280257",
+            "2090591571620242229"
+          ],
+          "aiCount": 0,
+          "warnings": []
+        },
+        {
           "id": "da4f1d5f2c1a",
-          "rank": 4,
+          "rank": 5,
           "name": "燕妮·埃彭贝克",
           "english": "Jenny Erpenbeck",
           "count": 2,
@@ -7665,7 +7689,7 @@
         },
         {
           "id": "51994626c047",
-          "rank": 4,
+          "rank": 5,
           "name": "玛格丽特·阿特伍德",
           "english": "Margaret Atwood",
           "count": 2,
@@ -7678,7 +7702,7 @@
         },
         {
           "id": "8f87fb0e8fcc",
-          "rank": 4,
+          "rank": 5,
           "name": "莉迪亚·若热",
           "english": "",
           "count": 2,
@@ -7690,8 +7714,21 @@
           "warnings": []
         },
         {
+          "id": "1019b35e4b46",
+          "rank": 5,
+          "name": "阿兰达蒂·洛伊",
+          "english": "",
+          "count": 2,
+          "sourceIds": [
+            "2090429139929121731",
+            "2091273670073366326"
+          ],
+          "aiCount": 0,
+          "warnings": []
+        },
+        {
           "id": "5244af364c52",
-          "rank": 9,
+          "rank": 11,
           "name": "克里斯蒂娜·佩里·罗西",
           "english": "",
           "count": 1,
@@ -7702,8 +7739,20 @@
           "warnings": []
         },
         {
+          "id": "233794c59d7f",
+          "rank": 11,
+          "name": "利迪娅·若热",
+          "english": "",
+          "count": 1,
+          "sourceIds": [
+            "2091273670073366326"
+          ],
+          "aiCount": 0,
+          "warnings": []
+        },
+        {
           "id": "e116f76ad89e",
-          "rank": 9,
+          "rank": 11,
           "name": "德博拉·莱维",
           "english": "",
           "count": 1,
@@ -7714,8 +7763,56 @@
           "warnings": []
         },
         {
+          "id": "e8767c2bc7a2",
+          "rank": 11,
+          "name": "恩里克·比拉-马塔斯",
+          "english": "",
+          "count": 1,
+          "sourceIds": [
+            "2091273670073366326"
+          ],
+          "aiCount": 0,
+          "warnings": []
+        },
+        {
+          "id": "bae35c210069",
+          "rank": 11,
+          "name": "斯科拉斯蒂克 · 穆卡松加",
+          "english": "",
+          "count": 1,
+          "sourceIds": [
+            "2091191202376835624"
+          ],
+          "aiCount": 0,
+          "warnings": []
+        },
+        {
+          "id": "d4e0057f4084",
+          "rank": 11,
+          "name": "杰拉尔德·穆南",
+          "english": "",
+          "count": 1,
+          "sourceIds": [
+            "2091199148414575632"
+          ],
+          "aiCount": 0,
+          "warnings": []
+        },
+        {
+          "id": "3862c9fd8a6b",
+          "rank": 11,
+          "name": "杰拉尔德・穆南",
+          "english": "",
+          "count": 1,
+          "sourceIds": [
+            "2091273935769884016"
+          ],
+          "aiCount": 0,
+          "warnings": []
+        },
+        {
           "id": "1d0574ca7dec",
-          "rank": 9,
+          "rank": 11,
           "name": "杰梅卡·金凯德",
           "english": "",
           "count": 1,
@@ -7729,7 +7826,7 @@
         },
         {
           "id": "9a28ba5634ee",
-          "rank": 9,
+          "rank": 11,
           "name": "玛曼达·恩戈兹·阿迪契",
           "english": "",
           "count": 1,
@@ -7743,7 +7840,7 @@
         },
         {
           "id": "f4ddfa07a087",
-          "rank": 9,
+          "rank": 11,
           "name": "米歇尔·德克雷策",
           "english": "",
           "count": 1,
@@ -7755,7 +7852,7 @@
         },
         {
           "id": "0507fb611a45",
-          "rank": 9,
+          "rank": 11,
           "name": "米歇尔·维勒贝克",
           "english": "Michel Houellebecq",
           "count": 1,
@@ -7767,7 +7864,7 @@
         },
         {
           "id": "60a04f2ae725",
-          "rank": 9,
+          "rank": 11,
           "name": "罗莎·蒙特罗",
           "english": "",
           "count": 1,
@@ -7779,7 +7876,7 @@
         },
         {
           "id": "81df9febce14",
-          "rank": 9,
+          "rank": 11,
           "name": "蕾切尔·卡斯克",
           "english": "",
           "count": 1,
@@ -7790,20 +7887,44 @@
           "warnings": []
         },
         {
-          "id": "1019b35e4b46",
-          "rank": 9,
-          "name": "阿兰达蒂·洛伊",
+          "id": "afe051c851de",
+          "rank": 11,
+          "name": "贝拉",
           "english": "",
           "count": 1,
           "sourceIds": [
-            "2090429139929121731"
+            "2090776602409971849"
+          ],
+          "aiCount": 0,
+          "warnings": []
+        },
+        {
+          "id": "28467a5dfebc",
+          "rank": 11,
+          "name": "阎连科",
+          "english": "",
+          "count": 1,
+          "sourceIds": [
+            "2091242795126231621"
+          ],
+          "aiCount": 0,
+          "warnings": []
+        },
+        {
+          "id": "884a2248e2d3",
+          "rank": 11,
+          "name": "阿米塔夫·高希",
+          "english": "",
+          "count": 1,
+          "sourceIds": [
+            "2091273670073366326"
           ],
           "aiCount": 0,
           "warnings": []
         },
         {
           "id": "33bebe79de1b",
-          "rank": 9,
+          "rank": 11,
           "name": "阿里·史密斯",
           "english": "",
           "count": 1,
@@ -7820,13 +7941,33 @@
           "id": "2090804268278212233",
           "url": "https://www.zhihu.com/question/2085781961016960614/answer/2090804268278212233",
           "summary": "残雪喊了很多年，过去都只是当个中国人的噱头在国内发酵，今年不一样，赔率榜上残雪超神了。虽然这个所谓的赔率榜预测成功的概率不大，但是华语文学界被外界关注，这本身就能代表一种倾向。 整体来看，今年可能获奖的作家除了残雪，还有另外一位墨西哥的克里斯蒂娜·里韦拉·加尔萨（Cristina Rivera Garza）和加拿大的诗人安妮·卡森。 个人观点，中文作家入选希望不大，这是由诺奖评选的机制天然形成的。 诺奖文学奖评委有18个…",
-          "people": [],
+          "people": [
+            "残雪",
+            "克里斯蒂娜·里韦拉·加尔萨",
+            "安妮·卡森"
+          ],
           "directions": [],
-          "reason": "待复核：新增或摘要有变更",
-          "reviewed": false,
-          "reviewMethod": null,
-          "reviewModel": null,
-          "reviewEvidence": [],
+          "reason": "作者明确列出今年可能获奖的作家包括残雪、克里斯蒂娜·里韦拉·加尔萨和安妮·卡森。",
+          "reviewed": true,
+          "reviewMethod": "zhida",
+          "reviewModel": "zhida-fast-1p5",
+          "reviewEvidence": [
+            {
+              "kind": "people",
+              "name": "残雪",
+              "quote": "今年可能获奖的作家除了残雪"
+            },
+            {
+              "kind": "people",
+              "name": "克里斯蒂娜·里韦拉·加尔萨",
+              "quote": "还有另外一位墨西哥的克里斯蒂娜·里韦拉·加尔萨（Cristina Rivera Garza）"
+            },
+            {
+              "kind": "people",
+              "name": "安妮·卡森",
+              "quote": "和加拿大的诗人安妮·卡森"
+            }
+          ],
           "aiAssisted": false,
           "warnings": []
         },
@@ -7850,13 +7991,21 @@
           "id": "2088239503840375723",
           "url": "https://www.zhihu.com/question/2085781961016960614/answer/2088239503840375723",
           "summary": "我对2026年诺贝尔文学奖的预测，不出所料是加拿大女诗人安妮•卡森。 诺贝尔文学奖历来颇受关注，去年我在知乎上预测匈牙利作家拉斯洛·克拉斯纳霍尔凯中奖，还得了200多块钱奖金。今年再来预测一波，乐呵乐呵。 众所周知，诺贝尔文学奖评奖兼顾两大维度，一是作品长久的文学美学价值，另外一个是平衡地域、性别、语种等，不会连续几年集中同一类型。2023年诺贝尔文学奖获奖者是挪威戏剧福瑟，2024年给了韩国韩江，2025年颁给匈…",
-          "people": [],
+          "people": [
+            "安妮·卡森"
+          ],
           "directions": [],
-          "reason": "待复核：新增或摘要有变更",
-          "reviewed": false,
-          "reviewMethod": null,
-          "reviewModel": null,
-          "reviewEvidence": [],
+          "reason": "作者明确预测2026年文学奖得主为安妮·卡森。",
+          "reviewed": true,
+          "reviewMethod": "zhida",
+          "reviewModel": "zhida-fast-1p5",
+          "reviewEvidence": [
+            {
+              "kind": "people",
+              "name": "安妮·卡森",
+              "quote": "我对2026年诺贝尔文学奖的预测，不出所料是加拿大女诗人安妮•卡森"
+            }
+          ],
           "aiAssisted": false,
           "warnings": []
         },
@@ -7951,6 +8100,28 @@
           "warnings": []
         },
         {
+          "id": "2091225550656483636",
+          "url": "https://www.zhihu.com/question/2085781961016960614/answer/2091225550656483636",
+          "summary": "我个人觉得今年诺贝尔文学奖得主可能会是位女性作家。 首推墨西哥女作家克里斯蒂娜·里维拉·加尔萨（Cristina Rivera Garza）。 [图片] 克里斯蒂娜·里维拉·加尔萨是位全职大学教授兼作家，精通英语和西班牙语。 她曾在墨西哥国立自治大学、蒙特雷科技大学托卢卡分校以及加利福尼亚大学圣地亚哥分校等大学教授历史与创意写作课程，目前在休斯顿大学任教。 克里斯蒂娜·里维拉·加尔萨以创作小说和回忆录闻名，是墨西哥最著名的当代作…",
+          "people": [
+            "克里斯蒂娜·里韦拉·加尔萨"
+          ],
+          "directions": [],
+          "reason": "作者明确首推克里斯蒂娜·里维拉·加尔萨为可能得主。",
+          "reviewed": true,
+          "reviewMethod": "zhida",
+          "reviewModel": "zhida-fast-1p5",
+          "reviewEvidence": [
+            {
+              "kind": "people",
+              "name": "克里斯蒂娜·里韦拉·加尔萨",
+              "quote": "首推墨西哥女作家克里斯蒂娜·里维拉·加尔萨（Cristina Rivera Garza）"
+            }
+          ],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
           "id": "2087493477730984190",
           "url": "https://www.zhihu.com/question/2085781961016960614/answer/2087493477730984190",
           "summary": "今年的诺贝尔文学奖将于2026年10月8日揭晓，目前菠菜公司赔率榜上排名第一的是来自我国的作家 残雪，排名第二的则是来自日本的作家村上春树。再往后的就是墨西哥的克里斯蒂娜-里韦拉-加尔萨、澳大利亚的杰拉尔德-穆楠、西班牙的恩里克-比拉-马塔斯等。首先了解一下我国的作家残雪。 残雪被誉为中国的卡夫卡，作品风格独特，在探讨精神世界方面独树一帜，透彻挖掘人类的潜意识和精神世界，因此读她的小说需要静下心来，细细品味其…",
@@ -7989,6 +8160,28 @@
           "reviewMethod": "human",
           "reviewModel": null,
           "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
+          "id": "2091084159741584233",
+          "url": "https://www.zhihu.com/question/2085781961016960614/answer/2091084159741584233",
+          "summary": "上一个回答预测今年的诺贝尔生理学或医学奖得主没有猜对，这次的诺贝尔文学奖预测不知道胜算能不能高一些。 老规矩，依然做四组预测。 01 不出所料，众望所归组获奖人选： 安妮·卡森（Anne Carson） 我参考了前排答主的回答，有一半的答主都选了她，应该算是众望所归了吧。 获奖理由： 她的作品多采用拼贴形式，杂糅了诗歌、散文、小说等体裁，以古典题材来探讨现代命题。 打破了诗歌、散文、古典学研究、戏剧的边界。 2026年，…",
+          "people": [
+            "安妮·卡森"
+          ],
+          "directions": [],
+          "reason": "作者在文学奖预测中列出安妮·卡森为获奖人选。",
+          "reviewed": true,
+          "reviewMethod": "zhida",
+          "reviewModel": "zhida-fast-1p5",
+          "reviewEvidence": [
+            {
+              "kind": "people",
+              "name": "安妮·卡森",
+              "quote": "01 不出所料，众望所归组获奖人选： 安妮·卡森（Anne Carson）"
+            }
+          ],
           "aiAssisted": false,
           "warnings": []
         },
@@ -8038,23 +8231,6 @@
           "warnings": []
         },
         {
-          "id": "2089004408512290880",
-          "url": "https://www.zhihu.com/question/2085781961016960614/answer/2089004408512290880",
-          "summary": "其他人没看过。我压残雪和玛格丽特·阿特伍德。",
-          "people": [
-            "残雪",
-            "玛格丽特·阿特伍德"
-          ],
-          "directions": [],
-          "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
-          "reviewed": true,
-          "reviewMethod": "human",
-          "reviewModel": null,
-          "reviewEvidence": [],
-          "aiAssisted": false,
-          "warnings": []
-        },
-        {
           "id": "2090400222811796839",
           "url": "https://www.zhihu.com/question/2085781961016960614/answer/2090400222811796839",
           "summary": "我猜残雪。没别的原因，就是支持国人获奖。既然聊到这个，顺便说说先锋小说到底在玩什么，以及赔率这么高、读者却说看不懂是怎么回事。 残雪是1985年开始写作的，四十年里一直写先锋小说。她的同代人里，很多人试验一阵就转了向：余华写完《现实一种》之后写出了《活着》和《许三观卖血记》，格非后来写了《江南三部曲》，都回到了有人物、有故事的写法上。残雪没有转，她在同一条路上越走越远，越走越深。 先锋小说兴起于八十年…",
@@ -8073,6 +8249,37 @@
               "quote": "我猜残雪。没别的原因，就是支持国人获奖。既然聊到这个，顺便说说先锋小说到底在玩什么，以及赔率这么高、读者却说看不懂是怎么回事。 残雪是1985年开始写作的，四十年里一直写先锋小说。她的同代人里，很多人试验一阵就转了向：余华写完《现实一种》之后写出了《活着》和《许三观卖血记》，格非后来写了《江南三部曲》，都回到了有人物、有故事的写法上。残雪没有转，她在同一条路上越走越远，越走越深。 先锋小说兴起于八十年…"
             }
           ],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
+          "id": "2089004408512290880",
+          "url": "https://www.zhihu.com/question/2085781961016960614/answer/2089004408512290880",
+          "summary": "其他人没看过。我压残雪和玛格丽特·阿特伍德。",
+          "people": [
+            "残雪",
+            "玛格丽特·阿特伍德"
+          ],
+          "directions": [],
+          "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+          "reviewed": true,
+          "reviewMethod": "human",
+          "reviewModel": null,
+          "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
+          "id": "2088697824670232676",
+          "url": "https://www.zhihu.com/question/2085781961016960614/answer/2088697824670232676",
+          "summary": "颁给AI。 然后宣布诺贝尔文学奖从此停办。 广陵散绝，断魂枪消，神仙索就此失传。 留下一个“华丽而苍凉的背影”。",
+          "people": [],
+          "directions": [],
+          "reason": "戏谑表述",
+          "reviewed": true,
+          "reviewMethod": "human",
+          "reviewModel": null,
+          "reviewEvidence": [],
           "aiAssisted": false,
           "warnings": []
         },
@@ -8117,44 +8324,60 @@
           "warnings": []
         },
         {
-          "id": "2088697824670232676",
-          "url": "https://www.zhihu.com/question/2085781961016960614/answer/2088697824670232676",
-          "summary": "颁给AI。 然后宣布诺贝尔文学奖从此停办。 广陵散绝，断魂枪消，神仙索就此失传。 留下一个“华丽而苍凉的背影”。",
-          "people": [],
-          "directions": [],
-          "reason": "戏谑表述",
-          "reviewed": true,
-          "reviewMethod": "human",
-          "reviewModel": null,
-          "reviewEvidence": [],
-          "aiAssisted": false,
-          "warnings": []
-        },
-        {
           "id": "2091150254171280257",
           "url": "https://www.zhihu.com/question/2085781961016960614/answer/2091150254171280257",
           "summary": "你对 2026 年诺贝尔文学奖有哪些预测？哪些作家及作品值得了解？ 谁能得奖，我并不清楚，但我希望村上春树得奖，主要原因是我买了太多他的作品，堆在家里太占地方，便宜卖掉又不舍得。如果村上春树能得奖，必定导致其作品价格大涨，连带二手书价格也大增，到时候我再把书卖掉，也能跟着喝一口汤。 他的作品有很多，最知名的当属挪威的森林，我就不说了，我只提一提他中后期的两部重量级作品：海边的卡夫卡和1Q84。这两部作品也很…",
+          "people": [
+            "村上春树"
+          ],
+          "directions": [],
+          "reason": "作者明确表达希望村上春树获奖，属于希望型正向预测。",
+          "reviewed": true,
+          "reviewMethod": "zhida",
+          "reviewModel": "zhida-fast-1p5",
+          "reviewEvidence": [
+            {
+              "kind": "people",
+              "name": "村上春树",
+              "quote": "谁能得奖，我并不清楚，但我希望村上春树得奖"
+            }
+          ],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
+          "id": "2091214055579173114",
+          "url": "https://www.zhihu.com/question/2085781961016960614/answer/2091214055579173114",
+          "summary": "每年的诺贝尔文学奖，流程都差不多。 热度是最高的，在各个平台都是，然后一般都是中国女作家，或者某某国家女作家在赔率榜榜首 然后一堆文学大V在那里押题，中国主残雪，日本村上春树，俄国柳德米拉 最后颁给一个不知名，但是文学圈内地位很高的作家 如果你给非洲就是种族主义，少数民族黑命贵，给北欧就是圈内讲，给美国就是跪舔，给日本就是小家子气，在韩国这玩意配，给中国，这对中国作家来说不是一件好事，意味着自己马上…",
           "people": [],
           "directions": [],
-          "reason": "待复核：新增或摘要有变更",
-          "reviewed": false,
-          "reviewMethod": null,
-          "reviewModel": null,
+          "reason": "仅描述赔率榜和大V押题现象，无作者本人的明确预测。",
+          "reviewed": true,
+          "reviewMethod": "zhida",
+          "reviewModel": "zhida-fast-1p5",
           "reviewEvidence": [],
           "aiAssisted": false,
           "warnings": []
         },
         {
-          "id": "2091084159741584233",
-          "url": "https://www.zhihu.com/question/2085781961016960614/answer/2091084159741584233",
-          "summary": "上一个回答预测今年的诺贝尔生理学或医学奖得主没有猜对，这次的诺贝尔文学奖预测不知道胜算能不能高一些。 老规矩，依然做四组预测。 01 不出所料，众望所归组获奖人选： 安妮·卡森（Anne Carson） 我参考了前排答主的回答，有一半的答主都选了她，应该算是众望所归了吧。 获奖理由： 她的作品多采用拼贴形式，杂糅了诗歌、散文、小说等体裁，以古典题材来探讨现代命题。 打破了诗歌、散文、古典学研究、戏剧的边界。 2026年，…",
-          "people": [],
+          "id": "2091191202376835624",
+          "url": "https://www.zhihu.com/question/2085781961016960614/answer/2091191202376835624",
+          "summary": "盲猜「卢旺达大屠杀的文学证词人」斯科拉斯蒂克 · 穆卡松加。 她的赔率位置是「榜尾有名、头部无影」，标准黑马位。 韩江2024年获奖前就处在赔率中段偏后的区间上。 2021年古尔纳完全不在榜。 2015克拉斯诺霍尔卡伊倒是赔率第二。 所以，穆卡松加完全符合「爆冷区」。 [图片] 斯科拉斯蒂克 · 穆卡松加的一生就是一部浓缩的卢旺达现代史。 1956年出生在卢旺达南部基孔戈罗省一个图西族家庭。 童年正遇上比利时殖民末期民族对立激化。 1…",
+          "people": [
+            "斯科拉斯蒂克 · 穆卡松加"
+          ],
           "directions": [],
-          "reason": "待复核：新增或摘要有变更",
-          "reviewed": false,
-          "reviewMethod": null,
-          "reviewModel": null,
-          "reviewEvidence": [],
+          "reason": "作者明确盲猜穆卡松加获奖。",
+          "reviewed": true,
+          "reviewMethod": "zhida",
+          "reviewModel": "zhida-fast-1p5",
+          "reviewEvidence": [
+            {
+              "kind": "people",
+              "name": "斯科拉斯蒂克 · 穆卡松加",
+              "quote": "盲猜「卢旺达大屠杀的文学证词人」斯科拉斯蒂克 · 穆卡松加。"
+            }
+          ],
           "aiAssisted": false,
           "warnings": []
         },
@@ -8164,10 +8387,10 @@
           "summary": "时代在变，人也在变，诺贝尔也在变。 今后诺贝尔会越来越多地颁给中国人，然后大家狂欢，商家炒作一番… 再然后慢慢就不值钱，大家见惯不怪，商家也懒得炒作…",
           "people": [],
           "directions": [],
-          "reason": "待复核：新增或摘要有变更",
-          "reviewed": false,
-          "reviewMethod": null,
-          "reviewModel": null,
+          "reason": "泛泛讨论诺奖颁给中国人的趋势，未预测具体作家。",
+          "reviewed": true,
+          "reviewMethod": "zhida",
+          "reviewModel": "zhida-fast-1p5",
           "reviewEvidence": [],
           "aiAssisted": false,
           "warnings": []
@@ -8178,25 +8401,33 @@
           "summary": "去年诺贝尔文学奖获奖者是个男作家，今年不出所料应该是个女作家，我对2026诺贝尔文学奖预测是墨西哥女作家里韦拉·加尔萨。去年我就预测她能中奖，今年执着地投她一票。 预测属于不出所料，获奖理由如下：里韦拉·加尔萨是一位备受瞩目的墨西哥女作家，以其对女性身份、家庭关系和社会不公的敏锐观察而闻名。她的作品往往充满力量，能够触动读者的心灵。 加尔萨文学作品是对墨西哥社会现状的深刻反思，通过细腻的笔触描绘了女性…",
           "people": [],
           "directions": [],
-          "reason": "待复核：新增或摘要有变更",
+          "reason": "直答输出校验失败，待人工复核：人名/方向缺少原文依据",
           "reviewed": false,
-          "reviewMethod": null,
-          "reviewModel": null,
+          "reviewMethod": "zhida",
+          "reviewModel": "zhida-fast-1p5",
           "reviewEvidence": [],
           "aiAssisted": false,
           "warnings": []
         },
         {
-          "id": "2090097562305016300",
-          "url": "https://www.zhihu.com/question/2085781961016960614/answer/2090097562305016300",
-          "summary": "我还是为是诺贝尔全体，原来是文学奖。",
-          "people": [],
+          "id": "2090517298188644964",
+          "url": "https://www.zhihu.com/question/2085781961016960614/answer/2090517298188644964",
+          "summary": "学习久留美酱，我已经押了自己的全部生活费给 安妮·卡森（Anne Carson），这次预测相对保守一些，如果没押中，到时候直播空中飞人（这个选择多少有些奇怪，因为我很难向一个没读过她的人用一句话解释她到底写什么，说她是诗人，不够；说她是古典学家，好像又把人说得太冷；她翻译萨福和索福克勒斯，也写离婚、游泳、母亲、哥哥、玛丽莲·梦露，写一只长着翅膀的红色怪物怎样爱上赫拉克勒斯，甚至会把一本书装进盒子，做成一长条…",
+          "people": [
+            "安妮·卡森"
+          ],
           "directions": [],
-          "reason": "摘要仅表示对奖项类别的惊讶，未给出任何作者预测。",
+          "reason": "作者明确押注安妮·卡森获奖。",
           "reviewed": true,
           "reviewMethod": "zhida",
           "reviewModel": "zhida-fast-1p5",
-          "reviewEvidence": [],
+          "reviewEvidence": [
+            {
+              "kind": "people",
+              "name": "安妮·卡森",
+              "quote": "我已经押了自己的全部生活费给 安妮·卡森（Anne Carson），这次预测相对保守一些"
+            }
+          ],
           "aiAssisted": false,
           "warnings": []
         },
@@ -8223,46 +8454,29 @@
           "warnings": []
         },
         {
-          "id": "2088715755768525029",
-          "url": "https://www.zhihu.com/question/2085781961016960614/answer/2088715755768525029",
-          "summary": "完犊子了，本来计划今年把我的天体的机械传动原理找个期刊发表，结果却落空了。",
+          "id": "2091218585259713633",
+          "url": "https://www.zhihu.com/question/2085781961016960614/answer/2091218585259713633",
+          "summary": "不是是个精神分裂症患者都可以叫卡夫卡的。 你得精神分裂症，可能就只是…精神分裂而已。",
           "people": [],
           "directions": [],
-          "reason": "无文学奖预测",
+          "reason": "纯玩笑调侃卡夫卡与精神分裂症，无2026年文学奖预测。",
           "reviewed": true,
-          "reviewMethod": "human",
-          "reviewModel": null,
+          "reviewMethod": "zhida",
+          "reviewModel": "zhida-fast-1p5",
           "reviewEvidence": [],
           "aiAssisted": false,
           "warnings": []
         },
         {
-          "id": "2090517298188644964",
-          "url": "https://www.zhihu.com/question/2085781961016960614/answer/2090517298188644964",
-          "summary": "学习久留美酱，我已经押了自己的全部生活费给 安妮·卡森（Anne Carson），这次预测相对保守一些，如果没押中，到时候直播空中飞人（这个选择多少有些奇怪，因为我很难向一个没读过她的人用一句话解释她到底写什么，说她是诗人，不够；说她是古典学家，好像又把人说得太冷；她翻译萨福和索福克勒斯，也写离婚、游泳、母亲、哥哥、玛丽莲·梦露，写一只长着翅膀的红色怪物怎样爱上赫拉克勒斯，甚至会把一本书装进盒子，做成一长条…",
+          "id": "2090097562305016300",
+          "url": "https://www.zhihu.com/question/2085781961016960614/answer/2090097562305016300",
+          "summary": "我还是为是诺贝尔全体，原来是文学奖。",
           "people": [],
           "directions": [],
-          "reason": "待复核：新增或摘要有变更",
-          "reviewed": false,
-          "reviewMethod": null,
-          "reviewModel": null,
-          "reviewEvidence": [],
-          "aiAssisted": false,
-          "warnings": []
-        },
-        {
-          "id": "2089269542379959533",
-          "url": "https://www.zhihu.com/question/2085781961016960614/answer/2089269542379959533",
-          "summary": "我预测是安妮卡森，私心希望是玛格丽特阿特伍德。 具体说下安妮卡森： 安妮卡森比较特别的地方，是她很难被放进固定的文学类型里。 她是诗人，也是翻译家，散文家，古典学者。这些身份在她的写作中彼此渗透。 她的作品可以同时是：诗歌、哲学论文、古典学研究、私人哀悼、神学思辨、戏剧、歌剧脚本、视觉文本。 某种程度上，我认为卡森重新定义了诗歌可以是什么。另外，她的写作也是少有的“自我不是中心”。近十年的文学有很强…",
-          "people": [
-            "安妮·卡森",
-            "玛格丽特·阿特伍德"
-          ],
-          "directions": [],
-          "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+          "reason": "摘要仅表示对奖项类别的惊讶，未给出任何作者预测。",
           "reviewed": true,
-          "reviewMethod": "human",
-          "reviewModel": null,
+          "reviewMethod": "zhida",
+          "reviewModel": "zhida-fast-1p5",
           "reviewEvidence": [],
           "aiAssisted": false,
           "warnings": []
@@ -8292,14 +8506,81 @@
           "warnings": []
         },
         {
-          "id": "2090591571620242229",
-          "url": "https://www.zhihu.com/question/2085781961016960614/answer/2090591571620242229",
-          "summary": "风水轮流转，也该轮到残雪或者村上春树了，不过我不太懂当代文学，也没读过残雪，我不知道为什么她年年都能上赔率榜。",
+          "id": "2088715755768525029",
+          "url": "https://www.zhihu.com/question/2085781961016960614/answer/2088715755768525029",
+          "summary": "完犊子了，本来计划今年把我的天体的机械传动原理找个期刊发表，结果却落空了。",
           "people": [],
           "directions": [],
-          "reason": "待复核：新增或摘要有变更",
-          "reviewed": false,
-          "reviewMethod": null,
+          "reason": "无文学奖预测",
+          "reviewed": true,
+          "reviewMethod": "human",
+          "reviewModel": null,
+          "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
+          "id": "2091196005001729031",
+          "url": "https://www.zhihu.com/question/2085781961016960614/answer/2091196005001729031",
+          "summary": "这种竞猜还挺有意思，针对这次的文学奖，我说下我的想法。 今年热门里残雪呼声很高，我觉得大概率会是她。 她的文字风格很先锋，偏向写潜意识、梦境，很多人说有卡夫卡那味儿，海外汉学界评价特别高，译本也多。但对普通读者来说，读起来门槛不低，不少人看完会觉得晦涩难懂。如果想试试，优先看短篇《山上的小屋》，篇幅不长，能快速体会她的写作风格。 还有常年陪跑的村上春树，粉丝基数巨大，几乎每年都在候选名单。不过瑞典…",
+          "people": [
+            "残雪"
+          ],
+          "directions": [],
+          "reason": "作者明确正向预测残雪大概率获奖；村上春树仅为转述他人候选情况，非作者预测。",
+          "reviewed": true,
+          "reviewMethod": "zhida",
+          "reviewModel": "zhida-fast-1p5",
+          "reviewEvidence": [
+            {
+              "kind": "people",
+              "name": "残雪",
+              "quote": "今年热门里残雪呼声很高，我觉得大概率会是她。"
+            }
+          ],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
+          "id": "2090473636692078612",
+          "url": "https://www.zhihu.com/question/2085781961016960614/answer/2090473636692078612",
+          "summary": "其实我不太关心诺奖，除非颁给品钦或者德里罗。 我觉得诺奖作者构成的文学地图也不适合作为构建一个有效的审美体系参考，世界文学这个研究主题也不是我所感兴趣的，自然也不太想去考虑它究竟是有变成cosmopolitan tribunal of literature的风险还是认为赋予文学作品可译性只会是把巴黎、伦敦、纽约之外的文学带进巴黎、伦敦、纽约的评价体系。不过想一下我自己的偏好其实也挺狭窄的，或者可以被white Anglo-American male high-l…",
+          "people": [
+            "托马斯·品钦",
+            "德里罗"
+          ],
+          "directions": [],
+          "reason": "作者明确只期待品钦或德里罗获奖，属于明确希望获奖的候选。",
+          "reviewed": true,
+          "reviewMethod": "human",
+          "reviewModel": null,
+          "reviewEvidence": [
+            {
+              "kind": "people",
+              "name": "托马斯·品钦",
+              "quote": "其实我不太关心诺奖，除非颁给品钦或者德里罗。 我觉得诺奖作者构成的文学地图也不适合作为构建一个有效的审美体系参考，世界文学这个研究主题也不是我所感兴趣的，自然也不太想去考虑它究竟是有变成cosmopolitan tribunal of literature的风险还是认为赋予文学作品可译性只会是把巴黎、伦敦、纽约之外的文学带进巴黎、伦敦、纽约的评价体系。不过想一下我自己的偏好其实也挺狭窄的，或者可以被white Anglo-American male high-l…"
+            },
+            {
+              "kind": "people",
+              "name": "德里罗",
+              "quote": "其实我不太关心诺奖，除非颁给品钦或者德里罗。 我觉得诺奖作者构成的文学地图也不适合作为构建一个有效的审美体系参考，世界文学这个研究主题也不是我所感兴趣的，自然也不太想去考虑它究竟是有变成cosmopolitan tribunal of literature的风险还是认为赋予文学作品可译性只会是把巴黎、伦敦、纽约之外的文学带进巴黎、伦敦、纽约的评价体系。不过想一下我自己的偏好其实也挺狭窄的，或者可以被white Anglo-American male high-l…"
+            }
+          ],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
+          "id": "2089269542379959533",
+          "url": "https://www.zhihu.com/question/2085781961016960614/answer/2089269542379959533",
+          "summary": "我预测是安妮卡森，私心希望是玛格丽特阿特伍德。 具体说下安妮卡森： 安妮卡森比较特别的地方，是她很难被放进固定的文学类型里。 她是诗人，也是翻译家，散文家，古典学者。这些身份在她的写作中彼此渗透。 她的作品可以同时是：诗歌、哲学论文、古典学研究、私人哀悼、神学思辨、戏剧、歌剧脚本、视觉文本。 某种程度上，我认为卡森重新定义了诗歌可以是什么。另外，她的写作也是少有的“自我不是中心”。近十年的文学有很强…",
+          "people": [
+            "安妮·卡森",
+            "玛格丽特·阿特伍德"
+          ],
+          "directions": [],
+          "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+          "reviewed": true,
+          "reviewMethod": "human",
           "reviewModel": null,
           "reviewEvidence": [],
           "aiAssisted": false,
@@ -8336,30 +8617,16 @@
           ]
         },
         {
-          "id": "2090473636692078612",
-          "url": "https://www.zhihu.com/question/2085781961016960614/answer/2090473636692078612",
-          "summary": "其实我不太关心诺奖，除非颁给品钦或者德里罗。 我觉得诺奖作者构成的文学地图也不适合作为构建一个有效的审美体系参考，世界文学这个研究主题也不是我所感兴趣的，自然也不太想去考虑它究竟是有变成cosmopolitan tribunal of literature的风险还是认为赋予文学作品可译性只会是把巴黎、伦敦、纽约之外的文学带进巴黎、伦敦、纽约的评价体系。不过想一下我自己的偏好其实也挺狭窄的，或者可以被white Anglo-American male high-l…",
-          "people": [
-            "托马斯·品钦",
-            "德里罗"
-          ],
+          "id": "2090888347996767741",
+          "url": "https://www.zhihu.com/question/2085781961016960614/answer/2090888347996767741",
+          "summary": "我选阿特伍德，她绝对是诺奖级别的作家。她都快九十岁了，再不给她，怕要成诺奖遗珠。",
+          "people": [],
           "directions": [],
-          "reason": "作者明确只期待品钦或德里罗获奖，属于明确希望获奖的候选。",
-          "reviewed": true,
-          "reviewMethod": "human",
-          "reviewModel": null,
-          "reviewEvidence": [
-            {
-              "kind": "people",
-              "name": "托马斯·品钦",
-              "quote": "其实我不太关心诺奖，除非颁给品钦或者德里罗。 我觉得诺奖作者构成的文学地图也不适合作为构建一个有效的审美体系参考，世界文学这个研究主题也不是我所感兴趣的，自然也不太想去考虑它究竟是有变成cosmopolitan tribunal of literature的风险还是认为赋予文学作品可译性只会是把巴黎、伦敦、纽约之外的文学带进巴黎、伦敦、纽约的评价体系。不过想一下我自己的偏好其实也挺狭窄的，或者可以被white Anglo-American male high-l…"
-            },
-            {
-              "kind": "people",
-              "name": "德里罗",
-              "quote": "其实我不太关心诺奖，除非颁给品钦或者德里罗。 我觉得诺奖作者构成的文学地图也不适合作为构建一个有效的审美体系参考，世界文学这个研究主题也不是我所感兴趣的，自然也不太想去考虑它究竟是有变成cosmopolitan tribunal of literature的风险还是认为赋予文学作品可译性只会是把巴黎、伦敦、纽约之外的文学带进巴黎、伦敦、纽约的评价体系。不过想一下我自己的偏好其实也挺狭窄的，或者可以被white Anglo-American male high-l…"
-            }
-          ],
+          "reason": "直答输出校验失败，待人工复核：人名/方向缺少原文依据",
+          "reviewed": false,
+          "reviewMethod": "zhida",
+          "reviewModel": "zhida-fast-1p5",
+          "reviewEvidence": [],
           "aiAssisted": false,
           "warnings": []
         },
@@ -8378,16 +8645,72 @@
           "warnings": []
         },
         {
+          "id": "2090591571620242229",
+          "url": "https://www.zhihu.com/question/2085781961016960614/answer/2090591571620242229",
+          "summary": "风水轮流转，也该轮到残雪或者村上春树了，不过我不太懂当代文学，也没读过残雪，我不知道为什么她年年都能上赔率榜。",
+          "people": [
+            "残雪",
+            "村上春树"
+          ],
+          "directions": [],
+          "reason": "作者表达了残雪或村上春树该获奖的正向预测，后文怀疑语气针对赔率榜机制而非撤回预测。",
+          "reviewed": true,
+          "reviewMethod": "zhida",
+          "reviewModel": "zhida-fast-1p5",
+          "reviewEvidence": [
+            {
+              "kind": "people",
+              "name": "残雪",
+              "quote": "风水轮流转，也该轮到残雪或者村上春树了"
+            },
+            {
+              "kind": "people",
+              "name": "村上春树",
+              "quote": "风水轮流转，也该轮到残雪或者村上春树了"
+            }
+          ],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
           "id": "2091078387091747607",
           "url": "https://www.zhihu.com/question/2085781961016960614/answer/2091078387091747607",
           "summary": "利迪娅·若热可能性很大。其次是亚历克西斯·赖特。（省流：结尾有预测名单） 很奇怪高赞回答把若热忽略了，我感觉，她已经命中了几乎所有的诺奖「风向标」。 赔率榜那玩意就不谈了，前两名纯整活。 （不过若热也在赔率榜前十，不在前二，这就是好信号了，更像能获奖的样子😂） 利迪娅·若热最重要的两个加分项是同时存在的，一个是年纪刚好（足够年长），一个是年纪这么大了还仍有创作、仍在获奖。 [图片] 七八十岁是诺奖得主很集中…",
           "people": [],
           "directions": [],
-          "reason": "待复核：新增或摘要有变更",
+          "reason": "直答输出校验失败，待人工复核：人名/方向缺少原文依据",
           "reviewed": false,
-          "reviewMethod": null,
-          "reviewModel": null,
+          "reviewMethod": "zhida",
+          "reviewModel": "zhida-fast-1p5",
           "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
+          "id": "2091273935769884016",
+          "url": "https://www.zhihu.com/question/2085781961016960614/answer/2091273935769884016",
+          "summary": "1.残雪-先锋派、卡夫卡式写作原因：创作极具先锋实验性，被视作中国卡夫卡式作家。持续挖掘潜意识、梦魇与人性幽暗，文本独树一帜；在国际汉学界认可度极高，近年长期居于诺奖赔率前列。瑞典学院有发掘非西方先锋叙事的倾向，其独特的内心叙事体系，具备诺奖看重的文学独创性 2.杰拉尔德・穆南、极简、晦涩，澳大利亚文坛的 \"隐士作家\"原因：澳大利亚隐士型作家，风格极简、文字克制晦涩，极少公开露面、远离文坛喧嚣，契合诺…",
+          "people": [
+            "残雪",
+            "杰拉尔德・穆南"
+          ],
+          "directions": [],
+          "reason": "作者明确列出残雪和杰拉尔德·穆南作为获奖预测。",
+          "reviewed": true,
+          "reviewMethod": "zhida",
+          "reviewModel": "zhida-fast-1p5",
+          "reviewEvidence": [
+            {
+              "kind": "people",
+              "name": "残雪",
+              "quote": "1.残雪-先锋派、卡夫卡式写作原因：创作极具先锋实验性，被视作中国卡夫卡式作家"
+            },
+            {
+              "kind": "people",
+              "name": "杰拉尔德・穆南",
+              "quote": "2.杰拉尔德・穆南、极简、晦涩，澳大利亚文坛的 \"隐士作家\""
+            }
+          ],
           "aiAssisted": false,
           "warnings": []
         },
@@ -8397,25 +8720,55 @@
           "summary": "猜测6位作家，加拿大的安妮·卡森，同为加拿大的阿特伍德，美国的恩德里克，出身于西印度群岛的琴凯德，墨西哥的加尔萨，新西兰的埃莉诺·卡顿。",
           "people": [],
           "directions": [],
-          "reason": "待复核：新增或摘要有变更",
+          "reason": "直答输出校验失败，待人工复核：人名/方向缺少原文依据",
           "reviewed": false,
-          "reviewMethod": null,
-          "reviewModel": null,
+          "reviewMethod": "zhida",
+          "reviewModel": "zhida-fast-1p5",
           "reviewEvidence": [],
           "aiAssisted": false,
           "warnings": []
         },
         {
-          "id": "2090888347996767741",
-          "url": "https://www.zhihu.com/question/2085781961016960614/answer/2090888347996767741",
-          "summary": "我选阿特伍德，她绝对是诺奖级别的作家。她都快九十岁了，再不给她，怕要成诺奖遗珠。",
-          "people": [],
+          "id": "2091242795126231621",
+          "url": "https://www.zhihu.com/question/2085781961016960614/answer/2091242795126231621",
+          "summary": "虽然不太可能，但我希望是阎连科。我心目中最悲悯的作家。他以荒诞而浪漫的叙事，书写出了时代巨变中人们所共享的迷惘、欲望苦难与坚韧，在黑暗的深处打捞着小人物的尊严与真实。",
+          "people": [
+            "阎连科"
+          ],
           "directions": [],
-          "reason": "待复核：新增或摘要有变更",
-          "reviewed": false,
-          "reviewMethod": null,
-          "reviewModel": null,
-          "reviewEvidence": [],
+          "reason": "作者明确表达希望阎连科获奖，属于希望获奖的人名。",
+          "reviewed": true,
+          "reviewMethod": "zhida",
+          "reviewModel": "zhida-fast-1p5",
+          "reviewEvidence": [
+            {
+              "kind": "people",
+              "name": "阎连科",
+              "quote": "虽然不太可能，但我希望是阎连科。我心目中最悲悯的作家。"
+            }
+          ],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
+          "id": "2091199148414575632",
+          "url": "https://www.zhihu.com/question/2085781961016960614/answer/2091199148414575632",
+          "summary": "我赌今年是杰拉尔德·穆南（Gerald Murnane），澳大利亚人，87岁。明晚（10月8日）七点开奖，帖子先押在这儿，错了我自己删。 理由跟网上流行的“分洲轮班”不太一样，我看的是瑞典学院这几年实际在干什么。 2023年给福瑟，2025年给克拉斯纳霍尔凯——这两位都是出了名的“难”：一个是挪威西海岸写极简沉默剧的，一个是匈牙利人、一句话能撑半页。普通读者买回家，大概率翻十页就放下。学院连续把奖给这种“作家中的作家”，信…",
+          "people": [
+            "杰拉尔德·穆南"
+          ],
+          "directions": [],
+          "reason": "作者明确押注杰拉尔德·穆南获2026年文学奖。",
+          "reviewed": true,
+          "reviewMethod": "zhida",
+          "reviewModel": "zhida-fast-1p5",
+          "reviewEvidence": [
+            {
+              "kind": "people",
+              "name": "杰拉尔德·穆南",
+              "quote": "我赌今年是杰拉尔德·穆南（Gerald Murnane），澳大利亚人，87岁"
+            }
+          ],
           "aiAssisted": false,
           "warnings": []
         },
@@ -8425,10 +8778,10 @@
           "summary": "很多人都在蹲2026诺贝尔文学奖的结果，网上到处都是赔率榜单，大家习惯把它当成一场文学彩票，猜谁会中奖。但我作为INFJ，看待这件事的角度不太一样。不一定对，只是我读这些文字的时候，内心生出的感受。 INFJ好像天生就会下意识往文字底下钻，不单单看故事，更在意藏在叙事背后，那些难以说出口的精神困境，个体创伤，还有人在时代洪流里那种无声的挣扎。近几年诺奖的取向其实很清晰，偏爱那些能把私人的痛苦，上升到人类共通…",
           "people": [],
           "directions": [],
-          "reason": "待复核：新增或摘要有变更",
+          "reason": "直答无法确定，待人工复核：摘要只讨论诺奖取向和阅读感受，未给出明确的人名或方向预测。",
           "reviewed": false,
-          "reviewMethod": null,
-          "reviewModel": null,
+          "reviewMethod": "zhida",
+          "reviewModel": "zhida-fast-1p5",
           "reviewEvidence": [],
           "aiAssisted": false,
           "warnings": []
@@ -8437,43 +8790,21 @@
           "id": "2090776602409971849",
           "url": "https://www.zhihu.com/question/2085781961016960614/answer/2090776602409971849",
           "summary": "我对于2026年诺贝尔文学奖的预测加拿大女作家贝拉（沈镭），她不在诺贝尔文学奖获奖热榜里，但个人很喜欢她的作品。 贝拉在跨文化、犹太流亡题材写作与国际比较文学研究领域拥有独特的位置。她的代表作《魔咒钢琴》、《幸存者之歌》等作品聚焦二战时期犹太难民流亡上海的历史，是国内较少以小说形式书写这一历史的作家。这对于世界了解犹太人这个民族有非常大的帮助。 贝拉以爱情、音乐、苦难、人性博爱为核心，融合跨地域、跨文…",
-          "people": [],
-          "directions": [],
-          "reason": "待复核：新增或摘要有变更",
-          "reviewed": false,
-          "reviewMethod": null,
-          "reviewModel": null,
-          "reviewEvidence": [],
-          "aiAssisted": false,
-          "warnings": []
-        },
-        {
-          "id": "2089392708926416791",
-          "url": "https://www.zhihu.com/question/2085781961016960614/answer/2089392708926416791",
-          "summary": "预测三位： 1. 克里斯蒂娜·里韦拉·加尔萨（Cristina Rivera Garza） 2025年颁给匈牙利男作家克拉斯诺霍尔卡伊后，按学院近十年“男女交替”的节奏，2026年大概率属于女性。 拉美地区自2010年巴尔加斯·略萨后已空缺16年，加尔萨是当下拉美最具国际能见度的作家之一。2024年她凭《莉莉亚娜不可战胜的夏天》获普利策回忆录奖，该书将个人伤痛转化为对性别暴力的结构性批判，正是学院近年偏好的“参与性写作”。 她62岁，处于获奖…",
           "people": [
-            "克里斯蒂娜·里韦拉·加尔萨"
+            "贝拉"
           ],
           "directions": [],
-          "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+          "reason": "作者明确预测贝拉为2026年诺贝尔文学奖人选。",
           "reviewed": true,
-          "reviewMethod": "human",
-          "reviewModel": null,
-          "reviewEvidence": [],
-          "aiAssisted": false,
-          "warnings": []
-        },
-        {
-          "id": "2091073144643761831",
-          "url": "https://www.zhihu.com/question/2085781961016960614/answer/2091073144643761831",
-          "summary": "连续多年的诺贝尔文学奖揭晓前，除了国人以外几乎所有国家的读者认知获奖名单意识里，总会绕不开“残雪”这个名字，而每一次诺贝尔文学奖揭晓后，残雪却习惯性的与诺奖失之交臂。 2019年就有人采访过“残雪”，问她对诺奖的评价，残雪说，诺奖的含金量应该不高吧。对普通人来说，残雪这句话也许只是“吃不到葡萄说葡萄酸”的自我安慰，而对于国外的学者，认为残雪对诺奖的评价并不掉价。 国外许多的文学研究机构如日本在很早的时…",
-          "people": [],
-          "directions": [],
-          "reason": "待复核：新增或摘要有变更",
-          "reviewed": false,
-          "reviewMethod": null,
-          "reviewModel": null,
-          "reviewEvidence": [],
+          "reviewMethod": "zhida",
+          "reviewModel": "zhida-fast-1p5",
+          "reviewEvidence": [
+            {
+              "kind": "people",
+              "name": "贝拉",
+              "quote": "我对于2026年诺贝尔文学奖的预测加拿大女作家贝拉（沈镭）"
+            }
+          ],
           "aiAssisted": false,
           "warnings": []
         },
@@ -8494,6 +8825,58 @@
           ]
         },
         {
+          "id": "2089392708926416791",
+          "url": "https://www.zhihu.com/question/2085781961016960614/answer/2089392708926416791",
+          "summary": "预测三位： 1. 克里斯蒂娜·里韦拉·加尔萨（Cristina Rivera Garza） 2025年颁给匈牙利男作家克拉斯诺霍尔卡伊后，按学院近十年“男女交替”的节奏，2026年大概率属于女性。 拉美地区自2010年巴尔加斯·略萨后已空缺16年，加尔萨是当下拉美最具国际能见度的作家之一。2024年她凭《莉莉亚娜不可战胜的夏天》获普利策回忆录奖，该书将个人伤痛转化为对性别暴力的结构性批判，正是学院近年偏好的“参与性写作”。 她62岁，处于获奖…",
+          "people": [
+            "克里斯蒂娜·里韦拉·加尔萨"
+          ],
+          "directions": [],
+          "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+          "reviewed": true,
+          "reviewMethod": "human",
+          "reviewModel": null,
+          "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
+          "id": "2090940988097296300",
+          "url": "https://www.zhihu.com/question/2085781961016960614/answer/2090940988097296300",
+          "summary": "《原神》能否获得诺贝尔文学奖? 刚产生这个想法我也觉得不可能，但是之后越想越靠谱，越想越激动，can't help myself。 理由如下: ①具备一般的文学素养，即可以感知的画面、巧妙编排的情节和发人深思的启示，是奇幻**和现实**的奇妙融合，让历史的微光照进物质文明高度发展的现代社会。 ②融合了全世界各国的文化，既显示了差异性也显示了包容性，是批判者也是宣扬者，是人类历史_上出现的所有命题的集大成者，表达了人类最广泛…",
+          "people": [],
+          "directions": [],
+          "reason": "讨论《原神》能否获奖属明显玩笑式假设，非严肃获奖预测。",
+          "reviewed": true,
+          "reviewMethod": "zhida",
+          "reviewModel": "zhida-fast-1p5",
+          "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
+          "id": "2091073144643761831",
+          "url": "https://www.zhihu.com/question/2085781961016960614/answer/2091073144643761831",
+          "summary": "连续多年的诺贝尔文学奖揭晓前，除了国人以外几乎所有国家的读者认知获奖名单意识里，总会绕不开“残雪”这个名字，而每一次诺贝尔文学奖揭晓后，残雪却习惯性的与诺奖失之交臂。 2019年就有人采访过“残雪”，问她对诺奖的评价，残雪说，诺奖的含金量应该不高吧。对普通人来说，残雪这句话也许只是“吃不到葡萄说葡萄酸”的自我安慰，而对于国外的学者，认为残雪对诺奖的评价并不掉价。 国外许多的文学研究机构如日本在很早的时…",
+          "people": [
+            "残雪"
+          ],
+          "directions": [],
+          "reason": "作者语境中残雪是诺奖热门人选，属明确正向预测/希望获奖。",
+          "reviewed": true,
+          "reviewMethod": "zhida",
+          "reviewModel": "zhida-fast-1p5",
+          "reviewEvidence": [
+            {
+              "kind": "people",
+              "name": "残雪",
+              "quote": "总会绕不开“残雪”这个名字"
+            }
+          ],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
           "id": "2088736454964950070",
           "url": "https://www.zhihu.com/question/2085781961016960614/answer/2088736454964950070",
           "summary": "诺贝尔文学奖一直都令人备受关注，这次我押个天才，就是加拿大女诗人安妮·卡森，她最有机会拿到诺贝尔文学奖。 [图片] 去年我也预测了诺贝尔文学奖获得者，结果没有猜对。这次我觉得如果安妮·卡森不得诺贝尔文学奖，那文坛的天都要抖三抖了。 安妮·卡森是本世纪最重要的在世诗人之一，哈罗德·布鲁姆称她为\"在世诸天才之一\"。她真的让诗歌有灵魂，让古典学识有生命，把古典学识与先锋诗歌实验融合，让世人重新认识诗歌的魅力与文学的…",
@@ -8510,9 +8893,105 @@
           "warnings": []
         },
         {
-          "id": "2090940988097296300",
-          "url": "https://www.zhihu.com/question/2085781961016960614/answer/2090940988097296300",
-          "summary": "《原神》能否获得诺贝尔文学奖? 刚产生这个想法我也觉得不可能，但是之后越想越靠谱，越想越激动，can't help myself。 理由如下: ①具备一般的文学素养，即可以感知的画面、巧妙编排的情节和发人深思的启示，是奇幻**和现实**的奇妙融合，让历史的微光照进物质文明高度发展的现代社会。 ②融合了全世界各国的文化，既显示了差异性也显示了包容性，是批判者也是宣扬者，是人类历史_上出现的所有命题的集大成者，表达了人类最广泛…",
+          "id": "2091273670073366326",
+          "url": "https://www.zhihu.com/question/2085781961016960614/answer/2091273670073366326",
+          "summary": "2026 年诺贝尔文学奖 尚未揭晓，将于北京时间 10 月 8 日 19:00 公布。 今年奖金上调至 1200 万瑞典克朗，约合人民币 815 万元。目前所有“预测”都来自博彩赔率、媒体观察和文学圈讨论，并非官方名单。诺贝尔文学奖提名保密 50 年，外界只能从赔率榜、近年颁奖趋势和作家国际影响力来推测。 今年最被关注的热门作家： [图片] 此外， 恩里克·比拉-马塔斯（西班牙）、利迪娅·若热（葡萄牙）、阿米塔夫·高希（印度）、阿兰达蒂·洛伊（…",
+          "people": [
+            "恩里克·比拉-马塔斯",
+            "利迪娅·若热",
+            "阿米塔夫·高希",
+            "阿兰达蒂·洛伊"
+          ],
+          "directions": [],
+          "reason": "作者列举今年最被关注的热门作家作为2026年诺奖预测。",
+          "reviewed": true,
+          "reviewMethod": "zhida",
+          "reviewModel": "zhida-fast-1p5",
+          "reviewEvidence": [
+            {
+              "kind": "people",
+              "name": "恩里克·比拉-马塔斯",
+              "quote": "恩里克·比拉-马塔斯（西班牙）"
+            },
+            {
+              "kind": "people",
+              "name": "利迪娅·若热",
+              "quote": "利迪娅·若热（葡萄牙）"
+            },
+            {
+              "kind": "people",
+              "name": "阿米塔夫·高希",
+              "quote": "阿米塔夫·高希（印度）"
+            },
+            {
+              "kind": "people",
+              "name": "阿兰达蒂·洛伊",
+              "quote": "阿兰达蒂·洛伊（"
+            }
+          ],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
+          "id": "2091257746373006739",
+          "url": "https://www.zhihu.com/question/2085781961016960614/answer/2091257746373006739",
+          "summary": "先说时间。 2026年诺贝尔文学奖将在10月8日公布。 然后再说一句每年预测诺贝尔文学奖之前都应该默念的话： 猜诺贝尔文学奖，本质上和猜LPL世界赛冠军差不多。 你可以分析版本。 分析阵容。 分析状态。 分析过去十年的数据。 最后瑞典学院出来： “恭喜一个你赔率表翻到第六页才看见的人。” 因为诺贝尔文学奖压根没有公开候选名单。 提名、评审意见要保密50年。(诺贝尔奖官网) 所以网上所有所谓： “2026诺奖十大热门” 翻译一下…",
+          "people": [],
+          "directions": [],
+          "reason": "仅讨论预测的不可靠性，作者未给出自己的预测人选。",
+          "reviewed": true,
+          "reviewMethod": "zhida",
+          "reviewModel": "zhida-fast-1p5",
+          "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
+          "id": "2091250115772265867",
+          "url": "https://www.zhihu.com/question/2085781961016960614/answer/2091250115772265867",
+          "summary": "余华 震云",
+          "people": [],
+          "directions": [],
+          "reason": "待复核：新增或摘要有变更",
+          "reviewed": false,
+          "reviewMethod": null,
+          "reviewModel": null,
+          "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
+          "id": "2091249106173826296",
+          "url": "https://www.zhihu.com/question/2085781961016960614/answer/2091249106173826296",
+          "summary": "今年应该是阿特伍德，现在诺奖的获奖逻辑太好猜了，排排坐吃果果。",
+          "people": [],
+          "directions": [],
+          "reason": "待复核：新增或摘要有变更",
+          "reviewed": false,
+          "reviewMethod": null,
+          "reviewModel": null,
+          "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
+          "id": "2091216158540223291",
+          "url": "https://www.zhihu.com/question/2085781961016960614/answer/2091216158540223291",
+          "summary": "今年会是一位诗人。",
+          "people": [],
+          "directions": [],
+          "reason": "待复核：新增或摘要有变更",
+          "reviewed": false,
+          "reviewMethod": null,
+          "reviewModel": null,
+          "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
+          "id": "2091213425812698785",
+          "url": "https://www.zhihu.com/question/2085781961016960614/answer/2091213425812698785",
+          "summary": "前置重要提醒 瑞典文学院不会公开提名名单，所有预测都来自博彩赔率榜、文学界评论，不等于官方候选，赔率只能作为参考，历史上赔率榜首经常落选，冷门也会杀出。 2026文学奖北京时间10月8日晚19:00揭晓，赔率榜（Nicer Odds/立博）目前头部热门：残雪（中国）、村上春树（日本）、杰拉尔德·穆南（澳大利亚）、托马斯·品钦（美国）、克里斯蒂娜·里维拉·加尔萨（墨西哥）。一、热门作家+代表作简介（按赔率热度排序）1. 残雪…",
           "people": [],
           "directions": [],
           "reason": "待复核：新增或摘要有变更",
@@ -8580,6 +9059,20 @@
           "reviewEvidence": [],
           "aiAssisted": false,
           "warnings": []
+        },
+        {
+          "id": "2091258804881076977",
+          "url": "https://www.zhihu.com/question/2085781961016960614/answer/2091258804881076977",
+          "summary": "纯属娱乐请勿当真 米歇尔.维勒贝克 为什么，根据我的塔罗牌抽牌结果： 星币十逆位：原子人，家道中落，家庭动荡 皇帝逆位：男性，父权但反传统，厌女，措辞理性，文笔晦涩 宝剑ace：争议大，思想偏激，毁誉参半。 综合下来，我觉得最可能的就是米歇尔维勒贝克了。 此人早年被母亲遗弃送回法国由祖母抚养，从此深深埋下了厌女但离不开女人的种子，此后失业且经济拮据的他又被老婆离婚，自己本身又有抑郁症，更是如此了。 拥有农学…",
+          "people": [],
+          "directions": [],
+          "reason": "待复核：新增或摘要有变更",
+          "reviewed": false,
+          "reviewMethod": null,
+          "reviewModel": null,
+          "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
         }
       ],
       "announcementAt": "2026-10-08T11:00:00+00:00",
@@ -8592,11 +9085,11 @@
       "english": "ECONOMIC SCIENCES",
       "symbol": "E",
       "questionUrl": "https://www.zhihu.com/question/2084054769849611542",
-      "fetchedAt": "2026-10-07T05:58:04.868923+00:00",
+      "fetchedAt": "2026-10-07T13:21:37.656168+00:00",
       "complete": true,
-      "total": 44,
+      "total": 45,
       "valid": 22,
-      "pending": 6,
+      "pending": 7,
       "excluded": 16,
       "people": [
         {
@@ -9959,6 +10452,20 @@
           "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
           "reviewed": true,
           "reviewMethod": "human",
+          "reviewModel": null,
+          "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
+          "id": "2091190135253635260",
+          "url": "https://www.zhihu.com/question/2084054769849611542/answer/2091190135253635260",
+          "summary": "回答里面但凡带Susan Athey的都有很强的AI生成嫌疑。Susan Athey的贡献远不足以拿诺奖，仅凭因果森林是不可能的，经济学自己用的都不多。因果推断的重要成果也已经颁过奖了。 经济学家对AI影响的理论认知和实证成果仍然很不充分，整个领域都是方兴未艾的状态，立刻颁奖过于shallow。现实也还没给这些新兴问题提供确切答案。颁给她还不如再给Acemoglu发第二个诺奖（当然这不可能），最起码他真有一大批顶刊文章研究了AI和自动化。",
+          "people": [],
+          "directions": [],
+          "reason": "待复核：新增或摘要有变更",
+          "reviewed": false,
+          "reviewMethod": null,
           "reviewModel": null,
           "reviewEvidence": [],
           "aiAssisted": false,

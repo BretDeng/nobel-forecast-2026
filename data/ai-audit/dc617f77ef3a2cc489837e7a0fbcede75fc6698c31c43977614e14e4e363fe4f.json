@@ -1,0 +1,27 @@
+{
+  "model": "zhida-fast-1p5",
+  "category": "literature",
+  "summaryHashes": {
+    "2091214055579173114": "b096d7ca6c065f509681bafbef252cee6b5986ec6faf80a315f9dade5dbd2906",
+    "2091191202376835624": "c905938e042d0ace5cc068df871b430c455e868f53e06f834f3a67f7bc3a49a3",
+    "2091104844635554164": "361a34f7a15d3583bde65039a77ff71a00d41c752eb878d6b3f78c39a606fee2",
+    "2090758157899454004": "21ed954357a1598c38a9a72c4456a7ff99047f5c7278ffe4029c3048da7a306d",
+    "2090517298188644964": "438020b73a124693cf8cc486c99de58aa9e5b73269012673ada351120eb6e05a"
+  },
+  "response": {
+    "id": "chatcmpl-dbd66729-20c3-4c70-8636-555ec7f8d80d",
+    "object": "chat.completion",
+    "created": 1791379319,
+    "model": "zhida-fast-1p5",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "{\"items\":[{\"id\":\"2091214055579173114\",\"status\":\"exclude\",\"people\":[],\"directions\":[],\"reason\":\"仅描述赔率榜和大V押题现象，无作者本人的明确预测。\"},{\"id\":\"2091191202376835624\",\"status\":\"include\",\"people\":[{\"name\":\"斯科拉斯蒂克 · 穆卡松加\",\"evidence\":\"盲猜「卢旺达大屠杀的文学证词人」斯科拉斯蒂克 · 穆卡松加。\"}],\"directions\":[],\"reason\":\"作者明确盲猜穆卡松加获奖。\"},{\"id\":\"2091104844635554164\",\"status\":\"exclude\",\"people\":[],\"directions\":[],\"reason\":\"泛泛讨论诺奖颁给中国人的趋势，未预测具体作家。\"},{\"id\":\"2090758157899454004\",\"status\":\"include\",\"people\":[{\"name\":\"克里斯蒂娜·里韦拉·加尔萨\",\"evidence\":\"我对2026诺贝尔文学奖预测是墨西哥女作家里韦拉·加尔萨。去年我就预测她能中奖，今年执着地投她一票。\"}],\"directions\":[],\"reason\":\"作者明确预测2026年获奖者为里韦拉·加尔萨。\"},{\"id\":\"2090517298188644964\",\"status\":\"include\",\"people\":[{\"name\":\"安妮·卡森\",\"evidence\":\"我已经押了自己的全部生活费给 安妮·卡森（Anne Carson），这次预测相对保守一些\"}],\"directions\":[],\"reason\":\"作者明确押注安妮·卡森获奖。\"}]}"
+        },
+        "finish_reason": "stop"
+      }
+    ]
+  }
+}

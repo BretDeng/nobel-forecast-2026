@@ -1,0 +1,27 @@
+{
+  "model": "zhida-fast-1p5",
+  "category": "literature",
+  "summaryHashes": {
+    "2090776602409971849": "c6a7acf64fb063bf767ddfaec8a6d74466adf42a90cc323a0511c1654d678ee3",
+    "2090940988097296300": "1a90b4a0f4f0986a1a145439faf1a52fca6eeeb5fbc1080d258aa0991ba09838",
+    "2091073144643761831": "e351ca18273c8ee7edd653a665f99dcfde71f2e70a3b64fe07a4ad1e10fdc8ef",
+    "2091273670073366326": "42fb1a674e00f93a47fae26fcd3c9a0606463b08afeaf5fec43971f35e11e849",
+    "2091257746373006739": "4b6f966c53fc149ddaabec634cba63105c7469e1c56725700ace95efa4ca7148"
+  },
+  "response": {
+    "id": "chatcmpl-e7512222-ca2a-46cc-83ef-38446b15a3ae",
+    "object": "chat.completion",
+    "created": 1791379350,
+    "model": "zhida-fast-1p5",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "{\"items\":[{\"id\":\"2090776602409971849\",\"status\":\"include\",\"people\":[{\"name\":\"贝拉\",\"evidence\":\"我对于2026年诺贝尔文学奖的预测加拿大女作家贝拉（沈镭）\"}],\"directions\":[],\"reason\":\"作者明确预测贝拉为2026年诺贝尔文学奖人选。\"},{\"id\":\"2090940988097296300\",\"status\":\"exclude\",\"people\":[],\"directions\":[],\"reason\":\"讨论《原神》能否获奖属明显玩笑式假设，非严肃获奖预测。\"},{\"id\":\"2091073144643761831\",\"status\":\"include\",\"people\":[{\"name\":\"残雪\",\"evidence\":\"总会绕不开“残雪”这个名字\"}],\"directions\":[],\"reason\":\"作者语境中残雪是诺奖热门人选，属明确正向预测/希望获奖。\"},{\"id\":\"2091273670073366326\",\"status\":\"include\",\"people\":[{\"name\":\"恩里克·比拉-马塔斯\",\"evidence\":\"恩里克·比拉-马塔斯（西班牙）\"},{\"name\":\"利迪娅·若热\",\"evidence\":\"利迪娅·若热（葡萄牙）\"},{\"name\":\"阿米塔夫·高希\",\"evidence\":\"阿米塔夫·高希（印度）\"},{\"name\":\"阿兰达蒂·洛伊\",\"evidence\":\"阿兰达蒂·洛伊（\"}],\"directions\":[],\"reason\":\"作者列举今年最被关注的热门作家作为2026年诺奖预测。\"},{\"id\":\"2091257746373006739\",\"status\":\"exclude\",\"people\":[],\"directions\":[],\"reason\":\"仅讨论预测的不可靠性，作者未给出自己的预测人选。\"}]}"
+        },
+        "finish_reason": "stop"
+      }
+    ]
+  }
+}

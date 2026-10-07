@@ -3555,12 +3555,25 @@
   },
   "literature": {
     "2088239503840375723": {
-      "summaryHash": "8f72b5513ddbda5f0b6d97bee4c8fdb7c122a39589eac5a8ade90d24fc7adfab",
+      "summaryHash": "3413c03a66a60c72623b4357ae3a07c8d6ddd665103e9a860c28a9a902b80841",
       "reviewed": true,
-      "people": [],
+      "people": [
+        "安妮·卡森"
+      ],
       "directions": [],
-      "reason": "摘要截断，未显示具体预测",
-      "warnings": []
+      "reason": "作者明确预测2026年文学奖得主为安妮·卡森。",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-07T13:21:50.497079+00:00",
+      "evidence": [
+        {
+          "kind": "people",
+          "name": "安妮·卡森",
+          "quote": "我对2026年诺贝尔文学奖的预测，不出所料是加拿大女诗人安妮•卡森"
+        }
+      ],
+      "auditFile": "67b036d8f04a95a186726af5cfa118567a9337b5645f4e20ac94b8043486efc4.json"
     },
     "2088898441862820372": {
       "summaryHash": "d25231ae4625dd49f813ffea3613393f7c724b99a16dcdc71beac6bf972da6a6",
@@ -3945,6 +3958,464 @@
           "quote": "其实我不太关心诺奖，除非颁给品钦或者德里罗。 我觉得诺奖作者构成的文学地图也不适合作为构建一个有效的审美体系参考，世界文学这个研究主题也不是我所感兴趣的，自然也不太想去考虑它究竟是有变成cosmopolitan tribunal of literature的风险还是认为赋予文学作品可译性只会是把巴黎、伦敦、纽约之外的文学带进巴黎、伦敦、纽约的评价体系。不过想一下我自己的偏好其实也挺狭窄的，或者可以被white Anglo-American male high-l…"
         }
       ]
+    },
+    "2090804268278212233": {
+      "summaryHash": "8fb4cee433b3b839aeed90dd49232225aa642cae2afd55440b0f570f7befe568",
+      "reviewed": true,
+      "people": [
+        "残雪",
+        "克里斯蒂娜·里韦拉·加尔萨",
+        "安妮·卡森"
+      ],
+      "directions": [],
+      "reason": "作者明确列出今年可能获奖的作家包括残雪、克里斯蒂娜·里韦拉·加尔萨和安妮·卡森。",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-07T13:21:50.053224+00:00",
+      "evidence": [
+        {
+          "kind": "people",
+          "name": "残雪",
+          "quote": "今年可能获奖的作家除了残雪"
+        },
+        {
+          "kind": "people",
+          "name": "克里斯蒂娜·里韦拉·加尔萨",
+          "quote": "还有另外一位墨西哥的克里斯蒂娜·里韦拉·加尔萨（Cristina Rivera Garza）"
+        },
+        {
+          "kind": "people",
+          "name": "安妮·卡森",
+          "quote": "和加拿大的诗人安妮·卡森"
+        }
+      ],
+      "auditFile": "67b036d8f04a95a186726af5cfa118567a9337b5645f4e20ac94b8043486efc4.json"
+    },
+    "2091225550656483636": {
+      "summaryHash": "a7e5f2c1733d85a0b083f34aa927575b196dcd2f5fa0eaccc5a66527485a94ca",
+      "reviewed": true,
+      "people": [
+        "克里斯蒂娜·里韦拉·加尔萨"
+      ],
+      "directions": [],
+      "reason": "作者明确首推克里斯蒂娜·里维拉·加尔萨为可能得主。",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-07T13:21:50.497142+00:00",
+      "evidence": [
+        {
+          "kind": "people",
+          "name": "克里斯蒂娜·里韦拉·加尔萨",
+          "quote": "首推墨西哥女作家克里斯蒂娜·里维拉·加尔萨（Cristina Rivera Garza）"
+        }
+      ],
+      "auditFile": "67b036d8f04a95a186726af5cfa118567a9337b5645f4e20ac94b8043486efc4.json"
+    },
+    "2091084159741584233": {
+      "summaryHash": "19feb1f0fbb1a568583be8ee114173a06f845d02df1afcb4f22108dd05c545f4",
+      "reviewed": true,
+      "people": [
+        "安妮·卡森"
+      ],
+      "directions": [],
+      "reason": "作者在文学奖预测中列出安妮·卡森为获奖人选。",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-07T13:21:50.497187+00:00",
+      "evidence": [
+        {
+          "kind": "people",
+          "name": "安妮·卡森",
+          "quote": "01 不出所料，众望所归组获奖人选： 安妮·卡森（Anne Carson）"
+        }
+      ],
+      "auditFile": "67b036d8f04a95a186726af5cfa118567a9337b5645f4e20ac94b8043486efc4.json"
+    },
+    "2091150254171280257": {
+      "summaryHash": "40cb7f87042979a8f420c71598c883f4b673a59254301c437c48ce7fefc821d6",
+      "reviewed": true,
+      "people": [
+        "村上春树"
+      ],
+      "directions": [],
+      "reason": "作者明确表达希望村上春树获奖，属于希望型正向预测。",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-07T13:21:50.497223+00:00",
+      "evidence": [
+        {
+          "kind": "people",
+          "name": "村上春树",
+          "quote": "谁能得奖，我并不清楚，但我希望村上春树得奖"
+        }
+      ],
+      "auditFile": "67b036d8f04a95a186726af5cfa118567a9337b5645f4e20ac94b8043486efc4.json"
+    },
+    "2091214055579173114": {
+      "summaryHash": "b096d7ca6c065f509681bafbef252cee6b5986ec6faf80a315f9dade5dbd2906",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "仅描述赔率榜和大V押题现象，无作者本人的明确预测。",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-07T13:21:59.993309+00:00",
+      "evidence": [],
+      "auditFile": "dc617f77ef3a2cc489837e7a0fbcede75fc6698c31c43977614e14e4e363fe4f.json"
+    },
+    "2091191202376835624": {
+      "summaryHash": "c905938e042d0ace5cc068df871b430c455e868f53e06f834f3a67f7bc3a49a3",
+      "reviewed": true,
+      "people": [
+        "斯科拉斯蒂克 · 穆卡松加"
+      ],
+      "directions": [],
+      "reason": "作者明确盲猜穆卡松加获奖。",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-07T13:21:59.993330+00:00",
+      "evidence": [
+        {
+          "kind": "people",
+          "name": "斯科拉斯蒂克 · 穆卡松加",
+          "quote": "盲猜「卢旺达大屠杀的文学证词人」斯科拉斯蒂克 · 穆卡松加。"
+        }
+      ],
+      "auditFile": "dc617f77ef3a2cc489837e7a0fbcede75fc6698c31c43977614e14e4e363fe4f.json"
+    },
+    "2091104844635554164": {
+      "summaryHash": "361a34f7a15d3583bde65039a77ff71a00d41c752eb878d6b3f78c39a606fee2",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "泛泛讨论诺奖颁给中国人的趋势，未预测具体作家。",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-07T13:21:59.993387+00:00",
+      "evidence": [],
+      "auditFile": "dc617f77ef3a2cc489837e7a0fbcede75fc6698c31c43977614e14e4e363fe4f.json"
+    },
+    "2090758157899454004": {
+      "summaryHash": "21ed954357a1598c38a9a72c4456a7ff99047f5c7278ffe4029c3048da7a306d",
+      "reviewed": false,
+      "people": [],
+      "directions": [],
+      "reason": "直答输出校验失败，待人工复核：人名/方向缺少原文依据",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "auditFile": "dc617f77ef3a2cc489837e7a0fbcede75fc6698c31c43977614e14e4e363fe4f.json"
+    },
+    "2090517298188644964": {
+      "summaryHash": "438020b73a124693cf8cc486c99de58aa9e5b73269012673ada351120eb6e05a",
+      "reviewed": true,
+      "people": [
+        "安妮·卡森"
+      ],
+      "directions": [],
+      "reason": "作者明确押注安妮·卡森获奖。",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-07T13:21:59.993445+00:00",
+      "evidence": [
+        {
+          "kind": "people",
+          "name": "安妮·卡森",
+          "quote": "我已经押了自己的全部生活费给 安妮·卡森（Anne Carson），这次预测相对保守一些"
+        }
+      ],
+      "auditFile": "dc617f77ef3a2cc489837e7a0fbcede75fc6698c31c43977614e14e4e363fe4f.json"
+    },
+    "2091218585259713633": {
+      "summaryHash": "0f45622bfebd89a953d2ff0683195d477b43e6dd5ca4334d63149e2d33c57b65",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "纯玩笑调侃卡夫卡与精神分裂症，无2026年文学奖预测。",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-07T13:22:11.307011+00:00",
+      "evidence": [],
+      "auditFile": "8d1ee8381a5f7c1491b270ff4cc1758dde13bd669b6a6fa5d7d3e08e3db32941.json"
+    },
+    "2091196005001729031": {
+      "summaryHash": "295ef1f731b18fede819a88fc028674f5d1ddae79a0f48244c403caa1e82b036",
+      "reviewed": true,
+      "people": [
+        "残雪"
+      ],
+      "directions": [],
+      "reason": "作者明确正向预测残雪大概率获奖；村上春树仅为转述他人候选情况，非作者预测。",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-07T13:22:11.307031+00:00",
+      "evidence": [
+        {
+          "kind": "people",
+          "name": "残雪",
+          "quote": "今年热门里残雪呼声很高，我觉得大概率会是她。"
+        }
+      ],
+      "auditFile": "8d1ee8381a5f7c1491b270ff4cc1758dde13bd669b6a6fa5d7d3e08e3db32941.json"
+    },
+    "2090888347996767741": {
+      "summaryHash": "e9fcaa0bfb8f9c507be096b6a555d8fb623d35a7f14e6e5d606337affd3a6e56",
+      "reviewed": false,
+      "people": [],
+      "directions": [],
+      "reason": "直答输出校验失败，待人工复核：人名/方向缺少原文依据",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "auditFile": "8d1ee8381a5f7c1491b270ff4cc1758dde13bd669b6a6fa5d7d3e08e3db32941.json"
+    },
+    "2090591571620242229": {
+      "summaryHash": "7fd4f669e990fca7b37ebf460a1813aa8ef4ed12d683376635e47e2bebb7743b",
+      "reviewed": true,
+      "people": [
+        "残雪",
+        "村上春树"
+      ],
+      "directions": [],
+      "reason": "作者表达了残雪或村上春树该获奖的正向预测，后文怀疑语气针对赔率榜机制而非撤回预测。",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-07T13:22:11.307141+00:00",
+      "evidence": [
+        {
+          "kind": "people",
+          "name": "残雪",
+          "quote": "风水轮流转，也该轮到残雪或者村上春树了"
+        },
+        {
+          "kind": "people",
+          "name": "村上春树",
+          "quote": "风水轮流转，也该轮到残雪或者村上春树了"
+        }
+      ],
+      "auditFile": "8d1ee8381a5f7c1491b270ff4cc1758dde13bd669b6a6fa5d7d3e08e3db32941.json"
+    },
+    "2091078387091747607": {
+      "summaryHash": "e7668b8865ba50478e4bb146e80951432c983b69f6d31a6769ebdad926e03b70",
+      "reviewed": false,
+      "people": [],
+      "directions": [],
+      "reason": "直答输出校验失败，待人工复核：人名/方向缺少原文依据",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "auditFile": "8d1ee8381a5f7c1491b270ff4cc1758dde13bd669b6a6fa5d7d3e08e3db32941.json"
+    },
+    "2091273935769884016": {
+      "summaryHash": "e9a05a6fb0153c5f2d02c3204833ef1af8a3d572e10f69b77683b6bb75549653",
+      "reviewed": true,
+      "people": [
+        "残雪",
+        "杰拉尔德・穆南"
+      ],
+      "directions": [],
+      "reason": "作者明确列出残雪和杰拉尔德·穆南作为获奖预测。",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-07T13:22:22.350606+00:00",
+      "evidence": [
+        {
+          "kind": "people",
+          "name": "残雪",
+          "quote": "1.残雪-先锋派、卡夫卡式写作原因：创作极具先锋实验性，被视作中国卡夫卡式作家"
+        },
+        {
+          "kind": "people",
+          "name": "杰拉尔德・穆南",
+          "quote": "2.杰拉尔德・穆南、极简、晦涩，澳大利亚文坛的 \"隐士作家\""
+        }
+      ],
+      "auditFile": "35aacee673ec7295b536408e292cd8e9c1e0f5da2a0704845e5801d315e45c65.json"
+    },
+    "2090540181287867813": {
+      "summaryHash": "5362e8840a037bcab228f24863e353bf80acec8737ebabcfbc0b3c7d9ca71121",
+      "reviewed": false,
+      "people": [],
+      "directions": [],
+      "reason": "直答输出校验失败，待人工复核：人名/方向缺少原文依据",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "auditFile": "35aacee673ec7295b536408e292cd8e9c1e0f5da2a0704845e5801d315e45c65.json"
+    },
+    "2091242795126231621": {
+      "summaryHash": "95381d945f85d64f385feacf30d382e38039b3356072537377dafd0e927d5a4f",
+      "reviewed": true,
+      "people": [
+        "阎连科"
+      ],
+      "directions": [],
+      "reason": "作者明确表达希望阎连科获奖，属于希望获奖的人名。",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-07T13:22:22.350777+00:00",
+      "evidence": [
+        {
+          "kind": "people",
+          "name": "阎连科",
+          "quote": "虽然不太可能，但我希望是阎连科。我心目中最悲悯的作家。"
+        }
+      ],
+      "auditFile": "35aacee673ec7295b536408e292cd8e9c1e0f5da2a0704845e5801d315e45c65.json"
+    },
+    "2091199148414575632": {
+      "summaryHash": "f999614ea60ec896c54e242fa7721b775f4e36a14e43fd933095249ca0a77e49",
+      "reviewed": true,
+      "people": [
+        "杰拉尔德·穆南"
+      ],
+      "directions": [],
+      "reason": "作者明确押注杰拉尔德·穆南获2026年文学奖。",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-07T13:22:22.350810+00:00",
+      "evidence": [
+        {
+          "kind": "people",
+          "name": "杰拉尔德·穆南",
+          "quote": "我赌今年是杰拉尔德·穆南（Gerald Murnane），澳大利亚人，87岁"
+        }
+      ],
+      "auditFile": "35aacee673ec7295b536408e292cd8e9c1e0f5da2a0704845e5801d315e45c65.json"
+    },
+    "2090876671062816291": {
+      "summaryHash": "cf937cb7030c30516c999bcf9ffd9651470aeea2cfcd862aa95dab8a6720f4d2",
+      "reviewed": false,
+      "people": [],
+      "directions": [],
+      "reason": "直答无法确定，待人工复核：摘要只讨论诺奖取向和阅读感受，未给出明确的人名或方向预测。",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-07T13:22:22.350841+00:00",
+      "evidence": [],
+      "auditFile": "35aacee673ec7295b536408e292cd8e9c1e0f5da2a0704845e5801d315e45c65.json"
+    },
+    "2090776602409971849": {
+      "summaryHash": "c6a7acf64fb063bf767ddfaec8a6d74466adf42a90cc323a0511c1654d678ee3",
+      "reviewed": true,
+      "people": [
+        "贝拉"
+      ],
+      "directions": [],
+      "reason": "作者明确预测贝拉为2026年诺贝尔文学奖人选。",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-07T13:22:30.455830+00:00",
+      "evidence": [
+        {
+          "kind": "people",
+          "name": "贝拉",
+          "quote": "我对于2026年诺贝尔文学奖的预测加拿大女作家贝拉（沈镭）"
+        }
+      ],
+      "auditFile": "15688f825c425773e6ad73f653b74be4df9a4705b8c770204501e52dee4a2ddf.json"
+    },
+    "2090940988097296300": {
+      "summaryHash": "1a90b4a0f4f0986a1a145439faf1a52fca6eeeb5fbc1080d258aa0991ba09838",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "讨论《原神》能否获奖属明显玩笑式假设，非严肃获奖预测。",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-07T13:22:30.455934+00:00",
+      "evidence": [],
+      "auditFile": "15688f825c425773e6ad73f653b74be4df9a4705b8c770204501e52dee4a2ddf.json"
+    },
+    "2091073144643761831": {
+      "summaryHash": "e351ca18273c8ee7edd653a665f99dcfde71f2e70a3b64fe07a4ad1e10fdc8ef",
+      "reviewed": true,
+      "people": [
+        "残雪"
+      ],
+      "directions": [],
+      "reason": "作者语境中残雪是诺奖热门人选，属明确正向预测/希望获奖。",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-07T13:22:30.455940+00:00",
+      "evidence": [
+        {
+          "kind": "people",
+          "name": "残雪",
+          "quote": "总会绕不开“残雪”这个名字"
+        }
+      ],
+      "auditFile": "15688f825c425773e6ad73f653b74be4df9a4705b8c770204501e52dee4a2ddf.json"
+    },
+    "2091273670073366326": {
+      "summaryHash": "42fb1a674e00f93a47fae26fcd3c9a0606463b08afeaf5fec43971f35e11e849",
+      "reviewed": true,
+      "people": [
+        "恩里克·比拉-马塔斯",
+        "利迪娅·若热",
+        "阿米塔夫·高希",
+        "阿兰达蒂·洛伊"
+      ],
+      "directions": [],
+      "reason": "作者列举今年最被关注的热门作家作为2026年诺奖预测。",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-07T13:22:30.455977+00:00",
+      "evidence": [
+        {
+          "kind": "people",
+          "name": "恩里克·比拉-马塔斯",
+          "quote": "恩里克·比拉-马塔斯（西班牙）"
+        },
+        {
+          "kind": "people",
+          "name": "利迪娅·若热",
+          "quote": "利迪娅·若热（葡萄牙）"
+        },
+        {
+          "kind": "people",
+          "name": "阿米塔夫·高希",
+          "quote": "阿米塔夫·高希（印度）"
+        },
+        {
+          "kind": "people",
+          "name": "阿兰达蒂·洛伊",
+          "quote": "阿兰达蒂·洛伊（"
+        }
+      ],
+      "auditFile": "15688f825c425773e6ad73f653b74be4df9a4705b8c770204501e52dee4a2ddf.json"
+    },
+    "2091257746373006739": {
+      "summaryHash": "4b6f966c53fc149ddaabec634cba63105c7469e1c56725700ace95efa4ca7148",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "仅讨论预测的不可靠性，作者未给出自己的预测人选。",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-07T13:22:30.456092+00:00",
+      "evidence": [],
+      "auditFile": "15688f825c425773e6ad73f653b74be4df9a4705b8c770204501e52dee4a2ddf.json"
     }
   },
   "economics": {

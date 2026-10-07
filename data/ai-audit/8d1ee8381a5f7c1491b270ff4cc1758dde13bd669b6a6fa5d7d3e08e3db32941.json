@@ -1,0 +1,27 @@
+{
+  "model": "zhida-fast-1p5",
+  "category": "literature",
+  "summaryHashes": {
+    "2091218585259713633": "0f45622bfebd89a953d2ff0683195d477b43e6dd5ca4334d63149e2d33c57b65",
+    "2091196005001729031": "295ef1f731b18fede819a88fc028674f5d1ddae79a0f48244c403caa1e82b036",
+    "2090888347996767741": "e9fcaa0bfb8f9c507be096b6a555d8fb623d35a7f14e6e5d606337affd3a6e56",
+    "2090591571620242229": "7fd4f669e990fca7b37ebf460a1813aa8ef4ed12d683376635e47e2bebb7743b",
+    "2091078387091747607": "e7668b8865ba50478e4bb146e80951432c983b69f6d31a6769ebdad926e03b70"
+  },
+  "response": {
+    "id": "chatcmpl-5337eee8-1902-4e29-b70a-88236892d18c",
+    "object": "chat.completion",
+    "created": 1791379331,
+    "model": "zhida-fast-1p5",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "{\"items\":[{\"id\":\"2091218585259713633\",\"status\":\"exclude\",\"people\":[],\"directions\":[],\"reason\":\"纯玩笑调侃卡夫卡与精神分裂症，无2026年文学奖预测。\"},{\"id\":\"2091196005001729031\",\"status\":\"include\",\"people\":[{\"name\":\"残雪\",\"evidence\":\"今年热门里残雪呼声很高，我觉得大概率会是她。\"}],\"directions\":[],\"reason\":\"作者明确正向预测残雪大概率获奖；村上春树仅为转述他人候选情况，非作者预测。\"},{\"id\":\"2090888347996767741\",\"status\":\"include\",\"people\":[{\"name\":\"玛格丽特·阿特伍德\",\"evidence\":\"我选阿特伍德，她绝对是诺奖级别的作家。\"}],\"directions\":[],\"reason\":\"作者明确选择阿特伍德为预测人选。\"},{\"id\":\"2090591571620242229\",\"status\":\"include\",\"people\":[{\"name\":\"残雪\",\"evidence\":\"风水轮流转，也该轮到残雪或者村上春树了\"},{\"name\":\"村上春树\",\"evidence\":\"风水轮流转，也该轮到残雪或者村上春树了\"}],\"directions\":[],\"reason\":\"作者表达了残雪或村上春树该获奖的正向预测，后文怀疑语气针对赔率榜机制而非撤回预测。\"},{\"id\":\"2091078387091747607\",\"status\":\"include\",\"people\":[{\"name\":\"莉迪亚·若热\",\"evidence\":\"利迪娅·若热可能性很大。\"},{\"name\":\"亚历克西斯·赖特\",\"evidence\":\"其次是亚历克西斯·赖特。\"}],\"directions\":[],\"reason\":\"作者明确正向预测若热可能性很大，赖特为其次人选。\"}]}"
+        },
+        "finish_reason": "stop"
+      }
+    ]
+  }
+}

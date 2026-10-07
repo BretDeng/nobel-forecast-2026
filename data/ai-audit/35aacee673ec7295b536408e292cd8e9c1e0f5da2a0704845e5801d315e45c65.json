@@ -1,0 +1,27 @@
+{
+  "model": "zhida-fast-1p5",
+  "category": "literature",
+  "summaryHashes": {
+    "2091273935769884016": "e9a05a6fb0153c5f2d02c3204833ef1af8a3d572e10f69b77683b6bb75549653",
+    "2090540181287867813": "5362e8840a037bcab228f24863e353bf80acec8737ebabcfbc0b3c7d9ca71121",
+    "2091242795126231621": "95381d945f85d64f385feacf30d382e38039b3356072537377dafd0e927d5a4f",
+    "2091199148414575632": "f999614ea60ec896c54e242fa7721b775f4e36a14e43fd933095249ca0a77e49",
+    "2090876671062816291": "cf937cb7030c30516c999bcf9ffd9651470aeea2cfcd862aa95dab8a6720f4d2"
+  },
+  "response": {
+    "id": "chatcmpl-4591f81a-14bc-422e-b5d4-451e3b552c55",
+    "object": "chat.completion",
+    "created": 1791379342,
+    "model": "zhida-fast-1p5",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "{\"items\":[{\"id\":\"2091273935769884016\",\"status\":\"include\",\"people\":[{\"name\":\"残雪\",\"evidence\":\"1.残雪-先锋派、卡夫卡式写作原因：创作极具先锋实验性，被视作中国卡夫卡式作家\"},{\"name\":\"杰拉尔德・穆南\",\"evidence\":\"2.杰拉尔德・穆南、极简、晦涩，澳大利亚文坛的 \\\"隐士作家\\\"\"}],\"directions\":[],\"reason\":\"作者明确列出残雪和杰拉尔德·穆南作为获奖预测。\"},{\"id\":\"2090540181287867813\",\"status\":\"include\",\"people\":[{\"name\":\"安妮·卡森\",\"evidence\":\"猜测6位作家，加拿大的安妮·卡森\"},{\"name\":\"玛格丽特·阿特伍德\",\"evidence\":\"同为加拿大的阿特伍德\"},{\"name\":\"恩德里克\",\"evidence\":\"美国的恩德里克\"},{\"name\":\"琴凯德\",\"evidence\":\"出身于西印度群岛的琴凯德\"},{\"name\":\"加尔萨\",\"evidence\":\"墨西哥的加尔萨\"},{\"name\":\"埃莉诺·卡顿\",\"evidence\":\"新西兰的埃莉诺·卡顿\"}],\"directions\":[],\"reason\":\"作者明确猜测6位作家为文学奖人选。\"},{\"id\":\"2091242795126231621\",\"status\":\"include\",\"people\":[{\"name\":\"阎连科\",\"evidence\":\"虽然不太可能，但我希望是阎连科。我心目中最悲悯的作家。\"}],\"directions\":[],\"reason\":\"作者明确表达希望阎连科获奖，属于希望获奖的人名。\"},{\"id\":\"2091199148414575632\",\"status\":\"include\",\"people\":[{\"name\":\"杰拉尔德·穆南\",\"evidence\":\"我赌今年是杰拉尔德·穆南（Gerald Murnane），澳大利亚人，87岁\"}],\"directions\":[],\"reason\":\"作者明确押注杰拉尔德·穆南获2026年文学奖。\"},{\"id\":\"2090876671062816291\",\"status\":\"uncertain\",\"people\":[],\"directions\":[],\"reason\":\"摘要只讨论诺奖取向和阅读感受，未给出明确的人名或方向预测。\"}]}"
+        },
+        "finish_reason": "stop"
+      }
+    ]
+  }
+}

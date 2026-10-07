@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-07T05:58:04.868923+00:00",
+  "fetchedAt": "2026-10-07T13:21:37.656168+00:00",
   "pages": [
     {
       "Code": 0,
@@ -221,6 +221,12 @@
             "ContentToken": "2088989034861290920",
             "Url": "https://www.zhihu.com/question/2084054769849611542/answer/2088989034861290920",
             "Summary": "计量经济学理论方向，可能斯坦福的susan athey、mit的Victor Chernozhukov、Whitney Newey做因果推断与机器学习很前沿，不一定今年能颁给他们，但我想他们肯定是值得诺奖的。 另外LSE如果说political economy方向，Tim Besley教授应该也是热门候选。"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2091190135253635260",
+            "Url": "https://www.zhihu.com/question/2084054769849611542/answer/2091190135253635260",
+            "Summary": "回答里面但凡带Susan Athey的都有很强的AI生成嫌疑。Susan Athey的贡献远不足以拿诺奖，仅凭因果森林是不可能的，经济学自己用的都不多。因果推断的重要成果也已经颁过奖了。 经济学家对AI影响的理论认知和实证成果仍然很不充分，整个领域都是方兴未艾的状态，立刻颁奖过于shallow。现实也还没给这些新兴问题提供确切答案。颁给她还不如再给Acemoglu发第二个诺奖（当然这不可能），最起码他真有一大批顶刊文章研究了AI和自动化。"
           },
           {
             "ContentType": "answer",

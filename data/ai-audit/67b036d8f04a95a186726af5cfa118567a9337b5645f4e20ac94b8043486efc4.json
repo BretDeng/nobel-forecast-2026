@@ -1,0 +1,27 @@
+{
+  "model": "zhida-fast-1p5",
+  "category": "literature",
+  "summaryHashes": {
+    "2090804268278212233": "8fb4cee433b3b839aeed90dd49232225aa642cae2afd55440b0f570f7befe568",
+    "2088239503840375723": "3413c03a66a60c72623b4357ae3a07c8d6ddd665103e9a860c28a9a902b80841",
+    "2091225550656483636": "a7e5f2c1733d85a0b083f34aa927575b196dcd2f5fa0eaccc5a66527485a94ca",
+    "2091084159741584233": "19feb1f0fbb1a568583be8ee114173a06f845d02df1afcb4f22108dd05c545f4",
+    "2091150254171280257": "40cb7f87042979a8f420c71598c883f4b673a59254301c437c48ce7fefc821d6"
+  },
+  "response": {
+    "id": "chatcmpl-9b21d040-dddf-4e83-8957-e8855181774f",
+    "object": "chat.completion",
+    "created": 1791379309,
+    "model": "zhida-fast-1p5",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "{\"items\":[{\"id\":\"2090804268278212233\",\"status\":\"include\",\"people\":[{\"name\":\"残雪\",\"evidence\":\"今年可能获奖的作家除了残雪\"},{\"name\":\"克里斯蒂娜·里韦拉·加尔萨\",\"evidence\":\"还有另外一位墨西哥的克里斯蒂娜·里韦拉·加尔萨（Cristina Rivera Garza）\"},{\"name\":\"安妮·卡森\",\"evidence\":\"和加拿大的诗人安妮·卡森\"}],\"directions\":[],\"reason\":\"作者明确列出今年可能获奖的作家包括残雪、克里斯蒂娜·里韦拉·加尔萨和安妮·卡森。\"},{\"id\":\"2088239503840375723\",\"status\":\"include\",\"people\":[{\"name\":\"安妮·卡森\",\"evidence\":\"我对2026年诺贝尔文学奖的预测，不出所料是加拿大女诗人安妮•卡森\"}],\"directions\":[],\"reason\":\"作者明确预测2026年文学奖得主为安妮·卡森。\"},{\"id\":\"2091225550656483636\",\"status\":\"include\",\"people\":[{\"name\":\"克里斯蒂娜·里韦拉·加尔萨\",\"evidence\":\"首推墨西哥女作家克里斯蒂娜·里维拉·加尔萨（Cristina Rivera Garza）\"}],\"directions\":[],\"reason\":\"作者明确首推克里斯蒂娜·里维拉·加尔萨为可能得主。\"},{\"id\":\"2091084159741584233\",\"status\":\"include\",\"people\":[{\"name\":\"安妮·卡森\",\"evidence\":\"01 不出所料，众望所归组获奖人选： 安妮·卡森（Anne Carson）\"}],\"directions\":[],\"reason\":\"作者在文学奖预测中列出安妮·卡森为获奖人选。\"},{\"id\":\"2091150254171280257\",\"status\":\"include\",\"people\":[{\"name\":\"村上春树\",\"evidence\":\"谁能得奖，我并不清楚，但我希望村上春树得奖\"}],\"directions\":[],\"reason\":\"作者明确表达希望村上春树获奖，属于希望型正向预测。\"}]}"
+        },
+        "finish_reason": "stop"
+      }
+    ]
+  }
+}
