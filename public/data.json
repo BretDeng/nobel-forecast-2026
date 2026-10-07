@@ -5747,12 +5747,12 @@
       "english": "CHEMISTRY",
       "symbol": "C",
       "questionUrl": "https://www.zhihu.com/question/2081709501913248924",
-      "fetchedAt": "2026-10-06T22:39:22.842374+00:00",
+      "fetchedAt": "2026-10-07T05:58:01.152757+00:00",
       "complete": true,
-      "total": 43,
+      "total": 48,
       "valid": 26,
-      "pending": 10,
-      "excluded": 7,
+      "pending": 16,
+      "excluded": 6,
       "people": [
         {
           "id": "724458501301",
@@ -5887,8 +5887,8 @@
           "english": "",
           "count": 2,
           "sourceIds": [
-            "2084296242725663899",
-            "2084775277981340202"
+            "2084775277981340202",
+            "2084296242725663899"
           ],
           "aiCount": 0,
           "warnings": []
@@ -5913,8 +5913,8 @@
           "english": "",
           "count": 2,
           "sourceIds": [
-            "2084296242725663899",
-            "2084775277981340202"
+            "2084775277981340202",
+            "2084296242725663899"
           ],
           "aiCount": 0,
           "warnings": []
@@ -6313,8 +6313,8 @@
           "english": "",
           "count": 2,
           "sourceIds": [
-            "2084296242725663899",
-            "2084775277981340202"
+            "2084775277981340202",
+            "2084296242725663899"
           ],
           "aiCount": 0,
           "warnings": []
@@ -6619,89 +6619,12 @@
           "warnings": []
         },
         {
-          "id": "2089599838560305817",
-          "url": "https://www.zhihu.com/question/2081709501913248924/answer/2089599838560305817",
-          "summary": "去年难得猜中了“有机金属框架MOF”，结果我在回答下各种艾特知乎相关的官方号，都不理我。年底给小管家发私信，才把幸运钱要来，生气。 看了下今年的科睿唯安引文桂冠奖，包括 自组装单分子层（SAMs）技术，那我就猜这个吧。也没仔细读过这个领域的文献，就依样画葫芦，猜引文桂冠奖的三位吧，美国学者戴维·阿拉拉(David Allara)和拉尔夫·努佐(Ralph Nuzzo)，以及来自以色列的雅各布·萨吉夫(Jacob Sagiv)。SAM (Self-assembl…",
-          "people": [
-            "David Allara",
-            "Ralph Nuzzo",
-            "Jacob Sagiv"
-          ],
-          "directions": [
-            "自组装单分子层"
-          ],
-          "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
-          "reviewed": true,
-          "reviewMethod": "human",
-          "reviewModel": null,
-          "reviewEvidence": [],
-          "aiAssisted": false,
-          "warnings": []
-        },
-        {
-          "id": "2084296242725663899",
-          "url": "https://www.zhihu.com/question/2081709501913248924/answer/2084296242725663899",
-          "summary": "Roberto Car, Michele Parrinello ：开发Car–Parrinello方法，一种将密度泛函理论（DFT）与分子动力学（MD）统一起来的计算方法，用于模拟分子与材料体系中原子和电子的动态行为。 [图片] Yoshitaka Tanimura 建立层级运动方程（HEOM）理论框架，实现凝聚相分子体系中非马尔可夫开放量子动力学的数值精确模拟 [图片] Krzysztof Matyjaszewski，Mitsuo Sawamoto 表彰他们发现并发展金属催化可逆失活自由基聚合，实现高分子链拓扑结构的分子级精…",
-          "people": [
-            "Roberto Car",
-            "Michele Parrinello",
-            "Yoshitaka Tanimura",
-            "Krzysztof Matyjaszewski",
-            "Mitsuo Sawamoto"
-          ],
-          "directions": [
-            "Car–Parrinello 分子动力学",
-            "层级运动方程",
-            "可控自由基聚合"
-          ],
-          "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
-          "reviewed": true,
-          "reviewMethod": "human",
-          "reviewModel": null,
-          "reviewEvidence": [],
-          "aiAssisted": false,
-          "warnings": []
-        },
-        {
-          "id": "2090918646453364024",
-          "url": "https://www.zhihu.com/question/2081709501913248924/answer/2090918646453364024",
-          "summary": "第一、哈里・格雷（Harry Gray）、杰伊・温克勒（Jay Winkler，加州理工） 揭示蛋白质靠量子隧穿实现跨距离电子传递，解释光合作用、能量传递等生命基础机制。这个是最高的 第二、刘如谦（David R. Liu，哈佛 / 博德所） 碱基编辑和先导编辑，不切断 DNA 双链即可精准改字，已有 28 项临床试验 第三、阿拉拉、努佐、萨吉夫 1980 年代奠定分子自组装薄膜基础，用于涂层、催化、电子器件 哈里・格雷（Harry Gray）、杰伊・温克…",
-          "people": [],
-          "directions": [],
-          "reason": "直答输出校验失败，待人工复核：人名/方向缺少原文依据",
-          "reviewed": false,
-          "reviewMethod": "zhida",
-          "reviewModel": "zhida-fast-1p5",
-          "reviewEvidence": [],
-          "aiAssisted": false,
-          "warnings": []
-        },
-        {
           "id": "2084558026153931043",
           "url": "https://www.zhihu.com/question/2081709501913248924/answer/2084558026153931043",
           "summary": "我今年不预测了，因为实际上从19年开始，这个趋势就没法预测了。 同样是改变世界，有的人熬到死也得不到奖，有的人死前几年被施舍一次，有的人4年就能拿奖。 因为你不知道今年诺奖委员会打算讲什么故事。想讲一个热点故事？那么近年的热门成果会拿奖；想讲一个历史传承的故事？那么过去的遗珠可能拿奖。想表示我们诺奖委员会紧跟时代潮流不是老顽固，那么就给AI4S颁奖。甚至要讲一个女科学家故事，讲一个非白人故事，拿奖的人都…",
           "people": [],
           "directions": [],
           "reason": "明确表示今年不预测",
-          "reviewed": true,
-          "reviewMethod": "human",
-          "reviewModel": null,
-          "reviewEvidence": [],
-          "aiAssisted": false,
-          "warnings": []
-        },
-        {
-          "id": "2083055746896478323",
-          "url": "https://www.zhihu.com/question/2081709501913248924/answer/2083055746896478323",
-          "summary": "今年又该回到化学生物学领域了吧～ 预测：Peter G. Schultz、Stuart L. Schreiber",
-          "people": [
-            "Peter Schultz",
-            "Stuart Schreiber"
-          ],
-          "directions": [
-            "化学生物学"
-          ],
-          "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
           "reviewed": true,
           "reviewMethod": "human",
           "reviewModel": null,
@@ -6753,6 +6676,45 @@
               "quote": "理综奖预测依然是情怀组：卢煜明院士 卢教授其实每年有两次冲击诺奖的机会，一次在生医，一次在化学，他在2016年获得的引文桂冠奖就是被划在化学领域，如果今年理综奖又回到了生物化学方向，还是有可能听到他的名字的，当然一人独得的概率很小，或许会把“更高通量更低成本的Solexa DNA测序技术”和“以孕妇血浆DNA分析为本的无创产前诊断技术”组合在一起给奖： Shankar Balasubramanian ¼ ，David Klenerman ¼，卢煜明 ½ …"
             }
           ],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
+          "id": "2089599838560305817",
+          "url": "https://www.zhihu.com/question/2081709501913248924/answer/2089599838560305817",
+          "summary": "去年难得猜中了“有机金属框架MOF”，结果我在回答下各种艾特知乎相关的官方号，都不理我。年底给小管家发私信，才把幸运钱要来，生气。 看了下今年的科睿唯安引文桂冠奖，包括 自组装单分子层（SAMs）技术，那我就猜这个吧。也没仔细读过这个领域的文献，就依样画葫芦，猜引文桂冠奖的三位吧，美国学者戴维·阿拉拉(David Allara)和拉尔夫·努佐(Ralph Nuzzo)，以及来自以色列的雅各布·萨吉夫(Jacob Sagiv)。SAM (Self-assembl…",
+          "people": [
+            "David Allara",
+            "Ralph Nuzzo",
+            "Jacob Sagiv"
+          ],
+          "directions": [
+            "自组装单分子层"
+          ],
+          "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+          "reviewed": true,
+          "reviewMethod": "human",
+          "reviewModel": null,
+          "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
+          "id": "2083055746896478323",
+          "url": "https://www.zhihu.com/question/2081709501913248924/answer/2083055746896478323",
+          "summary": "今年又该回到化学生物学领域了吧～ 预测：Peter G. Schultz、Stuart L. Schreiber",
+          "people": [
+            "Peter Schultz",
+            "Stuart Schreiber"
+          ],
+          "directions": [
+            "化学生物学"
+          ],
+          "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+          "reviewed": true,
+          "reviewMethod": "human",
+          "reviewModel": null,
+          "reviewEvidence": [],
           "aiAssisted": false,
           "warnings": []
         },
@@ -6827,33 +6789,14 @@
           "warnings": []
         },
         {
-          "id": "2084775277981340202",
-          "url": "https://www.zhihu.com/question/2081709501913248924/answer/2084775277981340202",
-          "summary": "投给Roberto Car & Michele Parrinello‬一票虽然不太可能，因为不久前发给了蛋白质预测。也许这个领域还需要一针强心剂去刺激一下味蕾，然后过几年就合适发给两位前辈了。 [图片]",
-          "people": [
-            "Roberto Car",
-            "Michele Parrinello"
-          ],
-          "directions": [
-            "Car–Parrinello 分子动力学"
-          ],
-          "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
-          "reviewed": true,
-          "reviewMethod": "human",
-          "reviewModel": null,
-          "reviewEvidence": [],
-          "aiAssisted": false,
-          "warnings": []
-        },
-        {
-          "id": "2090434212310554442",
-          "url": "https://www.zhihu.com/question/2081709501913248924/answer/2090434212310554442",
-          "summary": "摘要：2024年诺贝尔物理学奖和化学奖都颁给了人工智能的开路人。两年后，今年这份诺奖热门名单上，我挑了三个把AI用进研究核心的人，有人用Transformer读DNA，有人拿AI设计的蛋白当进化起点。 今晚17点30分，2026年的诺贝尔奖就要开奖了，头一个公布的是生理学或医学奖。 得先说清楚，诺奖委员会的提名名单从不对外公布，所谓热门名单，都是媒体和数据机构按论文影响力猜的。今晚之前，这些名字一个都不算数。 我也不想猜谁会得…",
+          "id": "2091089846827741349",
+          "url": "https://www.zhihu.com/question/2081709501913248924/answer/2091089846827741349",
+          "summary": "这一篇关于诺贝尔化学奖的预测，单纯基于对平台活动的参与热情。内容出自个人视角，并无专业学术基础。 可以肯定没有参考价值，比我的预测结果还肯定。 预测人选从多个不同研判角度出发，每个角度各给出一组。毕竟昨天物理奖爆出冷门，多视角可以拓宽候选覆盖面。 1️⃣赛博预测｜用AI大模型算一算 【本角度正式预测人选】：David R. Liu（刘如谦）+Feng Zhang（张锋） 【获奖理由】： 刘如谦是引文桂冠名单里的热门人选。在…",
           "people": [],
           "directions": [],
-          "reason": "可见摘要回顾AI获奖及热门名单，并明确说不想猜谁得奖；没有可计票的作者选择。",
-          "reviewed": true,
-          "reviewMethod": "human",
+          "reason": "待复核：新增或摘要有变更",
+          "reviewed": false,
+          "reviewMethod": null,
           "reviewModel": null,
           "reviewEvidence": [],
           "aiAssisted": false,
@@ -6875,22 +6818,6 @@
           "reviewModel": null,
           "reviewEvidence": [],
           "aiAssisted": true,
-          "warnings": []
-        },
-        {
-          "id": "2083342696903717415",
-          "url": "https://www.zhihu.com/question/2081709501913248924/answer/2083342696903717415",
-          "summary": "Frustrated Lewis Pair（FLP）有没有一丝丝可能？（瞎猜）",
-          "people": [],
-          "directions": [
-            "受阻路易斯酸碱对"
-          ],
-          "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
-          "reviewed": true,
-          "reviewMethod": "human",
-          "reviewModel": null,
-          "reviewEvidence": [],
-          "aiAssisted": false,
           "warnings": []
         },
         {
@@ -6935,18 +6862,12 @@
           "warnings": []
         },
         {
-          "id": "2085715579508470002",
-          "url": "https://www.zhihu.com/question/2081709501913248924/answer/2085715579508470002",
-          "summary": "沈建仁，刘如谦…",
-          "people": [
-            "沈建仁",
-            "刘如谦"
-          ],
-          "directions": [
-            "光合作用",
-            "精准基因编辑"
-          ],
-          "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+          "id": "2090434212310554442",
+          "url": "https://www.zhihu.com/question/2081709501913248924/answer/2090434212310554442",
+          "summary": "摘要：2024年诺贝尔物理学奖和化学奖都颁给了人工智能的开路人。两年后，今年这份诺奖热门名单上，我挑了三个把AI用进研究核心的人，有人用Transformer读DNA，有人拿AI设计的蛋白当进化起点。 今晚17点30分，2026年的诺贝尔奖就要开奖了，头一个公布的是生理学或医学奖。 得先说清楚，诺奖委员会的提名名单从不对外公布，所谓热门名单，都是媒体和数据机构按论文影响力猜的。今晚之前，这些名字一个都不算数。 我也不想猜谁会得…",
+          "people": [],
+          "directions": [],
+          "reason": "可见摘要回顾AI获奖及热门名单，并明确说不想猜谁得奖；没有可计票的作者选择。",
           "reviewed": true,
           "reviewMethod": "human",
           "reviewModel": null,
@@ -6955,28 +6876,19 @@
           "warnings": []
         },
         {
-          "id": "2089180421460333700",
-          "url": "https://www.zhihu.com/question/2081709501913248924/answer/2089180421460333700",
-          "summary": "照例参加赛博预测。我预测的人选是： 刘如谦 ，David Allara、Ralph Nuzzo、Jacob Sagiv，Harry Gray、Jay Winkler以下是ChatGPT给出的完整报告： 如果只让我押一个名字，我押刘如谦（David R. Liu）；如果押一个获奖方向，我最看好“精准基因编辑”。 不过这是低置信度预测，不是认定他今年一定获奖。截至 2026年10月2日，今年化学奖尚未揭晓；官方公布日期是 10月7日 。结合刚发布的公开资料，我的预测榜如下。1．首选：刘如谦…",
-          "people": [
-            "刘如谦",
-            "David Allara",
-            "Ralph Nuzzo",
-            "Jacob Sagiv",
-            "Harry Gray",
-            "Jay Winkler"
-          ],
+          "id": "2089115093577607038",
+          "url": "https://www.zhihu.com/question/2081709501913248924/answer/2089115093577607038",
+          "summary": "化学奖会发给OLED的发明人们",
+          "people": [],
           "directions": [
-            "精准基因编辑",
-            "自组装单分子层",
-            "生物电子转移"
+            "OLED"
           ],
           "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
           "reviewed": true,
           "reviewMethod": "human",
           "reviewModel": null,
           "reviewEvidence": [],
-          "aiAssisted": true,
+          "aiAssisted": false,
           "warnings": []
         },
         {
@@ -7017,20 +6929,6 @@
               "quote": "我会把 2026 年诺贝尔化学奖正式押在 下一代 DNA 测序（Next-Generation Sequencing，NGS）上"
             }
           ],
-          "aiAssisted": false,
-          "warnings": []
-        },
-        {
-          "id": "2090914079875528547",
-          "url": "https://www.zhihu.com/question/2081709501913248924/answer/2090914079875528547",
-          "summary": "最近研究AIE理论化学入魔了，就预测一个AIE吧。",
-          "people": [],
-          "directions": [],
-          "reason": "直答无法确定，待人工复核：作者预测了AIE，但AIE不在规范方向清单中且语境模糊，不确定是否纳入。",
-          "reviewed": false,
-          "reviewMethod": "zhida",
-          "reviewModel": "zhida-fast-1p5",
-          "reviewEvidence": [],
           "aiAssisted": false,
           "warnings": []
         },
@@ -7082,28 +6980,6 @@
           "warnings": []
         },
         {
-          "id": "2090879560342685458",
-          "url": "https://www.zhihu.com/question/2081709501913248924/answer/2090879560342685458",
-          "summary": "光催化。 既然赌了个概率超小的，那不如玩的更刺激一些。 半导体光催化。",
-          "people": [],
-          "directions": [
-            "半导体光催化"
-          ],
-          "reason": "作者明确预测半导体光催化方向。",
-          "reviewed": true,
-          "reviewMethod": "zhida",
-          "reviewModel": "zhida-fast-1p5",
-          "reviewEvidence": [
-            {
-              "kind": "directions",
-              "name": "半导体光催化",
-              "quote": "光催化。 既然赌了个概率超小的，那不如玩的更刺激一些。 半导体光催化。"
-            }
-          ],
-          "aiAssisted": false,
-          "warnings": []
-        },
-        {
           "id": "2090868242638181252",
           "url": "https://www.zhihu.com/question/2081709501913248924/answer/2090868242638181252",
           "summary": "别到时候给分子编辑了（（（ 好吧，正经预测一下：我觉得今年最大可能是生化的，高通量测序最有可能，至于protac，诺奖应该不会在第一款相关药物上市还没到半年的时候就急着给他发诺奖，碱基编辑也是临床应用还不够所以没啥可能，且还有crispr刚得完奖没多久，反之高通量测序是已经大规模应用的方法。 别的一些可能选项：我觉得ATRP/RAFT/NMP也很有可能，毕竟应用够广，这样老马估计能得奖，贵校化院刚请他来讲座可谓赢麻；LLPS…",
@@ -7118,105 +6994,72 @@
           "warnings": []
         },
         {
-          "id": "2090771376785323976",
-          "url": "https://www.zhihu.com/question/2081709501913248924/answer/2090771376785323976",
-          "summary": "每一年诺贝尔奖预测都是神仙打架，诺贝尔生物学或医学奖忘记猜了，最后看看获奖结果，估计我自己猜了也可能猜不中。今天闲着也是闲着猜一下化学奖吧，万一天上掉馅饼呢! 诺贝尔化学奖应该更难预测，世界上有名的接近诺贝尔奖水平的化学家太多了，因为感觉化学几个热门方向依然很分散了致敬这些为了人类科学进步做出来重大贡献的科学家们！ 勉勉强强猜一次啊。「不出所料！」：已在相关学科领域内众望所归，享誉多年，只等加冕诺…",
+          "id": "2091158896857691120",
+          "url": "https://www.zhihu.com/question/2081709501913248924/answer/2091158896857691120",
+          "summary": "不预测，纯许愿。希望是 Guy Bertrand，Douglas Stephan和Philip Power，表彰他们对元素有机化学的突破性贡献。虽然应该不太可能，不过希望以后总有一年会发给他们（悲）。 [图片] Bertrand开创并拓展了稳定卡宾化学，通过新型卡宾的设计，将其发展为稳定非常规电子结构、活化小分子及调控催化反应的重要工具。他在1988年发现的磷基硅基稳定单线态卡宾，以及后来的CAAC卡宾都是划时代的成果，并且后者作为配体已经获得了广泛的应用，无疑…",
           "people": [],
           "directions": [],
-          "reason": "直答无法确定，待人工复核：摘要截断且未给出具体获奖人选或方向的明确预测。",
+          "reason": "待复核：新增或摘要有变更",
           "reviewed": false,
-          "reviewMethod": "zhida",
-          "reviewModel": "zhida-fast-1p5",
-          "reviewEvidence": [],
-          "aiAssisted": false,
-          "warnings": []
-        },
-        {
-          "id": "2090532326279209480",
-          "url": "https://www.zhihu.com/question/2081709501913248924/answer/2090532326279209480",
-          "summary": "复制一下去年的预测， 1. Roberto Car; Michele Parrinello 2. Peter G. Schultz; Stuart L. Schreiber 今年加上 David R. Liu 吧。话说感觉 yCD 真的好难 engineer，很多年前 Baker 组报道过一个稳定性提升的 yCD triplet mutant，我读博的时候也试着搞一些点突变进去，用的还是 Baker 组后来报道的 MSA 排除进化保守位点 + ProteinMPNN 重新设计的方法，结果不仅稳定性没提升，活性也基本搞没了…",
-          "people": [],
-          "directions": [],
-          "reason": "直答输出校验失败，待人工复核：人名/方向缺少原文依据",
-          "reviewed": false,
-          "reviewMethod": "zhida",
-          "reviewModel": "zhida-fast-1p5",
-          "reviewEvidence": [],
-          "aiAssisted": false,
-          "warnings": []
-        },
-        {
-          "id": "2090476370212172373",
-          "url": "https://www.zhihu.com/question/2081709501913248924/answer/2090476370212172373",
-          "summary": "Michele Parrinello Roberto Car Alessandro Laio? 我猜测是 前两位 或者 三人组，后者的话主题可能是： For the development of transformative methods for atomistic molecular simulation Car + Parrinello → ab initio molecular dynamics → 让计算机能够在量子力学层面模拟运动中的原子和化学过程 Parrinello + Laio → metadynamics → 让模拟跨越自由能势垒、观察稀有事件并获得自由能景观",
-          "people": [],
-          "directions": [],
-          "reason": "直答输出校验失败，待人工复核：新增名称不在引用中，不允许补写",
-          "reviewed": false,
-          "reviewMethod": "zhida",
-          "reviewModel": "zhida-fast-1p5",
-          "reviewEvidence": [],
-          "aiAssisted": false,
-          "warnings": []
-        },
-        {
-          "id": "2089115093577607038",
-          "url": "https://www.zhihu.com/question/2081709501913248924/answer/2089115093577607038",
-          "summary": "化学奖会发给OLED的发明人们",
-          "people": [],
-          "directions": [
-            "OLED"
-          ],
-          "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
-          "reviewed": true,
-          "reviewMethod": "human",
+          "reviewMethod": null,
           "reviewModel": null,
           "reviewEvidence": [],
           "aiAssisted": false,
           "warnings": []
         },
         {
-          "id": "2084856699308061881",
-          "url": "https://www.zhihu.com/question/2081709501913248924/answer/2084856699308061881",
-          "summary": "Takeshi Oka",
-          "people": [
-            "Takeshi Oka"
-          ],
+          "id": "2091151007975749219",
+          "url": "https://www.zhihu.com/question/2081709501913248924/answer/2091151007975749219",
+          "summary": "从不是哥们的角度，我觉得有点爆冷角度。 我选择的是 Peter Schultz + Buchwald/Hartwig + Car/ParrinelloPeter Schultz 是化学生物学领域的。他改造 tRNA 和氨酰-tRNA 合成酶，在活细胞里把非天然氨基酸定点装进蛋白质，等于给蛋白质加“新零件”。这让科学家能标记、交联、固定蛋白质，也推动抗体偶联药和合成生物学。 Buchwald 和 Hartwig 是有机合成领域。两人独立发展钯催化碳-氮偶联，Buchwald-Hartwig 胺化让芳胺合成变得…",
+          "people": [],
           "directions": [],
-          "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
-          "reviewed": true,
-          "reviewMethod": "human",
+          "reason": "待复核：新增或摘要有变更",
+          "reviewed": false,
+          "reviewMethod": null,
           "reviewModel": null,
           "reviewEvidence": [],
           "aiAssisted": false,
           "warnings": []
         },
         {
-          "id": "2090504079319605900",
-          "url": "https://www.zhihu.com/question/2081709501913248924/answer/2090504079319605900",
-          "summary": "马延和的团队可能因为发现了二氧化碳固碳方法，从而获得中国第一个诺贝尔化学奖。",
-          "people": [
-            "马延和"
-          ],
-          "directions": [
-            "二氧化碳固碳"
-          ],
-          "reason": "作者明确预测马延和团队因二氧化碳固碳方法获诺贝尔化学奖。",
-          "reviewed": true,
-          "reviewMethod": "zhida",
-          "reviewModel": "zhida-fast-1p5",
-          "reviewEvidence": [
-            {
-              "kind": "people",
-              "name": "马延和",
-              "quote": "马延和的团队可能因为发现了二氧化碳固碳方法"
-            },
-            {
-              "kind": "directions",
-              "name": "二氧化碳固碳",
-              "quote": "马延和的团队可能因为发现了二氧化碳固碳方法，从而获得中国第一个诺贝尔化学奖"
-            }
-          ],
+          "id": "2091141879542947987",
+          "url": "https://www.zhihu.com/question/2081709501913248924/answer/2091141879542947987",
+          "summary": "没有中国人",
+          "people": [],
+          "directions": [],
+          "reason": "待复核：新增或摘要有变更",
+          "reviewed": false,
+          "reviewMethod": null,
+          "reviewModel": null,
+          "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
+          "id": "2091141371969197336",
+          "url": "https://www.zhihu.com/question/2081709501913248924/answer/2091141371969197336",
+          "summary": "你对于 2026 年诺贝尔化学奖的预测是什么？今年最有希望获得诺贝尔化学奖的人应该是哈佛大学教授刘如谦因开发碱基编辑和先导编辑技术成为今年引文桂冠奖得主，也是最受瞩目的候选人之一。 刘如谦是美国国家科学院、国家医学院院士，也是Beam Therapeutics、Prime Medicine等多家生物技术公司的联合创始人。 [图片] 同时在2025年的时候获取了生命科学突破奖，首届Montrone-Seigel生物医学奖，2026年获得哈维奖，科睿唯安“引文桂冠奖”，…",
+          "people": [],
+          "directions": [],
+          "reason": "待复核：新增或摘要有变更",
+          "reviewed": false,
+          "reviewMethod": null,
+          "reviewModel": null,
+          "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
+          "id": "2091123879460737557",
+          "url": "https://www.zhihu.com/question/2081709501913248924/answer/2091123879460737557",
+          "summary": "那我可广撒网了😋。 [图片] 2026年诺贝尔化学奖将于北京时间今天（10月7日）傍晚揭晓。虽然最终结果保密严格，但综合各大专业机构和媒体的预测，今年的热门候选集中在以下几个方向： 🧬 精准基因编辑（刘如谦）哈佛大学华裔科学家刘如谦开发的碱基编辑和先导编辑技术，被视为继CRISPR之后的下一代工具，能在不剪断DNA双链的情况下精准修改单个碱基。优势是临床转化快，已有针对镰刀型贫血等疾病的试验；但挑战在于2020年CRISPR刚获过奖…",
+          "people": [],
+          "directions": [],
+          "reason": "待复核：新增或摘要有变更",
+          "reviewed": false,
+          "reviewMethod": null,
+          "reviewModel": null,
+          "reviewEvidence": [],
           "aiAssisted": false,
           "warnings": []
         },
@@ -7285,6 +7128,48 @@
           "warnings": []
         },
         {
+          "id": "2090918646453364024",
+          "url": "https://www.zhihu.com/question/2081709501913248924/answer/2090918646453364024",
+          "summary": "第一、哈里・格雷（Harry Gray）、杰伊・温克勒（Jay Winkler，加州理工） 揭示蛋白质靠量子隧穿实现跨距离电子传递，解释光合作用、能量传递等生命基础机制。这个是最高的 第二、刘如谦（David R. Liu，哈佛 / 博德所） 碱基编辑和先导编辑，不切断 DNA 双链即可精准改字，已有 28 项临床试验 第三、阿拉拉、努佐、萨吉夫 1980 年代奠定分子自组装薄膜基础，用于涂层、催化、电子器件 哈里・格雷（Harry Gray）、杰伊・温克…",
+          "people": [],
+          "directions": [],
+          "reason": "直答输出校验失败，待人工复核：人名/方向缺少原文依据",
+          "reviewed": false,
+          "reviewMethod": "zhida",
+          "reviewModel": "zhida-fast-1p5",
+          "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
+          "id": "2090914079875528547",
+          "url": "https://www.zhihu.com/question/2081709501913248924/answer/2090914079875528547",
+          "summary": "最近研究AIE理论化学入魔了，就预测一个AIE吧。",
+          "people": [],
+          "directions": [],
+          "reason": "直答无法确定，待人工复核：作者预测了AIE，但AIE不在规范方向清单中且语境模糊，不确定是否纳入。",
+          "reviewed": false,
+          "reviewMethod": "zhida",
+          "reviewModel": "zhida-fast-1p5",
+          "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
+          "id": "2090904569584804153",
+          "url": "https://www.zhihu.com/question/2081709501913248924/answer/2090904569584804153",
+          "summary": "当然是学校排名遥遥领先的呀",
+          "people": [],
+          "directions": [],
+          "reason": "与化学奖预测无关的玩笑式回答",
+          "reviewed": true,
+          "reviewMethod": "zhida",
+          "reviewModel": "zhida-fast-1p5",
+          "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
           "id": "2090896917597374258",
           "url": "https://www.zhihu.com/question/2081709501913248924/answer/2090896917597374258",
           "summary": "黑猫股份",
@@ -7295,6 +7180,28 @@
           "reviewMethod": "zhida",
           "reviewModel": "zhida-fast-1p5",
           "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
+          "id": "2090879560342685458",
+          "url": "https://www.zhihu.com/question/2081709501913248924/answer/2090879560342685458",
+          "summary": "光催化。 既然赌了个概率超小的，那不如玩的更刺激一些。 半导体光催化。",
+          "people": [],
+          "directions": [
+            "半导体光催化"
+          ],
+          "reason": "作者明确预测半导体光催化方向。",
+          "reviewed": true,
+          "reviewMethod": "zhida",
+          "reviewModel": "zhida-fast-1p5",
+          "reviewEvidence": [
+            {
+              "kind": "directions",
+              "name": "半导体光催化",
+              "quote": "光催化。 既然赌了个概率超小的，那不如玩的更刺激一些。 半导体光催化。"
+            }
+          ],
           "aiAssisted": false,
           "warnings": []
         },
@@ -7327,6 +7234,20 @@
           "warnings": []
         },
         {
+          "id": "2090771376785323976",
+          "url": "https://www.zhihu.com/question/2081709501913248924/answer/2090771376785323976",
+          "summary": "每一年诺贝尔奖预测都是神仙打架，诺贝尔生物学或医学奖忘记猜了，最后看看获奖结果，估计我自己猜了也可能猜不中。今天闲着也是闲着猜一下化学奖吧，万一天上掉馅饼呢! 诺贝尔化学奖应该更难预测，世界上有名的接近诺贝尔奖水平的化学家太多了，因为感觉化学几个热门方向依然很分散了致敬这些为了人类科学进步做出来重大贡献的科学家们！ 勉勉强强猜一次啊。「不出所料！」：已在相关学科领域内众望所归，享誉多年，只等加冕诺…",
+          "people": [],
+          "directions": [],
+          "reason": "直答无法确定，待人工复核：摘要截断且未给出具体获奖人选或方向的明确预测。",
+          "reviewed": false,
+          "reviewMethod": "zhida",
+          "reviewModel": "zhida-fast-1p5",
+          "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
           "id": "2090591248625185437",
           "url": "https://www.zhihu.com/question/2081709501913248924/answer/2090591248625185437",
           "summary": "Dna encoded library总有一天会获得",
@@ -7343,6 +7264,49 @@
               "kind": "directions",
               "name": "Dna encoded library",
               "quote": "Dna encoded library总有一天会获得"
+            }
+          ],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
+          "id": "2090532326279209480",
+          "url": "https://www.zhihu.com/question/2081709501913248924/answer/2090532326279209480",
+          "summary": "复制一下去年的预测， 1. Roberto Car; Michele Parrinello 2. Peter G. Schultz; Stuart L. Schreiber 今年加上 David R. Liu 吧。话说感觉 yCD 真的好难 engineer，很多年前 Baker 组报道过一个稳定性提升的 yCD triplet mutant，我读博的时候也试着搞一些点突变进去，用的还是 Baker 组后来报道的 MSA 排除进化保守位点 + ProteinMPNN 重新设计的方法，结果不仅稳定性没提升，活性也基本搞没了…",
+          "people": [],
+          "directions": [],
+          "reason": "直答输出校验失败，待人工复核：人名/方向缺少原文依据",
+          "reviewed": false,
+          "reviewMethod": "zhida",
+          "reviewModel": "zhida-fast-1p5",
+          "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
+          "id": "2090504079319605900",
+          "url": "https://www.zhihu.com/question/2081709501913248924/answer/2090504079319605900",
+          "summary": "马延和的团队可能因为发现了二氧化碳固碳方法，从而获得中国第一个诺贝尔化学奖。",
+          "people": [
+            "马延和"
+          ],
+          "directions": [
+            "二氧化碳固碳"
+          ],
+          "reason": "作者明确预测马延和团队因二氧化碳固碳方法获诺贝尔化学奖。",
+          "reviewed": true,
+          "reviewMethod": "zhida",
+          "reviewModel": "zhida-fast-1p5",
+          "reviewEvidence": [
+            {
+              "kind": "people",
+              "name": "马延和",
+              "quote": "马延和的团队可能因为发现了二氧化碳固碳方法"
+            },
+            {
+              "kind": "directions",
+              "name": "二氧化碳固碳",
+              "quote": "马延和的团队可能因为发现了二氧化碳固碳方法，从而获得中国第一个诺贝尔化学奖"
             }
           ],
           "aiAssisted": false,
@@ -7367,6 +7331,20 @@
               "quote": "基因测序"
             }
           ],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
+          "id": "2090476370212172373",
+          "url": "https://www.zhihu.com/question/2081709501913248924/answer/2090476370212172373",
+          "summary": "Michele Parrinello Roberto Car Alessandro Laio? 我猜测是 前两位 或者 三人组，后者的话主题可能是： For the development of transformative methods for atomistic molecular simulation Car + Parrinello → ab initio molecular dynamics → 让计算机能够在量子力学层面模拟运动中的原子和化学过程 Parrinello + Laio → metadynamics → 让模拟跨越自由能势垒、观察稀有事件并获得自由能景观",
+          "people": [],
+          "directions": [],
+          "reason": "直答输出校验失败，待人工复核：新增名称不在引用中，不允许补写",
+          "reviewed": false,
+          "reviewMethod": "zhida",
+          "reviewModel": "zhida-fast-1p5",
+          "reviewEvidence": [],
           "aiAssisted": false,
           "warnings": []
         },
@@ -7406,68 +7384,6 @@
           "warnings": []
         },
         {
-          "id": "2089006235660054889",
-          "url": "https://www.zhihu.com/question/2081709501913248924/answer/2089006235660054889",
-          "summary": "Franz-Ulrich Hartl 是我认为最有望拿下2026年诺贝尔化学奖的人选。 这次竞争2026年诺贝尔化学奖的人有很多，但Franz-Ulrich Hartl是呼声最高的候选人之一，也是年轻化学家里的佼佼者。 [图片] Franz-Ulrich Hartl的机会‌很大，大到所有人都看好他，觉得他能拿下诺贝尔化学奖。我最初关注到他，是因为我对蛋白质折叠领域一直很有兴趣。他在这一方向上的工作：阐明蛋白质如何正确折叠，这也是我了解他的开始。不仅仅拿下了邵逸夫奖、拉…",
-          "people": [
-            "Franz-Ulrich Hartl"
-          ],
-          "directions": [
-            "蛋白质折叠与未折叠蛋白应答"
-          ],
-          "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
-          "reviewed": true,
-          "reviewMethod": "human",
-          "reviewModel": null,
-          "reviewEvidence": [],
-          "aiAssisted": false,
-          "warnings": []
-        },
-        {
-          "id": "2088638754936378523",
-          "url": "https://www.zhihu.com/question/2081709501913248924/answer/2088638754936378523",
-          "summary": "我预测的最准：肯定不会是我。",
-          "people": [],
-          "directions": [],
-          "reason": "玩笑，无具体候选",
-          "reviewed": true,
-          "reviewMethod": "human",
-          "reviewModel": null,
-          "reviewEvidence": [],
-          "aiAssisted": false,
-          "warnings": []
-        },
-        {
-          "id": "2084975348555503084",
-          "url": "https://www.zhihu.com/question/2081709501913248924/answer/2084975348555503084",
-          "summary": "翁启惠",
-          "people": [
-            "翁启惠"
-          ],
-          "directions": [],
-          "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
-          "reviewed": true,
-          "reviewMethod": "human",
-          "reviewModel": null,
-          "reviewEvidence": [],
-          "aiAssisted": false,
-          "warnings": []
-        },
-        {
-          "id": "2090904569584804153",
-          "url": "https://www.zhihu.com/question/2081709501913248924/answer/2090904569584804153",
-          "summary": "当然是学校排名遥遥领先的呀",
-          "people": [],
-          "directions": [],
-          "reason": "与化学奖预测无关的玩笑式回答",
-          "reviewed": true,
-          "reviewMethod": "zhida",
-          "reviewModel": "zhida-fast-1p5",
-          "reviewEvidence": [],
-          "aiAssisted": false,
-          "warnings": []
-        },
-        {
           "id": "2089522305433183025",
           "url": "https://www.zhihu.com/question/2081709501913248924/answer/2089522305433183025",
           "summary": "化学奖我押MOF（金属有机框架）。 Yaghi和Kitagawa这条线攒了快三十年，从储氢做到碳捕集和水采集，工业化的口子也开了，这类「结构决定一切」的化学最受诺奖青睐。 唯一变数是评委会不会把奖留给更年轻的生物方向，但MOF的欠账太明显了。 坐等验证。",
@@ -7487,6 +7403,160 @@
           "warnings": [
             "该回答将已获 2025 化学奖的 MOF 再预测为 2026。保留原始预测，标记事实错误。"
           ]
+        },
+        {
+          "id": "2089006235660054889",
+          "url": "https://www.zhihu.com/question/2081709501913248924/answer/2089006235660054889",
+          "summary": "Franz-Ulrich Hartl 是我认为最有望拿下2026年诺贝尔化学奖的人选。 这次竞争2026年诺贝尔化学奖的人有很多，但Franz-Ulrich Hartl是呼声最高的候选人之一，也是年轻化学家里的佼佼者。 [图片] Franz-Ulrich Hartl的机会‌很大，大到所有人都看好他，觉得他能拿下诺贝尔化学奖。我最初关注到他，是因为我对蛋白质折叠领域一直很有兴趣。他在这一方向上的工作：阐明蛋白质如何正确折叠，这也是我了解他的开始。不仅仅拿下了邵逸夫奖、拉…",
+          "people": [
+            "Franz-Ulrich Hartl"
+          ],
+          "directions": [
+            "蛋白质折叠与未折叠蛋白应答"
+          ],
+          "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+          "reviewed": true,
+          "reviewMethod": "human",
+          "reviewModel": null,
+          "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
+          "id": "2085715579508470002",
+          "url": "https://www.zhihu.com/question/2081709501913248924/answer/2085715579508470002",
+          "summary": "沈建仁，刘如谦…",
+          "people": [
+            "沈建仁",
+            "刘如谦"
+          ],
+          "directions": [
+            "光合作用",
+            "精准基因编辑"
+          ],
+          "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+          "reviewed": true,
+          "reviewMethod": "human",
+          "reviewModel": null,
+          "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
+          "id": "2084856699308061881",
+          "url": "https://www.zhihu.com/question/2081709501913248924/answer/2084856699308061881",
+          "summary": "Takeshi Oka",
+          "people": [
+            "Takeshi Oka"
+          ],
+          "directions": [],
+          "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+          "reviewed": true,
+          "reviewMethod": "human",
+          "reviewModel": null,
+          "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
+          "id": "2084775277981340202",
+          "url": "https://www.zhihu.com/question/2081709501913248924/answer/2084775277981340202",
+          "summary": "投给Roberto Car & Michele Parrinello‬一票虽然不太可能，因为不久前发给了蛋白质预测。也许这个领域还需要一针强心剂去刺激一下味蕾，然后过几年就合适发给两位前辈了。 [图片]",
+          "people": [
+            "Roberto Car",
+            "Michele Parrinello"
+          ],
+          "directions": [
+            "Car–Parrinello 分子动力学"
+          ],
+          "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+          "reviewed": true,
+          "reviewMethod": "human",
+          "reviewModel": null,
+          "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
+          "id": "2084296242725663899",
+          "url": "https://www.zhihu.com/question/2081709501913248924/answer/2084296242725663899",
+          "summary": "Roberto Car, Michele Parrinello ：开发Car–Parrinello方法，一种将密度泛函理论（DFT）与分子动力学（MD）统一起来的计算方法，用于模拟分子与材料体系中原子和电子的动态行为。 [图片] Yoshitaka Tanimura 建立层级运动方程（HEOM）理论框架，实现凝聚相分子体系中非马尔可夫开放量子动力学的数值精确模拟 [图片] Krzysztof Matyjaszewski，Mitsuo Sawamoto 表彰他们发现并发展金属催化可逆失活自由基聚合，实现高分子链拓扑结构的分子级精…",
+          "people": [
+            "Roberto Car",
+            "Michele Parrinello",
+            "Yoshitaka Tanimura",
+            "Krzysztof Matyjaszewski",
+            "Mitsuo Sawamoto"
+          ],
+          "directions": [
+            "Car–Parrinello 分子动力学",
+            "层级运动方程",
+            "可控自由基聚合"
+          ],
+          "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+          "reviewed": true,
+          "reviewMethod": "human",
+          "reviewModel": null,
+          "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
+          "id": "2083342696903717415",
+          "url": "https://www.zhihu.com/question/2081709501913248924/answer/2083342696903717415",
+          "summary": "Frustrated Lewis Pair（FLP）有没有一丝丝可能？（瞎猜）",
+          "people": [],
+          "directions": [
+            "受阻路易斯酸碱对"
+          ],
+          "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+          "reviewed": true,
+          "reviewMethod": "human",
+          "reviewModel": null,
+          "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
+          "id": "2089180421460333700",
+          "url": "https://www.zhihu.com/question/2081709501913248924/answer/2089180421460333700",
+          "summary": "照例参加赛博预测。我预测的人选是： 刘如谦 ，David Allara、Ralph Nuzzo、Jacob Sagiv，Harry Gray、Jay Winkler以下是ChatGPT给出的完整报告： 如果只让我押一个名字，我押刘如谦（David R. Liu）；如果押一个获奖方向，我最看好“精准基因编辑”。 不过这是低置信度预测，不是认定他今年一定获奖。截至 2026年10月2日，今年化学奖尚未揭晓；官方公布日期是 10月7日 。结合刚发布的公开资料，我的预测榜如下。1．首选：刘如谦…",
+          "people": [
+            "刘如谦",
+            "David Allara",
+            "Ralph Nuzzo",
+            "Jacob Sagiv",
+            "Harry Gray",
+            "Jay Winkler"
+          ],
+          "directions": [
+            "精准基因编辑",
+            "自组装单分子层",
+            "生物电子转移"
+          ],
+          "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+          "reviewed": true,
+          "reviewMethod": "human",
+          "reviewModel": null,
+          "reviewEvidence": [],
+          "aiAssisted": true,
+          "warnings": []
+        },
+        {
+          "id": "2084975348555503084",
+          "url": "https://www.zhihu.com/question/2081709501913248924/answer/2084975348555503084",
+          "summary": "翁启惠",
+          "people": [
+            "翁启惠"
+          ],
+          "directions": [],
+          "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+          "reviewed": true,
+          "reviewMethod": "human",
+          "reviewModel": null,
+          "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
         }
       ],
       "announcementAt": "2026-10-07T09:45:00+00:00",
@@ -7499,11 +7569,11 @@
       "english": "LITERATURE",
       "symbol": "L",
       "questionUrl": "https://www.zhihu.com/question/2085781961016960614",
-      "fetchedAt": "2026-10-06T22:39:24.527907+00:00",
+      "fetchedAt": "2026-10-07T05:58:02.784940+00:00",
       "complete": true,
-      "total": 41,
+      "total": 46,
       "valid": 16,
-      "pending": 12,
+      "pending": 17,
       "excluded": 13,
       "people": [
         {
@@ -7747,6 +7817,20 @@
       "directions": [],
       "answers": [
         {
+          "id": "2090804268278212233",
+          "url": "https://www.zhihu.com/question/2085781961016960614/answer/2090804268278212233",
+          "summary": "残雪喊了很多年，过去都只是当个中国人的噱头在国内发酵，今年不一样，赔率榜上残雪超神了。虽然这个所谓的赔率榜预测成功的概率不大，但是华语文学界被外界关注，这本身就能代表一种倾向。 整体来看，今年可能获奖的作家除了残雪，还有另外一位墨西哥的克里斯蒂娜·里韦拉·加尔萨（Cristina Rivera Garza）和加拿大的诗人安妮·卡森。 个人观点，中文作家入选希望不大，这是由诺奖评选的机制天然形成的。 诺奖文学奖评委有18个…",
+          "people": [],
+          "directions": [],
+          "reason": "待复核：新增或摘要有变更",
+          "reviewed": false,
+          "reviewMethod": null,
+          "reviewModel": null,
+          "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
           "id": "2089770194013107342",
           "url": "https://www.zhihu.com/question/2085781961016960614/answer/2089770194013107342",
           "summary": "第一票，“不出所料”投给残雪。 一本正经猜测的获奖理由：以独特的先锋小说，拓展文学对人的恐惧、欲望和精神生活的表达。 主要猜测依据是：9月29日，文学网站Literary Hub整理的2026年文学奖公开赔率中，残雪排在最前面！ 当然了，讨论这个，我们得先讨论这个人到底写过些啥，又是“先锋”又是“实验”又是“具有独特的精神世界”啥的，听起来倒是怪炫酷的。 我觉得讨论残雪，可以从《山上的小屋》说起。 这篇小说里有抽屉，有…",
@@ -7861,20 +7945,6 @@
           "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
           "reviewed": true,
           "reviewMethod": "human",
-          "reviewModel": null,
-          "reviewEvidence": [],
-          "aiAssisted": false,
-          "warnings": []
-        },
-        {
-          "id": "2090804268278212233",
-          "url": "https://www.zhihu.com/question/2085781961016960614/answer/2090804268278212233",
-          "summary": "残雪喊了很多年，过去都只是当个中国人的噱头在国内发酵，今年不一样，赔率榜上残雪超神了。虽然这个所谓的赔率榜预测成功的概率不大，但是华语文学界被外界关注，这本身就能代表一种倾向。 整体来看，今年可能获奖的作家除了残雪，还有另外一位墨西哥的克里斯蒂娜·里韦拉·加尔萨（Cristina Rivera Garza）和加拿大的诗人安妮·卡森。 个人观点，中文作家入选希望不大，这是由诺奖评选的机制天然形成的。 诺奖文学奖评委有18个…",
-          "people": [],
-          "directions": [],
-          "reason": "待复核：新增或摘要有变更",
-          "reviewed": false,
-          "reviewMethod": null,
           "reviewModel": null,
           "reviewEvidence": [],
           "aiAssisted": false,
@@ -8061,6 +8131,48 @@
           "warnings": []
         },
         {
+          "id": "2091150254171280257",
+          "url": "https://www.zhihu.com/question/2085781961016960614/answer/2091150254171280257",
+          "summary": "你对 2026 年诺贝尔文学奖有哪些预测？哪些作家及作品值得了解？ 谁能得奖，我并不清楚，但我希望村上春树得奖，主要原因是我买了太多他的作品，堆在家里太占地方，便宜卖掉又不舍得。如果村上春树能得奖，必定导致其作品价格大涨，连带二手书价格也大增，到时候我再把书卖掉，也能跟着喝一口汤。 他的作品有很多，最知名的当属挪威的森林，我就不说了，我只提一提他中后期的两部重量级作品：海边的卡夫卡和1Q84。这两部作品也很…",
+          "people": [],
+          "directions": [],
+          "reason": "待复核：新增或摘要有变更",
+          "reviewed": false,
+          "reviewMethod": null,
+          "reviewModel": null,
+          "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
+          "id": "2091084159741584233",
+          "url": "https://www.zhihu.com/question/2085781961016960614/answer/2091084159741584233",
+          "summary": "上一个回答预测今年的诺贝尔生理学或医学奖得主没有猜对，这次的诺贝尔文学奖预测不知道胜算能不能高一些。 老规矩，依然做四组预测。 01 不出所料，众望所归组获奖人选： 安妮·卡森（Anne Carson） 我参考了前排答主的回答，有一半的答主都选了她，应该算是众望所归了吧。 获奖理由： 她的作品多采用拼贴形式，杂糅了诗歌、散文、小说等体裁，以古典题材来探讨现代命题。 打破了诗歌、散文、古典学研究、戏剧的边界。 2026年，…",
+          "people": [],
+          "directions": [],
+          "reason": "待复核：新增或摘要有变更",
+          "reviewed": false,
+          "reviewMethod": null,
+          "reviewModel": null,
+          "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
+          "id": "2091104844635554164",
+          "url": "https://www.zhihu.com/question/2085781961016960614/answer/2091104844635554164",
+          "summary": "时代在变，人也在变，诺贝尔也在变。 今后诺贝尔会越来越多地颁给中国人，然后大家狂欢，商家炒作一番… 再然后慢慢就不值钱，大家见惯不怪，商家也懒得炒作…",
+          "people": [],
+          "directions": [],
+          "reason": "待复核：新增或摘要有变更",
+          "reviewed": false,
+          "reviewMethod": null,
+          "reviewModel": null,
+          "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
           "id": "2090758157899454004",
           "url": "https://www.zhihu.com/question/2085781961016960614/answer/2090758157899454004",
           "summary": "去年诺贝尔文学奖获奖者是个男作家，今年不出所料应该是个女作家，我对2026诺贝尔文学奖预测是墨西哥女作家里韦拉·加尔萨。去年我就预测她能中奖，今年执着地投她一票。 预测属于不出所料，获奖理由如下：里韦拉·加尔萨是一位备受瞩目的墨西哥女作家，以其对女性身份、家庭关系和社会不公的敏锐观察而闻名。她的作品往往充满力量，能够触动读者的心灵。 加尔萨文学作品是对墨西哥社会现状的深刻反思，通过细腻的笔触描绘了女性…",
@@ -8089,44 +8201,6 @@
           "warnings": []
         },
         {
-          "id": "2088715755768525029",
-          "url": "https://www.zhihu.com/question/2085781961016960614/answer/2088715755768525029",
-          "summary": "完犊子了，本来计划今年把我的天体的机械传动原理找个期刊发表，结果却落空了。",
-          "people": [],
-          "directions": [],
-          "reason": "无文学奖预测",
-          "reviewed": true,
-          "reviewMethod": "human",
-          "reviewModel": null,
-          "reviewEvidence": [],
-          "aiAssisted": false,
-          "warnings": []
-        },
-        {
-          "id": "2088687358724126545",
-          "url": "https://www.zhihu.com/question/2085781961016960614/answer/2088687358724126545",
-          "summary": "我最看好：莉迪亚若热（诺奖作家推崇加左翼加后殖民加反集权完全诺奖标准） 1.michelle de kretse（高概率） 2..燕妮埃彭贝克（中概率，作品太少） 3.克里斯蒂娜.里韦拉.加尔萨（中高概率，作品足够） 3.阿里.史密斯（中高概率，作品足够） 4.德博拉，莱维（高概率，弥补没有女剧作家获奖的文学版图） 5.罗莎蒙罗蒙 6.克里斯蒂娜·佩里·罗西（高概率，唯二塞万提斯奖获得者） 7.雷切尔库斯克（中概率，太年轻） 8.埃尔西.索蒂罗…",
-          "people": [
-            "莉迪亚·若热",
-            "米歇尔·德克雷策",
-            "燕妮·埃彭贝克",
-            "克里斯蒂娜·里韦拉·加尔萨",
-            "阿里·史密斯",
-            "德博拉·莱维",
-            "罗莎·蒙特罗",
-            "克里斯蒂娜·佩里·罗西",
-            "蕾切尔·卡斯克"
-          ],
-          "directions": [],
-          "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
-          "reviewed": true,
-          "reviewMethod": "human",
-          "reviewModel": null,
-          "reviewEvidence": [],
-          "aiAssisted": false,
-          "warnings": []
-        },
-        {
           "id": "2090392316410323498",
           "url": "https://www.zhihu.com/question/2085781961016960614/answer/2090392316410323498",
           "summary": "这次的诺奖预言家活动，按要求回答中可以罗列多组预测， 对应官方提供的四种预测思路，每个角度单独确定一组正式预测，内容如下： 1️⃣赛博预测｜用AI大模型算一算 【本角度正式预测人选】：残雪【获奖理由】： 残雪算是赔率榜单的老熟人了，陪跑赛道很常见这个名字。让AI依照往年诺奖结果作推演，她的名字一定会排名靠前。 她的作品个人风格极强，如果评委今年考虑把奖项给到东亚作家，残雪就存在一定机会。 [图片] 2️⃣不出所料…",
@@ -8145,6 +8219,20 @@
               "quote": "这次的诺奖预言家活动，按要求回答中可以罗列多组预测， 对应官方提供的四种预测思路，每个角度单独确定一组正式预测，内容如下： 1️⃣赛博预测｜用AI大模型算一算 【本角度正式预测人选】：残雪【获奖理由】： 残雪算是赔率榜单的老熟人了，陪跑赛道很常见这个名字。让AI依照往年诺奖结果作推演，她的名字一定会排名靠前。 她的作品个人风格极强，如果评委今年考虑把奖项给到东亚作家，残雪就存在一定机会。 [图片] 2️⃣不出所料…"
             }
           ],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
+          "id": "2088715755768525029",
+          "url": "https://www.zhihu.com/question/2085781961016960614/answer/2088715755768525029",
+          "summary": "完犊子了，本来计划今年把我的天体的机械传动原理找个期刊发表，结果却落空了。",
+          "people": [],
+          "directions": [],
+          "reason": "无文学奖预测",
+          "reviewed": true,
+          "reviewMethod": "human",
+          "reviewModel": null,
+          "reviewEvidence": [],
           "aiAssisted": false,
           "warnings": []
         },
@@ -8180,30 +8268,40 @@
           "warnings": []
         },
         {
-          "id": "2090473636692078612",
-          "url": "https://www.zhihu.com/question/2085781961016960614/answer/2090473636692078612",
-          "summary": "其实我不太关心诺奖，除非颁给品钦或者德里罗。 我觉得诺奖作者构成的文学地图也不适合作为构建一个有效的审美体系参考，世界文学这个研究主题也不是我所感兴趣的，自然也不太想去考虑它究竟是有变成cosmopolitan tribunal of literature的风险还是认为赋予文学作品可译性只会是把巴黎、伦敦、纽约之外的文学带进巴黎、伦敦、纽约的评价体系。不过想一下我自己的偏好其实也挺狭窄的，或者可以被white Anglo-American male high-l…",
+          "id": "2088687358724126545",
+          "url": "https://www.zhihu.com/question/2085781961016960614/answer/2088687358724126545",
+          "summary": "我最看好：莉迪亚若热（诺奖作家推崇加左翼加后殖民加反集权完全诺奖标准） 1.michelle de kretse（高概率） 2..燕妮埃彭贝克（中概率，作品太少） 3.克里斯蒂娜.里韦拉.加尔萨（中高概率，作品足够） 3.阿里.史密斯（中高概率，作品足够） 4.德博拉，莱维（高概率，弥补没有女剧作家获奖的文学版图） 5.罗莎蒙罗蒙 6.克里斯蒂娜·佩里·罗西（高概率，唯二塞万提斯奖获得者） 7.雷切尔库斯克（中概率，太年轻） 8.埃尔西.索蒂罗…",
           "people": [
-            "托马斯·品钦",
-            "德里罗"
+            "莉迪亚·若热",
+            "米歇尔·德克雷策",
+            "燕妮·埃彭贝克",
+            "克里斯蒂娜·里韦拉·加尔萨",
+            "阿里·史密斯",
+            "德博拉·莱维",
+            "罗莎·蒙特罗",
+            "克里斯蒂娜·佩里·罗西",
+            "蕾切尔·卡斯克"
           ],
           "directions": [],
-          "reason": "作者明确只期待品钦或德里罗获奖，属于明确希望获奖的候选。",
+          "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
           "reviewed": true,
           "reviewMethod": "human",
           "reviewModel": null,
-          "reviewEvidence": [
-            {
-              "kind": "people",
-              "name": "托马斯·品钦",
-              "quote": "其实我不太关心诺奖，除非颁给品钦或者德里罗。 我觉得诺奖作者构成的文学地图也不适合作为构建一个有效的审美体系参考，世界文学这个研究主题也不是我所感兴趣的，自然也不太想去考虑它究竟是有变成cosmopolitan tribunal of literature的风险还是认为赋予文学作品可译性只会是把巴黎、伦敦、纽约之外的文学带进巴黎、伦敦、纽约的评价体系。不过想一下我自己的偏好其实也挺狭窄的，或者可以被white Anglo-American male high-l…"
-            },
-            {
-              "kind": "people",
-              "name": "德里罗",
-              "quote": "其实我不太关心诺奖，除非颁给品钦或者德里罗。 我觉得诺奖作者构成的文学地图也不适合作为构建一个有效的审美体系参考，世界文学这个研究主题也不是我所感兴趣的，自然也不太想去考虑它究竟是有变成cosmopolitan tribunal of literature的风险还是认为赋予文学作品可译性只会是把巴黎、伦敦、纽约之外的文学带进巴黎、伦敦、纽约的评价体系。不过想一下我自己的偏好其实也挺狭窄的，或者可以被white Anglo-American male high-l…"
-            }
-          ],
+          "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
+          "id": "2090591571620242229",
+          "url": "https://www.zhihu.com/question/2085781961016960614/answer/2090591571620242229",
+          "summary": "风水轮流转，也该轮到残雪或者村上春树了，不过我不太懂当代文学，也没读过残雪，我不知道为什么她年年都能上赔率榜。",
+          "people": [],
+          "directions": [],
+          "reason": "待复核：新增或摘要有变更",
+          "reviewed": false,
+          "reviewMethod": null,
+          "reviewModel": null,
+          "reviewEvidence": [],
           "aiAssisted": false,
           "warnings": []
         },
@@ -8238,6 +8336,34 @@
           ]
         },
         {
+          "id": "2090473636692078612",
+          "url": "https://www.zhihu.com/question/2085781961016960614/answer/2090473636692078612",
+          "summary": "其实我不太关心诺奖，除非颁给品钦或者德里罗。 我觉得诺奖作者构成的文学地图也不适合作为构建一个有效的审美体系参考，世界文学这个研究主题也不是我所感兴趣的，自然也不太想去考虑它究竟是有变成cosmopolitan tribunal of literature的风险还是认为赋予文学作品可译性只会是把巴黎、伦敦、纽约之外的文学带进巴黎、伦敦、纽约的评价体系。不过想一下我自己的偏好其实也挺狭窄的，或者可以被white Anglo-American male high-l…",
+          "people": [
+            "托马斯·品钦",
+            "德里罗"
+          ],
+          "directions": [],
+          "reason": "作者明确只期待品钦或德里罗获奖，属于明确希望获奖的候选。",
+          "reviewed": true,
+          "reviewMethod": "human",
+          "reviewModel": null,
+          "reviewEvidence": [
+            {
+              "kind": "people",
+              "name": "托马斯·品钦",
+              "quote": "其实我不太关心诺奖，除非颁给品钦或者德里罗。 我觉得诺奖作者构成的文学地图也不适合作为构建一个有效的审美体系参考，世界文学这个研究主题也不是我所感兴趣的，自然也不太想去考虑它究竟是有变成cosmopolitan tribunal of literature的风险还是认为赋予文学作品可译性只会是把巴黎、伦敦、纽约之外的文学带进巴黎、伦敦、纽约的评价体系。不过想一下我自己的偏好其实也挺狭窄的，或者可以被white Anglo-American male high-l…"
+            },
+            {
+              "kind": "people",
+              "name": "德里罗",
+              "quote": "其实我不太关心诺奖，除非颁给品钦或者德里罗。 我觉得诺奖作者构成的文学地图也不适合作为构建一个有效的审美体系参考，世界文学这个研究主题也不是我所感兴趣的，自然也不太想去考虑它究竟是有变成cosmopolitan tribunal of literature的风险还是认为赋予文学作品可译性只会是把巴黎、伦敦、纽约之外的文学带进巴黎、伦敦、纽约的评价体系。不过想一下我自己的偏好其实也挺狭窄的，或者可以被white Anglo-American male high-l…"
+            }
+          ],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
           "id": "2090110045350522968",
           "url": "https://www.zhihu.com/question/2085781961016960614/answer/2090110045350522968",
           "summary": "今年诺贝尔文学奖女性作家热度很高：多份非官方短名单里，安妮·卡森、贝拉、残雪、克里斯蒂娜·里韦拉·加尔萨、玛格丽特·阿特伍德等都反复出现。 残雪仍是华语作家中讨论度最高者：她常年进入赔率榜，但今年在不同榜单中的位置有波动。 残雪之所以反复进入诺奖讨论，并不是因为“赔率高”，而是她的写作本身具备诺奖评委长期看重的几类特质：高度实验性、精神深度、普遍人性关怀、跨文化可译性，以及她在世界文学版图中足够鲜…",
@@ -8252,9 +8378,9 @@
           "warnings": []
         },
         {
-          "id": "2090591571620242229",
-          "url": "https://www.zhihu.com/question/2085781961016960614/answer/2090591571620242229",
-          "summary": "风水轮流转，也该轮到残雪或者村上春树了，不过我不太懂当代文学，也没读过残雪，我不知道为什么她年年都能上赔率榜。",
+          "id": "2091078387091747607",
+          "url": "https://www.zhihu.com/question/2085781961016960614/answer/2091078387091747607",
+          "summary": "利迪娅·若热可能性很大。其次是亚历克西斯·赖特。（省流：结尾有预测名单） 很奇怪高赞回答把若热忽略了，我感觉，她已经命中了几乎所有的诺奖「风向标」。 赔率榜那玩意就不谈了，前两名纯整活。 （不过若热也在赔率榜前十，不在前二，这就是好信号了，更像能获奖的样子😂） 利迪娅·若热最重要的两个加分项是同时存在的，一个是年纪刚好（足够年长），一个是年纪这么大了还仍有创作、仍在获奖。 [图片] 七八十岁是诺奖得主很集中…",
           "people": [],
           "directions": [],
           "reason": "待复核：新增或摘要有变更",
@@ -8308,6 +8434,20 @@
           "warnings": []
         },
         {
+          "id": "2090776602409971849",
+          "url": "https://www.zhihu.com/question/2085781961016960614/answer/2090776602409971849",
+          "summary": "我对于2026年诺贝尔文学奖的预测加拿大女作家贝拉（沈镭），她不在诺贝尔文学奖获奖热榜里，但个人很喜欢她的作品。 贝拉在跨文化、犹太流亡题材写作与国际比较文学研究领域拥有独特的位置。她的代表作《魔咒钢琴》、《幸存者之歌》等作品聚焦二战时期犹太难民流亡上海的历史，是国内较少以小说形式书写这一历史的作家。这对于世界了解犹太人这个民族有非常大的帮助。 贝拉以爱情、音乐、苦难、人性博爱为核心，融合跨地域、跨文…",
+          "people": [],
+          "directions": [],
+          "reason": "待复核：新增或摘要有变更",
+          "reviewed": false,
+          "reviewMethod": null,
+          "reviewModel": null,
+          "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
           "id": "2089392708926416791",
           "url": "https://www.zhihu.com/question/2085781961016960614/answer/2089392708926416791",
           "summary": "预测三位： 1. 克里斯蒂娜·里韦拉·加尔萨（Cristina Rivera Garza） 2025年颁给匈牙利男作家克拉斯诺霍尔卡伊后，按学院近十年“男女交替”的节奏，2026年大概率属于女性。 拉美地区自2010年巴尔加斯·略萨后已空缺16年，加尔萨是当下拉美最具国际能见度的作家之一。2024年她凭《莉莉亚娜不可战胜的夏天》获普利策回忆录奖，该书将个人伤痛转化为对性别暴力的结构性批判，正是学院近年偏好的“参与性写作”。 她62岁，处于获奖…",
@@ -8324,53 +8464,9 @@
           "warnings": []
         },
         {
-          "id": "2088736454964950070",
-          "url": "https://www.zhihu.com/question/2085781961016960614/answer/2088736454964950070",
-          "summary": "诺贝尔文学奖一直都令人备受关注，这次我押个天才，就是加拿大女诗人安妮·卡森，她最有机会拿到诺贝尔文学奖。 [图片] 去年我也预测了诺贝尔文学奖获得者，结果没有猜对。这次我觉得如果安妮·卡森不得诺贝尔文学奖，那文坛的天都要抖三抖了。 安妮·卡森是本世纪最重要的在世诗人之一，哈罗德·布鲁姆称她为\"在世诸天才之一\"。她真的让诗歌有灵魂，让古典学识有生命，把古典学识与先锋诗歌实验融合，让世人重新认识诗歌的魅力与文学的…",
-          "people": [
-            "安妮·卡森"
-          ],
-          "directions": [],
-          "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
-          "reviewed": true,
-          "reviewMethod": "human",
-          "reviewModel": null,
-          "reviewEvidence": [],
-          "aiAssisted": false,
-          "warnings": []
-        },
-        {
-          "id": "2090967351806185631",
-          "url": "https://www.zhihu.com/question/2085781961016960614/answer/2090967351806185631",
-          "summary": "中国第一位诺贝尔文学奖女作家，国内冷门，今年星海稳了。",
-          "people": [],
-          "directions": [],
-          "reason": "待复核：新增或摘要有变更",
-          "reviewed": false,
-          "reviewMethod": null,
-          "reviewModel": null,
-          "reviewEvidence": [],
-          "aiAssisted": false,
-          "warnings": []
-        },
-        {
-          "id": "2090776602409971849",
-          "url": "https://www.zhihu.com/question/2085781961016960614/answer/2090776602409971849",
-          "summary": "我对于2026年诺贝尔文学奖的预测加拿大女作家贝拉（沈镭），她不在诺贝尔文学奖获奖热榜里，但个人很喜欢她的作品。 贝拉在跨文化、犹太流亡题材写作与国际比较文学研究领域拥有独特的位置。她的代表作《魔咒钢琴》、《幸存者之歌》等作品聚焦二战时期犹太难民流亡上海的历史，是国内较少以小说形式书写这一历史的作家。这对于世界了解犹太人这个民族有非常大的帮助。 贝拉以爱情、音乐、苦难、人性博爱为核心，融合跨地域、跨文…",
-          "people": [],
-          "directions": [],
-          "reason": "待复核：新增或摘要有变更",
-          "reviewed": false,
-          "reviewMethod": null,
-          "reviewModel": null,
-          "reviewEvidence": [],
-          "aiAssisted": false,
-          "warnings": []
-        },
-        {
-          "id": "2090725586381686775",
-          "url": "https://www.zhihu.com/question/2085781961016960614/answer/2090725586381686775",
-          "summary": "没有人能精准押中诺奖文学奖得主。瑞典学院的提名、讨论、投票记录保密 50 年，所有赔率榜单只是博彩公司和媒体的民间猜想，不是内部消息，历史上大热爆冷是常态诺贝尔奖。如果只看今年赔率、评审偏好综合判断， 安妮・卡森（加拿大）是当下头号热门，也是我个人最看好的人选。值得重点关注的热门作家及作品‌安妮·卡森（加拿大）‌ 传统赔率榜常年稳居前列，是诗人兼古典学者，文字兼具思辨性与诗意美感，代表作《苦甜之爱…",
+          "id": "2091073144643761831",
+          "url": "https://www.zhihu.com/question/2085781961016960614/answer/2091073144643761831",
+          "summary": "连续多年的诺贝尔文学奖揭晓前，除了国人以外几乎所有国家的读者认知获奖名单意识里，总会绕不开“残雪”这个名字，而每一次诺贝尔文学奖揭晓后，残雪却习惯性的与诺奖失之交臂。 2019年就有人采访过“残雪”，问她对诺奖的评价，残雪说，诺奖的含金量应该不高吧。对普通人来说，残雪这句话也许只是“吃不到葡萄说葡萄酸”的自我安慰，而对于国外的学者，认为残雪对诺奖的评价并不掉价。 国外许多的文学研究机构如日本在很早的时…",
           "people": [],
           "directions": [],
           "reason": "待复核：新增或摘要有变更",
@@ -8396,6 +8492,64 @@
           "warnings": [
             "摘要截断；当前可见内容没有明确的本届预测"
           ]
+        },
+        {
+          "id": "2088736454964950070",
+          "url": "https://www.zhihu.com/question/2085781961016960614/answer/2088736454964950070",
+          "summary": "诺贝尔文学奖一直都令人备受关注，这次我押个天才，就是加拿大女诗人安妮·卡森，她最有机会拿到诺贝尔文学奖。 [图片] 去年我也预测了诺贝尔文学奖获得者，结果没有猜对。这次我觉得如果安妮·卡森不得诺贝尔文学奖，那文坛的天都要抖三抖了。 安妮·卡森是本世纪最重要的在世诗人之一，哈罗德·布鲁姆称她为\"在世诸天才之一\"。她真的让诗歌有灵魂，让古典学识有生命，把古典学识与先锋诗歌实验融合，让世人重新认识诗歌的魅力与文学的…",
+          "people": [
+            "安妮·卡森"
+          ],
+          "directions": [],
+          "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+          "reviewed": true,
+          "reviewMethod": "human",
+          "reviewModel": null,
+          "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
+          "id": "2090940988097296300",
+          "url": "https://www.zhihu.com/question/2085781961016960614/answer/2090940988097296300",
+          "summary": "《原神》能否获得诺贝尔文学奖? 刚产生这个想法我也觉得不可能，但是之后越想越靠谱，越想越激动，can't help myself。 理由如下: ①具备一般的文学素养，即可以感知的画面、巧妙编排的情节和发人深思的启示，是奇幻**和现实**的奇妙融合，让历史的微光照进物质文明高度发展的现代社会。 ②融合了全世界各国的文化，既显示了差异性也显示了包容性，是批判者也是宣扬者，是人类历史_上出现的所有命题的集大成者，表达了人类最广泛…",
+          "people": [],
+          "directions": [],
+          "reason": "待复核：新增或摘要有变更",
+          "reviewed": false,
+          "reviewMethod": null,
+          "reviewModel": null,
+          "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
+          "id": "2090967351806185631",
+          "url": "https://www.zhihu.com/question/2085781961016960614/answer/2090967351806185631",
+          "summary": "中国第一位诺贝尔文学奖女作家，国内冷门，今年星海稳了。",
+          "people": [],
+          "directions": [],
+          "reason": "待复核：新增或摘要有变更",
+          "reviewed": false,
+          "reviewMethod": null,
+          "reviewModel": null,
+          "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
+          "id": "2090725586381686775",
+          "url": "https://www.zhihu.com/question/2085781961016960614/answer/2090725586381686775",
+          "summary": "没有人能精准押中诺奖文学奖得主。瑞典学院的提名、讨论、投票记录保密 50 年，所有赔率榜单只是博彩公司和媒体的民间猜想，不是内部消息，历史上大热爆冷是常态诺贝尔奖。如果只看今年赔率、评审偏好综合判断， 安妮・卡森（加拿大）是当下头号热门，也是我个人最看好的人选。值得重点关注的热门作家及作品‌安妮·卡森（加拿大）‌ 传统赔率榜常年稳居前列，是诗人兼古典学者，文字兼具思辨性与诗意美感，代表作《苦甜之爱…",
+          "people": [],
+          "directions": [],
+          "reason": "待复核：新增或摘要有变更",
+          "reviewed": false,
+          "reviewMethod": null,
+          "reviewModel": null,
+          "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
         },
         {
           "id": "2088840004390990441",
@@ -8426,20 +8580,6 @@
           "reviewEvidence": [],
           "aiAssisted": false,
           "warnings": []
-        },
-        {
-          "id": "2090940988097296300",
-          "url": "https://www.zhihu.com/question/2085781961016960614/answer/2090940988097296300",
-          "summary": "《原神》能否获得诺贝尔文学奖? 刚产生这个想法我也觉得不可能，但是之后越想越靠谱，越想越激动，can't help myself。 理由如下: ①具备一般的文学素养，即可以感知的画面、巧妙编排的情节和发人深思的启示，是奇幻**和现实**的奇妙融合，让历史的微光照进物质文明高度发展的现代社会。 ②融合了全世界各国的文化，既显示了差异性也显示了包容性，是批判者也是宣扬者，是人类历史_上出现的所有命题的集大成者，表达了人类最广泛…",
-          "people": [],
-          "directions": [],
-          "reason": "待复核：新增或摘要有变更",
-          "reviewed": false,
-          "reviewMethod": null,
-          "reviewModel": null,
-          "reviewEvidence": [],
-          "aiAssisted": false,
-          "warnings": []
         }
       ],
       "announcementAt": "2026-10-08T11:00:00+00:00",
@@ -8452,11 +8592,11 @@
       "english": "ECONOMIC SCIENCES",
       "symbol": "E",
       "questionUrl": "https://www.zhihu.com/question/2084054769849611542",
-      "fetchedAt": "2026-10-06T22:39:26.088586+00:00",
+      "fetchedAt": "2026-10-07T05:58:04.868923+00:00",
       "complete": true,
-      "total": 43,
+      "total": 44,
       "valid": 22,
-      "pending": 5,
+      "pending": 6,
       "excluded": 16,
       "people": [
         {
@@ -9775,6 +9915,34 @@
           "warnings": []
         },
         {
+          "id": "2089626055946548811",
+          "url": "https://www.zhihu.com/question/2084054769849611542/answer/2089626055946548811",
+          "summary": "😜",
+          "people": [],
+          "directions": [],
+          "reason": "表情，无预测",
+          "reviewed": true,
+          "reviewMethod": "human",
+          "reviewModel": null,
+          "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
+          "id": "2089424168676767508",
+          "url": "https://www.zhihu.com/question/2084054769849611542/answer/2089424168676767508",
+          "summary": "贝森特～亲自坐庄日元",
+          "people": [],
+          "directions": [],
+          "reason": "语境不明，待核实",
+          "reviewed": true,
+          "reviewMethod": "human",
+          "reviewModel": null,
+          "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
           "id": "2088989034861290920",
           "url": "https://www.zhihu.com/question/2084054769849611542/answer/2088989034861290920",
           "summary": "计量经济学理论方向，可能斯坦福的susan athey、mit的Victor Chernozhukov、Whitney Newey做因果推断与机器学习很前沿，不一定今年能颁给他们，但我想他们肯定是值得诺奖的。 另外LSE如果说political economy方向，Tim Besley教授应该也是热门候选。",
@@ -9791,6 +9959,20 @@
           "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
           "reviewed": true,
           "reviewMethod": "human",
+          "reviewModel": null,
+          "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
+          "id": "2091125185516774412",
+          "url": "https://www.zhihu.com/question/2084054769849611542/answer/2091125185516774412",
+          "summary": "不如颁发给李新野。 经济学问题本质是社会学以及政治学问题。",
+          "people": [],
+          "directions": [],
+          "reason": "待复核：新增或摘要有变更",
+          "reviewed": false,
+          "reviewMethod": null,
           "reviewModel": null,
           "reviewEvidence": [],
           "aiAssisted": false,
@@ -9843,40 +10025,12 @@
           "warnings": []
         },
         {
-          "id": "2089626055946548811",
-          "url": "https://www.zhihu.com/question/2084054769849611542/answer/2089626055946548811",
-          "summary": "😜",
-          "people": [],
-          "directions": [],
-          "reason": "表情，无预测",
-          "reviewed": true,
-          "reviewMethod": "human",
-          "reviewModel": null,
-          "reviewEvidence": [],
-          "aiAssisted": false,
-          "warnings": []
-        },
-        {
           "id": "2089555070199374081",
           "url": "https://www.zhihu.com/question/2084054769849611542/answer/2089555070199374081",
           "summary": "至少丁真、姜萍、蔡徐坤肯定不在此列。",
           "people": [],
           "directions": [],
           "reason": "否定名单，不计正向预测",
-          "reviewed": true,
-          "reviewMethod": "human",
-          "reviewModel": null,
-          "reviewEvidence": [],
-          "aiAssisted": false,
-          "warnings": []
-        },
-        {
-          "id": "2089424168676767508",
-          "url": "https://www.zhihu.com/question/2084054769849611542/answer/2089424168676767508",
-          "summary": "贝森特～亲自坐庄日元",
-          "people": [],
-          "directions": [],
-          "reason": "语境不明，待核实",
           "reviewed": true,
           "reviewMethod": "human",
           "reviewModel": null,

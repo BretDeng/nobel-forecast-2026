@@ -1,0 +1,27 @@
+{
+  "model": "zhida-fast-1p5",
+  "category": "chemistry",
+  "summaryHashes": {
+    "2091089846827741349": "750e968143bf7cdd23d88be05546d4a875db86ebb84a1af94a54976c2fea86a2",
+    "2091158896857691120": "a9dddedb1101ddf1562355d84e90d825c353265795ab864dbd2d0f8995c8f56d",
+    "2091151007975749219": "d8976fd1d04042f21c35165eecdc022c6555d7427017bb8b7735078f56119a88",
+    "2091141879542947987": "e210c4f41902ff5629f23b89f2a06a2cc1225a7b7c5aed977bce2a98d6eccc9d",
+    "2091141371969197336": "c13dbf2171644cbe299f966b411114270d7d2d50fd9db36e6262180d7068d25f"
+  },
+  "response": {
+    "id": "chatcmpl-53dec11d-28a9-4740-b8e9-133b100c63ac",
+    "object": "chat.completion",
+    "created": 1791352688,
+    "model": "zhida-fast-1p5",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "非常抱歉，我目前无法针对您的问题提供更多信息，如果您有其他的问题，我将非常乐意尽力帮助您。"
+        },
+        "finish_reason": "stop"
+      }
+    ]
+  }
+}

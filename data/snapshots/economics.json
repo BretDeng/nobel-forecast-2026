@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-06T22:39:26.088586+00:00",
+  "fetchedAt": "2026-10-07T05:58:04.868923+00:00",
   "pages": [
     {
       "Code": 0,
@@ -206,9 +206,27 @@
           },
           {
             "ContentType": "answer",
+            "ContentToken": "2089626055946548811",
+            "Url": "https://www.zhihu.com/question/2084054769849611542/answer/2089626055946548811",
+            "Summary": "😜"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2089424168676767508",
+            "Url": "https://www.zhihu.com/question/2084054769849611542/answer/2089424168676767508",
+            "Summary": "贝森特～亲自坐庄日元"
+          },
+          {
+            "ContentType": "answer",
             "ContentToken": "2088989034861290920",
             "Url": "https://www.zhihu.com/question/2084054769849611542/answer/2088989034861290920",
             "Summary": "计量经济学理论方向，可能斯坦福的susan athey、mit的Victor Chernozhukov、Whitney Newey做因果推断与机器学习很前沿，不一定今年能颁给他们，但我想他们肯定是值得诺奖的。 另外LSE如果说political economy方向，Tim Besley教授应该也是热门候选。"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2091125185516774412",
+            "Url": "https://www.zhihu.com/question/2084054769849611542/answer/2091125185516774412",
+            "Summary": "不如颁发给李新野。 经济学问题本质是社会学以及政治学问题。"
           },
           {
             "ContentType": "answer",
@@ -230,21 +248,9 @@
           },
           {
             "ContentType": "answer",
-            "ContentToken": "2089626055946548811",
-            "Url": "https://www.zhihu.com/question/2084054769849611542/answer/2089626055946548811",
-            "Summary": "😜"
-          },
-          {
-            "ContentType": "answer",
             "ContentToken": "2089555070199374081",
             "Url": "https://www.zhihu.com/question/2084054769849611542/answer/2089555070199374081",
             "Summary": "至少丁真、姜萍、蔡徐坤肯定不在此列。"
-          },
-          {
-            "ContentType": "answer",
-            "ContentToken": "2089424168676767508",
-            "Url": "https://www.zhihu.com/question/2084054769849611542/answer/2089424168676767508",
-            "Summary": "贝森特～亲自坐庄日元"
           },
           {
             "ContentType": "answer",

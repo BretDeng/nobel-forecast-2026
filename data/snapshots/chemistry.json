@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-06T22:39:22.842374+00:00",
+  "fetchedAt": "2026-10-07T05:58:01.152757+00:00",
   "pages": [
     {
       "Code": 0,
@@ -14,39 +14,27 @@
           },
           {
             "ContentType": "answer",
-            "ContentToken": "2089599838560305817",
-            "Url": "https://www.zhihu.com/question/2081709501913248924/answer/2089599838560305817",
-            "Summary": "去年难得猜中了“有机金属框架MOF”，结果我在回答下各种艾特知乎相关的官方号，都不理我。年底给小管家发私信，才把幸运钱要来，生气。 看了下今年的科睿唯安引文桂冠奖，包括 自组装单分子层（SAMs）技术，那我就猜这个吧。也没仔细读过这个领域的文献，就依样画葫芦，猜引文桂冠奖的三位吧，美国学者戴维·阿拉拉(David Allara)和拉尔夫·努佐(Ralph Nuzzo)，以及来自以色列的雅各布·萨吉夫(Jacob Sagiv)。SAM (Self-assembl…"
-          },
-          {
-            "ContentType": "answer",
-            "ContentToken": "2084296242725663899",
-            "Url": "https://www.zhihu.com/question/2081709501913248924/answer/2084296242725663899",
-            "Summary": "Roberto Car, Michele Parrinello ：开发Car–Parrinello方法，一种将密度泛函理论（DFT）与分子动力学（MD）统一起来的计算方法，用于模拟分子与材料体系中原子和电子的动态行为。 [图片] Yoshitaka Tanimura 建立层级运动方程（HEOM）理论框架，实现凝聚相分子体系中非马尔可夫开放量子动力学的数值精确模拟 [图片] Krzysztof Matyjaszewski，Mitsuo Sawamoto 表彰他们发现并发展金属催化可逆失活自由基聚合，实现高分子链拓扑结构的分子级精…"
-          },
-          {
-            "ContentType": "answer",
-            "ContentToken": "2090918646453364024",
-            "Url": "https://www.zhihu.com/question/2081709501913248924/answer/2090918646453364024",
-            "Summary": "第一、哈里・格雷（Harry Gray）、杰伊・温克勒（Jay Winkler，加州理工） 揭示蛋白质靠量子隧穿实现跨距离电子传递，解释光合作用、能量传递等生命基础机制。这个是最高的 第二、刘如谦（David R. Liu，哈佛 / 博德所） 碱基编辑和先导编辑，不切断 DNA 双链即可精准改字，已有 28 项临床试验 第三、阿拉拉、努佐、萨吉夫 1980 年代奠定分子自组装薄膜基础，用于涂层、催化、电子器件 哈里・格雷（Harry Gray）、杰伊・温克…"
-          },
-          {
-            "ContentType": "answer",
             "ContentToken": "2084558026153931043",
             "Url": "https://www.zhihu.com/question/2081709501913248924/answer/2084558026153931043",
             "Summary": "我今年不预测了，因为实际上从19年开始，这个趋势就没法预测了。 同样是改变世界，有的人熬到死也得不到奖，有的人死前几年被施舍一次，有的人4年就能拿奖。 因为你不知道今年诺奖委员会打算讲什么故事。想讲一个热点故事？那么近年的热门成果会拿奖；想讲一个历史传承的故事？那么过去的遗珠可能拿奖。想表示我们诺奖委员会紧跟时代潮流不是老顽固，那么就给AI4S颁奖。甚至要讲一个女科学家故事，讲一个非白人故事，拿奖的人都…"
           },
           {
             "ContentType": "answer",
-            "ContentToken": "2083055746896478323",
-            "Url": "https://www.zhihu.com/question/2081709501913248924/answer/2083055746896478323",
-            "Summary": "今年又该回到化学生物学领域了吧～ 预测：Peter G. Schultz、Stuart L. Schreiber"
-          },
-          {
-            "ContentType": "answer",
             "ContentToken": "2090424739823085246",
             "Url": "https://www.zhihu.com/question/2081709501913248924/answer/2090424739823085246",
             "Summary": "理综奖预测依然是情怀组：卢煜明院士 卢教授其实每年有两次冲击诺奖的机会，一次在生医，一次在化学，他在2016年获得的引文桂冠奖就是被划在化学领域，如果今年理综奖又回到了生物化学方向，还是有可能听到他的名字的，当然一人独得的概率很小，或许会把“更高通量更低成本的Solexa DNA测序技术”和“以孕妇血浆DNA分析为本的无创产前诊断技术”组合在一起给奖： Shankar Balasubramanian ¼ ，David Klenerman ¼，卢煜明 ½ …"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2089599838560305817",
+            "Url": "https://www.zhihu.com/question/2081709501913248924/answer/2089599838560305817",
+            "Summary": "去年难得猜中了“有机金属框架MOF”，结果我在回答下各种艾特知乎相关的官方号，都不理我。年底给小管家发私信，才把幸运钱要来，生气。 看了下今年的科睿唯安引文桂冠奖，包括 自组装单分子层（SAMs）技术，那我就猜这个吧。也没仔细读过这个领域的文献，就依样画葫芦，猜引文桂冠奖的三位吧，美国学者戴维·阿拉拉(David Allara)和拉尔夫·努佐(Ralph Nuzzo)，以及来自以色列的雅各布·萨吉夫(Jacob Sagiv)。SAM (Self-assembl…"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2083055746896478323",
+            "Url": "https://www.zhihu.com/question/2081709501913248924/answer/2083055746896478323",
+            "Summary": "今年又该回到化学生物学领域了吧～ 预测：Peter G. Schultz、Stuart L. Schreiber"
           },
           {
             "ContentType": "answer",
@@ -68,15 +56,9 @@
           },
           {
             "ContentType": "answer",
-            "ContentToken": "2084775277981340202",
-            "Url": "https://www.zhihu.com/question/2081709501913248924/answer/2084775277981340202",
-            "Summary": "投给Roberto Car & Michele Parrinello‬一票虽然不太可能，因为不久前发给了蛋白质预测。也许这个领域还需要一针强心剂去刺激一下味蕾，然后过几年就合适发给两位前辈了。 [图片]"
-          },
-          {
-            "ContentType": "answer",
-            "ContentToken": "2090434212310554442",
-            "Url": "https://www.zhihu.com/question/2081709501913248924/answer/2090434212310554442",
-            "Summary": "摘要：2024年诺贝尔物理学奖和化学奖都颁给了人工智能的开路人。两年后，今年这份诺奖热门名单上，我挑了三个把AI用进研究核心的人，有人用Transformer读DNA，有人拿AI设计的蛋白当进化起点。 今晚17点30分，2026年的诺贝尔奖就要开奖了，头一个公布的是生理学或医学奖。 得先说清楚，诺奖委员会的提名名单从不对外公布，所谓热门名单，都是媒体和数据机构按论文影响力猜的。今晚之前，这些名字一个都不算数。 我也不想猜谁会得…"
+            "ContentToken": "2091089846827741349",
+            "Url": "https://www.zhihu.com/question/2081709501913248924/answer/2091089846827741349",
+            "Summary": "这一篇关于诺贝尔化学奖的预测，单纯基于对平台活动的参与热情。内容出自个人视角，并无专业学术基础。 可以肯定没有参考价值，比我的预测结果还肯定。 预测人选从多个不同研判角度出发，每个角度各给出一组。毕竟昨天物理奖爆出冷门，多视角可以拓宽候选覆盖面。 1️⃣赛博预测｜用AI大模型算一算 【本角度正式预测人选】：David R. Liu（刘如谦）+Feng Zhang（张锋） 【获奖理由】： 刘如谦是引文桂冠名单里的热门人选。在…"
           },
           {
             "ContentType": "answer",
@@ -86,75 +68,15 @@
           },
           {
             "ContentType": "answer",
-            "ContentToken": "2083342696903717415",
-            "Url": "https://www.zhihu.com/question/2081709501913248924/answer/2083342696903717415",
-            "Summary": "Frustrated Lewis Pair（FLP）有没有一丝丝可能？（瞎猜）"
-          },
-          {
-            "ContentType": "answer",
             "ContentToken": "2090751833484665020",
             "Url": "https://www.zhihu.com/question/2081709501913248924/answer/2090751833484665020",
             "Summary": "诺贝尔科学家预测很难的，我去年参照网上各种热榜反复比对，结果也没有一个预测结果是正确的。今年就随随便便预测一个吧，凑个热闹。 不出所料，我对于2026年诺贝尔化学奖的预测结果是自组装单分子层研究领域的开创者，他们分别是美国学者戴维·阿拉拉（David Allara）和拉尔夫·努佐（Ralph Nuzzo），以及来自以色列的雅各布·萨吉夫(Jacob Sagiv）。他们三个获得诺贝尔化学奖的优势是入选了“引文桂冠”。 所谓自组装单分子层…"
           },
           {
             "ContentType": "answer",
-            "ContentToken": "2085715579508470002",
-            "Url": "https://www.zhihu.com/question/2081709501913248924/answer/2085715579508470002",
-            "Summary": "沈建仁，刘如谦…"
-          },
-          {
-            "ContentType": "answer",
-            "ContentToken": "2089180421460333700",
-            "Url": "https://www.zhihu.com/question/2081709501913248924/answer/2089180421460333700",
-            "Summary": "照例参加赛博预测。我预测的人选是： 刘如谦 ，David Allara、Ralph Nuzzo、Jacob Sagiv，Harry Gray、Jay Winkler以下是ChatGPT给出的完整报告： 如果只让我押一个名字，我押刘如谦（David R. Liu）；如果押一个获奖方向，我最看好“精准基因编辑”。 不过这是低置信度预测，不是认定他今年一定获奖。截至 2026年10月2日，今年化学奖尚未揭晓；官方公布日期是 10月7日 。结合刚发布的公开资料，我的预测榜如下。1．首选：刘如谦…"
-          },
-          {
-            "ContentType": "answer",
-            "ContentToken": "2090420401813959146",
-            "Url": "https://www.zhihu.com/question/2081709501913248924/answer/2090420401813959146",
-            "Summary": "如果今年只能押一组，我反而不会追最新的“碱基编辑”，也不会直接跟着科睿唯安今年新公布的候选名单走。我会把 2026 年诺贝尔化学奖正式押在 下一代 DNA 测序（Next-Generation Sequencing，NGS）上，人选选择 Shankar Balasubramanian、David Klenerman 和 Pascal Mayer，因为这三个人的成果已经从一项实验室技术，变成了现代生命科学最基础的基础设施之一。我的正式预测是： Shankar Balasubramanian、David Klenerman、Pasca…"
-          },
-          {
-            "ContentType": "answer",
-            "ContentToken": "2090914079875528547",
-            "Url": "https://www.zhihu.com/question/2081709501913248924/answer/2090914079875528547",
-            "Summary": "最近研究AIE理论化学入魔了，就预测一个AIE吧。"
-          },
-          {
-            "ContentType": "answer",
-            "ContentToken": "2090884151771714665",
-            "Url": "https://www.zhihu.com/question/2081709501913248924/answer/2090884151771714665",
-            "Summary": "胡乱写几个吧： 1.靶向蛋白降解与分子胶（PROTAC & Molecular Glues） 克雷格·克鲁斯（Craig Crews）、雷蒙德·德沙伊（Raymond Deshaies）、史图尔特·施赖伯（Stuart Schreiber） 开创 靶向蛋白降解技术与分子胶概念，利用双功能小分子将致病蛋白拉到细胞自身的清除系统（泛素-蛋白酶体）中进行靶向销毁。这是近 20 年来化学生物学对新药研发最具颠覆性的突破，彻底解决了传统小分子难以成药的困局。但是主要是在工业界极其炽…"
-          },
-          {
-            "ContentType": "answer",
-            "ContentToken": "2090879560342685458",
-            "Url": "https://www.zhihu.com/question/2081709501913248924/answer/2090879560342685458",
-            "Summary": "光催化。 既然赌了个概率超小的，那不如玩的更刺激一些。 半导体光催化。"
-          },
-          {
-            "ContentType": "answer",
-            "ContentToken": "2090868242638181252",
-            "Url": "https://www.zhihu.com/question/2081709501913248924/answer/2090868242638181252",
-            "Summary": "别到时候给分子编辑了（（（ 好吧，正经预测一下：我觉得今年最大可能是生化的，高通量测序最有可能，至于protac，诺奖应该不会在第一款相关药物上市还没到半年的时候就急着给他发诺奖，碱基编辑也是临床应用还不够所以没啥可能，且还有crispr刚得完奖没多久，反之高通量测序是已经大规模应用的方法。 别的一些可能选项：我觉得ATRP/RAFT/NMP也很有可能，毕竟应用够广，这样老马估计能得奖，贵校化院刚请他来讲座可谓赢麻；LLPS…"
-          },
-          {
-            "ContentType": "answer",
-            "ContentToken": "2090771376785323976",
-            "Url": "https://www.zhihu.com/question/2081709501913248924/answer/2090771376785323976",
-            "Summary": "每一年诺贝尔奖预测都是神仙打架，诺贝尔生物学或医学奖忘记猜了，最后看看获奖结果，估计我自己猜了也可能猜不中。今天闲着也是闲着猜一下化学奖吧，万一天上掉馅饼呢! 诺贝尔化学奖应该更难预测，世界上有名的接近诺贝尔奖水平的化学家太多了，因为感觉化学几个热门方向依然很分散了致敬这些为了人类科学进步做出来重大贡献的科学家们！ 勉勉强强猜一次啊。「不出所料！」：已在相关学科领域内众望所归，享誉多年，只等加冕诺…"
-          },
-          {
-            "ContentType": "answer",
-            "ContentToken": "2090532326279209480",
-            "Url": "https://www.zhihu.com/question/2081709501913248924/answer/2090532326279209480",
-            "Summary": "复制一下去年的预测， 1. Roberto Car; Michele Parrinello 2. Peter G. Schultz; Stuart L. Schreiber 今年加上 David R. Liu 吧。话说感觉 yCD 真的好难 engineer，很多年前 Baker 组报道过一个稳定性提升的 yCD triplet mutant，我读博的时候也试着搞一些点突变进去，用的还是 Baker 组后来报道的 MSA 排除进化保守位点 + ProteinMPNN 重新设计的方法，结果不仅稳定性没提升，活性也基本搞没了…"
-          },
-          {
-            "ContentType": "answer",
-            "ContentToken": "2090476370212172373",
-            "Url": "https://www.zhihu.com/question/2081709501913248924/answer/2090476370212172373",
-            "Summary": "Michele Parrinello Roberto Car Alessandro Laio? 我猜测是 前两位 或者 三人组，后者的话主题可能是： For the development of transformative methods for atomistic molecular simulation Car + Parrinello → ab initio molecular dynamics → 让计算机能够在量子力学层面模拟运动中的原子和化学过程 Parrinello + Laio → metadynamics → 让模拟跨越自由能势垒、观察稀有事件并获得自由能景观"
+            "ContentToken": "2090434212310554442",
+            "Url": "https://www.zhihu.com/question/2081709501913248924/answer/2090434212310554442",
+            "Summary": "摘要：2024年诺贝尔物理学奖和化学奖都颁给了人工智能的开路人。两年后，今年这份诺奖热门名单上，我挑了三个把AI用进研究核心的人，有人用Transformer读DNA，有人拿AI设计的蛋白当进化起点。 今晚17点30分，2026年的诺贝尔奖就要开奖了，头一个公布的是生理学或医学奖。 得先说清楚，诺奖委员会的提名名单从不对外公布，所谓热门名单，都是媒体和数据机构按论文影响力猜的。今晚之前，这些名字一个都不算数。 我也不想猜谁会得…"
           },
           {
             "ContentType": "answer",
@@ -164,15 +86,51 @@
           },
           {
             "ContentType": "answer",
-            "ContentToken": "2084856699308061881",
-            "Url": "https://www.zhihu.com/question/2081709501913248924/answer/2084856699308061881",
-            "Summary": "Takeshi Oka"
+            "ContentToken": "2090420401813959146",
+            "Url": "https://www.zhihu.com/question/2081709501913248924/answer/2090420401813959146",
+            "Summary": "如果今年只能押一组，我反而不会追最新的“碱基编辑”，也不会直接跟着科睿唯安今年新公布的候选名单走。我会把 2026 年诺贝尔化学奖正式押在 下一代 DNA 测序（Next-Generation Sequencing，NGS）上，人选选择 Shankar Balasubramanian、David Klenerman 和 Pascal Mayer，因为这三个人的成果已经从一项实验室技术，变成了现代生命科学最基础的基础设施之一。我的正式预测是： Shankar Balasubramanian、David Klenerman、Pasca…"
           },
           {
             "ContentType": "answer",
-            "ContentToken": "2090504079319605900",
-            "Url": "https://www.zhihu.com/question/2081709501913248924/answer/2090504079319605900",
-            "Summary": "马延和的团队可能因为发现了二氧化碳固碳方法，从而获得中国第一个诺贝尔化学奖。"
+            "ContentToken": "2090884151771714665",
+            "Url": "https://www.zhihu.com/question/2081709501913248924/answer/2090884151771714665",
+            "Summary": "胡乱写几个吧： 1.靶向蛋白降解与分子胶（PROTAC & Molecular Glues） 克雷格·克鲁斯（Craig Crews）、雷蒙德·德沙伊（Raymond Deshaies）、史图尔特·施赖伯（Stuart Schreiber） 开创 靶向蛋白降解技术与分子胶概念，利用双功能小分子将致病蛋白拉到细胞自身的清除系统（泛素-蛋白酶体）中进行靶向销毁。这是近 20 年来化学生物学对新药研发最具颠覆性的突破，彻底解决了传统小分子难以成药的困局。但是主要是在工业界极其炽…"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2090868242638181252",
+            "Url": "https://www.zhihu.com/question/2081709501913248924/answer/2090868242638181252",
+            "Summary": "别到时候给分子编辑了（（（ 好吧，正经预测一下：我觉得今年最大可能是生化的，高通量测序最有可能，至于protac，诺奖应该不会在第一款相关药物上市还没到半年的时候就急着给他发诺奖，碱基编辑也是临床应用还不够所以没啥可能，且还有crispr刚得完奖没多久，反之高通量测序是已经大规模应用的方法。 别的一些可能选项：我觉得ATRP/RAFT/NMP也很有可能，毕竟应用够广，这样老马估计能得奖，贵校化院刚请他来讲座可谓赢麻；LLPS…"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2091158896857691120",
+            "Url": "https://www.zhihu.com/question/2081709501913248924/answer/2091158896857691120",
+            "Summary": "不预测，纯许愿。希望是 Guy Bertrand，Douglas Stephan和Philip Power，表彰他们对元素有机化学的突破性贡献。虽然应该不太可能，不过希望以后总有一年会发给他们（悲）。 [图片] Bertrand开创并拓展了稳定卡宾化学，通过新型卡宾的设计，将其发展为稳定非常规电子结构、活化小分子及调控催化反应的重要工具。他在1988年发现的磷基硅基稳定单线态卡宾，以及后来的CAAC卡宾都是划时代的成果，并且后者作为配体已经获得了广泛的应用，无疑…"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2091151007975749219",
+            "Url": "https://www.zhihu.com/question/2081709501913248924/answer/2091151007975749219",
+            "Summary": "从不是哥们的角度，我觉得有点爆冷角度。 我选择的是 Peter Schultz + Buchwald/Hartwig + Car/ParrinelloPeter Schultz 是化学生物学领域的。他改造 tRNA 和氨酰-tRNA 合成酶，在活细胞里把非天然氨基酸定点装进蛋白质，等于给蛋白质加“新零件”。这让科学家能标记、交联、固定蛋白质，也推动抗体偶联药和合成生物学。 Buchwald 和 Hartwig 是有机合成领域。两人独立发展钯催化碳-氮偶联，Buchwald-Hartwig 胺化让芳胺合成变得…"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2091141879542947987",
+            "Url": "https://www.zhihu.com/question/2081709501913248924/answer/2091141879542947987",
+            "Summary": "没有中国人"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2091141371969197336",
+            "Url": "https://www.zhihu.com/question/2081709501913248924/answer/2091141371969197336",
+            "Summary": "你对于 2026 年诺贝尔化学奖的预测是什么？今年最有希望获得诺贝尔化学奖的人应该是哈佛大学教授刘如谦因开发碱基编辑和先导编辑技术成为今年引文桂冠奖得主，也是最受瞩目的候选人之一。 刘如谦是美国国家科学院、国家医学院院士，也是Beam Therapeutics、Prime Medicine等多家生物技术公司的联合创始人。 [图片] 同时在2025年的时候获取了生命科学突破奖，首届Montrone-Seigel生物医学奖，2026年获得哈维奖，科睿唯安“引文桂冠奖”，…"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2091123879460737557",
+            "Url": "https://www.zhihu.com/question/2081709501913248924/answer/2091123879460737557",
+            "Summary": "那我可广撒网了😋。 [图片] 2026年诺贝尔化学奖将于北京时间今天（10月7日）傍晚揭晓。虽然最终结果保密严格，但综合各大专业机构和媒体的预测，今年的热门候选集中在以下几个方向： 🧬 精准基因编辑（刘如谦）哈佛大学华裔科学家刘如谦开发的碱基编辑和先导编辑技术，被视为继CRISPR之后的下一代工具，能在不剪断DNA双链的情况下精准修改单个碱基。优势是临床转化快，已有针对镰刀型贫血等疾病的试验；但挑战在于2020年CRISPR刚获过奖…"
           },
           {
             "ContentType": "answer",
@@ -200,9 +158,33 @@
           },
           {
             "ContentType": "answer",
+            "ContentToken": "2090918646453364024",
+            "Url": "https://www.zhihu.com/question/2081709501913248924/answer/2090918646453364024",
+            "Summary": "第一、哈里・格雷（Harry Gray）、杰伊・温克勒（Jay Winkler，加州理工） 揭示蛋白质靠量子隧穿实现跨距离电子传递，解释光合作用、能量传递等生命基础机制。这个是最高的 第二、刘如谦（David R. Liu，哈佛 / 博德所） 碱基编辑和先导编辑，不切断 DNA 双链即可精准改字，已有 28 项临床试验 第三、阿拉拉、努佐、萨吉夫 1980 年代奠定分子自组装薄膜基础，用于涂层、催化、电子器件 哈里・格雷（Harry Gray）、杰伊・温克…"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2090914079875528547",
+            "Url": "https://www.zhihu.com/question/2081709501913248924/answer/2090914079875528547",
+            "Summary": "最近研究AIE理论化学入魔了，就预测一个AIE吧。"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2090904569584804153",
+            "Url": "https://www.zhihu.com/question/2081709501913248924/answer/2090904569584804153",
+            "Summary": "当然是学校排名遥遥领先的呀"
+          },
+          {
+            "ContentType": "answer",
             "ContentToken": "2090896917597374258",
             "Url": "https://www.zhihu.com/question/2081709501913248924/answer/2090896917597374258",
             "Summary": "黑猫股份"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2090879560342685458",
+            "Url": "https://www.zhihu.com/question/2081709501913248924/answer/2090879560342685458",
+            "Summary": "光催化。 既然赌了个概率超小的，那不如玩的更刺激一些。 半导体光催化。"
           },
           {
             "ContentType": "answer",
@@ -218,9 +200,27 @@
           },
           {
             "ContentType": "answer",
+            "ContentToken": "2090771376785323976",
+            "Url": "https://www.zhihu.com/question/2081709501913248924/answer/2090771376785323976",
+            "Summary": "每一年诺贝尔奖预测都是神仙打架，诺贝尔生物学或医学奖忘记猜了，最后看看获奖结果，估计我自己猜了也可能猜不中。今天闲着也是闲着猜一下化学奖吧，万一天上掉馅饼呢! 诺贝尔化学奖应该更难预测，世界上有名的接近诺贝尔奖水平的化学家太多了，因为感觉化学几个热门方向依然很分散了致敬这些为了人类科学进步做出来重大贡献的科学家们！ 勉勉强强猜一次啊。「不出所料！」：已在相关学科领域内众望所归，享誉多年，只等加冕诺…"
+          },
+          {
+            "ContentType": "answer",
             "ContentToken": "2090591248625185437",
             "Url": "https://www.zhihu.com/question/2081709501913248924/answer/2090591248625185437",
             "Summary": "Dna encoded library总有一天会获得"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2090532326279209480",
+            "Url": "https://www.zhihu.com/question/2081709501913248924/answer/2090532326279209480",
+            "Summary": "复制一下去年的预测， 1. Roberto Car; Michele Parrinello 2. Peter G. Schultz; Stuart L. Schreiber 今年加上 David R. Liu 吧。话说感觉 yCD 真的好难 engineer，很多年前 Baker 组报道过一个稳定性提升的 yCD triplet mutant，我读博的时候也试着搞一些点突变进去，用的还是 Baker 组后来报道的 MSA 排除进化保守位点 + ProteinMPNN 重新设计的方法，结果不仅稳定性没提升，活性也基本搞没了…"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2090504079319605900",
+            "Url": "https://www.zhihu.com/question/2081709501913248924/answer/2090504079319605900",
+            "Summary": "马延和的团队可能因为发现了二氧化碳固碳方法，从而获得中国第一个诺贝尔化学奖。"
           },
           {
             "ContentType": "answer",
@@ -230,9 +230,21 @@
           },
           {
             "ContentType": "answer",
+            "ContentToken": "2090476370212172373",
+            "Url": "https://www.zhihu.com/question/2081709501913248924/answer/2090476370212172373",
+            "Summary": "Michele Parrinello Roberto Car Alessandro Laio? 我猜测是 前两位 或者 三人组，后者的话主题可能是： For the development of transformative methods for atomistic molecular simulation Car + Parrinello → ab initio molecular dynamics → 让计算机能够在量子力学层面模拟运动中的原子和化学过程 Parrinello + Laio → metadynamics → 让模拟跨越自由能势垒、观察稀有事件并获得自由能景观"
+          },
+          {
+            "ContentType": "answer",
             "ContentToken": "2090327594453439337",
             "Url": "https://www.zhihu.com/question/2081709501913248924/answer/2090327594453439337",
             "Summary": "Stuart L. Schreiber，化学生物学的奠基人。他发现的 mTOR 重塑了人们对营养感知、衰老和癌症的理解；而他当年研究的 FK506、雷帕霉素，本质上就是最早的分子胶。大火的 PROTAC 和分子胶，追根溯源都是这套\"化学诱导邻近\"的思路。今年全球首款 PROTAC 药物获批上市，三十年前埋下的种子终于结成了药：学术分量早就够了，时机也刚刚好。"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2089522305433183025",
+            "Url": "https://www.zhihu.com/question/2081709501913248924/answer/2089522305433183025",
+            "Summary": "化学奖我押MOF（金属有机框架）。 Yaghi和Kitagawa这条线攒了快三十年，从储氢做到碳捕集和水采集，工业化的口子也开了，这类「结构决定一切」的化学最受诺奖青睐。 唯一变数是评委会不会把奖留给更年轻的生物方向，但MOF的欠账太明显了。 坐等验证。"
           },
           {
             "ContentType": "answer",
@@ -242,27 +254,45 @@
           },
           {
             "ContentType": "answer",
-            "ContentToken": "2088638754936378523",
-            "Url": "https://www.zhihu.com/question/2081709501913248924/answer/2088638754936378523",
-            "Summary": "我预测的最准：肯定不会是我。"
+            "ContentToken": "2085715579508470002",
+            "Url": "https://www.zhihu.com/question/2081709501913248924/answer/2085715579508470002",
+            "Summary": "沈建仁，刘如谦…"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2084856699308061881",
+            "Url": "https://www.zhihu.com/question/2081709501913248924/answer/2084856699308061881",
+            "Summary": "Takeshi Oka"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2084775277981340202",
+            "Url": "https://www.zhihu.com/question/2081709501913248924/answer/2084775277981340202",
+            "Summary": "投给Roberto Car & Michele Parrinello‬一票虽然不太可能，因为不久前发给了蛋白质预测。也许这个领域还需要一针强心剂去刺激一下味蕾，然后过几年就合适发给两位前辈了。 [图片]"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2084296242725663899",
+            "Url": "https://www.zhihu.com/question/2081709501913248924/answer/2084296242725663899",
+            "Summary": "Roberto Car, Michele Parrinello ：开发Car–Parrinello方法，一种将密度泛函理论（DFT）与分子动力学（MD）统一起来的计算方法，用于模拟分子与材料体系中原子和电子的动态行为。 [图片] Yoshitaka Tanimura 建立层级运动方程（HEOM）理论框架，实现凝聚相分子体系中非马尔可夫开放量子动力学的数值精确模拟 [图片] Krzysztof Matyjaszewski，Mitsuo Sawamoto 表彰他们发现并发展金属催化可逆失活自由基聚合，实现高分子链拓扑结构的分子级精…"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2083342696903717415",
+            "Url": "https://www.zhihu.com/question/2081709501913248924/answer/2083342696903717415",
+            "Summary": "Frustrated Lewis Pair（FLP）有没有一丝丝可能？（瞎猜）"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2089180421460333700",
+            "Url": "https://www.zhihu.com/question/2081709501913248924/answer/2089180421460333700",
+            "Summary": "照例参加赛博预测。我预测的人选是： 刘如谦 ，David Allara、Ralph Nuzzo、Jacob Sagiv，Harry Gray、Jay Winkler以下是ChatGPT给出的完整报告： 如果只让我押一个名字，我押刘如谦（David R. Liu）；如果押一个获奖方向，我最看好“精准基因编辑”。 不过这是低置信度预测，不是认定他今年一定获奖。截至 2026年10月2日，今年化学奖尚未揭晓；官方公布日期是 10月7日 。结合刚发布的公开资料，我的预测榜如下。1．首选：刘如谦…"
           },
           {
             "ContentType": "answer",
             "ContentToken": "2084975348555503084",
             "Url": "https://www.zhihu.com/question/2081709501913248924/answer/2084975348555503084",
             "Summary": "翁启惠"
-          },
-          {
-            "ContentType": "answer",
-            "ContentToken": "2090904569584804153",
-            "Url": "https://www.zhihu.com/question/2081709501913248924/answer/2090904569584804153",
-            "Summary": "当然是学校排名遥遥领先的呀"
-          },
-          {
-            "ContentType": "answer",
-            "ContentToken": "2089522305433183025",
-            "Url": "https://www.zhihu.com/question/2081709501913248924/answer/2089522305433183025",
-            "Summary": "化学奖我押MOF（金属有机框架）。 Yaghi和Kitagawa这条线攒了快三十年，从储氢做到碳捕集和水采集，工业化的口子也开了，这类「结构决定一切」的化学最受诺奖青睐。 唯一变数是评委会不会把奖留给更年轻的生物方向，但MOF的欠账太明显了。 坐等验证。"
           }
         ],
         "Paging": {
