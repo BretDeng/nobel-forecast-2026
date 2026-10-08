@@ -9695,7 +9695,7 @@
       "english": "ECONOMIC SCIENCES",
       "symbol": "E",
       "questionUrl": "https://www.zhihu.com/question/2084054769849611542",
-      "fetchedAt": "2026-10-08T13:27:47.255604+00:00",
+      "fetchedAt": "2026-10-08T19:56:48.818342+00:00",
       "complete": true,
       "total": 48,
       "valid": 25,
@@ -10813,6 +10813,20 @@
           "warnings": []
         },
         {
+          "id": "2091536790729631245",
+          "url": "https://www.zhihu.com/question/2084054769849611542/answer/2091536790729631245",
+          "summary": "目前尚有文学跟经济学奖还未揭榜，前面物理、化学已连续爆冷，评委思路太难猜。 继续整理八组猜想，纯属趣味猜测，不是专业解读。 1️⃣【赛博预测｜数据榜单大热组合】David Autor、Lawrence F. Katz 这个热门是靠论文引用数据跑出来的，专门研究技术变革如何影响就业市场，也是预测榜单常年靠前的一组人选。 [图片] 2️⃣【众望所归｜大众高期待单人】Raj Chetty 主攻收入不平等，研究内容普通人也看得懂。网上热度很高，很多人希…",
+          "people": [],
+          "directions": [],
+          "reason": "直答输出校验失败，待人工复核：人名/方向缺少原文依据",
+          "reviewed": false,
+          "reviewMethod": "zhida",
+          "reviewModel": "zhida-fast-1p5",
+          "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
           "id": "2088916659922911531",
           "url": "https://www.zhihu.com/question/2084054769849611542/answer/2088916659922911531",
           "summary": "当然是我在2025年4月提出的以10万吨白银，10%准备金率，海外发行10万亿人民币啦…",
@@ -10846,20 +10860,6 @@
           "reviewed": true,
           "reviewMethod": "human",
           "reviewModel": null,
-          "reviewEvidence": [],
-          "aiAssisted": false,
-          "warnings": []
-        },
-        {
-          "id": "2091536790729631245",
-          "url": "https://www.zhihu.com/question/2084054769849611542/answer/2091536790729631245",
-          "summary": "目前尚有文学跟经济学奖还未揭榜，前面物理、化学已连续爆冷，评委思路太难猜。 继续整理八组猜想，纯属趣味猜测，不是专业解读。 1️⃣【赛博预测｜数据榜单大热组合】David Autor、Lawrence F. Katz 这个热门是靠论文引用数据跑出来的，专门研究技术变革如何影响就业市场，也是预测榜单常年靠前的一组人选。 [图片] 2️⃣【众望所归｜大众高期待单人】Raj Chetty 主攻收入不平等，研究内容普通人也看得懂。网上热度很高，很多人希…",
-          "people": [],
-          "directions": [],
-          "reason": "直答输出校验失败，待人工复核：人名/方向缺少原文依据",
-          "reviewed": false,
-          "reviewMethod": "zhida",
-          "reviewModel": "zhida-fast-1p5",
           "reviewEvidence": [],
           "aiAssisted": false,
           "warnings": []

@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-08T13:27:47.255604+00:00",
+  "fetchedAt": "2026-10-08T19:56:48.818342+00:00",
   "pages": [
     {
       "Code": 0,
@@ -122,6 +122,12 @@
           },
           {
             "ContentType": "answer",
+            "ContentToken": "2091536790729631245",
+            "Url": "https://www.zhihu.com/question/2084054769849611542/answer/2091536790729631245",
+            "Summary": "目前尚有文学跟经济学奖还未揭榜，前面物理、化学已连续爆冷，评委思路太难猜。 继续整理八组猜想，纯属趣味猜测，不是专业解读。 1️⃣【赛博预测｜数据榜单大热组合】David Autor、Lawrence F. Katz 这个热门是靠论文引用数据跑出来的，专门研究技术变革如何影响就业市场，也是预测榜单常年靠前的一组人选。 [图片] 2️⃣【众望所归｜大众高期待单人】Raj Chetty 主攻收入不平等，研究内容普通人也看得懂。网上热度很高，很多人希…"
+          },
+          {
+            "ContentType": "answer",
             "ContentToken": "2088916659922911531",
             "Url": "https://www.zhihu.com/question/2084054769849611542/answer/2088916659922911531",
             "Summary": "当然是我在2025年4月提出的以10万吨白银，10%准备金率，海外发行10万亿人民币啦…"
@@ -131,12 +137,6 @@
             "ContentToken": "2084356008068104569",
             "Url": "https://www.zhihu.com/question/2084054769849611542/answer/2084356008068104569",
             "Summary": "只说微观理论领域我比较熟悉的两个field。 Matthew Jackson, Sanjeev Goyal and Yvev Zenou, network economics.（感谢Xueheng老师的指正，Zenou的位置原为Gallioti。） Emir Kamenica, Dirk Bergemann and Stephen Morris, information design."
-          },
-          {
-            "ContentType": "answer",
-            "ContentToken": "2091536790729631245",
-            "Url": "https://www.zhihu.com/question/2084054769849611542/answer/2091536790729631245",
-            "Summary": "目前尚有文学跟经济学奖还未揭榜，前面物理、化学已连续爆冷，评委思路太难猜。 继续整理八组猜想，纯属趣味猜测，不是专业解读。 1️⃣【赛博预测｜数据榜单大热组合】David Autor、Lawrence F. Katz 这个热门是靠论文引用数据跑出来的，专门研究技术变革如何影响就业市场，也是预测榜单常年靠前的一组人选。 [图片] 2️⃣【众望所归｜大众高期待单人】Raj Chetty 主攻收入不平等，研究内容普通人也看得懂。网上热度很高，很多人希…"
           },
           {
             "ContentType": "answer",
