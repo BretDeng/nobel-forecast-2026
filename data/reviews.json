@@ -4522,25 +4522,25 @@
       "auditFile": "4c365efc3c946b83ed006554ff33a378129d157506ede48d15f3f9091536b5f5.json"
     },
     "2091335952069404368": {
-      "summaryHash": "f5ad2cfbe1c191811f4af57653675dfde6a482b93e92172747d5378abef50ceb",
+      "summaryHash": "3317f8a8d8ef662849251cfab7930b821537a4d0869f031ae036ed74c47948a8",
       "reviewed": true,
       "people": [
         "残雪"
       ],
       "directions": [],
-      "reason": "作者明确表态自己赌残雪获奖；村上春树仅为转述赔率排名，故不提取。",
+      "reason": "作者明确正向预测残雪获奖，其余提及为转述AI预测或赔率，非作者选择。",
       "warnings": [],
       "reviewMethod": "zhida",
       "model": "zhida-fast-1p5",
-      "reviewedAt": "2026-10-07T19:59:08.907398+00:00",
+      "reviewedAt": "2026-10-08T00:12:27.450032+00:00",
       "evidence": [
         {
           "kind": "people",
           "name": "残雪",
-          "quote": "按照今年是诺奖老人年的安排，73岁的残雪拿奖概率确实很高。 我赌残雪。立个贴。"
+          "quote": "我赌残雪。立个贴。"
         }
       ],
-      "auditFile": "4c365efc3c946b83ed006554ff33a378129d157506ede48d15f3f9091536b5f5.json"
+      "auditFile": "224f1ade45eef036ef96f1a57d636d624acf17ac72dd9ab5afaca09122b1b8b9.json"
     },
     "2091315703466943354": {
       "summaryHash": "14b429c9df9211972cc2b3b62f252d8e7106f4e3907d88ec09e3e14e797e1c85",
@@ -4662,6 +4662,85 @@
       "reviewedAt": "2026-10-07T19:59:18.068198+00:00",
       "evidence": [],
       "auditFile": "f7b669a00cfdb0b7654d68e65cf714e7920466048397df05592b46b9184972df.json"
+    },
+    "2091397699371263337": {
+      "summaryHash": "e5bc0544fee131e0aac29032306b4ac6b54d36c90ef7313d637f58231facb988",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "内容与2026文学奖获奖预测无关。",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-08T00:12:22.308717+00:00",
+      "evidence": [],
+      "auditFile": "df6f39f9a42192b2bda869f5e3238cbd7ced0a9a2d3167ac33e88e28fec9482c.json"
+    },
+    "2091422115060831734": {
+      "summaryHash": "9a9ce593900672bf85528e76d38b9afcd8896b2b681622f2fa4265039c805976",
+      "reviewed": true,
+      "people": [
+        "村上春树"
+      ],
+      "directions": [],
+      "reason": "明确预测村上春树2026年可能获奖。",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-08T00:12:22.308740+00:00",
+      "evidence": [
+        {
+          "kind": "people",
+          "name": "村上春树",
+          "quote": "今年真有可能给村上春树。"
+        }
+      ],
+      "auditFile": "df6f39f9a42192b2bda869f5e3238cbd7ced0a9a2d3167ac33e88e28fec9482c.json"
+    },
+    "2091439251535687750": {
+      "summaryHash": "6a58f16283c5a55c9acdee1ddec2ec86e6e83d13c8d013fc42e764c48be19b93",
+      "reviewed": false,
+      "people": [],
+      "directions": [],
+      "reason": "直答输出校验失败，待人工复核：人名/方向缺少原文依据",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "auditFile": "df6f39f9a42192b2bda869f5e3238cbd7ced0a9a2d3167ac33e88e28fec9482c.json"
+    },
+    "2091436344887219793": {
+      "summaryHash": "189d26697e955b306665a029944315dbaaa5b9dbb8b308535c19618a5ce9a4a1",
+      "reviewed": true,
+      "people": [
+        "余秀华"
+      ],
+      "directions": [],
+      "reason": "明确正向预测余秀华符合诺奖标准。",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-08T00:12:22.319198+00:00",
+      "evidence": [
+        {
+          "kind": "people",
+          "name": "余秀华",
+          "quote": "余秀华，女，疾病（脑瘫），离异再婚离异，农民，语言豪放，完全符合诺奖标准。"
+        }
+      ],
+      "auditFile": "df6f39f9a42192b2bda869f5e3238cbd7ced0a9a2d3167ac33e88e28fec9482c.json"
+    },
+    "2091430911111967286": {
+      "summaryHash": "63d3740c50ff0d7bbb74283be202e848d6dbd0ca9bcae7b2098b521c25158d0c",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "仅转述赔率榜单和大众看好人选，未给出作者本人的明确正向预测。",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-08T00:12:22.319280+00:00",
+      "evidence": [],
+      "auditFile": "df6f39f9a42192b2bda869f5e3238cbd7ced0a9a2d3167ac33e88e28fec9482c.json"
     }
   },
   "economics": {

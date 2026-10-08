@@ -1,0 +1,23 @@
+{
+  "model": "zhida-fast-1p5",
+  "category": "literature",
+  "summaryHashes": {
+    "2091335952069404368": "3317f8a8d8ef662849251cfab7930b821537a4d0869f031ae036ed74c47948a8"
+  },
+  "response": {
+    "id": "chatcmpl-922a4d65-bb49-47af-b300-34bf8dc8c012",
+    "object": "chat.completion",
+    "created": 1791418347,
+    "model": "zhida-fast-1p5",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "{\"items\":[{\"id\":\"2091335952069404368\",\"status\":\"include\",\"people\":[{\"name\":\"残雪\",\"evidence\":\"我赌残雪。立个贴。\"}],\"directions\":[],\"reason\":\"作者明确正向预测残雪获奖，其余提及为转述AI预测或赔率，非作者选择。\"}]}"
+        },
+        "finish_reason": "stop"
+      }
+    ]
+  }
+}
