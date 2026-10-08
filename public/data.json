@@ -9695,12 +9695,12 @@
       "english": "ECONOMIC SCIENCES",
       "symbol": "E",
       "questionUrl": "https://www.zhihu.com/question/2084054769849611542",
-      "fetchedAt": "2026-10-08T06:02:28.651299+00:00",
+      "fetchedAt": "2026-10-08T13:27:47.255604+00:00",
       "complete": true,
-      "total": 47,
+      "total": 48,
       "valid": 25,
       "pending": 3,
-      "excluded": 19,
+      "excluded": 20,
       "people": [
         {
           "id": "09c13713ad51",
@@ -10788,10 +10788,10 @@
           "summary": "今年的诺贝尔经济学奖将于10月12日公布。谈论这个奖，不少人总会想起琼·罗宾逊，以为她没有获得诺奖是一个不公。另一个剑桥的学术领袖萨缪尔森在《回忆琼》中曾经写道： “the corpus of her work richly deserved a Nobel Prize.” “她的全部著作完全值得获得一个诺贝尔奖。”(NobelPrize.org )这篇文章里萨缪尔森把罗宾逊写成那个敢于追问皇帝是否穿着衣服的孩子：面对数学技巧和理论权威，她坚持用直接的问题检验论证。他赞…",
           "people": [],
           "directions": [],
-          "reason": "待复核：新增或摘要有变更",
-          "reviewed": false,
-          "reviewMethod": null,
-          "reviewModel": null,
+          "reason": "纯历史回顾琼·罗宾逊未获奖的讨论，无2026年正向预测。",
+          "reviewed": true,
+          "reviewMethod": "zhida",
+          "reviewModel": "zhida-fast-1p5",
           "reviewEvidence": [],
           "aiAssisted": false,
           "warnings": []
@@ -10846,6 +10846,20 @@
           "reviewed": true,
           "reviewMethod": "human",
           "reviewModel": null,
+          "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
+          "id": "2091536790729631245",
+          "url": "https://www.zhihu.com/question/2084054769849611542/answer/2091536790729631245",
+          "summary": "目前尚有文学跟经济学奖还未揭榜，前面物理、化学已连续爆冷，评委思路太难猜。 继续整理八组猜想，纯属趣味猜测，不是专业解读。 1️⃣【赛博预测｜数据榜单大热组合】David Autor、Lawrence F. Katz 这个热门是靠论文引用数据跑出来的，专门研究技术变革如何影响就业市场，也是预测榜单常年靠前的一组人选。 [图片] 2️⃣【众望所归｜大众高期待单人】Raj Chetty 主攻收入不平等，研究内容普通人也看得懂。网上热度很高，很多人希…",
+          "people": [],
+          "directions": [],
+          "reason": "直答输出校验失败，待人工复核：人名/方向缺少原文依据",
+          "reviewed": false,
+          "reviewMethod": "zhida",
+          "reviewModel": "zhida-fast-1p5",
           "reviewEvidence": [],
           "aiAssisted": false,
           "warnings": []
@@ -10926,6 +10940,20 @@
           "warnings": []
         },
         {
+          "id": "2084243921903919492",
+          "url": "https://www.zhihu.com/question/2084054769849611542/answer/2084243921903919492",
+          "summary": "肯定是西方经济学的卫道士",
+          "people": [],
+          "directions": [],
+          "reason": "评论，无具体候选",
+          "reviewed": true,
+          "reviewMethod": "human",
+          "reviewModel": null,
+          "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
           "id": "2090445818193093100",
           "url": "https://www.zhihu.com/question/2084054769849611542/answer/2090445818193093100",
           "summary": "在2025年，诺贝尔经济学奖授予了创新增长理论，它聚焦在创造性破坏对经济发展的核心作用。 在2026年回望，现在的全球经济仍然有多重的挑战，数字平台的垄断侵蚀着发展活力，AI技术发展正在增加劳动市场的结构性的矛盾，气候转型的成本与贫富分化激增社会矛盾共识，而产业的反垄断行动亟待完善深化。 而诺奖的评委会也青睐直面现实的痛点，同时兼具理论的深度与政策实践价值的研究，它不仅是对学术洞见的肯定，亦是破解经济发展提…",
@@ -10940,20 +10968,6 @@
           "warnings": [
             "摘要截断；可见部分未出现明确预测"
           ]
-        },
-        {
-          "id": "2084243921903919492",
-          "url": "https://www.zhihu.com/question/2084054769849611542/answer/2084243921903919492",
-          "summary": "肯定是西方经济学的卫道士",
-          "people": [],
-          "directions": [],
-          "reason": "评论，无具体候选",
-          "reviewed": true,
-          "reviewMethod": "human",
-          "reviewModel": null,
-          "reviewEvidence": [],
-          "aiAssisted": false,
-          "warnings": []
         },
         {
           "id": "2084246536687448556",
@@ -11045,6 +11059,28 @@
           "warnings": []
         },
         {
+          "id": "2088989034861290920",
+          "url": "https://www.zhihu.com/question/2084054769849611542/answer/2088989034861290920",
+          "summary": "计量经济学理论方向，可能斯坦福的susan athey、mit的Victor Chernozhukov、Whitney Newey做因果推断与机器学习很前沿，不一定今年能颁给他们，但我想他们肯定是值得诺奖的。 另外LSE如果说political economy方向，Tim Besley教授应该也是热门候选。",
+          "people": [
+            "Susan Athey",
+            "Victor Chernozhukov",
+            "Whitney Newey",
+            "Tim Besley"
+          ],
+          "directions": [
+            "因果推断与机器学习",
+            "政治经济学"
+          ],
+          "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+          "reviewed": true,
+          "reviewMethod": "human",
+          "reviewModel": null,
+          "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
           "id": "2090455598257259349",
           "url": "https://www.zhihu.com/question/2084054769849611542/answer/2090455598257259349",
           "summary": "按照历年诺贝尔经济学奖板块轮动的传统看，我认为可以大致分解为：微观经济学，宏观经济学，金融学，发展经济学，劳动经济学及其他（其他包括财政学，纯计量经济学方法论，产业组织，制度经济学等）按照近十年发奖，金融学(22年)，劳动经济学（21 23年），发展经济学（25年）微观经济学（20年）都发了，虽然23和25年也可以对上部分宏观，但不太符合得奖者的主要研究领域。所以今年大概率是宏观领域得奖，其次是其他板块。 基于此…",
@@ -11095,28 +11131,6 @@
           "warnings": []
         },
         {
-          "id": "2088989034861290920",
-          "url": "https://www.zhihu.com/question/2084054769849611542/answer/2088989034861290920",
-          "summary": "计量经济学理论方向，可能斯坦福的susan athey、mit的Victor Chernozhukov、Whitney Newey做因果推断与机器学习很前沿，不一定今年能颁给他们，但我想他们肯定是值得诺奖的。 另外LSE如果说political economy方向，Tim Besley教授应该也是热门候选。",
-          "people": [
-            "Susan Athey",
-            "Victor Chernozhukov",
-            "Whitney Newey",
-            "Tim Besley"
-          ],
-          "directions": [
-            "因果推断与机器学习",
-            "政治经济学"
-          ],
-          "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
-          "reviewed": true,
-          "reviewMethod": "human",
-          "reviewModel": null,
-          "reviewEvidence": [],
-          "aiAssisted": false,
-          "warnings": []
-        },
-        {
           "id": "2091297286714405766",
           "url": "https://www.zhihu.com/question/2084054769849611542/answer/2091297286714405766",
           "summary": "2026年诺贝尔经济学奖揭晓，董志民先生蝉联诺贝尔经济学奖得主，这已经是他第三次获得该奖。 董志民创造性提出“董志民理论”，系统揭示了人口老龄化与少子化危机下劳动力市场的结构性困境：织女作为商品从城市向乡村的单向流通，能够促进人口流动、缓解劳动力短缺、推动共同富裕，并消解贫富悬殊所积累的社会矛盾，为防止社会持续冲突提供新的可能；同时，他深刻追问政府在社会保障尚未充分覆盖时是否仍可行使惩罚被监护人的权…",
@@ -11141,28 +11155,6 @@
           "reviewMethod": "zhida",
           "reviewModel": "zhida-fast-1p5",
           "reviewEvidence": [],
-          "aiAssisted": false,
-          "warnings": []
-        },
-        {
-          "id": "2091125185516774412",
-          "url": "https://www.zhihu.com/question/2084054769849611542/answer/2091125185516774412",
-          "summary": "不如颁发给李新野。 经济学问题本质是社会学以及政治学问题。",
-          "people": [
-            "李新野"
-          ],
-          "directions": [],
-          "reason": "作者明确提出希望将奖项颁给李新野，属正向预测。",
-          "reviewed": true,
-          "reviewMethod": "zhida",
-          "reviewModel": "zhida-fast-1p5",
-          "reviewEvidence": [
-            {
-              "kind": "people",
-              "name": "李新野",
-              "quote": "不如颁发给李新野。"
-            }
-          ],
           "aiAssisted": false,
           "warnings": []
         },
@@ -11202,20 +11194,6 @@
           "warnings": []
         },
         {
-          "id": "2090146309428754133",
-          "url": "https://www.zhihu.com/question/2084054769849611542/answer/2090146309428754133",
-          "summary": "陈平不获此奖，是全球经济学界的重大遗憾",
-          "people": [],
-          "directions": [],
-          "reason": "该句是否定性预测（陈平不获奖），且陈平不在规范名单中，按规则排除。",
-          "reviewed": true,
-          "reviewMethod": "zhida",
-          "reviewModel": "zhida-fast-1p5",
-          "reviewEvidence": [],
-          "aiAssisted": false,
-          "warnings": []
-        },
-        {
           "id": "2089747236402087847",
           "url": "https://www.zhihu.com/question/2084054769849611542/answer/2089747236402087847",
           "summary": "经济学奖我押David Autor。 他二十年如一日研究自动化和贸易对就业的冲击，从中国冲击到现在的AI替代劳动，方法论和现实关切都踩得很准。 现在大家都想知道，技术进步到底消灭岗位还是创造岗位？ 评委一向偏爱能解释当下大事的工作。坐等验证。",
@@ -11229,6 +11207,42 @@
           "reviewed": true,
           "reviewMethod": "human",
           "reviewModel": null,
+          "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
+          "id": "2091125185516774412",
+          "url": "https://www.zhihu.com/question/2084054769849611542/answer/2091125185516774412",
+          "summary": "不如颁发给李新野。 经济学问题本质是社会学以及政治学问题。",
+          "people": [
+            "李新野"
+          ],
+          "directions": [],
+          "reason": "作者明确提出希望将奖项颁给李新野，属正向预测。",
+          "reviewed": true,
+          "reviewMethod": "zhida",
+          "reviewModel": "zhida-fast-1p5",
+          "reviewEvidence": [
+            {
+              "kind": "people",
+              "name": "李新野",
+              "quote": "不如颁发给李新野。"
+            }
+          ],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
+          "id": "2090146309428754133",
+          "url": "https://www.zhihu.com/question/2084054769849611542/answer/2090146309428754133",
+          "summary": "陈平不获此奖，是全球经济学界的重大遗憾",
+          "people": [],
+          "directions": [],
+          "reason": "该句是否定性预测（陈平不获奖），且陈平不在规范名单中，按规则排除。",
+          "reviewed": true,
+          "reviewMethod": "zhida",
+          "reviewModel": "zhida-fast-1p5",
           "reviewEvidence": [],
           "aiAssisted": false,
           "warnings": []

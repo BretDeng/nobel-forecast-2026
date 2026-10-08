@@ -5566,6 +5566,30 @@
         }
       ],
       "auditFile": "5136655bdf0cd7177d5de1cefb5419f958f46a734a158c65b0261058e669023e.json"
+    },
+    "2091505598349173341": {
+      "summaryHash": "d4470ef58443e64cedfb10cac153783b97bb96f4191d28e7a120e8b96666b9b6",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "纯历史回顾琼·罗宾逊未获奖的讨论，无2026年正向预测。",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-08T13:27:56.378914+00:00",
+      "evidence": [],
+      "auditFile": "883892dd0c4a0e87d31c2ec0361a7490a1cc1ca92082f3d0a1aef5f1dcfb32a6.json"
+    },
+    "2091536790729631245": {
+      "summaryHash": "628ce03c1c20ec4273195f7b309acadf87165b14c6ea98785c4e3c5869e64b12",
+      "reviewed": false,
+      "people": [],
+      "directions": [],
+      "reason": "直答输出校验失败，待人工复核：人名/方向缺少原文依据",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "auditFile": "883892dd0c4a0e87d31c2ec0361a7490a1cc1ca92082f3d0a1aef5f1dcfb32a6.json"
     }
   }
 }

@@ -1,0 +1,24 @@
+{
+  "model": "zhida-fast-1p5",
+  "category": "economics",
+  "summaryHashes": {
+    "2091505598349173341": "d4470ef58443e64cedfb10cac153783b97bb96f4191d28e7a120e8b96666b9b6",
+    "2091536790729631245": "628ce03c1c20ec4273195f7b309acadf87165b14c6ea98785c4e3c5869e64b12"
+  },
+  "response": {
+    "id": "chatcmpl-0fceffe6-f288-476c-aba7-cc554082acdd",
+    "object": "chat.completion",
+    "created": 1791466076,
+    "model": "zhida-fast-1p5",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "{\"items\":[{\"id\":\"2091505598349173341\",\"status\":\"exclude\",\"people\":[],\"directions\":[],\"reason\":\"纯历史回顾琼·罗宾逊未获奖的讨论，无2026年正向预测。\"},{\"id\":\"2091536790729631245\",\"status\":\"include\",\"people\":[{\"name\":\"David Autor\",\"evidence\":\"1️⃣【赛博预测｜数据榜单大热组合】David Autor、Lawrence F. Katz 这个热门是靠论文引用数据跑出来的\"},{\"name\":\"Lawrence Katz\",\"evidence\":\"David Autor、Lawrence F. Katz 这个热门是靠论文引用数据跑出来的\"},{\"name\":\"Raj Chetty\",\"evidence\":\"2️⃣【众望所归｜大众高期待单人】Raj Chetty 主攻收入不平等\"}],\"directions\":[{\"name\":\"劳动经济学与技术变革\",\"evidence\":\"专门研究技术变革如何影响就业市场，也是预测榜单常年靠前的一组人选\"},{\"name\":\"收入与财富不平等\",\"evidence\":\"Raj Chetty 主攻收入不平等\"}],\"reason\":\"作者明确列出2026年经济学奖的猜想人选及研究方向。\"}]}"
+        },
+        "finish_reason": "stop"
+      }
+    ]
+  }
+}
