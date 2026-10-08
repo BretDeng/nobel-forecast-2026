@@ -1,0 +1,27 @@
+{
+  "model": "zhida-fast-1p5",
+  "category": "literature",
+  "summaryHashes": {
+    "2091523775133116118": "b74140ea5ebb980bfe776777e362e397e1a181cff3b14f3fd392c4690acba2d3",
+    "2091523149493958059": "f1371783f6038c0b2406d80bf1acb46e450dce4a02f1e71d29cf6f1166c207a1",
+    "2091485316993509248": "8c6a2cf86517852d271105e541b4f0460d41a9bbac83121b5a592b5853ceedee",
+    "2091484630419612503": "2a5c8dbb40806968dcf1a5ddaabe5fc25c1b6130c936d8e559ffcec612af3a3f",
+    "2091482306234135753": "142b48457049adef750f056ce25c46061bc6ece74444fdaf15b9c93a97605455"
+  },
+  "response": {
+    "id": "chatcmpl-6abebc47-47d7-4374-9514-7f54d48e3334",
+    "object": "chat.completion",
+    "created": 1791439373,
+    "model": "zhida-fast-1p5",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "{\"items\":[{\"id\":\"2091523775133116118\",\"status\":\"include\",\"people\":[{\"name\":\"克里斯蒂娜·里韦拉·加尔萨\",\"evidence\":\"克里斯蒂娜·里韦拉·加尔萨。Cristina Rivera Garza。 墨西哥人，1964年出生\"}],\"directions\":[],\"reason\":\"作者列出该作家及其代表作，语境为预测其可能获文学奖。\"},{\"id\":\"2091523149493958059\",\"status\":\"exclude\",\"people\":[],\"directions\":[],\"reason\":\"内容为否定预测（残雪、村上不会得奖），不符合正向预测。\"},{\"id\":\"2091485316993509248\",\"status\":\"exclude\",\"people\":[],\"directions\":[],\"reason\":\"假设性讨论与价值评判，非作者正向预测。\"},{\"id\":\"2091484630419612503\",\"status\":\"include\",\"people\":[{\"name\":\"安妮·卡森\",\"evidence\":\"安妮卡森应该很有可能吧\"}],\"directions\":[],\"reason\":\"作者明确表示安妮·卡森很可能获奖。\"},{\"id\":\"2091482306234135753\",\"status\":\"exclude\",\"people\":[],\"directions\":[],\"reason\":\"为否定预测（排除村上春树），不符合正向预测。\"}]}"
+        },
+        "finish_reason": "stop"
+      }
+    ]
+  }
+}

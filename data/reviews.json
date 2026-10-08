@@ -4709,25 +4709,25 @@
       "auditFile": "df6f39f9a42192b2bda869f5e3238cbd7ced0a9a2d3167ac33e88e28fec9482c.json"
     },
     "2091436344887219793": {
-      "summaryHash": "189d26697e955b306665a029944315dbaaa5b9dbb8b308535c19618a5ce9a4a1",
+      "summaryHash": "d97492b8fe905a354dea4eb3e644571b71fac6d3276efdb36b393e259c99de42",
       "reviewed": true,
       "people": [
         "余秀华"
       ],
       "directions": [],
-      "reason": "明确正向预测余秀华符合诺奖标准。",
+      "reason": "作者明确将余秀华列为符合诺奖标准的预测人选。",
       "warnings": [],
       "reviewMethod": "zhida",
       "model": "zhida-fast-1p5",
-      "reviewedAt": "2026-10-08T00:12:22.319198+00:00",
+      "reviewedAt": "2026-10-08T06:02:47.299709+00:00",
       "evidence": [
         {
           "kind": "people",
           "name": "余秀华",
-          "quote": "余秀华，女，疾病（脑瘫），离异再婚离异，农民，语言豪放，完全符合诺奖标准。"
+          "quote": "余秀华，女，疾病（脑瘫），离异再婚再离异，农民（低阶层），语言豪放，完全符合诺奖弱者被社会迫害的标准。"
         }
       ],
-      "auditFile": "df6f39f9a42192b2bda869f5e3238cbd7ced0a9a2d3167ac33e88e28fec9482c.json"
+      "auditFile": "607769572bca24bf0339f4fad2eff9a98f75e17448c586f55aedccf792baebf4.json"
     },
     "2091430911111967286": {
       "summaryHash": "63d3740c50ff0d7bbb74283be202e848d6dbd0ca9bcae7b2098b521c25158d0c",
@@ -4741,6 +4741,226 @@
       "reviewedAt": "2026-10-08T00:12:22.319280+00:00",
       "evidence": [],
       "auditFile": "df6f39f9a42192b2bda869f5e3238cbd7ced0a9a2d3167ac33e88e28fec9482c.json"
+    },
+    "2091445344253100431": {
+      "summaryHash": "f96292701de029e1bd343a6b23853254909e3dfdf63d58300d0f21373ab5ef09",
+      "reviewed": false,
+      "people": [],
+      "directions": [],
+      "reason": "直答无法确定，待人工复核：仅猜测获奖者是女性，未给出具体人名或方向。",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-08T06:02:36.304707+00:00",
+      "evidence": [],
+      "auditFile": "295f55da518283337432cb23f08b6e34ea99086bf20236b38185b6198f436a6b.json"
+    },
+    "2091479123331921591": {
+      "summaryHash": "035930449a462f53b463d7e66919df2d22d30b2cedff2ea37f06a097efee5d05",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "内容为诗句式表达，不构成对2026年文学奖的预测。",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-08T06:02:36.304727+00:00",
+      "evidence": [],
+      "auditFile": "295f55da518283337432cb23f08b6e34ea99086bf20236b38185b6198f436a6b.json"
+    },
+    "2091453831158687298": {
+      "summaryHash": "2b148f2dbb91785de03e9973d1744ea9ec47840874a0a6fa77b7b9f683636d41",
+      "reviewed": false,
+      "people": [],
+      "directions": [],
+      "reason": "直答无法确定，待人工复核：仅为提问，无明确正向预测。",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-08T06:02:36.304732+00:00",
+      "evidence": [],
+      "auditFile": "295f55da518283337432cb23f08b6e34ea99086bf20236b38185b6198f436a6b.json"
+    },
+    "2091448389602955611": {
+      "summaryHash": "2621c1c415d27d3a6c75c9bbf13b25f196acaf96241948295b3e9c382f59cd13",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "仅转述赔率榜信息并分析评奖逻辑，非作者本人的预测。",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-08T06:02:36.304736+00:00",
+      "evidence": [],
+      "auditFile": "295f55da518283337432cb23f08b6e34ea99086bf20236b38185b6198f436a6b.json"
+    },
+    "2091448093170459296": {
+      "summaryHash": "849258407a3a4ad36b715477cc3a1b990f419ce9a1cfebdd0a3f68c2ad4d14d3",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "建议颁给公司而非作家，且语气戏谑，属明显玩笑且奖项对象不匹配。",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-08T06:02:36.304738+00:00",
+      "evidence": [],
+      "auditFile": "295f55da518283337432cb23f08b6e34ea99086bf20236b38185b6198f436a6b.json"
+    },
+    "2091509761317529019": {
+      "summaryHash": "f495c68d04b4cadfcb3c56539fdec77ae45c7b8f73e5fd732ef9465747175202",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "万斯是政治人物，提及目的为总统竞选造势，属玩笑或奖项不匹配。",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-08T06:02:47.299692+00:00",
+      "evidence": [],
+      "auditFile": "607769572bca24bf0339f4fad2eff9a98f75e17448c586f55aedccf792baebf4.json"
+    },
+    "2091488801273149399": {
+      "summaryHash": "7341103c0acd756172f483d305da17563c0eff19914a96023a4ae592670701e1",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "对奖项的负面评价，无任何获奖预测。",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-08T06:02:47.299705+00:00",
+      "evidence": [],
+      "auditFile": "607769572bca24bf0339f4fad2eff9a98f75e17448c586f55aedccf792baebf4.json"
+    },
+    "2091525574418343002": {
+      "summaryHash": "68569bb73fc46ff875a42ab5be3144c4c1fed5bac0704d5f687b8f44e0264b5b",
+      "reviewed": true,
+      "people": [
+        "萨尔曼拉什迪",
+        "卡森"
+      ],
+      "directions": [],
+      "reason": "作者明确选择了两位预测获奖者，实体照抄原文。",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-08T06:02:47.300257+00:00",
+      "evidence": [
+        {
+          "kind": "people",
+          "name": "萨尔曼拉什迪",
+          "quote": "我选 萨尔曼拉什迪 或者 卡森"
+        },
+        {
+          "kind": "people",
+          "name": "卡森",
+          "quote": "我选 萨尔曼拉什迪 或者 卡森"
+        }
+      ],
+      "auditFile": "607769572bca24bf0339f4fad2eff9a98f75e17448c586f55aedccf792baebf4.json"
+    },
+    "2091523913037656846": {
+      "summaryHash": "bd3d7a5ae247ab3a857b6258a3f826d8d26c2f8fa1614853db919a17268c7625",
+      "reviewed": true,
+      "people": [
+        "安妮·卡森"
+      ],
+      "directions": [],
+      "reason": "作者明确预测安妮·卡森将获文学奖。",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-08T06:02:47.300320+00:00",
+      "evidence": [
+        {
+          "kind": "people",
+          "name": "安妮·卡森",
+          "quote": "预测作家：安妮·卡森（Anne Carson） 推荐作品：《红的自传》（Autobiography of Red，1998） 我预测是加拿大诗人安妮·卡森。"
+        }
+      ],
+      "auditFile": "607769572bca24bf0339f4fad2eff9a98f75e17448c586f55aedccf792baebf4.json"
+    },
+    "2091523775133116118": {
+      "summaryHash": "b74140ea5ebb980bfe776777e362e397e1a181cff3b14f3fd392c4690acba2d3",
+      "reviewed": true,
+      "people": [
+        "克里斯蒂娜·里韦拉·加尔萨"
+      ],
+      "directions": [],
+      "reason": "作者列出该作家及其代表作，语境为预测其可能获文学奖。",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-08T06:02:53.894765+00:00",
+      "evidence": [
+        {
+          "kind": "people",
+          "name": "克里斯蒂娜·里韦拉·加尔萨",
+          "quote": "克里斯蒂娜·里韦拉·加尔萨。Cristina Rivera Garza。 墨西哥人，1964年出生"
+        }
+      ],
+      "auditFile": "be6c292931c354b1ae5025391330634e6fadd3def5d02f65669851be18e415c9.json"
+    },
+    "2091523149493958059": {
+      "summaryHash": "f1371783f6038c0b2406d80bf1acb46e450dce4a02f1e71d29cf6f1166c207a1",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "内容为否定预测（残雪、村上不会得奖），不符合正向预测。",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-08T06:02:53.894835+00:00",
+      "evidence": [],
+      "auditFile": "be6c292931c354b1ae5025391330634e6fadd3def5d02f65669851be18e415c9.json"
+    },
+    "2091485316993509248": {
+      "summaryHash": "8c6a2cf86517852d271105e541b4f0460d41a9bbac83121b5a592b5853ceedee",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "假设性讨论与价值评判，非作者正向预测。",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-08T06:02:53.894838+00:00",
+      "evidence": [],
+      "auditFile": "be6c292931c354b1ae5025391330634e6fadd3def5d02f65669851be18e415c9.json"
+    },
+    "2091484630419612503": {
+      "summaryHash": "2a5c8dbb40806968dcf1a5ddaabe5fc25c1b6130c936d8e559ffcec612af3a3f",
+      "reviewed": true,
+      "people": [
+        "安妮·卡森"
+      ],
+      "directions": [],
+      "reason": "作者明确表示安妮·卡森很可能获奖。",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-08T06:02:53.894841+00:00",
+      "evidence": [
+        {
+          "kind": "people",
+          "name": "安妮·卡森",
+          "quote": "安妮卡森应该很有可能吧"
+        }
+      ],
+      "auditFile": "be6c292931c354b1ae5025391330634e6fadd3def5d02f65669851be18e415c9.json"
+    },
+    "2091482306234135753": {
+      "summaryHash": "142b48457049adef750f056ce25c46061bc6ece74444fdaf15b9c93a97605455",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "为否定预测（排除村上春树），不符合正向预测。",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-08T06:02:53.894877+00:00",
+      "evidence": [],
+      "auditFile": "be6c292931c354b1ae5025391330634e6fadd3def5d02f65669851be18e415c9.json"
     }
   },
   "economics": {

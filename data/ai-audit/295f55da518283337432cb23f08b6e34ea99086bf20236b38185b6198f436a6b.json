@@ -1,0 +1,27 @@
+{
+  "model": "zhida-fast-1p5",
+  "category": "literature",
+  "summaryHashes": {
+    "2091445344253100431": "f96292701de029e1bd343a6b23853254909e3dfdf63d58300d0f21373ab5ef09",
+    "2091479123331921591": "035930449a462f53b463d7e66919df2d22d30b2cedff2ea37f06a097efee5d05",
+    "2091453831158687298": "2b148f2dbb91785de03e9973d1744ea9ec47840874a0a6fa77b7b9f683636d41",
+    "2091448389602955611": "2621c1c415d27d3a6c75c9bbf13b25f196acaf96241948295b3e9c382f59cd13",
+    "2091448093170459296": "849258407a3a4ad36b715477cc3a1b990f419ce9a1cfebdd0a3f68c2ad4d14d3"
+  },
+  "response": {
+    "id": "chatcmpl-2440c4ce-c153-4210-9c76-5109dfaafef9",
+    "object": "chat.completion",
+    "created": 1791439356,
+    "model": "zhida-fast-1p5",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "{\"items\":[{\"id\":\"2091445344253100431\",\"status\":\"uncertain\",\"people\":[],\"directions\":[],\"reason\":\"仅猜测获奖者是女性，未给出具体人名或方向。\"},{\"id\":\"2091479123331921591\",\"status\":\"exclude\",\"people\":[],\"directions\":[],\"reason\":\"内容为诗句式表达，不构成对2026年文学奖的预测。\"},{\"id\":\"2091453831158687298\",\"status\":\"uncertain\",\"people\":[],\"directions\":[],\"reason\":\"仅为提问，无明确正向预测。\"},{\"id\":\"2091448389602955611\",\"status\":\"exclude\",\"people\":[],\"directions\":[],\"reason\":\"仅转述赔率榜信息并分析评奖逻辑，非作者本人的预测。\"},{\"id\":\"2091448093170459296\",\"status\":\"exclude\",\"people\":[],\"directions\":[],\"reason\":\"建议颁给公司而非作家，且语气戏谑，属明显玩笑且奖项对象不匹配。\"}]}"
+        },
+        "finish_reason": "stop"
+      }
+    ]
+  }
+}

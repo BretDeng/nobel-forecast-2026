@@ -1,0 +1,27 @@
+{
+  "model": "zhida-fast-1p5",
+  "category": "literature",
+  "summaryHashes": {
+    "2091509761317529019": "f495c68d04b4cadfcb3c56539fdec77ae45c7b8f73e5fd732ef9465747175202",
+    "2091488801273149399": "7341103c0acd756172f483d305da17563c0eff19914a96023a4ae592670701e1",
+    "2091436344887219793": "d97492b8fe905a354dea4eb3e644571b71fac6d3276efdb36b393e259c99de42",
+    "2091525574418343002": "68569bb73fc46ff875a42ab5be3144c4c1fed5bac0704d5f687b8f44e0264b5b",
+    "2091523913037656846": "bd3d7a5ae247ab3a857b6258a3f826d8d26c2f8fa1614853db919a17268c7625"
+  },
+  "response": {
+    "id": "chatcmpl-a3e72dc9-b5b9-4f33-a0f1-2ab2685ae3da",
+    "object": "chat.completion",
+    "created": 1791439367,
+    "model": "zhida-fast-1p5",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "{\"items\":[{\"id\":\"2091509761317529019\",\"status\":\"exclude\",\"people\":[],\"directions\":[],\"reason\":\"万斯是政治人物，提及目的为总统竞选造势，属玩笑或奖项不匹配。\"},{\"id\":\"2091488801273149399\",\"status\":\"exclude\",\"people\":[],\"directions\":[],\"reason\":\"对奖项的负面评价，无任何获奖预测。\"},{\"id\":\"2091436344887219793\",\"status\":\"include\",\"people\":[{\"name\":\"余秀华\",\"evidence\":\"余秀华，女，疾病（脑瘫），离异再婚再离异，农民（低阶层），语言豪放，完全符合诺奖弱者被社会迫害的标准。\"}],\"directions\":[],\"reason\":\"作者明确将余秀华列为符合诺奖标准的预测人选。\"},{\"id\":\"2091525574418343002\",\"status\":\"include\",\"people\":[{\"name\":\"萨尔曼拉什迪\",\"evidence\":\"我选 萨尔曼拉什迪 或者 卡森\"},{\"name\":\"卡森\",\"evidence\":\"我选 萨尔曼拉什迪 或者 卡森\"}],\"directions\":[],\"reason\":\"作者明确选择了两位预测获奖者，实体照抄原文。\"},{\"id\":\"2091523913037656846\",\"status\":\"include\",\"people\":[{\"name\":\"安妮·卡森\",\"evidence\":\"预测作家：安妮·卡森（Anne Carson） 推荐作品：《红的自传》（Autobiography of Red，1998） 我预测是加拿大诗人安妮·卡森。\"}],\"directions\":[],\"reason\":\"作者明确预测安妮·卡森将获文学奖。\"}]}"
+        },
+        "finish_reason": "stop"
+      }
+    ]
+  }
+}
