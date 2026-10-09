@@ -5603,6 +5603,17 @@
       "reviewedAt": "2026-10-09T09:02:46.900051+00:00",
       "evidence": [],
       "auditFile": "557e65abe323a78a71b6c0e03e04cf5c43bedbd351ef35e35443985430c6b647.json"
+    },
+    "2091979125552693569": {
+      "summaryHash": "65c660edc40ba5c798877d4ee55dc7ba0bf5f4b9163e33c36b9a414f539ff931",
+      "reviewed": false,
+      "people": [],
+      "directions": [],
+      "reason": "直答输出校验失败，待人工复核：人名/方向缺少原文依据",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "auditFile": "f534441e8100c92e60e8f47635dcf6b59246311cfdcb966d3f84c6591516f781.json"
     }
   }
 }

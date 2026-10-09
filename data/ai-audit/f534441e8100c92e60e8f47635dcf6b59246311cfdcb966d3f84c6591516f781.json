@@ -1,0 +1,23 @@
+{
+  "model": "zhida-fast-1p5",
+  "category": "economics",
+  "summaryHashes": {
+    "2091979125552693569": "65c660edc40ba5c798877d4ee55dc7ba0bf5f4b9163e33c36b9a414f539ff931"
+  },
+  "response": {
+    "id": "chatcmpl-91f1da76-2ece-4b9d-b850-8e2804ad46f4",
+    "object": "chat.completion",
+    "created": 1791565175,
+    "model": "zhida-fast-1p5",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "{\"items\":[{\"id\":\"2091979125552693569\",\"status\":\"include\",\"people\":[{\"name\":\"Gene Grossman\",\"evidence\":\"Gene Grossman & Helpman国际贸易理论研究\"},{\"name\":\"Elhanan Helpman\",\"evidence\":\"Gene Grossman & Helpman国际贸易理论研究\"},{\"name\":\"Marc Melitz\",\"evidence\":\"可能和Melitz分享（企业异质性贸易）\"}],\"directions\":[{\"name\":\"国际贸易与企业异质性\",\"evidence\":\"国际贸易理论研究\"},{\"name\":\"政治经济学\",\"evidence\":\"与关税政策相关的国际政治经济学\"}],\"reason\":\"摘要明确正向预测Grossman、Helpman及Melitz获奖，并提及国际贸易与国际政治经济学方向。\"}]}"
+        },
+        "finish_reason": "stop"
+      }
+    ]
+  }
+}
