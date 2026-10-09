@@ -1,0 +1,23 @@
+{
+  "model": "zhida-fast-1p5",
+  "category": "economics",
+  "summaryHashes": {
+    "2091902272720598077": "236e3387be0ecbcf8cce3b5ad5d75cd3f5fe620e492efca2cd8e36b917150092"
+  },
+  "response": {
+    "id": "chatcmpl-298c41c4-7557-4551-a7b9-49c04524e4d4",
+    "object": "chat.completion",
+    "created": 1791536566,
+    "model": "zhida-fast-1p5",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "{\"items\":[{\"id\":\"2091902272720598077\",\"status\":\"exclude\",\"people\":[],\"directions\":[],\"reason\":\"内容为讽刺性虚构段子，属于明显玩笑，且未给出2026年经济学奖的任何明确正向预测。\"}]}"
+        },
+        "finish_reason": "stop"
+      }
+    ]
+  }
+}

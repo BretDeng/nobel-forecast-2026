@@ -5590,6 +5590,19 @@
       "reviewMethod": "zhida",
       "model": "zhida-fast-1p5",
       "auditFile": "883892dd0c4a0e87d31c2ec0361a7490a1cc1ca92082f3d0a1aef5f1dcfb32a6.json"
+    },
+    "2091902272720598077": {
+      "summaryHash": "236e3387be0ecbcf8cce3b5ad5d75cd3f5fe620e492efca2cd8e36b917150092",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "内容为讽刺性虚构段子，属于明显玩笑，且未给出2026年经济学奖的任何明确正向预测。",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-09T09:02:46.900051+00:00",
+      "evidence": [],
+      "auditFile": "557e65abe323a78a71b6c0e03e04cf5c43bedbd351ef35e35443985430c6b647.json"
     }
   }
 }
