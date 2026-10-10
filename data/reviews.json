@@ -5625,6 +5625,91 @@
       "reviewMethod": "zhida",
       "model": "zhida-fast-1p5",
       "auditFile": "9ef76dfa88df4b337b0d5d5e4602eb5317f02071f57ca6bba0c714608b1458d7.json"
+    },
+    "2092268449745717151": {
+      "summaryHash": "0e0921e11512dba799761c58147e36e82dd5d15c9a641e3075d5be85a4f149d3",
+      "reviewed": false,
+      "people": [],
+      "directions": [],
+      "reason": "直答输出校验失败，待人工复核：人名/方向缺少原文依据",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "auditFile": "814430ce807ac567d5dc9d9cde6a20ac6449916a31af51ccaaa2adf1b8d81797.json"
+    },
+    "2092328794602337405": {
+      "summaryHash": "37b8a95c8d1d9b488c16febd04319d0bfb779083a463fda566033665d68f3c57",
+      "reviewed": false,
+      "people": [],
+      "directions": [],
+      "reason": "直答输出校验失败，待人工复核：人名/方向缺少原文依据",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "auditFile": "814430ce807ac567d5dc9d9cde6a20ac6449916a31af51ccaaa2adf1b8d81797.json"
+    },
+    "2092321040189896305": {
+      "summaryHash": "6cdc785f94f2a504f4f374603f87d4eb2bc2a7bb09fab2bdbcb1821518c558b8",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "作者质疑经济学奖价值，仅历史回顾david card论文，无2026年正向预测",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-10T18:34:57.472219+00:00",
+      "evidence": [],
+      "auditFile": "814430ce807ac567d5dc9d9cde6a20ac6449916a31af51ccaaa2adf1b8d81797.json"
+    },
+    "2092362169799202313": {
+      "summaryHash": "46f306eb876b7685e15bfe1d25442a9d7f8342cc91d074939db90d72752a7e39",
+      "reviewed": false,
+      "people": [],
+      "directions": [],
+      "reason": "直答输出校验失败，待人工复核：人名/方向缺少原文依据",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "auditFile": "814430ce807ac567d5dc9d9cde6a20ac6449916a31af51ccaaa2adf1b8d81797.json"
+    },
+    "2092441394728256722": {
+      "summaryHash": "f3c04e4e0816195a097308a47e4129529c7778125dc49b3f9301c14da489663e",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "明显玩笑预测特朗普获奖，奖项内容为恶搞",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-10T18:34:57.472497+00:00",
+      "evidence": [],
+      "auditFile": "814430ce807ac567d5dc9d9cde6a20ac6449916a31af51ccaaa2adf1b8d81797.json"
+    },
+    "2092342986252339094": {
+      "summaryHash": "e39fcab8fc99571b1264cf89197469807fd5b971e2a9c809c3738f70c56413e3",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "仅表达对奖项未来存废的猜测，无对任何作者或方向的明确正向预测。",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-10T18:35:03.641074+00:00",
+      "evidence": [],
+      "auditFile": "27ccf0f31a160483635f1220237a070b0afccaeded66ac25721813a21add2307.json"
+    },
+    "2092313561544536855": {
+      "summaryHash": "f3a714d5ca1a132ad9ab484a19729682bfe0e937418e9f53111234829f3aa798",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "提张维为得奖为明显反讽玩笑，非真实预测。",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-10T18:35:03.641092+00:00",
+      "evidence": [],
+      "auditFile": "27ccf0f31a160483635f1220237a070b0afccaeded66ac25721813a21add2307.json"
     }
   }
 }

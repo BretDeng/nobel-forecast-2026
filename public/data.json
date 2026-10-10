@@ -9695,12 +9695,12 @@
       "english": "ECONOMIC SCIENCES",
       "symbol": "E",
       "questionUrl": "https://www.zhihu.com/question/2084054769849611542",
-      "fetchedAt": "2026-10-10T12:30:40.262253+00:00",
+      "fetchedAt": "2026-10-10T18:34:47.161652+00:00",
       "complete": true,
-      "total": 56,
+      "total": 58,
       "valid": 25,
-      "pending": 10,
-      "excluded": 21,
+      "pending": 8,
+      "excluded": 25,
       "people": [
         {
           "id": "09c13713ad51",
@@ -10482,6 +10482,22 @@
           "warnings": []
         },
         {
+          "id": "2085963164382917914",
+          "url": "https://www.zhihu.com/question/2084054769849611542/answer/2085963164382917914",
+          "summary": "今年我押城市经济学。 有三个理由。首先，今天全球六成以上人口居住在城市，而二十年前大多数人口则居住在农村。这是一个巨大的、值得关注的时代转变。 其次，这两年欧美很关注远程工作的问题。疫情期间很多工作都可以远程，一定程度上导致大城市空心化，人们往环境更宜居的城市迁移。 疫情后，一开始大家觉得保持远程挺好；但最近又开始提倡回归线下，毕竟交流更方便。 第三，懂王为什么能选上总统？美国中部“铁锈带”城市的选…",
+          "people": [],
+          "directions": [
+            "城市经济学"
+          ],
+          "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+          "reviewed": true,
+          "reviewMethod": "human",
+          "reviewModel": null,
+          "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
           "id": "2088608657567114669",
           "url": "https://www.zhihu.com/question/2084054769849611542/answer/2088608657567114669",
           "summary": "我认为可能获奖的人依次往下：方向 得主 新凯恩斯主义与现代货币政策 伍德福德、加利、布兰查德 实证产业组织与反事实度量 贝里、莱文森、佩克斯（BLP三人组） 国际贸易与企业异质性 赫尔普曼、梅利兹 部分识别、不确定性与政策决策 曼斯基为核心 首先是迈克尔·伍德福德（Michael Woodford）、乔迪·加利（Jordi Galí）、奥利维耶·布兰查德（Olivier Blanchard）这一组， 如果今年委员会决定奖励宏观经济学，那么 “现代货币…",
@@ -10539,22 +10555,6 @@
             "国际贸易与企业异质性",
             "行为经济学",
             "收入与财富不平等"
-          ],
-          "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
-          "reviewed": true,
-          "reviewMethod": "human",
-          "reviewModel": null,
-          "reviewEvidence": [],
-          "aiAssisted": false,
-          "warnings": []
-        },
-        {
-          "id": "2085963164382917914",
-          "url": "https://www.zhihu.com/question/2084054769849611542/answer/2085963164382917914",
-          "summary": "今年我押城市经济学。 有三个理由。首先，今天全球六成以上人口居住在城市，而二十年前大多数人口则居住在农村。这是一个巨大的、值得关注的时代转变。 其次，这两年欧美很关注远程工作的问题。疫情期间很多工作都可以远程，一定程度上导致大城市空心化，人们往环境更宜居的城市迁移。 疫情后，一开始大家觉得保持远程挺好；但最近又开始提倡回归线下，毕竟交流更方便。 第三，懂王为什么能选上总统？美国中部“铁锈带”城市的选…",
-          "people": [],
-          "directions": [
-            "城市经济学"
           ],
           "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
           "reviewed": true,
@@ -10660,10 +10660,10 @@
           "summary": "赞成Susan Athey。 如果说 AI 时代会催生哪些值得诺贝尔经济学奖关注的研究，我认为，一个重要方向是经济学研究方法本身的变化。Athey 的学术贡献横跨经济理论、计量经济学、市场设计与数字经济。她的研究价值，不在于简单地将机器学习引入经济学，而在于思考如何将新的计算方法与经济理论、因果推断结合起来。 机器学习可以提高预测能力，但预测准确并不等于识别了因果关系。面对越来越复杂的市场和海量数据，经济学如何在利用…",
           "people": [],
           "directions": [],
-          "reason": "待复核：新增或摘要有变更",
+          "reason": "直答输出校验失败，待人工复核：人名/方向缺少原文依据",
           "reviewed": false,
-          "reviewMethod": null,
-          "reviewModel": null,
+          "reviewMethod": "zhida",
+          "reviewModel": "zhida-fast-1p5",
           "reviewEvidence": [],
           "aiAssisted": false,
           "warnings": []
@@ -10712,6 +10712,20 @@
           "warnings": []
         },
         {
+          "id": "2092328794602337405",
+          "url": "https://www.zhihu.com/question/2084054769849611542/answer/2092328794602337405",
+          "summary": "后天就开奖了，先算个命 帕克斯可能性最大 经济学有一个方向是产业组织研究，研究市场怎么运转，怎么定价和竞争，在80年代分成两派。 一派是哈佛系，看数据做回归。另一派是理论派，拿博弈论推演，模型漂亮。 两派吵了几十年 帕克斯1949年出生在加拿大埃德蒙顿，有以色列和美国国籍，在希伯来大学念完本科和硕士，在哈佛拿到博士学位，师从计量经济学大师格里利谢斯，在威斯康星大学和耶鲁大学上过班，最后回到哈佛。 1995年，帕…",
+          "people": [],
+          "directions": [],
+          "reason": "直答输出校验失败，待人工复核：人名/方向缺少原文依据",
+          "reviewed": false,
+          "reviewMethod": "zhida",
+          "reviewModel": "zhida-fast-1p5",
+          "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
           "id": "2090727483465385368",
           "url": "https://www.zhihu.com/question/2084054769849611542/answer/2090727483465385368",
           "summary": "我对2026年诺贝尔经济学奖的预测是劳动经济学方向的一对组合麻省理工大学David Autor和哈佛大学 Lawrence F.Katz。还是属于不出所料吧。 2025年诺贝尔五个大奖预测活动我都参与了，科学奖全错，厉害的科学家太多了，很难猜。猜对了一个文学奖，希望今年可以再接再厉，也能拿一个预测奖。 获奖理由挺多的，挑两条条重要的。第一点，与当今最火的AI时代有关，奥托和卡茨的研究成果直接回答了人类在AI时代如何生存的问题，包括人类…",
@@ -10748,20 +10762,6 @@
           "warnings": []
         },
         {
-          "id": "2092328794602337405",
-          "url": "https://www.zhihu.com/question/2084054769849611542/answer/2092328794602337405",
-          "summary": "后天就开奖了，先算个命 帕克斯可能性最大 经济学有一个方向是产业组织研究，研究市场怎么运转，怎么定价和竞争，在80年代分成两派。 一派是哈佛系，看数据做回归。另一派是理论派，拿博弈论推演，模型漂亮。 两派吵了几十年 帕克斯1949年出生在加拿大埃德蒙顿，有以色列和美国国籍，在希伯来大学念完本科和硕士，在哈佛拿到博士学位，师从计量经济学大师格里利谢斯，在威斯康星大学和耶鲁大学上过班，最后回到哈佛。 1995年，帕…",
-          "people": [],
-          "directions": [],
-          "reason": "待复核：新增或摘要有变更",
-          "reviewed": false,
-          "reviewMethod": null,
-          "reviewModel": null,
-          "reviewEvidence": [],
-          "aiAssisted": false,
-          "warnings": []
-        },
-        {
           "id": "2088655124935843891",
           "url": "https://www.zhihu.com/question/2084054769849611542/answer/2088655124935843891",
           "summary": "Susan Athey和Hal Varian。 AI已然正在深刻的改变包括经济学研究、商业运转在内的人类生活方式，各学科都在完善或适应AI所带来的影响。从芯片、大模型、云计算乃至AI应用等AI产业链所具备的经济影响也越来越大，Susan Athey和Hal Varian的研究对理解和发展AI经济具有重大的理论价值。 这两位学者对信息技术经济学进行了开创性分析。Athey是把机器学习引入因果推断的关键人物，重点研究拍卖机制设计、平台市场结构、串谋识别以及…",
@@ -10786,10 +10786,10 @@
           "summary": "野鸡奖项。 物理奖化学奖医学奖都产出过影响人类生活的科技成果出来。 我就想问下：经济学奖哪一年的成果有确实影响过人类的生活？ 我自己就是经济学博士，但我不护短，比如david card1994年那篇里程碑式的论文，这篇论文几乎是所有经济学博士必引，但这篇论文在现实生活中有卵用啊。",
           "people": [],
           "directions": [],
-          "reason": "待复核：新增或摘要有变更",
-          "reviewed": false,
-          "reviewMethod": null,
-          "reviewModel": null,
+          "reason": "作者质疑经济学奖价值，仅历史回顾david card论文，无2026年正向预测",
+          "reviewed": true,
+          "reviewMethod": "zhida",
+          "reviewModel": "zhida-fast-1p5",
           "reviewEvidence": [],
           "aiAssisted": false,
           "warnings": []
@@ -10853,6 +10853,20 @@
           "warnings": []
         },
         {
+          "id": "2092362169799202313",
+          "url": "https://www.zhihu.com/question/2084054769849611542/answer/2092362169799202313",
+          "summary": "正式预测方案获奖人选：史蒂文·贝里（Steven Berry）、詹姆斯·莱文森（James Levinsohn）、阿里尔·佩克斯（Ariel Pakes）获奖成果：在差异化产品市场需求结构估计与反事实政策分析方法上的开创性贡献（For empirical contributions to the structural estimation of demand in differentiated product markets and market power analysis）预测理由诺贝尔经济学奖素有每隔数年奖励一套“彻底改变实证研究范式与公共政策工具箱…",
+          "people": [],
+          "directions": [],
+          "reason": "直答输出校验失败，待人工复核：人名/方向缺少原文依据",
+          "reviewed": false,
+          "reviewMethod": "zhida",
+          "reviewModel": "zhida-fast-1p5",
+          "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
           "id": "2091536790729631245",
           "url": "https://www.zhihu.com/question/2084054769849611542/answer/2091536790729631245",
           "summary": "目前尚有文学跟经济学奖还未揭榜，前面物理、化学已连续爆冷，评委思路太难猜。 继续整理八组猜想，纯属趣味猜测，不是专业解读。 1️⃣【赛博预测｜数据榜单大热组合】David Autor、Lawrence F. Katz 这个热门是靠论文引用数据跑出来的，专门研究技术变革如何影响就业市场，也是预测榜单常年靠前的一组人选。 [图片] 2️⃣【众望所归｜大众高期待单人】Raj Chetty 主攻收入不平等，研究内容普通人也看得懂。网上热度很高，很多人希…",
@@ -10878,6 +10892,20 @@
           "reviewed": true,
           "reviewMethod": "human",
           "reviewModel": null,
+          "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
+          "id": "2092441394728256722",
+          "url": "https://www.zhihu.com/question/2084054769849611542/answer/2092441394728256722",
+          "summary": "我对诺贝尔奖的看法如下： 经济学奖：特朗普，发明了面对通胀应该要求央行降低利率这一理论！ 物理学奖：特朗普，指示联邦政府到2028年建成一台强大的量子计算机！ [图片] 化学奖：特朗普，因为特朗普重新定义了美国外交的化学反应，他与朝鲜有良好的化学反应 [图片] 和平奖：特朗普 [图片] 文学奖： Leshan Sihai，因为他们受邀写作了《特朗普总统全录》 [图片] 生理学或医学奖：特朗普，因为特朗普签署了第14168号行政命令《保护妇女免受性别极端主义侵害并…",
+          "people": [],
+          "directions": [],
+          "reason": "明显玩笑预测特朗普获奖，奖项内容为恶搞",
+          "reviewed": true,
+          "reviewMethod": "zhida",
+          "reviewModel": "zhida-fast-1p5",
           "reviewEvidence": [],
           "aiAssisted": false,
           "warnings": []
@@ -11248,10 +11276,10 @@
           "summary": "也许10年以后就没有诺贝尔经济学奖了。",
           "people": [],
           "directions": [],
-          "reason": "待复核：新增或摘要有变更",
-          "reviewed": false,
-          "reviewMethod": null,
-          "reviewModel": null,
+          "reason": "仅表达对奖项未来存废的猜测，无对任何作者或方向的明确正向预测。",
+          "reviewed": true,
+          "reviewMethod": "zhida",
+          "reviewModel": "zhida-fast-1p5",
           "reviewEvidence": [],
           "aiAssisted": false,
           "warnings": []
@@ -11262,10 +11290,10 @@
           "summary": "当然是张公公维为！ 张维为不拿诺贝尔经济学奖，说明资本主义烂透了，他们不敢承认他们不懂经济学！",
           "people": [],
           "directions": [],
-          "reason": "待复核：新增或摘要有变更",
-          "reviewed": false,
-          "reviewMethod": null,
-          "reviewModel": null,
+          "reason": "提张维为得奖为明显反讽玩笑，非真实预测。",
+          "reviewed": true,
+          "reviewMethod": "zhida",
+          "reviewModel": "zhida-fast-1p5",
           "reviewEvidence": [],
           "aiAssisted": false,
           "warnings": []

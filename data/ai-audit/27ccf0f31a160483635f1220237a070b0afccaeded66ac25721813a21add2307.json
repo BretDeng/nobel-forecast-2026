@@ -1,0 +1,24 @@
+{
+  "model": "zhida-fast-1p5",
+  "category": "economics",
+  "summaryHashes": {
+    "2092342986252339094": "e39fcab8fc99571b1264cf89197469807fd5b971e2a9c809c3738f70c56413e3",
+    "2092313561544536855": "f3a714d5ca1a132ad9ab484a19729682bfe0e937418e9f53111234829f3aa798"
+  },
+  "response": {
+    "id": "chatcmpl-b28c7fbd-3ae9-46e1-bcee-31deb7283916",
+    "object": "chat.completion",
+    "created": 1791657303,
+    "model": "zhida-fast-1p5",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "{\"items\":[{\"id\":\"2092342986252339094\",\"status\":\"exclude\",\"people\":[],\"directions\":[],\"reason\":\"仅表达对奖项未来存废的猜测，无对任何作者或方向的明确正向预测。\"},{\"id\":\"2092313561544536855\",\"status\":\"exclude\",\"people\":[],\"directions\":[],\"reason\":\"提张维为得奖为明显反讽玩笑，非真实预测。\"}]}"
+        },
+        "finish_reason": "stop"
+      }
+    ]
+  }
+}
