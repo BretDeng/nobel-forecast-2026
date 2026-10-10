@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-10T05:51:35.963201+00:00",
+  "fetchedAt": "2026-10-10T12:30:40.262253+00:00",
   "pages": [
     {
       "Code": 0,
@@ -44,15 +44,15 @@
           },
           {
             "ContentType": "answer",
-            "ContentToken": "2084088997517775139",
-            "Url": "https://www.zhihu.com/question/2084054769849611542/answer/2084088997517775139",
-            "Summary": "26年诺贝尔奖，我希望给Eaton-Kotum或者Metliz模型，国际贸易也该获得一个奖了吧？？？ 又想了一下，还有两个沧海遗珠绝对值得拿诺奖，一个是1982年的cheap-talk模型，一个是cho-kreps intuitive criteria和D1 refinement 只要是了解信息经济学的都知道这两个是多么重量级的理论贡献，也应该拿诺奖"
-          },
-          {
-            "ContentType": "answer",
             "ContentToken": "2088314152108431199",
             "Url": "https://www.zhihu.com/question/2084054769849611542/answer/2088314152108431199",
             "Summary": "预测倒说不上。 Kalshi 上挂着个“2026 年诺贝尔经济学奖”的盘口，领头Ariel Pakes胜率 23%。我不打算猜今年谁得奖，真正该看的是这门奖到底怎么在选人。 2025 年的经济学奖，给了三个人，莫基尔，阿吉翁和豪伊特。颁奖词就一句话：“for having explained innovation-driven economic growth”——解释了创新驱动的经济增长。 他们说的什么呢？莫基尔拿史料那一套回答了为什么持续增长是现代经济的常态，阿吉翁和豪伊特则是拿…"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2084088997517775139",
+            "Url": "https://www.zhihu.com/question/2084054769849611542/answer/2084088997517775139",
+            "Summary": "26年诺贝尔奖，我希望给Eaton-Kotum或者Metliz模型，国际贸易也该获得一个奖了吧？？？ 又想了一下，还有两个沧海遗珠绝对值得拿诺奖，一个是1982年的cheap-talk模型，一个是cho-kreps intuitive criteria和D1 refinement 只要是了解信息经济学的都知道这两个是多么重量级的理论贡献，也应该拿诺奖"
           },
           {
             "ContentType": "answer",
@@ -65,6 +65,12 @@
             "ContentToken": "2088893227956954391",
             "Url": "https://www.zhihu.com/question/2084054769849611542/answer/2088893227956954391",
             "Summary": "预测诺奖，想抄作业，哪家强？ 我选科睿唯安引文桂冠奖。 先亮出我抄的作业： Susan Athey 和 Hal Varian，领域是信息技术经济学。再介绍这个奖。 这个奖从Web of Science的引用数据里，筛出成果已经达到诺奖水准的人，发个「准诺奖」。 据2025年10月数据，2002年以来，它总共提名了465位引文桂冠得主，89个命中，命中率19%（包含四个领域：经济学奖+物理学+化学+生理学或医学）。 2026年的经济学引文桂冠奖，9月17日刚揭晓，一…"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2092268449745717151",
+            "Url": "https://www.zhihu.com/question/2084054769849611542/answer/2092268449745717151",
+            "Summary": "赞成Susan Athey。 如果说 AI 时代会催生哪些值得诺贝尔经济学奖关注的研究，我认为，一个重要方向是经济学研究方法本身的变化。Athey 的学术贡献横跨经济理论、计量经济学、市场设计与数字经济。她的研究价值，不在于简单地将机器学习引入经济学，而在于思考如何将新的计算方法与经济理论、因果推断结合起来。 机器学习可以提高预测能力，但预测准确并不等于识别了因果关系。面对越来越复杂的市场和海量数据，经济学如何在利用…"
           },
           {
             "ContentType": "answer",
@@ -92,9 +98,21 @@
           },
           {
             "ContentType": "answer",
+            "ContentToken": "2092328794602337405",
+            "Url": "https://www.zhihu.com/question/2084054769849611542/answer/2092328794602337405",
+            "Summary": "后天就开奖了，先算个命 帕克斯可能性最大 经济学有一个方向是产业组织研究，研究市场怎么运转，怎么定价和竞争，在80年代分成两派。 一派是哈佛系，看数据做回归。另一派是理论派，拿博弈论推演，模型漂亮。 两派吵了几十年 帕克斯1949年出生在加拿大埃德蒙顿，有以色列和美国国籍，在希伯来大学念完本科和硕士，在哈佛拿到博士学位，师从计量经济学大师格里利谢斯，在威斯康星大学和耶鲁大学上过班，最后回到哈佛。 1995年，帕…"
+          },
+          {
+            "ContentType": "answer",
             "ContentToken": "2088655124935843891",
             "Url": "https://www.zhihu.com/question/2084054769849611542/answer/2088655124935843891",
             "Summary": "Susan Athey和Hal Varian。 AI已然正在深刻的改变包括经济学研究、商业运转在内的人类生活方式，各学科都在完善或适应AI所带来的影响。从芯片、大模型、云计算乃至AI应用等AI产业链所具备的经济影响也越来越大，Susan Athey和Hal Varian的研究对理解和发展AI经济具有重大的理论价值。 这两位学者对信息技术经济学进行了开创性分析。Athey是把机器学习引入因果推断的关键人物，重点研究拍卖机制设计、平台市场结构、串谋识别以及…"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2092321040189896305",
+            "Url": "https://www.zhihu.com/question/2084054769849611542/answer/2092321040189896305",
+            "Summary": "野鸡奖项。 物理奖化学奖医学奖都产出过影响人类生活的科技成果出来。 我就想问下：经济学奖哪一年的成果有确实影响过人类的生活？ 我自己就是经济学博士，但我不护短，比如david card1994年那篇里程碑式的论文，这篇论文几乎是所有经济学博士必引，但这篇论文在现实生活中有卵用啊。"
           },
           {
             "ContentType": "answer",
@@ -110,27 +128,27 @@
           },
           {
             "ContentType": "answer",
-            "ContentToken": "2091902272720598077",
-            "Url": "https://www.zhihu.com/question/2084054769849611542/answer/2091902272720598077",
-            "Summary": "炸药大王设立诺奖是为了促销炸药，从效果来看空前成功。 统计表明，得奖越多的国家越倾向于用炸药发出声音。 二十世纪头三十年，三分之一的诺奖归德国人，于是德国发动了两次世界大战。 后来诺奖主要归美国人，于是美国几乎无日不战。 最近日本连续获得诺奖，国内的军国主义开始抬头，再军事化有不可阻挡之势。 2026年的诺奖，生物奖颁给了科学洗脑的，物理奖颁给了污染南极的，化学奖颁给了优化毒药的，文学奖颁给了异端崇拜者…"
-          },
-          {
-            "ContentType": "answer",
             "ContentToken": "2091505598349173341",
             "Url": "https://www.zhihu.com/question/2084054769849611542/answer/2091505598349173341",
             "Summary": "今年的诺贝尔经济学奖将于10月12日公布。谈论这个奖，不少人总会想起琼·罗宾逊，以为她没有获得诺奖是一个不公。另一个剑桥的学术领袖萨缪尔森在《回忆琼》中曾经写道： “the corpus of her work richly deserved a Nobel Prize.” “她的全部著作完全值得获得一个诺贝尔奖。”(NobelPrize.org )这篇文章里萨缪尔森把罗宾逊写成那个敢于追问皇帝是否穿着衣服的孩子：面对数学技巧和理论权威，她坚持用直接的问题检验论证。他赞…"
           },
           {
             "ContentType": "answer",
-            "ContentToken": "2087294981040093116",
-            "Url": "https://www.zhihu.com/question/2084054769849611542/answer/2087294981040093116",
-            "Summary": "林毅夫！ 林毅夫！ 林毅夫！"
+            "ContentToken": "2091902272720598077",
+            "Url": "https://www.zhihu.com/question/2084054769849611542/answer/2091902272720598077",
+            "Summary": "炸药大王设立诺奖是为了促销炸药，从效果来看空前成功。 统计表明，得奖越多的国家越倾向于用炸药发出声音。 二十世纪头三十年，三分之一的诺奖归德国人，于是德国发动了两次世界大战。 后来诺奖主要归美国人，于是美国几乎无日不战。 最近日本连续获得诺奖，国内的军国主义开始抬头，再军事化有不可阻挡之势。 2026年的诺奖，生物奖颁给了科学洗脑的，物理奖颁给了污染南极的，化学奖颁给了优化毒药的，文学奖颁给了异端崇拜者…"
           },
           {
             "ContentType": "answer",
             "ContentToken": "2091536790729631245",
             "Url": "https://www.zhihu.com/question/2084054769849611542/answer/2091536790729631245",
             "Summary": "目前尚有文学跟经济学奖还未揭榜，前面物理、化学已连续爆冷，评委思路太难猜。 继续整理八组猜想，纯属趣味猜测，不是专业解读。 1️⃣【赛博预测｜数据榜单大热组合】David Autor、Lawrence F. Katz 这个热门是靠论文引用数据跑出来的，专门研究技术变革如何影响就业市场，也是预测榜单常年靠前的一组人选。 [图片] 2️⃣【众望所归｜大众高期待单人】Raj Chetty 主攻收入不平等，研究内容普通人也看得懂。网上热度很高，很多人希…"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2087294981040093116",
+            "Url": "https://www.zhihu.com/question/2084054769849611542/answer/2087294981040093116",
+            "Summary": "林毅夫！ 林毅夫！ 林毅夫！"
           },
           {
             "ContentType": "answer",
@@ -176,9 +194,21 @@
           },
           {
             "ContentType": "answer",
+            "ContentToken": "2090146309428754133",
+            "Url": "https://www.zhihu.com/question/2084054769849611542/answer/2090146309428754133",
+            "Summary": "陈平不获此奖，是全球经济学界的重大遗憾"
+          },
+          {
+            "ContentType": "answer",
             "ContentToken": "2084243921903919492",
             "Url": "https://www.zhihu.com/question/2084054769849611542/answer/2084243921903919492",
             "Summary": "肯定是西方经济学的卫道士"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2091125185516774412",
+            "Url": "https://www.zhihu.com/question/2084054769849611542/answer/2091125185516774412",
+            "Summary": "不如颁发给李新野。 经济学问题本质是社会学以及政治学问题。"
           },
           {
             "ContentType": "answer",
@@ -188,15 +218,15 @@
           },
           {
             "ContentType": "answer",
-            "ContentToken": "2084246536687448556",
-            "Url": "https://www.zhihu.com/question/2084054769849611542/answer/2084246536687448556",
-            "Summary": "建议考虑不诈骗经济学"
-          },
-          {
-            "ContentType": "answer",
             "ContentToken": "2089072391817263078",
             "Url": "https://www.zhihu.com/question/2084054769849611542/answer/2089072391817263078",
             "Summary": "猜一手老头： 托马斯•皮凯蒂（Thomas Piketty）、伊曼纽尔•赛斯（Emmanuel Saez） 加布里埃尔•祖克曼（Gabriel Zucman） 顺便写一下颁奖词：感谢其在收入分配不均与财富不平等领域作出的巨大贡献！！！🏅🏅🏅"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2084246536687448556",
+            "Url": "https://www.zhihu.com/question/2084054769849611542/answer/2084246536687448556",
+            "Summary": "建议考虑不诈骗经济学"
           },
           {
             "ContentType": "answer",
@@ -254,6 +284,18 @@
           },
           {
             "ContentType": "answer",
+            "ContentToken": "2092342986252339094",
+            "Url": "https://www.zhihu.com/question/2084054769849611542/answer/2092342986252339094",
+            "Summary": "也许10年以后就没有诺贝尔经济学奖了。"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2092313561544536855",
+            "Url": "https://www.zhihu.com/question/2084054769849611542/answer/2092313561544536855",
+            "Summary": "当然是张公公维为！ 张维为不拿诺贝尔经济学奖，说明资本主义烂透了，他们不敢承认他们不懂经济学！"
+          },
+          {
+            "ContentType": "answer",
             "ContentToken": "2091297286714405766",
             "Url": "https://www.zhihu.com/question/2084054769849611542/answer/2091297286714405766",
             "Summary": "2026年诺贝尔经济学奖揭晓，董志民先生蝉联诺贝尔经济学奖得主，这已经是他第三次获得该奖。 董志民创造性提出“董志民理论”，系统揭示了人口老龄化与少子化危机下劳动力市场的结构性困境：织女作为商品从城市向乡村的单向流通，能够促进人口流动、缓解劳动力短缺、推动共同富裕，并消解贫富悬殊所积累的社会矛盾，为防止社会持续冲突提供新的可能；同时，他深刻追问政府在社会保障尚未充分覆盖时是否仍可行使惩罚被监护人的权…"
@@ -263,7 +305,19 @@
             "ContentToken": "2090898829063221625",
             "Url": "https://www.zhihu.com/question/2084054769849611542/answer/2090898829063221625",
             "Summary": "1.Susan Athey + Hal Varian：数字经济与IT经济学的顶级热门。 2026年9月17日，科睿唯安刚刚公布了 2026年引文桂冠奖，Susan Athey 与 Hal Varian 双双榜上有名，获奖评语正是：“对信息技术经济学的开拓性分析（for pioneering analysis of the economics of information technology）”。 Hal Varian（谷歌前首席经济学家 / 伯克利名誉教授）： 将经济学成功融入硅谷商业基因。他早在90年代出版的《信息规则》（Information Ru…"
-          },
+          }
+        ],
+        "Paging": {
+          "IsEnd": false,
+          "NextOffset": 50
+        }
+      }
+    },
+    {
+      "Code": 0,
+      "Message": "success",
+      "Data": {
+        "Items": [
           {
             "ContentType": "answer",
             "ContentToken": "2089747236402087847",
@@ -278,21 +332,9 @@
           },
           {
             "ContentType": "answer",
-            "ContentToken": "2090146309428754133",
-            "Url": "https://www.zhihu.com/question/2084054769849611542/answer/2090146309428754133",
-            "Summary": "陈平不获此奖，是全球经济学界的重大遗憾"
-          },
-          {
-            "ContentType": "answer",
             "ContentToken": "2089555070199374081",
             "Url": "https://www.zhihu.com/question/2084054769849611542/answer/2089555070199374081",
             "Summary": "至少丁真、姜萍、蔡徐坤肯定不在此列。"
-          },
-          {
-            "ContentType": "answer",
-            "ContentToken": "2091125185516774412",
-            "Url": "https://www.zhihu.com/question/2084054769849611542/answer/2091125185516774412",
-            "Summary": "不如颁发给李新野。 经济学问题本质是社会学以及政治学问题。"
           },
           {
             "ContentType": "answer",
@@ -305,19 +347,7 @@
             "ContentToken": "2085151622284436058",
             "Url": "https://www.zhihu.com/question/2084054769849611542/answer/2085151622284436058",
             "Summary": "川普"
-          }
-        ],
-        "Paging": {
-          "IsEnd": false,
-          "NextOffset": 50
-        }
-      }
-    },
-    {
-      "Code": 0,
-      "Message": "success",
-      "Data": {
-        "Items": [
+          },
           {
             "ContentType": "answer",
             "ContentToken": "2084281444365494253",

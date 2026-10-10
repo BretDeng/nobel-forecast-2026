@@ -1,0 +1,27 @@
+{
+  "model": "zhida-fast-1p5",
+  "category": "economics",
+  "summaryHashes": {
+    "2092268449745717151": "0e0921e11512dba799761c58147e36e82dd5d15c9a641e3075d5be85a4f149d3",
+    "2092328794602337405": "37b8a95c8d1d9b488c16febd04319d0bfb779083a463fda566033665d68f3c57",
+    "2092321040189896305": "6cdc785f94f2a504f4f374603f87d4eb2bc2a7bb09fab2bdbcb1821518c558b8",
+    "2092342986252339094": "e39fcab8fc99571b1264cf89197469807fd5b971e2a9c809c3738f70c56413e3",
+    "2092313561544536855": "f3a714d5ca1a132ad9ab484a19729682bfe0e937418e9f53111234829f3aa798"
+  },
+  "response": {
+    "id": "chatcmpl-d02f8cce-e322-4912-b84c-dad78d752dec",
+    "object": "chat.completion",
+    "created": 1791635443,
+    "model": "zhida-fast-1p5",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "非常抱歉，我目前无法针对您的问题提供更多信息，如果您有其他的问题，我将非常乐意尽力帮助您。"
+        },
+        "finish_reason": "stop"
+      }
+    ]
+  }
+}
