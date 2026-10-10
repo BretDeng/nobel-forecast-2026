@@ -5614,6 +5614,17 @@
       "reviewMethod": "zhida",
       "model": "zhida-fast-1p5",
       "auditFile": "f534441e8100c92e60e8f47635dcf6b59246311cfdcb966d3f84c6591516f781.json"
+    },
+    "2092209375993672023": {
+      "summaryHash": "7284d062542073cb3be7f3f40676ab56b6d41219a79ca0595238c140dbc9371a",
+      "reviewed": false,
+      "people": [],
+      "directions": [],
+      "reason": "直答输出校验失败，待人工复核：人名/方向缺少原文依据",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "auditFile": "9ef76dfa88df4b337b0d5d5e4602eb5317f02071f57ca6bba0c714608b1458d7.json"
     }
   }
 }

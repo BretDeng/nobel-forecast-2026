@@ -1,0 +1,23 @@
+{
+  "model": "zhida-fast-1p5",
+  "category": "economics",
+  "summaryHashes": {
+    "2092209375993672023": "7284d062542073cb3be7f3f40676ab56b6d41219a79ca0595238c140dbc9371a"
+  },
+  "response": {
+    "id": "chatcmpl-e578e346-ee6d-4b21-8ee4-6313fc43e3a2",
+    "object": "chat.completion",
+    "created": 1791611502,
+    "model": "zhida-fast-1p5",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "{\"items\":[{\"id\":\"2092209375993672023\",\"status\":\"include\",\"people\":[{\"name\":\"David Autor\",\"evidence\":\"我的预测是David Autor（戴维·奥特尔）与 Lawrence F. Katz（劳伦斯·卡茨）\"},{\"name\":\"Lawrence Katz\",\"evidence\":\"我的预测是David Autor（戴维·奥特尔）与 Lawrence F. Katz（劳伦斯·卡茨）\"},{\"name\":\"Susan Athey\",\"evidence\":\"其他值得关注的人选： Susan Athey + Hal Varian 信息技术经济学\"},{\"name\":\"Hal Varian\",\"evidence\":\"其他值得关注的人选： Susan Athey + Hal Varian 信息技术经济学\"}],\"directions\":[{\"name\":\"劳动经济学与技术变革\",\"evidence\":\"他们因在劳动经济学、技术变革（含AI）对就业市场的影响领域的系统性奠基研究而被看好\"},{\"name\":\"数字经济与信息技术\",\"evidence\":\"Susan Athey + Hal Varian 信息技术经济学\"}],\"reason\":\"作者明确给出自己的预测名单及方向，其余为值得关注的备选。\"}]}"
+        },
+        "finish_reason": "stop"
+      }
+    ]
+  }
+}
