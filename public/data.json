@@ -9695,11 +9695,11 @@
       "english": "ECONOMIC SCIENCES",
       "symbol": "E",
       "questionUrl": "https://www.zhihu.com/question/2084054769849611542",
-      "fetchedAt": "2026-10-10T23:32:58.008032+00:00",
+      "fetchedAt": "2026-10-11T05:45:08.634127+00:00",
       "complete": true,
-      "total": 58,
+      "total": 61,
       "valid": 25,
-      "pending": 8,
+      "pending": 11,
       "excluded": 25,
       "people": [
         {
@@ -10636,20 +10636,6 @@
           "warnings": []
         },
         {
-          "id": "2092268449745717151",
-          "url": "https://www.zhihu.com/question/2084054769849611542/answer/2092268449745717151",
-          "summary": "赞成Susan Athey。 如果说 AI 时代会催生哪些值得诺贝尔经济学奖关注的研究，我认为，一个重要方向是经济学研究方法本身的变化。Athey 的学术贡献横跨经济理论、计量经济学、市场设计与数字经济。她的研究价值，不在于简单地将机器学习引入经济学，而在于思考如何将新的计算方法与经济理论、因果推断结合起来。 机器学习可以提高预测能力，但预测准确并不等于识别了因果关系。面对越来越复杂的市场和海量数据，经济学如何在利用…",
-          "people": [],
-          "directions": [],
-          "reason": "直答输出校验失败，待人工复核：人名/方向缺少原文依据",
-          "reviewed": false,
-          "reviewMethod": "zhida",
-          "reviewModel": "zhida-fast-1p5",
-          "reviewEvidence": [],
-          "aiAssisted": false,
-          "warnings": []
-        },
-        {
           "id": "2088893227956954391",
           "url": "https://www.zhihu.com/question/2084054769849611542/answer/2088893227956954391",
           "summary": "预测诺奖，想抄作业，哪家强？ 我选科睿唯安引文桂冠奖。 先亮出我抄的作业： Susan Athey 和 Hal Varian，领域是信息技术经济学。再介绍这个奖。 这个奖从Web of Science的引用数据里，筛出成果已经达到诺奖水准的人，发个「准诺奖」。 据2025年10月数据，2002年以来，它总共提名了465位引文桂冠得主，89个命中，命中率19%（包含四个领域：经济学奖+物理学+化学+生理学或医学）。 2026年的经济学引文桂冠奖，9月17日刚揭晓，一…",
@@ -10664,6 +10650,20 @@
           "reviewed": true,
           "reviewMethod": "human",
           "reviewModel": null,
+          "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
+          "id": "2092268449745717151",
+          "url": "https://www.zhihu.com/question/2084054769849611542/answer/2092268449745717151",
+          "summary": "赞成Susan Athey。 如果说 AI 时代会催生哪些值得诺贝尔经济学奖关注的研究，我认为，一个重要方向是经济学研究方法本身的变化。Athey 的学术贡献横跨经济理论、计量经济学、市场设计与数字经济。她的研究价值，不在于简单地将机器学习引入经济学，而在于思考如何将新的计算方法与经济理论、因果推断结合起来。 机器学习可以提高预测能力，但预测准确并不等于识别了因果关系。面对越来越复杂的市场和海量数据，经济学如何在利用…",
+          "people": [],
+          "directions": [],
+          "reason": "直答输出校验失败，待人工复核：人名/方向缺少原文依据",
+          "reviewed": false,
+          "reviewMethod": "zhida",
+          "reviewModel": "zhida-fast-1p5",
           "reviewEvidence": [],
           "aiAssisted": false,
           "warnings": []
@@ -10706,6 +10706,20 @@
           "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
           "reviewed": true,
           "reviewMethod": "human",
+          "reviewModel": null,
+          "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
+          "id": "2092572345479198088",
+          "url": "https://www.zhihu.com/question/2084054769849611542/answer/2092572345479198088",
+          "summary": "我个人猜测2026年诺贝尔经济学奖可能颁给三个领域中的一个：收入不平等、经济增长、演化经济学（或者复杂经济学） 随着AI技术对现实经济系统的冲击，必然涉及到收入不平等加剧、技术如何推动经济增长、经济系统的复杂性涌现等问题，所以我会这么猜测。 第一组：收入不平等：Thomas Piketty、Xavier Gabaix 第二组：经济增长：Robert Barro、Charles I. Jones 第三组：演化经济学（或者复杂经济学）：Sidney G. Winter、Giovanni …",
+          "people": [],
+          "directions": [],
+          "reason": "待复核：新增或摘要有变更",
+          "reviewed": false,
+          "reviewMethod": null,
           "reviewModel": null,
           "reviewEvidence": [],
           "aiAssisted": false,
@@ -10762,6 +10776,20 @@
           "warnings": []
         },
         {
+          "id": "2092602834890106718",
+          "url": "https://www.zhihu.com/question/2084054769849611542/answer/2092602834890106718",
+          "summary": "前几年预测经济学奖得主都瞎猫碰到死耗子猜中了，那么今年也随便写个几组，成就多是网上总结，请各位见谅。 PS、先说一个我的预言，今年的经济学奖为 两人的概率比较大，不是一人，也不是三人，这不是瞎猜的，如果有幸言中了，我再把理由说给大家听。关于 2026 年诺贝尔“经济学奖”得主，我的预测名单为： 0、Nobuhiro Kiyotaki、John MooreKiyotaki-Moore模型（1997）刻画了信贷市场摩擦如何通过抵押品约束放大并传播冲击。在…",
+          "people": [],
+          "directions": [],
+          "reason": "待复核：新增或摘要有变更",
+          "reviewed": false,
+          "reviewMethod": null,
+          "reviewModel": null,
+          "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
           "id": "2088655124935843891",
           "url": "https://www.zhihu.com/question/2084054769849611542/answer/2088655124935843891",
           "summary": "Susan Athey和Hal Varian。 AI已然正在深刻的改变包括经济学研究、商业运转在内的人类生活方式，各学科都在完善或适应AI所带来的影响。从芯片、大模型、云计算乃至AI应用等AI产业链所具备的经济影响也越来越大，Susan Athey和Hal Varian的研究对理解和发展AI经济具有重大的理论价值。 这两位学者对信息技术经济学进行了开创性分析。Athey是把机器学习引入因果推断的关键人物，重点研究拍卖机制设计、平台市场结构、串谋识别以及…",
@@ -10776,20 +10804,6 @@
           "reviewed": true,
           "reviewMethod": "human",
           "reviewModel": null,
-          "reviewEvidence": [],
-          "aiAssisted": false,
-          "warnings": []
-        },
-        {
-          "id": "2092321040189896305",
-          "url": "https://www.zhihu.com/question/2084054769849611542/answer/2092321040189896305",
-          "summary": "野鸡奖项。 物理奖化学奖医学奖都产出过影响人类生活的科技成果出来。 我就想问下：经济学奖哪一年的成果有确实影响过人类的生活？ 我自己就是经济学博士，但我不护短，比如david card1994年那篇里程碑式的论文，这篇论文几乎是所有经济学博士必引，但这篇论文在现实生活中有卵用啊。",
-          "people": [],
-          "directions": [],
-          "reason": "作者质疑经济学奖价值，仅历史回顾david card论文，无2026年正向预测",
-          "reviewed": true,
-          "reviewMethod": "zhida",
-          "reviewModel": "zhida-fast-1p5",
           "reviewEvidence": [],
           "aiAssisted": false,
           "warnings": []
@@ -10820,6 +10834,20 @@
           "reviewed": true,
           "reviewMethod": "human",
           "reviewModel": null,
+          "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
+          "id": "2092321040189896305",
+          "url": "https://www.zhihu.com/question/2084054769849611542/answer/2092321040189896305",
+          "summary": "野鸡奖项。 物理奖化学奖医学奖都产出过影响人类生活的科技成果出来。 我就想问下：经济学奖哪一年的成果有确实影响过人类的生活？ 我自己就是经济学博士，但我不护短，比如david card1994年那篇里程碑式的论文，这篇论文几乎是所有经济学博士必引，但这篇论文在现实生活中有卵用啊。",
+          "people": [],
+          "directions": [],
+          "reason": "作者质疑经济学奖价值，仅历史回顾david card论文，无2026年正向预测",
+          "reviewed": true,
+          "reviewMethod": "zhida",
+          "reviewModel": "zhida-fast-1p5",
           "reviewEvidence": [],
           "aiAssisted": false,
           "warnings": []
@@ -10867,6 +10895,20 @@
           "warnings": []
         },
         {
+          "id": "2092441394728256722",
+          "url": "https://www.zhihu.com/question/2084054769849611542/answer/2092441394728256722",
+          "summary": "我对诺贝尔奖的看法如下： 经济学奖：特朗普，发明了面对通胀应该要求央行降低利率这一理论！ 物理学奖：特朗普，指示联邦政府到2028年建成一台强大的量子计算机！ [图片] 化学奖：特朗普，因为特朗普重新定义了美国外交的化学反应，他与朝鲜有良好的化学反应 [图片] 和平奖：特朗普 [图片] 文学奖： Leshan Sihai，因为他们受邀写作了《特朗普总统全录》 [图片] 生理学或医学奖：特朗普，因为特朗普签署了第14168号行政命令《保护妇女免受性别极端主义侵害并…",
+          "people": [],
+          "directions": [],
+          "reason": "明显玩笑预测特朗普获奖，奖项内容为恶搞",
+          "reviewed": true,
+          "reviewMethod": "zhida",
+          "reviewModel": "zhida-fast-1p5",
+          "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
           "id": "2091536790729631245",
           "url": "https://www.zhihu.com/question/2084054769849611542/answer/2091536790729631245",
           "summary": "目前尚有文学跟经济学奖还未揭榜，前面物理、化学已连续爆冷，评委思路太难猜。 继续整理八组猜想，纯属趣味猜测，不是专业解读。 1️⃣【赛博预测｜数据榜单大热组合】David Autor、Lawrence F. Katz 这个热门是靠论文引用数据跑出来的，专门研究技术变革如何影响就业市场，也是预测榜单常年靠前的一组人选。 [图片] 2️⃣【众望所归｜大众高期待单人】Raj Chetty 主攻收入不平等，研究内容普通人也看得懂。网上热度很高，很多人希…",
@@ -10892,20 +10934,6 @@
           "reviewed": true,
           "reviewMethod": "human",
           "reviewModel": null,
-          "reviewEvidence": [],
-          "aiAssisted": false,
-          "warnings": []
-        },
-        {
-          "id": "2092441394728256722",
-          "url": "https://www.zhihu.com/question/2084054769849611542/answer/2092441394728256722",
-          "summary": "我对诺贝尔奖的看法如下： 经济学奖：特朗普，发明了面对通胀应该要求央行降低利率这一理论！ 物理学奖：特朗普，指示联邦政府到2028年建成一台强大的量子计算机！ [图片] 化学奖：特朗普，因为特朗普重新定义了美国外交的化学反应，他与朝鲜有良好的化学反应 [图片] 和平奖：特朗普 [图片] 文学奖： Leshan Sihai，因为他们受邀写作了《特朗普总统全录》 [图片] 生理学或医学奖：特朗普，因为特朗普签署了第14168号行政命令《保护妇女免受性别极端主义侵害并…",
-          "people": [],
-          "directions": [],
-          "reason": "明显玩笑预测特朗普获奖，奖项内容为恶搞",
-          "reviewed": true,
-          "reviewMethod": "zhida",
-          "reviewModel": "zhida-fast-1p5",
           "reviewEvidence": [],
           "aiAssisted": false,
           "warnings": []
@@ -10968,6 +10996,20 @@
           "warnings": []
         },
         {
+          "id": "2090146309428754133",
+          "url": "https://www.zhihu.com/question/2084054769849611542/answer/2090146309428754133",
+          "summary": "陈平不获此奖，是全球经济学界的重大遗憾",
+          "people": [],
+          "directions": [],
+          "reason": "该句是否定性预测（陈平不获奖），且陈平不在规范名单中，按规则排除。",
+          "reviewed": true,
+          "reviewMethod": "zhida",
+          "reviewModel": "zhida-fast-1p5",
+          "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
           "id": "2084168021413832449",
           "url": "https://www.zhihu.com/question/2084054769849611542/answer/2084168021413832449",
           "summary": "中国今年甚至后好几年最有可能拿诺贝尔经济学奖 如中国的ai领域 比起沉下去搞科研 炒作出泡沫这条路是捷径 更是中国特色现代化之路 光我们的炒作技术就是原创性的 甚至可以将炒作和泡沫国际化 就能凭ai领域的泡沫养活大量老龄化人口 @明日香她对象 @小度小度 所以我预测今后几年诺贝尔经济学奖是人工智能领域的 不过会颁给把泡沫炒作得最大的我国ai公司ceo 果真不是院士 理由是能把最不起眼的小音箱炒作成最高端的ai 也给一带一…",
@@ -11019,20 +11061,6 @@
           "reviewed": true,
           "reviewMethod": "human",
           "reviewModel": null,
-          "reviewEvidence": [],
-          "aiAssisted": false,
-          "warnings": []
-        },
-        {
-          "id": "2090146309428754133",
-          "url": "https://www.zhihu.com/question/2084054769849611542/answer/2090146309428754133",
-          "summary": "陈平不获此奖，是全球经济学界的重大遗憾",
-          "people": [],
-          "directions": [],
-          "reason": "该句是否定性预测（陈平不获奖），且陈平不在规范名单中，按规则排除。",
-          "reviewed": true,
-          "reviewMethod": "zhida",
-          "reviewModel": "zhida-fast-1p5",
           "reviewEvidence": [],
           "aiAssisted": false,
           "warnings": []
@@ -11090,6 +11118,20 @@
           ]
         },
         {
+          "id": "2091190135253635260",
+          "url": "https://www.zhihu.com/question/2084054769849611542/answer/2091190135253635260",
+          "summary": "回答里面但凡带Susan Athey的都有很强的AI生成嫌疑。Susan Athey的贡献远不足以拿诺奖，仅凭因果森林是不可能的，经济学自己用的都不多。因果推断的重要成果也已经颁过奖了。 经济学家对AI影响的理论认知和实证成果仍然很不充分，整个领域都是方兴未艾的状态，立刻颁奖过于shallow。现实也还没给这些新兴问题提供确切答案。颁给她还不如再给Acemoglu发第二个诺奖（当然这不可能），最起码他真有一大批顶刊文章研究了AI和自动化。",
+          "people": [],
+          "directions": [],
+          "reason": "该回答明确否定Susan Athey获奖可能性，属于否定预测。",
+          "reviewed": true,
+          "reviewMethod": "zhida",
+          "reviewModel": "zhida-fast-1p5",
+          "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
           "id": "2089072391817263078",
           "url": "https://www.zhihu.com/question/2084054769849611542/answer/2089072391817263078",
           "summary": "猜一手老头： 托马斯•皮凯蒂（Thomas Piketty）、伊曼纽尔•赛斯（Emmanuel Saez） 加布里埃尔•祖克曼（Gabriel Zucman） 顺便写一下颁奖词：感谢其在收入分配不均与财富不平等领域作出的巨大贡献！！！🏅🏅🏅",
@@ -11124,20 +11166,6 @@
           "warnings": []
         },
         {
-          "id": "2091190135253635260",
-          "url": "https://www.zhihu.com/question/2084054769849611542/answer/2091190135253635260",
-          "summary": "回答里面但凡带Susan Athey的都有很强的AI生成嫌疑。Susan Athey的贡献远不足以拿诺奖，仅凭因果森林是不可能的，经济学自己用的都不多。因果推断的重要成果也已经颁过奖了。 经济学家对AI影响的理论认知和实证成果仍然很不充分，整个领域都是方兴未艾的状态，立刻颁奖过于shallow。现实也还没给这些新兴问题提供确切答案。颁给她还不如再给Acemoglu发第二个诺奖（当然这不可能），最起码他真有一大批顶刊文章研究了AI和自动化。",
-          "people": [],
-          "directions": [],
-          "reason": "该回答明确否定Susan Athey获奖可能性，属于否定预测。",
-          "reviewed": true,
-          "reviewMethod": "zhida",
-          "reviewModel": "zhida-fast-1p5",
-          "reviewEvidence": [],
-          "aiAssisted": false,
-          "warnings": []
-        },
-        {
           "id": "2089378120222753653",
           "url": "https://www.zhihu.com/question/2084054769849611542/answer/2089378120222753653",
           "summary": "David Autor在一众候选人里是最有机会拿到2026年诺贝尔经济学奖的，因为“引文桂冠奖”的联合提名，让他的呼声最高。 经济学里劳动经济学是最令人关注的，我也是从劳动经济学里认识了David Autor。但重新了解他还是因为他与Lawrence F. Katz 组合，两人被科睿唯安“引文桂冠奖”联合提名，成为经济学里的佼佼者。 [图片] 两人都“对工资结构、收入不平等、教育进步与技术变革的开创性分析”有着独到的见解，所以同时入选。这种联合授予…",
@@ -11160,6 +11188,20 @@
           "id": "2092209375993672023",
           "url": "https://www.zhihu.com/question/2084054769849611542/answer/2092209375993672023",
           "summary": "我的预测是David Autor（戴维·奥特尔）与 Lawrence F. Katz（劳伦斯·卡茨），理由如下： 共识赔率最高：截至目前的预测模型中，这对组合获奖概率最高，是今年经济学奖的头号热门组合。他们因在劳动经济学、技术变革（含AI）对就业市场的影响领域的系统性奠基研究而被看好，研究主题与当前AI时代高度契合，极具现实意义。 其他值得关注的人选： Susan Athey + Hal Varian 信息技术经济学 2026年科睿唯安\"引文桂冠奖\"得主（诺奖…",
+          "people": [],
+          "directions": [],
+          "reason": "直答输出校验失败，待人工复核：人名/方向缺少原文依据",
+          "reviewed": false,
+          "reviewMethod": "zhida",
+          "reviewModel": "zhida-fast-1p5",
+          "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
+          "id": "2090525407527303023",
+          "url": "https://www.zhihu.com/question/2084054769849611542/answer/2090525407527303023",
+          "summary": "经济学奖其实比物理、化学更难押，因为它很少存在一个清晰的“某年某月某日发现了什么”的瞬间，一套理论往往要经过二三十年的学术争论、经验检验和现实应用，才会被确认到底改变了多少经济学。可如果今年必须只留下一个正式答案，我会把票投给一个非常符合2026年时代背景、同时又已经沉淀足够久的方向： 数字经济与信息技术经济学，正式预测 Susan C. Athey（苏珊·阿西）和 Hal R. Varian（哈尔·瓦里安）共同获奖。我的预测获…",
           "people": [],
           "directions": [],
           "reason": "直答输出校验失败，待人工复核：人名/方向缺少原文依据",
@@ -11203,20 +11245,6 @@
               "quote": "我对于2026念诺贝尔经济学奖的预测结果是斯坦福大学经济学家尼古拉斯·布鲁姆（Nicholas Bloom)能够最终摘得桂冠"
             }
           ],
-          "aiAssisted": false,
-          "warnings": []
-        },
-        {
-          "id": "2090525407527303023",
-          "url": "https://www.zhihu.com/question/2084054769849611542/answer/2090525407527303023",
-          "summary": "经济学奖其实比物理、化学更难押，因为它很少存在一个清晰的“某年某月某日发现了什么”的瞬间，一套理论往往要经过二三十年的学术争论、经验检验和现实应用，才会被确认到底改变了多少经济学。可如果今年必须只留下一个正式答案，我会把票投给一个非常符合2026年时代背景、同时又已经沉淀足够久的方向： 数字经济与信息技术经济学，正式预测 Susan C. Athey（苏珊·阿西）和 Hal R. Varian（哈尔·瓦里安）共同获奖。我的预测获…",
-          "people": [],
-          "directions": [],
-          "reason": "直答输出校验失败，待人工复核：人名/方向缺少原文依据",
-          "reviewed": false,
-          "reviewMethod": "zhida",
-          "reviewModel": "zhida-fast-1p5",
-          "reviewEvidence": [],
           "aiAssisted": false,
           "warnings": []
         },
@@ -11265,6 +11293,20 @@
           "reason": "语境不明，待核实",
           "reviewed": true,
           "reviewMethod": "human",
+          "reviewModel": null,
+          "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
+          "id": "2092569013045945025",
+          "url": "https://www.zhihu.com/question/2084054769849611542/answer/2092569013045945025",
+          "summary": "截止目前，在这个问题下边居然没有看到Nobuhiro Kiyotaki... 不论是和Wright在货币搜寻方面的贡献，还是和Moore在信贷周期方面的贡献，他都值得一个诺奖",
+          "people": [],
+          "directions": [],
+          "reason": "待复核：新增或摘要有变更",
+          "reviewed": false,
+          "reviewMethod": null,
           "reviewModel": null,
           "reviewEvidence": [],
           "aiAssisted": false,
