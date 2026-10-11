@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-11T05:45:08.634127+00:00",
+  "fetchedAt": "2026-10-11T12:48:25.411145+00:00",
   "pages": [
     {
       "Code": 0,
@@ -74,6 +74,12 @@
           },
           {
             "ContentType": "answer",
+            "ContentToken": "2092572345479198088",
+            "Url": "https://www.zhihu.com/question/2084054769849611542/answer/2092572345479198088",
+            "Summary": "我个人猜测2026年诺贝尔经济学奖可能颁给三个领域中的一个：收入不平等、经济增长、演化经济学（或者复杂经济学） 随着AI技术对现实经济系统的冲击，必然涉及到收入不平等加剧、技术如何推动经济增长、经济系统的复杂性涌现等问题，所以我会这么猜测。 第一组：收入不平等：Thomas Piketty、Xavier Gabaix 第二组：经济增长：Robert Barro、Charles I. Jones 第三组：演化经济学（或者复杂经济学）：Sidney G. Winter、Giovanni …"
+          },
+          {
+            "ContentType": "answer",
             "ContentToken": "2089182335497457900",
             "Url": "https://www.zhihu.com/question/2084054769849611542/answer/2089182335497457900",
             "Summary": "参加赛博预测。我最终预测的候选人是： 迈克尔·伍德福德（Michael Woodford），Susan Athey、Hal Varian和Sidney Winter。以下是ChatGPT的完整报告： 如果只押一个名字，我会押迈克尔·伍德福德（Michael Woodford）；如果押一个方向，我最看好“货币政策与预期管理”。 第二选择是 Susan Athey 和 Hal Varian，对应数字经济与信息技术经济学。这是基于公开学术贡献的 低置信度预测，不是官方候选名单。截至 2026年10月2日，今…"
@@ -83,12 +89,6 @@
             "ContentToken": "2084259117833647354",
             "Url": "https://www.zhihu.com/question/2084054769849611542/answer/2084259117833647354",
             "Summary": "模型预测：2026年诺贝尔经济学奖最可能授予 David Autor 与 Lawrence F. Katz（约22%和19%概率），领域为劳动经济学 × 技术变革。备选高概率者为 Ariel Pakes（约18%，产业组织/计量经济学）。预测模型的理论基础模型核心假设是：诺奖委员会的选择过程可以分解为两个序贯决策， 选择领域，再在该领域内选择个人。因此，候选人 [公式] 获奖的联合概率为： [公式]"
-          },
-          {
-            "ContentType": "answer",
-            "ContentToken": "2092572345479198088",
-            "Url": "https://www.zhihu.com/question/2084054769849611542/answer/2092572345479198088",
-            "Summary": "我个人猜测2026年诺贝尔经济学奖可能颁给三个领域中的一个：收入不平等、经济增长、演化经济学（或者复杂经济学） 随着AI技术对现实经济系统的冲击，必然涉及到收入不平等加剧、技术如何推动经济增长、经济系统的复杂性涌现等问题，所以我会这么猜测。 第一组：收入不平等：Thomas Piketty、Xavier Gabaix 第二组：经济增长：Robert Barro、Charles I. Jones 第三组：演化经济学（或者复杂经济学）：Sidney G. Winter、Giovanni …"
           },
           {
             "ContentType": "answer",
@@ -104,15 +104,21 @@
           },
           {
             "ContentType": "answer",
-            "ContentToken": "2088572328615605222",
-            "Url": "https://www.zhihu.com/question/2084054769849611542/answer/2088572328615605222",
-            "Summary": "我预测一下有点偏门的Piketty/Saez/Mullainathan拿奖，表彰他们解释社会不平等的经济学研究。 我其实觉得这个方向可能有三组人可以拿。除了以上之外，Piketty/Zucman也可以。Chetty/Mullainathan/Saez也可以。"
+            "ContentToken": "2090525407527303023",
+            "Url": "https://www.zhihu.com/question/2084054769849611542/answer/2090525407527303023",
+            "Summary": "经济学奖其实比物理、化学更难押，因为它很少存在一个清晰的“某年某月某日发现了什么”的瞬间，一套理论往往要经过二三十年的学术争论、经验检验和现实应用，才会被确认到底改变了多少经济学。可如果今年必须只留下一个正式答案，我会把票投给一个非常符合2026年时代背景、同时又已经沉淀足够久的方向： 数字经济与信息技术经济学，正式预测 Susan C. Athey（苏珊·阿西）和 Hal R. Varian（哈尔·瓦里安）共同获奖。我的预测获…"
           },
           {
             "ContentType": "answer",
             "ContentToken": "2092602834890106718",
             "Url": "https://www.zhihu.com/question/2084054769849611542/answer/2092602834890106718",
             "Summary": "前几年预测经济学奖得主都瞎猫碰到死耗子猜中了，那么今年也随便写个几组，成就多是网上总结，请各位见谅。 PS、先说一个我的预言，今年的经济学奖为 两人的概率比较大，不是一人，也不是三人，这不是瞎猜的，如果有幸言中了，我再把理由说给大家听。关于 2026 年诺贝尔“经济学奖”得主，我的预测名单为： 0、Nobuhiro Kiyotaki、John MooreKiyotaki-Moore模型（1997）刻画了信贷市场摩擦如何通过抵押品约束放大并传播冲击。在…"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2088572328615605222",
+            "Url": "https://www.zhihu.com/question/2084054769849611542/answer/2088572328615605222",
+            "Summary": "我预测一下有点偏门的Piketty/Saez/Mullainathan拿奖，表彰他们解释社会不平等的经济学研究。 我其实觉得这个方向可能有三组人可以拿。除了以上之外，Piketty/Zucman也可以。Chetty/Mullainathan/Saez也可以。"
           },
           {
             "ContentType": "answer",
@@ -146,9 +152,9 @@
           },
           {
             "ContentType": "answer",
-            "ContentToken": "2091902272720598077",
-            "Url": "https://www.zhihu.com/question/2084054769849611542/answer/2091902272720598077",
-            "Summary": "炸药大王设立诺奖是为了促销炸药，从效果来看空前成功。 统计表明，得奖越多的国家越倾向于用炸药发出声音。 二十世纪头三十年，三分之一的诺奖归德国人，于是德国发动了两次世界大战。 后来诺奖主要归美国人，于是美国几乎无日不战。 最近日本连续获得诺奖，国内的军国主义开始抬头，再军事化有不可阻挡之势。 2026年的诺奖，生物奖颁给了科学洗脑的，物理奖颁给了污染南极的，化学奖颁给了优化毒药的，文学奖颁给了异端崇拜者…"
+            "ContentToken": "2092664757769786603",
+            "Url": "https://www.zhihu.com/question/2084054769849611542/answer/2092664757769786603",
+            "Summary": "笔者仅是真诚虔诚实诚的期盼期望期待着，2026年诺贝尔经济学奖的理论思想观点学说体系和框架，能够科学公正合理依法有序的，解释解决解疑解惑解答现代人类社会，运行发展进化关系、规律、秩序和法则，所存在盛行的各种真实真相真正，社会“问题课题议题论题难题和命题”。"
           },
           {
             "ContentType": "answer",
@@ -161,6 +167,12 @@
             "ContentToken": "2092441394728256722",
             "Url": "https://www.zhihu.com/question/2084054769849611542/answer/2092441394728256722",
             "Summary": "我对诺贝尔奖的看法如下： 经济学奖：特朗普，发明了面对通胀应该要求央行降低利率这一理论！ 物理学奖：特朗普，指示联邦政府到2028年建成一台强大的量子计算机！ [图片] 化学奖：特朗普，因为特朗普重新定义了美国外交的化学反应，他与朝鲜有良好的化学反应 [图片] 和平奖：特朗普 [图片] 文学奖： Leshan Sihai，因为他们受邀写作了《特朗普总统全录》 [图片] 生理学或医学奖：特朗普，因为特朗普签署了第14168号行政命令《保护妇女免受性别极端主义侵害并…"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2091902272720598077",
+            "Url": "https://www.zhihu.com/question/2084054769849611542/answer/2091902272720598077",
+            "Summary": "炸药大王设立诺奖是为了促销炸药，从效果来看空前成功。 统计表明，得奖越多的国家越倾向于用炸药发出声音。 二十世纪头三十年，三分之一的诺奖归德国人，于是德国发动了两次世界大战。 后来诺奖主要归美国人，于是美国几乎无日不战。 最近日本连续获得诺奖，国内的军国主义开始抬头，再军事化有不可阻挡之势。 2026年的诺奖，生物奖颁给了科学洗脑的，物理奖颁给了污染南极的，化学奖颁给了优化毒药的，文学奖颁给了异端崇拜者…"
           },
           {
             "ContentType": "answer",
@@ -188,15 +200,15 @@
           },
           {
             "ContentType": "answer",
-            "ContentToken": "2084487256132301455",
-            "Url": "https://www.zhihu.com/question/2084054769849611542/answer/2084487256132301455",
-            "Summary": "David Autor Marc Metliz Tim Besley John List 和他们的组合 押宝这些↑"
-          },
-          {
-            "ContentType": "answer",
             "ContentToken": "2090146309428754133",
             "Url": "https://www.zhihu.com/question/2084054769849611542/answer/2090146309428754133",
             "Summary": "陈平不获此奖，是全球经济学界的重大遗憾"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2084487256132301455",
+            "Url": "https://www.zhihu.com/question/2084054769849611542/answer/2084487256132301455",
+            "Summary": "David Autor Marc Metliz Tim Besley John List 和他们的组合 押宝这些↑"
           },
           {
             "ContentType": "answer",
@@ -209,6 +221,12 @@
             "ContentToken": "2084232783656964380",
             "Url": "https://www.zhihu.com/question/2084054769849611542/answer/2084232783656964380",
             "Summary": "大胆推测，2026年以及未来几年以下几个是主流 1.人口相关问题，包括但不限于 •人口基数与货币，比如出生率与通胀通缩 •数字经济和平台经济对人口的依赖 2.缓和各流派争议或者强化某流派，这里并不是说正确的废话，而是说要推动经济学的去zz化“硬科学”进程。 在现存流派基础上取最大公约数或者用更“客观”的新生流派推动经济学“科学化”，推动经济学的普世理解。“信心”等强主观表述将被舍弃。"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2092685864807708169",
+            "Url": "https://www.zhihu.com/question/2084054769849611542/answer/2092685864807708169",
+            "Summary": "具体项目是什么这个是无法确定的，但可以确定的是，获奖者和AI的关系会越来越大"
           },
           {
             "ContentType": "answer",
@@ -236,15 +254,15 @@
           },
           {
             "ContentType": "answer",
-            "ContentToken": "2090445818193093100",
-            "Url": "https://www.zhihu.com/question/2084054769849611542/answer/2090445818193093100",
-            "Summary": "在2025年，诺贝尔经济学奖授予了创新增长理论，它聚焦在创造性破坏对经济发展的核心作用。 在2026年回望，现在的全球经济仍然有多重的挑战，数字平台的垄断侵蚀着发展活力，AI技术发展正在增加劳动市场的结构性的矛盾，气候转型的成本与贫富分化激增社会矛盾共识，而产业的反垄断行动亟待完善深化。 而诺奖的评委会也青睐直面现实的痛点，同时兼具理论的深度与政策实践价值的研究，它不仅是对学术洞见的肯定，亦是破解经济发展提…"
-          },
-          {
-            "ContentType": "answer",
             "ContentToken": "2091190135253635260",
             "Url": "https://www.zhihu.com/question/2084054769849611542/answer/2091190135253635260",
             "Summary": "回答里面但凡带Susan Athey的都有很强的AI生成嫌疑。Susan Athey的贡献远不足以拿诺奖，仅凭因果森林是不可能的，经济学自己用的都不多。因果推断的重要成果也已经颁过奖了。 经济学家对AI影响的理论认知和实证成果仍然很不充分，整个领域都是方兴未艾的状态，立刻颁奖过于shallow。现实也还没给这些新兴问题提供确切答案。颁给她还不如再给Acemoglu发第二个诺奖（当然这不可能），最起码他真有一大批顶刊文章研究了AI和自动化。"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2090445818193093100",
+            "Url": "https://www.zhihu.com/question/2084054769849611542/answer/2090445818193093100",
+            "Summary": "在2025年，诺贝尔经济学奖授予了创新增长理论，它聚焦在创造性破坏对经济发展的核心作用。 在2026年回望，现在的全球经济仍然有多重的挑战，数字平台的垄断侵蚀着发展活力，AI技术发展正在增加劳动市场的结构性的矛盾，气候转型的成本与贫富分化激增社会矛盾共识，而产业的反垄断行动亟待完善深化。 而诺奖的评委会也青睐直面现实的痛点，同时兼具理论的深度与政策实践价值的研究，它不仅是对学术洞见的肯定，亦是破解经济发展提…"
           },
           {
             "ContentType": "answer",
@@ -266,15 +284,45 @@
           },
           {
             "ContentType": "answer",
+            "ContentToken": "2092665427629557536",
+            "Url": "https://www.zhihu.com/question/2084054769849611542/answer/2092665427629557536",
+            "Summary": "我觉得是谁不重要， 重要的是，让他来试试玩A股，不用一年翻十倍， 只要不亏钱就好，连续十年， 那他就当之无愧。"
+          },
+          {
+            "ContentType": "answer",
             "ContentToken": "2092209375993672023",
             "Url": "https://www.zhihu.com/question/2084054769849611542/answer/2092209375993672023",
             "Summary": "我的预测是David Autor（戴维·奥特尔）与 Lawrence F. Katz（劳伦斯·卡茨），理由如下： 共识赔率最高：截至目前的预测模型中，这对组合获奖概率最高，是今年经济学奖的头号热门组合。他们因在劳动经济学、技术变革（含AI）对就业市场的影响领域的系统性奠基研究而被看好，研究主题与当前AI时代高度契合，极具现实意义。 其他值得关注的人选： Susan Athey + Hal Varian 信息技术经济学 2026年科睿唯安\"引文桂冠奖\"得主（诺奖…"
           },
           {
             "ContentType": "answer",
-            "ContentToken": "2090525407527303023",
-            "Url": "https://www.zhihu.com/question/2084054769849611542/answer/2090525407527303023",
-            "Summary": "经济学奖其实比物理、化学更难押，因为它很少存在一个清晰的“某年某月某日发现了什么”的瞬间，一套理论往往要经过二三十年的学术争论、经验检验和现实应用，才会被确认到底改变了多少经济学。可如果今年必须只留下一个正式答案，我会把票投给一个非常符合2026年时代背景、同时又已经沉淀足够久的方向： 数字经济与信息技术经济学，正式预测 Susan C. Athey（苏珊·阿西）和 Hal R. Varian（哈尔·瓦里安）共同获奖。我的预测获…"
+            "ContentToken": "2092668735165314061",
+            "Url": "https://www.zhihu.com/question/2084054769849611542/answer/2092668735165314061",
+            "Summary": "我觉得诺贝尔奖应该取消经济学。"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2092569013045945025",
+            "Url": "https://www.zhihu.com/question/2084054769849611542/answer/2092569013045945025",
+            "Summary": "截止目前，在这个问题下边居然没有看到Nobuhiro Kiyotaki... 不论是和Wright在货币搜寻方面的贡献，还是和Moore在信贷周期方面的贡献，他都值得一个诺奖"
+          }
+        ],
+        "Paging": {
+          "IsEnd": false,
+          "NextOffset": 50
+        }
+      }
+    },
+    {
+      "Code": 0,
+      "Message": "success",
+      "Data": {
+        "Items": [
+          {
+            "ContentType": "answer",
+            "ContentToken": "2092342986252339094",
+            "Url": "https://www.zhihu.com/question/2084054769849611542/answer/2092342986252339094",
+            "Summary": "也许10年以后就没有诺贝尔经济学奖了。"
           },
           {
             "ContentType": "answer",
@@ -305,30 +353,30 @@
             "ContentToken": "2089424168676767508",
             "Url": "https://www.zhihu.com/question/2084054769849611542/answer/2089424168676767508",
             "Summary": "贝森特～亲自坐庄日元"
-          }
-        ],
-        "Paging": {
-          "IsEnd": false,
-          "NextOffset": 50
-        }
-      }
-    },
-    {
-      "Code": 0,
-      "Message": "success",
-      "Data": {
-        "Items": [
-          {
-            "ContentType": "answer",
-            "ContentToken": "2092569013045945025",
-            "Url": "https://www.zhihu.com/question/2084054769849611542/answer/2092569013045945025",
-            "Summary": "截止目前，在这个问题下边居然没有看到Nobuhiro Kiyotaki... 不论是和Wright在货币搜寻方面的贡献，还是和Moore在信贷周期方面的贡献，他都值得一个诺奖"
           },
           {
             "ContentType": "answer",
-            "ContentToken": "2092342986252339094",
-            "Url": "https://www.zhihu.com/question/2084054769849611542/answer/2092342986252339094",
-            "Summary": "也许10年以后就没有诺贝尔经济学奖了。"
+            "ContentToken": "2092718001506218243",
+            "Url": "https://www.zhihu.com/question/2084054769849611542/answer/2092718001506218243",
+            "Summary": "10月12日，又到斯德哥尔摩电话响起的时间，知乎也按照惯例开始了诺贝尔专题。作为资深吃瓜爱好者，经济学小白，又菜又爱玩那种，也不由的盲目自信地参与到这个猜来猜去也是每年的固定保留节目，热烈欢迎无情的鞭打毒打。 先说结论： BLP框架获奖，Ariel Pakes、Steven Berry、James Levinsohn分享奖金。 [图片] 详细说说我的预测理由 市场预测：Polymarket截至10月8日的数据：Ariel Pakes胜率约18.5%，高居第一。Michael Woodford约12%，…"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2092709828070216998",
+            "Url": "https://www.zhihu.com/question/2084054769849611542/answer/2092709828070216998",
+            "Summary": "贝里，莱文索恩，帕克斯"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2092688618221474813",
+            "Url": "https://www.zhihu.com/question/2084054769849611542/answer/2092688618221474813",
+            "Summary": "我其实挺看好特朗普。 论对经济的实际影响力和他行为经济的实践方法，开创了历史先河。你们说哪个经济学家的实验能做的比他大？范围比他广？对世界格局和今后的影响能更多？"
+          },
+          {
+            "ContentType": "answer",
+            "ContentToken": "2092668768006808081",
+            "Url": "https://www.zhihu.com/question/2084054769849611542/answer/2092668768006808081",
+            "Summary": "不应该是特朗普获奖吗？"
           },
           {
             "ContentType": "answer",
