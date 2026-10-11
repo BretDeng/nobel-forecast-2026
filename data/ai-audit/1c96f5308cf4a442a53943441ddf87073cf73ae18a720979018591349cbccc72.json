@@ -1,0 +1,24 @@
+{
+  "model": "zhida-fast-1p5",
+  "category": "economics",
+  "summaryHashes": {
+    "2092688618221474813": "ba288bc7c0a525599337a46b22161c995c0c7576b9410c5b573769d978f034e8",
+    "2092668768006808081": "e08edba0128ebecb07a95420115c168ede329fc2ccdc461f40fc508c1f3255b5"
+  },
+  "response": {
+    "id": "chatcmpl-37cca318-8999-44f8-9e1d-6f21c82b2eab",
+    "object": "chat.completion",
+    "created": 1791744875,
+    "model": "zhida-fast-1p5",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "{\"items\":[{\"id\":\"2092688618221474813\",\"status\":\"exclude\",\"people\":[],\"directions\":[],\"reason\":\"预测对象是特朗普而非经济学家，属明显玩笑且奖项不匹配。\"},{\"id\":\"2092668768006808081\",\"status\":\"exclude\",\"people\":[],\"directions\":[],\"reason\":\"提及特朗普，非经济学家，奖项不匹配。\"}]}"
+        },
+        "finish_reason": "stop"
+      }
+    ]
+  }
+}

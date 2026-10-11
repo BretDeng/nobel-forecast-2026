@@ -5710,6 +5710,254 @@
       "reviewedAt": "2026-10-10T18:35:03.641092+00:00",
       "evidence": [],
       "auditFile": "27ccf0f31a160483635f1220237a070b0afccaeded66ac25721813a21add2307.json"
+    },
+    "2092572345479198088": {
+      "summaryHash": "589f5673080eaaf76c0b8d6a6a97e01a90d07ef323bef9a4b93e2bbe8ccfbf92",
+      "reviewed": true,
+      "people": [
+        "Thomas Piketty",
+        "Xavier Gabaix",
+        "Robert Barro",
+        "Charles I. Jones",
+        "Sidney G. Winter",
+        "Giovanni"
+      ],
+      "directions": [
+        "收入与财富不平等",
+        "经济增长",
+        "演化经济学（或者复杂经济学）"
+      ],
+      "reason": "作者明确给出2026年三个领域的人选预测，Sidney G. Winter照抄原文。",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-11T18:54:23.910462+00:00",
+      "evidence": [
+        {
+          "kind": "people",
+          "name": "Thomas Piketty",
+          "quote": "第一组：收入不平等：Thomas Piketty、Xavier Gabaix"
+        },
+        {
+          "kind": "people",
+          "name": "Xavier Gabaix",
+          "quote": "第一组：收入不平等：Thomas Piketty、Xavier Gabaix"
+        },
+        {
+          "kind": "people",
+          "name": "Robert Barro",
+          "quote": "第二组：经济增长：Robert Barro、Charles I. Jones"
+        },
+        {
+          "kind": "people",
+          "name": "Charles I. Jones",
+          "quote": "第二组：经济增长：Robert Barro、Charles I. Jones"
+        },
+        {
+          "kind": "people",
+          "name": "Sidney G. Winter",
+          "quote": "第三组：演化经济学（或者复杂经济学）：Sidney G. Winter、Giovanni …"
+        },
+        {
+          "kind": "people",
+          "name": "Giovanni",
+          "quote": "第三组：演化经济学（或者复杂经济学）：Sidney G. Winter、Giovanni …"
+        },
+        {
+          "kind": "directions",
+          "name": "收入与财富不平等",
+          "quote": "2026年诺贝尔经济学奖可能颁给三个领域中的一个：收入不平等、经济增长、演化经济学（或者复杂经济学）"
+        },
+        {
+          "kind": "directions",
+          "name": "经济增长",
+          "quote": "2026年诺贝尔经济学奖可能颁给三个领域中的一个：收入不平等、经济增长、演化经济学（或者复杂经济学）"
+        },
+        {
+          "kind": "directions",
+          "name": "演化经济学（或者复杂经济学）",
+          "quote": "2026年诺贝尔经济学奖可能颁给三个领域中的一个：收入不平等、经济增长、演化经济学（或者复杂经济学）"
+        }
+      ],
+      "auditFile": "cddba672c420eab82c11493418ac5f3a9dadea4ab13ebdf25a41678acbcc10e7.json"
+    },
+    "2092602834890106718": {
+      "summaryHash": "e98df4da15cbc15fd0d77949623bc162a096e2741dcc655845ff68c8b4be46db",
+      "reviewed": true,
+      "people": [
+        "Nobuhiro Kiyotaki",
+        "John Moore"
+      ],
+      "directions": [],
+      "reason": "作者明确列出2026年经济学奖预测名单开头一组人选。",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-11T18:54:23.913090+00:00",
+      "evidence": [
+        {
+          "kind": "people",
+          "name": "Nobuhiro Kiyotaki",
+          "quote": "我的预测名单为： 0、Nobuhiro Kiyotaki、John Moore"
+        },
+        {
+          "kind": "people",
+          "name": "John Moore",
+          "quote": "我的预测名单为： 0、Nobuhiro Kiyotaki、John Moore"
+        }
+      ],
+      "auditFile": "cddba672c420eab82c11493418ac5f3a9dadea4ab13ebdf25a41678acbcc10e7.json"
+    },
+    "2092664757769786603": {
+      "summaryHash": "a9d2ee1f86e632d88f1ff8955f3d12aea9de638b05ac495a7bc8263a153925c4",
+      "reviewed": false,
+      "people": [],
+      "directions": [],
+      "reason": "直答无法确定，待人工复核：仅表达对奖项的抽象期望，无具体人名或方向预测。",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-11T18:54:23.913226+00:00",
+      "evidence": [],
+      "auditFile": "cddba672c420eab82c11493418ac5f3a9dadea4ab13ebdf25a41678acbcc10e7.json"
+    },
+    "2092772799853213623": {
+      "summaryHash": "44dbe1a176c4a85703d088c4488651a5d70031cce3321ce7dc995c75b51178b3",
+      "reviewed": false,
+      "people": [],
+      "directions": [],
+      "reason": "直答输出校验失败，待人工复核：人名/方向缺少原文依据",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "auditFile": "cddba672c420eab82c11493418ac5f3a9dadea4ab13ebdf25a41678acbcc10e7.json"
+    },
+    "2092685864807708169": {
+      "summaryHash": "940e4d25f7b27612f0b4450ca61919d01b03fb8f1b723758dde56a63a4ac748f",
+      "reviewed": false,
+      "people": [],
+      "directions": [],
+      "reason": "直答无法确定，待人工复核：仅称获奖者与AI关系会越来越大，无具体人名或明确方向预测。",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-11T18:54:23.913581+00:00",
+      "evidence": [],
+      "auditFile": "cddba672c420eab82c11493418ac5f3a9dadea4ab13ebdf25a41678acbcc10e7.json"
+    },
+    "2092665427629557536": {
+      "summaryHash": "49d3b790a701db9aeb662540b690eced2295d242f85459e3060bac20c109bf4a",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "玩笑式评论，无明确2026年获奖预测。",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-11T18:54:31.036470+00:00",
+      "evidence": [],
+      "auditFile": "c6b33539f78ba4b5135d8d186f480f8de5ad2874c4e88763a83dc91353479fca.json"
+    },
+    "2092668735165314061": {
+      "summaryHash": "e5e836378c3f5238812d234526cb56266852aeaa3eeac5fa9abc6d00aa349ea2",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "否定经济学奖项本身，非获奖预测。",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-11T18:54:31.036490+00:00",
+      "evidence": [],
+      "auditFile": "c6b33539f78ba4b5135d8d186f480f8de5ad2874c4e88763a83dc91353479fca.json"
+    },
+    "2092718001506218243": {
+      "summaryHash": "bbdaa546fa927d7e9ef84766874ff9e44f83168164a2f2ada84cc7af81f5cded",
+      "reviewed": true,
+      "people": [
+        "Ariel Pakes",
+        "Steven Berry",
+        "James Levinsohn"
+      ],
+      "directions": [
+        "实证产业组织与 BLP"
+      ],
+      "reason": "作者明确预测BLP框架及三位经济学家获奖。",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-11T18:54:31.036499+00:00",
+      "evidence": [
+        {
+          "kind": "people",
+          "name": "Ariel Pakes",
+          "quote": "BLP框架获奖，Ariel Pakes、Steven Berry、James Levinsohn分享奖金"
+        },
+        {
+          "kind": "people",
+          "name": "Steven Berry",
+          "quote": "BLP框架获奖，Ariel Pakes、Steven Berry、James Levinsohn分享奖金"
+        },
+        {
+          "kind": "people",
+          "name": "James Levinsohn",
+          "quote": "BLP框架获奖，Ariel Pakes、Steven Berry、James Levinsohn分享奖金"
+        },
+        {
+          "kind": "directions",
+          "name": "实证产业组织与 BLP",
+          "quote": "BLP框架获奖，Ariel Pakes、Steven Berry、James Levinsohn分享奖金"
+        }
+      ],
+      "auditFile": "c6b33539f78ba4b5135d8d186f480f8de5ad2874c4e88763a83dc91353479fca.json"
+    },
+    "2092569013045945025": {
+      "summaryHash": "94d575b12118fbe3756a02fd13c311620a3e6f0c576ba14032059a65a0ab966b",
+      "reviewed": false,
+      "people": [],
+      "directions": [],
+      "reason": "直答输出校验失败，待人工复核：新增名称不在引用中，不允许补写",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "auditFile": "c6b33539f78ba4b5135d8d186f480f8de5ad2874c4e88763a83dc91353479fca.json"
+    },
+    "2092709828070216998": {
+      "summaryHash": "f983ae1250b5209853d4c3b4c65cbdc785952b33e87102ff2e09d8675a14e970",
+      "reviewed": false,
+      "people": [],
+      "directions": [],
+      "reason": "直答输出校验失败，待人工复核：人名/方向缺少原文依据",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "auditFile": "c6b33539f78ba4b5135d8d186f480f8de5ad2874c4e88763a83dc91353479fca.json"
+    },
+    "2092688618221474813": {
+      "summaryHash": "ba288bc7c0a525599337a46b22161c995c0c7576b9410c5b573769d978f034e8",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "预测对象是特朗普而非经济学家，属明显玩笑且奖项不匹配。",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-11T18:54:35.532506+00:00",
+      "evidence": [],
+      "auditFile": "1c96f5308cf4a442a53943441ddf87073cf73ae18a720979018591349cbccc72.json"
+    },
+    "2092668768006808081": {
+      "summaryHash": "e08edba0128ebecb07a95420115c168ede329fc2ccdc461f40fc508c1f3255b5",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "提及特朗普，非经济学家，奖项不匹配。",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-11T18:54:35.532523+00:00",
+      "evidence": [],
+      "auditFile": "1c96f5308cf4a442a53943441ddf87073cf73ae18a720979018591349cbccc72.json"
     }
   }
 }

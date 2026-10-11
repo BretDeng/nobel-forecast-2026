@@ -9695,12 +9695,12 @@
       "english": "ECONOMIC SCIENCES",
       "symbol": "E",
       "questionUrl": "https://www.zhihu.com/question/2084054769849611542",
-      "fetchedAt": "2026-10-11T12:48:25.411145+00:00",
+      "fetchedAt": "2026-10-11T18:54:03.810454+00:00",
       "complete": true,
-      "total": 69,
-      "valid": 25,
-      "pending": 19,
-      "excluded": 25,
+      "total": 70,
+      "valid": 28,
+      "pending": 13,
+      "excluded": 29,
       "people": [
         {
           "id": "09c13713ad51",
@@ -9720,6 +9720,22 @@
           "warnings": []
         },
         {
+          "id": "f2d8604ae02c",
+          "rank": 2,
+          "name": "Ariel Pakes",
+          "english": "",
+          "count": 5,
+          "sourceIds": [
+            "2088608657567114669",
+            "2088244112268981889",
+            "2088830125060239654",
+            "2084259117833647354",
+            "2092718001506218243"
+          ],
+          "aiCount": 0,
+          "warnings": []
+        },
+        {
           "id": "144b05961995",
           "rank": 2,
           "name": "Hal Varian",
@@ -9736,23 +9752,8 @@
           "warnings": []
         },
         {
-          "id": "f2d8604ae02c",
-          "rank": 3,
-          "name": "Ariel Pakes",
-          "english": "",
-          "count": 4,
-          "sourceIds": [
-            "2088608657567114669",
-            "2088244112268981889",
-            "2088830125060239654",
-            "2084259117833647354"
-          ],
-          "aiCount": 0,
-          "warnings": []
-        },
-        {
           "id": "fc601616606a",
-          "rank": 3,
+          "rank": 4,
           "name": "David Autor",
           "english": "",
           "count": 4,
@@ -9766,8 +9767,23 @@
           "warnings": []
         },
         {
+          "id": "f3416dc94f3b",
+          "rank": 4,
+          "name": "James Levinsohn",
+          "english": "",
+          "count": 4,
+          "sourceIds": [
+            "2088608657567114669",
+            "2088244112268981889",
+            "2088830125060239654",
+            "2092718001506218243"
+          ],
+          "aiCount": 0,
+          "warnings": []
+        },
+        {
           "id": "76b07f37c67d",
-          "rank": 3,
+          "rank": 4,
           "name": "Marc Melitz",
           "english": "",
           "count": 4,
@@ -9781,8 +9797,38 @@
           "warnings": []
         },
         {
+          "id": "c8e2327bd072",
+          "rank": 4,
+          "name": "Steven Berry",
+          "english": "",
+          "count": 4,
+          "sourceIds": [
+            "2088608657567114669",
+            "2088244112268981889",
+            "2088830125060239654",
+            "2092718001506218243"
+          ],
+          "aiCount": 0,
+          "warnings": []
+        },
+        {
+          "id": "20b87dc5c1ea",
+          "rank": 4,
+          "name": "Thomas Piketty",
+          "english": "",
+          "count": 4,
+          "sourceIds": [
+            "2088244112268981889",
+            "2092572345479198088",
+            "2088572328615605222",
+            "2089072391817263078"
+          ],
+          "aiCount": 0,
+          "warnings": []
+        },
+        {
           "id": "a7cd9519463d",
-          "rank": 6,
+          "rank": 9,
           "name": "Emmanuel Saez",
           "english": "",
           "count": 3,
@@ -9796,7 +9842,7 @@
         },
         {
           "id": "bfb84319bd89",
-          "rank": 6,
+          "rank": 9,
           "name": "Gabriel Zucman",
           "english": "",
           "count": 3,
@@ -9809,22 +9855,8 @@
           "warnings": []
         },
         {
-          "id": "f3416dc94f3b",
-          "rank": 6,
-          "name": "James Levinsohn",
-          "english": "",
-          "count": 3,
-          "sourceIds": [
-            "2088608657567114669",
-            "2088244112268981889",
-            "2088830125060239654"
-          ],
-          "aiCount": 0,
-          "warnings": []
-        },
-        {
           "id": "63a56c2a9d9f",
-          "rank": 6,
+          "rank": 9,
           "name": "Michael Woodford",
           "english": "",
           "count": 3,
@@ -9834,34 +9866,6 @@
             "2089182335497457900"
           ],
           "aiCount": 1,
-          "warnings": []
-        },
-        {
-          "id": "c8e2327bd072",
-          "rank": 6,
-          "name": "Steven Berry",
-          "english": "",
-          "count": 3,
-          "sourceIds": [
-            "2088608657567114669",
-            "2088244112268981889",
-            "2088830125060239654"
-          ],
-          "aiCount": 0,
-          "warnings": []
-        },
-        {
-          "id": "20b87dc5c1ea",
-          "rank": 6,
-          "name": "Thomas Piketty",
-          "english": "",
-          "count": 3,
-          "sourceIds": [
-            "2088244112268981889",
-            "2088572328615605222",
-            "2089072391817263078"
-          ],
-          "aiCount": 0,
           "warnings": []
         },
         {
@@ -9943,6 +9947,18 @@
           "warnings": []
         },
         {
+          "id": "a301deb516d5",
+          "rank": 18,
+          "name": "Charles I. Jones",
+          "english": "",
+          "count": 1,
+          "sourceIds": [
+            "2092572345479198088"
+          ],
+          "aiCount": 0,
+          "warnings": []
+        },
+        {
           "id": "8ad6e98f747e",
           "rank": 18,
           "name": "Charles Manski",
@@ -10015,6 +10031,30 @@
           "warnings": []
         },
         {
+          "id": "cdf939be5775",
+          "rank": 18,
+          "name": "Giovanni",
+          "english": "",
+          "count": 1,
+          "sourceIds": [
+            "2092572345479198088"
+          ],
+          "aiCount": 0,
+          "warnings": []
+        },
+        {
+          "id": "2f3c098d4ee1",
+          "rank": 18,
+          "name": "John Moore",
+          "english": "",
+          "count": 1,
+          "sourceIds": [
+            "2092602834890106718"
+          ],
+          "aiCount": 0,
+          "warnings": []
+        },
+        {
           "id": "33f648335897",
           "rank": 18,
           "name": "Jonathan Eaton",
@@ -10063,6 +10103,18 @@
           "warnings": []
         },
         {
+          "id": "571a8ebaaf4c",
+          "rank": 18,
+          "name": "Nobuhiro Kiyotaki",
+          "english": "",
+          "count": 1,
+          "sourceIds": [
+            "2092602834890106718"
+          ],
+          "aiCount": 0,
+          "warnings": []
+        },
+        {
           "id": "5dd264d3ca20",
           "rank": 18,
           "name": "Olivier Blanchard",
@@ -10099,6 +10151,18 @@
           "warnings": []
         },
         {
+          "id": "ab0b0545e67b",
+          "rank": 18,
+          "name": "Robert Barro",
+          "english": "",
+          "count": 1,
+          "sourceIds": [
+            "2092572345479198088"
+          ],
+          "aiCount": 0,
+          "warnings": []
+        },
+        {
           "id": "1fd7b8775f00",
           "rank": 18,
           "name": "Samuel Kortum",
@@ -10130,6 +10194,18 @@
           "count": 1,
           "sourceIds": [
             "2088572328615605222"
+          ],
+          "aiCount": 0,
+          "warnings": []
+        },
+        {
+          "id": "d1582deedb7a",
+          "rank": 18,
+          "name": "Sidney G. Winter",
+          "english": "",
+          "count": 1,
+          "sourceIds": [
+            "2092572345479198088"
           ],
           "aiCount": 0,
           "warnings": []
@@ -10195,6 +10271,18 @@
           "warnings": []
         },
         {
+          "id": "c440b2f17c37",
+          "rank": 18,
+          "name": "Xavier Gabaix",
+          "english": "",
+          "count": 1,
+          "sourceIds": [
+            "2092572345479198088"
+          ],
+          "aiCount": 0,
+          "warnings": []
+        },
+        {
           "id": "1510430b1bcd",
           "rank": 18,
           "name": "Yves Zenou",
@@ -10233,6 +10321,22 @@
       ],
       "directions": [
         {
+          "id": "16a49ade71d1",
+          "rank": 1,
+          "name": "实证产业组织与 BLP",
+          "english": "",
+          "count": 5,
+          "sourceIds": [
+            "2088608657567114669",
+            "2088244112268981889",
+            "2088830125060239654",
+            "2084259117833647354",
+            "2092718001506218243"
+          ],
+          "aiCount": 0,
+          "warnings": []
+        },
+        {
           "id": "41119bf1071a",
           "rank": 1,
           "name": "数字经济与信息技术",
@@ -10250,7 +10354,7 @@
         },
         {
           "id": "c6fade6575dd",
-          "rank": 2,
+          "rank": 3,
           "name": "国际贸易与企业异质性",
           "english": "",
           "count": 4,
@@ -10264,23 +10368,23 @@
           "warnings": []
         },
         {
-          "id": "16a49ade71d1",
-          "rank": 2,
-          "name": "实证产业组织与 BLP",
+          "id": "a62f54106eb9",
+          "rank": 3,
+          "name": "收入与财富不平等",
           "english": "",
           "count": 4,
           "sourceIds": [
-            "2088608657567114669",
             "2088244112268981889",
-            "2088830125060239654",
-            "2084259117833647354"
+            "2092572345479198088",
+            "2088572328615605222",
+            "2089072391817263078"
           ],
           "aiCount": 0,
           "warnings": []
         },
         {
           "id": "3a8151fde960",
-          "rank": 4,
+          "rank": 5,
           "name": "劳动经济学与技术变革",
           "english": "",
           "count": 3,
@@ -10293,22 +10397,8 @@
           "warnings": []
         },
         {
-          "id": "a62f54106eb9",
-          "rank": 4,
-          "name": "收入与财富不平等",
-          "english": "",
-          "count": 3,
-          "sourceIds": [
-            "2088244112268981889",
-            "2088572328615605222",
-            "2089072391817263078"
-          ],
-          "aiCount": 0,
-          "warnings": []
-        },
-        {
           "id": "f6753e1769fc",
-          "rank": 4,
+          "rank": 5,
           "name": "新凯恩斯主义与货币政策",
           "english": "",
           "count": 3,
@@ -10413,6 +10503,30 @@
           "count": 1,
           "sourceIds": [
             "2088989034861290920"
+          ],
+          "aiCount": 0,
+          "warnings": []
+        },
+        {
+          "id": "ba0497720319",
+          "rank": 8,
+          "name": "演化经济学（或者复杂经济学）",
+          "english": "",
+          "count": 1,
+          "sourceIds": [
+            "2092572345479198088"
+          ],
+          "aiCount": 0,
+          "warnings": []
+        },
+        {
+          "id": "bf3f415ee344",
+          "rank": 8,
+          "name": "经济增长",
+          "english": "",
+          "count": 1,
+          "sourceIds": [
+            "2092572345479198088"
           ],
           "aiCount": 0,
           "warnings": []
@@ -10672,13 +10786,70 @@
           "id": "2092572345479198088",
           "url": "https://www.zhihu.com/question/2084054769849611542/answer/2092572345479198088",
           "summary": "我个人猜测2026年诺贝尔经济学奖可能颁给三个领域中的一个：收入不平等、经济增长、演化经济学（或者复杂经济学） 随着AI技术对现实经济系统的冲击，必然涉及到收入不平等加剧、技术如何推动经济增长、经济系统的复杂性涌现等问题，所以我会这么猜测。 第一组：收入不平等：Thomas Piketty、Xavier Gabaix 第二组：经济增长：Robert Barro、Charles I. Jones 第三组：演化经济学（或者复杂经济学）：Sidney G. Winter、Giovanni …",
-          "people": [],
-          "directions": [],
-          "reason": "待复核：新增或摘要有变更",
-          "reviewed": false,
-          "reviewMethod": null,
-          "reviewModel": null,
-          "reviewEvidence": [],
+          "people": [
+            "Thomas Piketty",
+            "Xavier Gabaix",
+            "Robert Barro",
+            "Charles I. Jones",
+            "Sidney G. Winter",
+            "Giovanni"
+          ],
+          "directions": [
+            "收入与财富不平等",
+            "经济增长",
+            "演化经济学（或者复杂经济学）"
+          ],
+          "reason": "作者明确给出2026年三个领域的人选预测，Sidney G. Winter照抄原文。",
+          "reviewed": true,
+          "reviewMethod": "zhida",
+          "reviewModel": "zhida-fast-1p5",
+          "reviewEvidence": [
+            {
+              "kind": "people",
+              "name": "Thomas Piketty",
+              "quote": "第一组：收入不平等：Thomas Piketty、Xavier Gabaix"
+            },
+            {
+              "kind": "people",
+              "name": "Xavier Gabaix",
+              "quote": "第一组：收入不平等：Thomas Piketty、Xavier Gabaix"
+            },
+            {
+              "kind": "people",
+              "name": "Robert Barro",
+              "quote": "第二组：经济增长：Robert Barro、Charles I. Jones"
+            },
+            {
+              "kind": "people",
+              "name": "Charles I. Jones",
+              "quote": "第二组：经济增长：Robert Barro、Charles I. Jones"
+            },
+            {
+              "kind": "people",
+              "name": "Sidney G. Winter",
+              "quote": "第三组：演化经济学（或者复杂经济学）：Sidney G. Winter、Giovanni …"
+            },
+            {
+              "kind": "people",
+              "name": "Giovanni",
+              "quote": "第三组：演化经济学（或者复杂经济学）：Sidney G. Winter、Giovanni …"
+            },
+            {
+              "kind": "directions",
+              "name": "收入与财富不平等",
+              "quote": "2026年诺贝尔经济学奖可能颁给三个领域中的一个：收入不平等、经济增长、演化经济学（或者复杂经济学）"
+            },
+            {
+              "kind": "directions",
+              "name": "经济增长",
+              "quote": "2026年诺贝尔经济学奖可能颁给三个领域中的一个：收入不平等、经济增长、演化经济学（或者复杂经济学）"
+            },
+            {
+              "kind": "directions",
+              "name": "演化经济学（或者复杂经济学）",
+              "quote": "2026年诺贝尔经济学奖可能颁给三个领域中的一个：收入不平等、经济增长、演化经济学（或者复杂经济学）"
+            }
+          ],
           "aiAssisted": false,
           "warnings": []
         },
@@ -10740,6 +10911,34 @@
           "warnings": []
         },
         {
+          "id": "2092602834890106718",
+          "url": "https://www.zhihu.com/question/2084054769849611542/answer/2092602834890106718",
+          "summary": "前几年预测经济学奖得主都瞎猫碰到死耗子猜中了，那么今年也随便写个几组，成就多是网上总结，请各位见谅。 PS、先说一个我的预言，今年的经济学奖为 两人的概率比较大，不是一人，也不是三人，这不是瞎猜的，如果有幸言中了，我再把理由说给大家听。关于 2026 年诺贝尔“经济学奖”得主，我的预测名单为： 0、Nobuhiro Kiyotaki、John MooreKiyotaki-Moore模型（1997）刻画了信贷市场摩擦如何通过抵押品约束放大并传播冲击。在…",
+          "people": [
+            "Nobuhiro Kiyotaki",
+            "John Moore"
+          ],
+          "directions": [],
+          "reason": "作者明确列出2026年经济学奖预测名单开头一组人选。",
+          "reviewed": true,
+          "reviewMethod": "zhida",
+          "reviewModel": "zhida-fast-1p5",
+          "reviewEvidence": [
+            {
+              "kind": "people",
+              "name": "Nobuhiro Kiyotaki",
+              "quote": "我的预测名单为： 0、Nobuhiro Kiyotaki、John Moore"
+            },
+            {
+              "kind": "people",
+              "name": "John Moore",
+              "quote": "我的预测名单为： 0、Nobuhiro Kiyotaki、John Moore"
+            }
+          ],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
           "id": "2090727483465385368",
           "url": "https://www.zhihu.com/question/2084054769849611542/answer/2090727483465385368",
           "summary": "我对2026年诺贝尔经济学奖的预测是劳动经济学方向的一对组合麻省理工大学David Autor和哈佛大学 Lawrence F.Katz。还是属于不出所料吧。 2025年诺贝尔五个大奖预测活动我都参与了，科学奖全错，厉害的科学家太多了，很难猜。猜对了一个文学奖，希望今年可以再接再厉，也能拿一个预测奖。 获奖理由挺多的，挑两条条重要的。第一点，与当今最火的AI时代有关，奥托和卡茨的研究成果直接回答了人类在AI时代如何生存的问题，包括人类…",
@@ -10763,20 +10962,6 @@
           "reviewed": false,
           "reviewMethod": "zhida",
           "reviewModel": "zhida-fast-1p5",
-          "reviewEvidence": [],
-          "aiAssisted": false,
-          "warnings": []
-        },
-        {
-          "id": "2092602834890106718",
-          "url": "https://www.zhihu.com/question/2084054769849611542/answer/2092602834890106718",
-          "summary": "前几年预测经济学奖得主都瞎猫碰到死耗子猜中了，那么今年也随便写个几组，成就多是网上总结，请各位见谅。 PS、先说一个我的预言，今年的经济学奖为 两人的概率比较大，不是一人，也不是三人，这不是瞎猜的，如果有幸言中了，我再把理由说给大家听。关于 2026 年诺贝尔“经济学奖”得主，我的预测名单为： 0、Nobuhiro Kiyotaki、John MooreKiyotaki-Moore模型（1997）刻画了信贷市场摩擦如何通过抵押品约束放大并传播冲击。在…",
-          "people": [],
-          "directions": [],
-          "reason": "待复核：新增或摘要有变更",
-          "reviewed": false,
-          "reviewMethod": null,
-          "reviewModel": null,
           "reviewEvidence": [],
           "aiAssisted": false,
           "warnings": []
@@ -10867,6 +11052,20 @@
           "warnings": []
         },
         {
+          "id": "2092362169799202313",
+          "url": "https://www.zhihu.com/question/2084054769849611542/answer/2092362169799202313",
+          "summary": "正式预测方案获奖人选：史蒂文·贝里（Steven Berry）、詹姆斯·莱文森（James Levinsohn）、阿里尔·佩克斯（Ariel Pakes）获奖成果：在差异化产品市场需求结构估计与反事实政策分析方法上的开创性贡献（For empirical contributions to the structural estimation of demand in differentiated product markets and market power analysis）预测理由诺贝尔经济学奖素有每隔数年奖励一套“彻底改变实证研究范式与公共政策工具箱…",
+          "people": [],
+          "directions": [],
+          "reason": "直答输出校验失败，待人工复核：人名/方向缺少原文依据",
+          "reviewed": false,
+          "reviewMethod": "zhida",
+          "reviewModel": "zhida-fast-1p5",
+          "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
           "id": "2090515668852650755",
           "url": "https://www.zhihu.com/question/2084054769849611542/answer/2090515668852650755",
           "summary": "张维为，陈平，范勇鹏，翟东升",
@@ -10886,21 +11085,7 @@
           "summary": "笔者仅是真诚虔诚实诚的期盼期望期待着，2026年诺贝尔经济学奖的理论思想观点学说体系和框架，能够科学公正合理依法有序的，解释解决解疑解惑解答现代人类社会，运行发展进化关系、规律、秩序和法则，所存在盛行的各种真实真相真正，社会“问题课题议题论题难题和命题”。",
           "people": [],
           "directions": [],
-          "reason": "待复核：新增或摘要有变更",
-          "reviewed": false,
-          "reviewMethod": null,
-          "reviewModel": null,
-          "reviewEvidence": [],
-          "aiAssisted": false,
-          "warnings": []
-        },
-        {
-          "id": "2092362169799202313",
-          "url": "https://www.zhihu.com/question/2084054769849611542/answer/2092362169799202313",
-          "summary": "正式预测方案获奖人选：史蒂文·贝里（Steven Berry）、詹姆斯·莱文森（James Levinsohn）、阿里尔·佩克斯（Ariel Pakes）获奖成果：在差异化产品市场需求结构估计与反事实政策分析方法上的开创性贡献（For empirical contributions to the structural estimation of demand in differentiated product markets and market power analysis）预测理由诺贝尔经济学奖素有每隔数年奖励一套“彻底改变实证研究范式与公共政策工具箱…",
-          "people": [],
-          "directions": [],
-          "reason": "直答输出校验失败，待人工复核：人名/方向缺少原文依据",
+          "reason": "直答无法确定，待人工复核：仅表达对奖项的抽象期望，无具体人名或方向预测。",
           "reviewed": false,
           "reviewMethod": "zhida",
           "reviewModel": "zhida-fast-1p5",
@@ -10951,6 +11136,20 @@
           "warnings": []
         },
         {
+          "id": "2091190135253635260",
+          "url": "https://www.zhihu.com/question/2084054769849611542/answer/2091190135253635260",
+          "summary": "回答里面但凡带Susan Athey的都有很强的AI生成嫌疑。Susan Athey的贡献远不足以拿诺奖，仅凭因果森林是不可能的，经济学自己用的都不多。因果推断的重要成果也已经颁过奖了。 经济学家对AI影响的理论认知和实证成果仍然很不充分，整个领域都是方兴未艾的状态，立刻颁奖过于shallow。现实也还没给这些新兴问题提供确切答案。颁给她还不如再给Acemoglu发第二个诺奖（当然这不可能），最起码他真有一大批顶刊文章研究了AI和自动化。",
+          "people": [],
+          "directions": [],
+          "reason": "该回答明确否定Susan Athey获奖可能性，属于否定预测。",
+          "reviewed": true,
+          "reviewMethod": "zhida",
+          "reviewModel": "zhida-fast-1p5",
+          "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
           "id": "2087294981040093116",
           "url": "https://www.zhihu.com/question/2084054769849611542/answer/2087294981040093116",
           "summary": "林毅夫！ 林毅夫！ 林毅夫！",
@@ -10967,6 +11166,20 @@
           "warnings": []
         },
         {
+          "id": "2092772799853213623",
+          "url": "https://www.zhihu.com/question/2084054769849611542/answer/2092772799853213623",
+          "summary": "经济增长和不平等：Galor和Zeira 政治经济学：Tabellini和Persson，加上Besley，可能性不小。诺奖有个经典原则，有一个人去世，剩下几个可以平分了。前几年Alesina去世，政经应该给了。",
+          "people": [],
+          "directions": [],
+          "reason": "直答输出校验失败，待人工复核：人名/方向缺少原文依据",
+          "reviewed": false,
+          "reviewMethod": "zhida",
+          "reviewModel": "zhida-fast-1p5",
+          "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
           "id": "2088916659922911531",
           "url": "https://www.zhihu.com/question/2084054769849611542/answer/2088916659922911531",
           "summary": "当然是我在2025年4月提出的以10万吨白银，10%准备金率，海外发行10万亿人民币啦…",
@@ -10976,6 +11189,20 @@
           "reviewed": true,
           "reviewMethod": "human",
           "reviewModel": null,
+          "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
+          "id": "2090146309428754133",
+          "url": "https://www.zhihu.com/question/2084054769849611542/answer/2090146309428754133",
+          "summary": "陈平不获此奖，是全球经济学界的重大遗憾",
+          "people": [],
+          "directions": [],
+          "reason": "该句是否定性预测（陈平不获奖），且陈平不在规范名单中，按规则排除。",
+          "reviewed": true,
+          "reviewMethod": "zhida",
+          "reviewModel": "zhida-fast-1p5",
           "reviewEvidence": [],
           "aiAssisted": false,
           "warnings": []
@@ -11000,20 +11227,6 @@
           "reviewed": true,
           "reviewMethod": "human",
           "reviewModel": null,
-          "reviewEvidence": [],
-          "aiAssisted": false,
-          "warnings": []
-        },
-        {
-          "id": "2090146309428754133",
-          "url": "https://www.zhihu.com/question/2084054769849611542/answer/2090146309428754133",
-          "summary": "陈平不获此奖，是全球经济学界的重大遗憾",
-          "people": [],
-          "directions": [],
-          "reason": "该句是否定性预测（陈平不获奖），且陈平不在规范名单中，按规则排除。",
-          "reviewed": true,
-          "reviewMethod": "zhida",
-          "reviewModel": "zhida-fast-1p5",
           "reviewEvidence": [],
           "aiAssisted": false,
           "warnings": []
@@ -11071,10 +11284,10 @@
           "summary": "具体项目是什么这个是无法确定的，但可以确定的是，获奖者和AI的关系会越来越大",
           "people": [],
           "directions": [],
-          "reason": "待复核：新增或摘要有变更",
+          "reason": "直答无法确定，待人工复核：仅称获奖者与AI关系会越来越大，无具体人名或明确方向预测。",
           "reviewed": false,
-          "reviewMethod": null,
-          "reviewModel": null,
+          "reviewMethod": "zhida",
+          "reviewModel": "zhida-fast-1p5",
           "reviewEvidence": [],
           "aiAssisted": false,
           "warnings": []
@@ -11144,20 +11357,6 @@
           "warnings": []
         },
         {
-          "id": "2091190135253635260",
-          "url": "https://www.zhihu.com/question/2084054769849611542/answer/2091190135253635260",
-          "summary": "回答里面但凡带Susan Athey的都有很强的AI生成嫌疑。Susan Athey的贡献远不足以拿诺奖，仅凭因果森林是不可能的，经济学自己用的都不多。因果推断的重要成果也已经颁过奖了。 经济学家对AI影响的理论认知和实证成果仍然很不充分，整个领域都是方兴未艾的状态，立刻颁奖过于shallow。现实也还没给这些新兴问题提供确切答案。颁给她还不如再给Acemoglu发第二个诺奖（当然这不可能），最起码他真有一大批顶刊文章研究了AI和自动化。",
-          "people": [],
-          "directions": [],
-          "reason": "该回答明确否定Susan Athey获奖可能性，属于否定预测。",
-          "reviewed": true,
-          "reviewMethod": "zhida",
-          "reviewModel": "zhida-fast-1p5",
-          "reviewEvidence": [],
-          "aiAssisted": false,
-          "warnings": []
-        },
-        {
           "id": "2090445818193093100",
           "url": "https://www.zhihu.com/question/2084054769849611542/answer/2090445818193093100",
           "summary": "在2025年，诺贝尔经济学奖授予了创新增长理论，它聚焦在创造性破坏对经济发展的核心作用。 在2026年回望，现在的全球经济仍然有多重的挑战，数字平台的垄断侵蚀着发展活力，AI技术发展正在增加劳动市场的结构性的矛盾，气候转型的成本与贫富分化激增社会矛盾共识，而产业的反垄断行动亟待完善深化。 而诺奖的评委会也青睐直面现实的痛点，同时兼具理论的深度与政策实践价值的研究，它不仅是对学术洞见的肯定，亦是破解经济发展提…",
@@ -11208,6 +11407,20 @@
           "warnings": []
         },
         {
+          "id": "2092665427629557536",
+          "url": "https://www.zhihu.com/question/2084054769849611542/answer/2092665427629557536",
+          "summary": "我觉得是谁不重要， 重要的是，让他来试试玩A股，不用一年翻十倍， 只要不亏钱就好，连续十年， 那他就当之无愧。",
+          "people": [],
+          "directions": [],
+          "reason": "玩笑式评论，无明确2026年获奖预测。",
+          "reviewed": true,
+          "reviewMethod": "zhida",
+          "reviewModel": "zhida-fast-1p5",
+          "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
           "id": "2089378120222753653",
           "url": "https://www.zhihu.com/question/2084054769849611542/answer/2089378120222753653",
           "summary": "David Autor在一众候选人里是最有机会拿到2026年诺贝尔经济学奖的，因为“引文桂冠奖”的联合提名，让他的呼声最高。 经济学里劳动经济学是最令人关注的，我也是从劳动经济学里认识了David Autor。但重新了解他还是因为他与Lawrence F. Katz 组合，两人被科睿唯安“引文桂冠奖”联合提名，成为经济学里的佼佼者。 [图片] 两人都“对工资结构、收入不平等、教育进步与技术变革的开创性分析”有着独到的见解，所以同时入选。这种联合授予…",
@@ -11221,20 +11434,6 @@
           "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
           "reviewed": true,
           "reviewMethod": "human",
-          "reviewModel": null,
-          "reviewEvidence": [],
-          "aiAssisted": false,
-          "warnings": []
-        },
-        {
-          "id": "2092665427629557536",
-          "url": "https://www.zhihu.com/question/2084054769849611542/answer/2092665427629557536",
-          "summary": "我觉得是谁不重要， 重要的是，让他来试试玩A股，不用一年翻十倍， 只要不亏钱就好，连续十年， 那他就当之无愧。",
-          "people": [],
-          "directions": [],
-          "reason": "待复核：新增或摘要有变更",
-          "reviewed": false,
-          "reviewMethod": null,
           "reviewModel": null,
           "reviewEvidence": [],
           "aiAssisted": false,
@@ -11260,11 +11459,52 @@
           "summary": "我觉得诺贝尔奖应该取消经济学。",
           "people": [],
           "directions": [],
-          "reason": "待复核：新增或摘要有变更",
-          "reviewed": false,
-          "reviewMethod": null,
-          "reviewModel": null,
+          "reason": "否定经济学奖项本身，非获奖预测。",
+          "reviewed": true,
+          "reviewMethod": "zhida",
+          "reviewModel": "zhida-fast-1p5",
           "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
+          "id": "2092718001506218243",
+          "url": "https://www.zhihu.com/question/2084054769849611542/answer/2092718001506218243",
+          "summary": "10月12日，又到斯德哥尔摩电话响起的时间，知乎也按照惯例开始了诺贝尔专题。作为资深吃瓜爱好者，经济学小白，又菜又爱玩那种，也不由的盲目自信地参与到这个猜来猜去也是每年的固定保留节目，热烈欢迎无情的鞭打毒打。 先说结论： BLP框架获奖，Ariel Pakes、Steven Berry、James Levinsohn分享奖金。 [图片] 详细说说我的预测理由 市场预测：Polymarket截至10月8日的数据：Ariel Pakes胜率约18.5%，高居第一。Michael Woodford约12%，…",
+          "people": [
+            "Ariel Pakes",
+            "Steven Berry",
+            "James Levinsohn"
+          ],
+          "directions": [
+            "实证产业组织与 BLP"
+          ],
+          "reason": "作者明确预测BLP框架及三位经济学家获奖。",
+          "reviewed": true,
+          "reviewMethod": "zhida",
+          "reviewModel": "zhida-fast-1p5",
+          "reviewEvidence": [
+            {
+              "kind": "people",
+              "name": "Ariel Pakes",
+              "quote": "BLP框架获奖，Ariel Pakes、Steven Berry、James Levinsohn分享奖金"
+            },
+            {
+              "kind": "people",
+              "name": "Steven Berry",
+              "quote": "BLP框架获奖，Ariel Pakes、Steven Berry、James Levinsohn分享奖金"
+            },
+            {
+              "kind": "people",
+              "name": "James Levinsohn",
+              "quote": "BLP框架获奖，Ariel Pakes、Steven Berry、James Levinsohn分享奖金"
+            },
+            {
+              "kind": "directions",
+              "name": "实证产业组织与 BLP",
+              "quote": "BLP框架获奖，Ariel Pakes、Steven Berry、James Levinsohn分享奖金"
+            }
+          ],
           "aiAssisted": false,
           "warnings": []
         },
@@ -11274,22 +11514,8 @@
           "summary": "截止目前，在这个问题下边居然没有看到Nobuhiro Kiyotaki... 不论是和Wright在货币搜寻方面的贡献，还是和Moore在信贷周期方面的贡献，他都值得一个诺奖",
           "people": [],
           "directions": [],
-          "reason": "待复核：新增或摘要有变更",
+          "reason": "直答输出校验失败，待人工复核：新增名称不在引用中，不允许补写",
           "reviewed": false,
-          "reviewMethod": null,
-          "reviewModel": null,
-          "reviewEvidence": [],
-          "aiAssisted": false,
-          "warnings": []
-        },
-        {
-          "id": "2092342986252339094",
-          "url": "https://www.zhihu.com/question/2084054769849611542/answer/2092342986252339094",
-          "summary": "也许10年以后就没有诺贝尔经济学奖了。",
-          "people": [],
-          "directions": [],
-          "reason": "仅表达对奖项未来存废的猜测，无对任何作者或方向的明确正向预测。",
-          "reviewed": true,
           "reviewMethod": "zhida",
           "reviewModel": "zhida-fast-1p5",
           "reviewEvidence": [],
@@ -11355,6 +11581,20 @@
           "warnings": []
         },
         {
+          "id": "2092342986252339094",
+          "url": "https://www.zhihu.com/question/2084054769849611542/answer/2092342986252339094",
+          "summary": "也许10年以后就没有诺贝尔经济学奖了。",
+          "people": [],
+          "directions": [],
+          "reason": "仅表达对奖项未来存废的猜测，无对任何作者或方向的明确正向预测。",
+          "reviewed": true,
+          "reviewMethod": "zhida",
+          "reviewModel": "zhida-fast-1p5",
+          "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
           "id": "2089626055946548811",
           "url": "https://www.zhihu.com/question/2084054769849611542/answer/2089626055946548811",
           "summary": "😜",
@@ -11383,29 +11623,15 @@
           "warnings": []
         },
         {
-          "id": "2092718001506218243",
-          "url": "https://www.zhihu.com/question/2084054769849611542/answer/2092718001506218243",
-          "summary": "10月12日，又到斯德哥尔摩电话响起的时间，知乎也按照惯例开始了诺贝尔专题。作为资深吃瓜爱好者，经济学小白，又菜又爱玩那种，也不由的盲目自信地参与到这个猜来猜去也是每年的固定保留节目，热烈欢迎无情的鞭打毒打。 先说结论： BLP框架获奖，Ariel Pakes、Steven Berry、James Levinsohn分享奖金。 [图片] 详细说说我的预测理由 市场预测：Polymarket截至10月8日的数据：Ariel Pakes胜率约18.5%，高居第一。Michael Woodford约12%，…",
-          "people": [],
-          "directions": [],
-          "reason": "待复核：新增或摘要有变更",
-          "reviewed": false,
-          "reviewMethod": null,
-          "reviewModel": null,
-          "reviewEvidence": [],
-          "aiAssisted": false,
-          "warnings": []
-        },
-        {
           "id": "2092709828070216998",
           "url": "https://www.zhihu.com/question/2084054769849611542/answer/2092709828070216998",
           "summary": "贝里，莱文索恩，帕克斯",
           "people": [],
           "directions": [],
-          "reason": "待复核：新增或摘要有变更",
+          "reason": "直答输出校验失败，待人工复核：人名/方向缺少原文依据",
           "reviewed": false,
-          "reviewMethod": null,
-          "reviewModel": null,
+          "reviewMethod": "zhida",
+          "reviewModel": "zhida-fast-1p5",
           "reviewEvidence": [],
           "aiAssisted": false,
           "warnings": []
@@ -11416,10 +11642,10 @@
           "summary": "我其实挺看好特朗普。 论对经济的实际影响力和他行为经济的实践方法，开创了历史先河。你们说哪个经济学家的实验能做的比他大？范围比他广？对世界格局和今后的影响能更多？",
           "people": [],
           "directions": [],
-          "reason": "待复核：新增或摘要有变更",
-          "reviewed": false,
-          "reviewMethod": null,
-          "reviewModel": null,
+          "reason": "预测对象是特朗普而非经济学家，属明显玩笑且奖项不匹配。",
+          "reviewed": true,
+          "reviewMethod": "zhida",
+          "reviewModel": "zhida-fast-1p5",
           "reviewEvidence": [],
           "aiAssisted": false,
           "warnings": []
@@ -11430,10 +11656,10 @@
           "summary": "不应该是特朗普获奖吗？",
           "people": [],
           "directions": [],
-          "reason": "待复核：新增或摘要有变更",
-          "reviewed": false,
-          "reviewMethod": null,
-          "reviewModel": null,
+          "reason": "提及特朗普，非经济学家，奖项不匹配。",
+          "reviewed": true,
+          "reviewMethod": "zhida",
+          "reviewModel": "zhida-fast-1p5",
           "reviewEvidence": [],
           "aiAssisted": false,
           "warnings": []
