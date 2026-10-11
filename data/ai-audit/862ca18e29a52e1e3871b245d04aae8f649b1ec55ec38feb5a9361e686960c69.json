@@ -1,0 +1,24 @@
+{
+  "model": "zhida-fast-1p5",
+  "category": "economics",
+  "summaryHashes": {
+    "2092874571330470949": "d8be742cb02989c16669cb48a99adb033638344b3740483689375a36159f0fff",
+    "2092818679654368333": "c25d1ece2d43808405f13edaa070fce22e3874739a927acdf02a3a2590ed6ae4"
+  },
+  "response": {
+    "id": "chatcmpl-b0dd7bcb-5856-47e5-9a03-5f0c882bac6c",
+    "object": "chat.completion",
+    "created": 1791761965,
+    "model": "zhida-fast-1p5",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "{\"items\":[{\"id\":\"2092874571330470949\",\"status\":\"exclude\",\"people\":[],\"directions\":[],\"reason\":\"仅是调侃式玩笑，没有对2026年经济学奖的明确预测\"},{\"id\":\"2092818679654368333\",\"status\":\"exclude\",\"people\":[],\"directions\":[],\"reason\":\"讽刺性玩笑奖项，非2026年诺贝尔经济学奖的正式预测\"}]}"
+        },
+        "finish_reason": "stop"
+      }
+    ]
+  }
+}

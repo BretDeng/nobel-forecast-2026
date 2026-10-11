@@ -9695,12 +9695,12 @@
       "english": "ECONOMIC SCIENCES",
       "symbol": "E",
       "questionUrl": "https://www.zhihu.com/question/2084054769849611542",
-      "fetchedAt": "2026-10-11T18:54:03.810454+00:00",
+      "fetchedAt": "2026-10-11T23:39:21.215040+00:00",
       "complete": true,
-      "total": 70,
+      "total": 72,
       "valid": 28,
       "pending": 13,
-      "excluded": 29,
+      "excluded": 31,
       "people": [
         {
           "id": "09c13713ad51",
@@ -10854,6 +10854,20 @@
           "warnings": []
         },
         {
+          "id": "2092328794602337405",
+          "url": "https://www.zhihu.com/question/2084054769849611542/answer/2092328794602337405",
+          "summary": "后天就开奖了，先算个命 帕克斯可能性最大 经济学有一个方向是产业组织研究，研究市场怎么运转，怎么定价和竞争，在80年代分成两派。 一派是哈佛系，看数据做回归。另一派是理论派，拿博弈论推演，模型漂亮。 两派吵了几十年 帕克斯1949年出生在加拿大埃德蒙顿，有以色列和美国国籍，在希伯来大学念完本科和硕士，在哈佛拿到博士学位，师从计量经济学大师格里利谢斯，在威斯康星大学和耶鲁大学上过班，最后回到哈佛。 1995年，帕…",
+          "people": [],
+          "directions": [],
+          "reason": "直答输出校验失败，待人工复核：人名/方向缺少原文依据",
+          "reviewed": false,
+          "reviewMethod": "zhida",
+          "reviewModel": "zhida-fast-1p5",
+          "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
           "id": "2089182335497457900",
           "url": "https://www.zhihu.com/question/2084054769849611542/answer/2089182335497457900",
           "summary": "参加赛博预测。我最终预测的候选人是： 迈克尔·伍德福德（Michael Woodford），Susan Athey、Hal Varian和Sidney Winter。以下是ChatGPT的完整报告： 如果只押一个名字，我会押迈克尔·伍德福德（Michael Woodford）；如果押一个方向，我最看好“货币政策与预期管理”。 第二选择是 Susan Athey 和 Hal Varian，对应数字经济与信息技术经济学。这是基于公开学术贡献的 低置信度预测，不是官方候选名单。截至 2026年10月2日，今…",
@@ -10897,9 +10911,9 @@
           "warnings": []
         },
         {
-          "id": "2092328794602337405",
-          "url": "https://www.zhihu.com/question/2084054769849611542/answer/2092328794602337405",
-          "summary": "后天就开奖了，先算个命 帕克斯可能性最大 经济学有一个方向是产业组织研究，研究市场怎么运转，怎么定价和竞争，在80年代分成两派。 一派是哈佛系，看数据做回归。另一派是理论派，拿博弈论推演，模型漂亮。 两派吵了几十年 帕克斯1949年出生在加拿大埃德蒙顿，有以色列和美国国籍，在希伯来大学念完本科和硕士，在哈佛拿到博士学位，师从计量经济学大师格里利谢斯，在威斯康星大学和耶鲁大学上过班，最后回到哈佛。 1995年，帕…",
+          "id": "2090525407527303023",
+          "url": "https://www.zhihu.com/question/2084054769849611542/answer/2090525407527303023",
+          "summary": "经济学奖其实比物理、化学更难押，因为它很少存在一个清晰的“某年某月某日发现了什么”的瞬间，一套理论往往要经过二三十年的学术争论、经验检验和现实应用，才会被确认到底改变了多少经济学。可如果今年必须只留下一个正式答案，我会把票投给一个非常符合2026年时代背景、同时又已经沉淀足够久的方向： 数字经济与信息技术经济学，正式预测 Susan C. Athey（苏珊·阿西）和 Hal R. Varian（哈尔·瓦里安）共同获奖。我的预测获…",
           "people": [],
           "directions": [],
           "reason": "直答输出校验失败，待人工复核：人名/方向缺少原文依据",
@@ -10953,20 +10967,6 @@
           "warnings": []
         },
         {
-          "id": "2090525407527303023",
-          "url": "https://www.zhihu.com/question/2084054769849611542/answer/2090525407527303023",
-          "summary": "经济学奖其实比物理、化学更难押，因为它很少存在一个清晰的“某年某月某日发现了什么”的瞬间，一套理论往往要经过二三十年的学术争论、经验检验和现实应用，才会被确认到底改变了多少经济学。可如果今年必须只留下一个正式答案，我会把票投给一个非常符合2026年时代背景、同时又已经沉淀足够久的方向： 数字经济与信息技术经济学，正式预测 Susan C. Athey（苏珊·阿西）和 Hal R. Varian（哈尔·瓦里安）共同获奖。我的预测获…",
-          "people": [],
-          "directions": [],
-          "reason": "直答输出校验失败，待人工复核：人名/方向缺少原文依据",
-          "reviewed": false,
-          "reviewMethod": "zhida",
-          "reviewModel": "zhida-fast-1p5",
-          "reviewEvidence": [],
-          "aiAssisted": false,
-          "warnings": []
-        },
-        {
           "id": "2088572328615605222",
           "url": "https://www.zhihu.com/question/2084054769849611542/answer/2088572328615605222",
           "summary": "我预测一下有点偏门的Piketty/Saez/Mullainathan拿奖，表彰他们解释社会不平等的经济学研究。 我其实觉得这个方向可能有三组人可以拿。除了以上之外，Piketty/Zucman也可以。Chetty/Mullainathan/Saez也可以。",
@@ -11003,6 +11003,20 @@
           "reviewed": true,
           "reviewMethod": "human",
           "reviewModel": null,
+          "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
+          "id": "2092362169799202313",
+          "url": "https://www.zhihu.com/question/2084054769849611542/answer/2092362169799202313",
+          "summary": "正式预测方案获奖人选：史蒂文·贝里（Steven Berry）、詹姆斯·莱文森（James Levinsohn）、阿里尔·佩克斯（Ariel Pakes）获奖成果：在差异化产品市场需求结构估计与反事实政策分析方法上的开创性贡献（For empirical contributions to the structural estimation of demand in differentiated product markets and market power analysis）预测理由诺贝尔经济学奖素有每隔数年奖励一套“彻底改变实证研究范式与公共政策工具箱…",
+          "people": [],
+          "directions": [],
+          "reason": "直答输出校验失败，待人工复核：人名/方向缺少原文依据",
+          "reviewed": false,
+          "reviewMethod": "zhida",
+          "reviewModel": "zhida-fast-1p5",
           "reviewEvidence": [],
           "aiAssisted": false,
           "warnings": []
@@ -11045,20 +11059,6 @@
           "directions": [],
           "reason": "作者质疑经济学奖价值，仅历史回顾david card论文，无2026年正向预测",
           "reviewed": true,
-          "reviewMethod": "zhida",
-          "reviewModel": "zhida-fast-1p5",
-          "reviewEvidence": [],
-          "aiAssisted": false,
-          "warnings": []
-        },
-        {
-          "id": "2092362169799202313",
-          "url": "https://www.zhihu.com/question/2084054769849611542/answer/2092362169799202313",
-          "summary": "正式预测方案获奖人选：史蒂文·贝里（Steven Berry）、詹姆斯·莱文森（James Levinsohn）、阿里尔·佩克斯（Ariel Pakes）获奖成果：在差异化产品市场需求结构估计与反事实政策分析方法上的开创性贡献（For empirical contributions to the structural estimation of demand in differentiated product markets and market power analysis）预测理由诺贝尔经济学奖素有每隔数年奖励一套“彻底改变实证研究范式与公共政策工具箱…",
-          "people": [],
-          "directions": [],
-          "reason": "直答输出校验失败，待人工复核：人名/方向缺少原文依据",
-          "reviewed": false,
           "reviewMethod": "zhida",
           "reviewModel": "zhida-fast-1p5",
           "reviewEvidence": [],
@@ -11122,20 +11122,6 @@
           "warnings": []
         },
         {
-          "id": "2091536790729631245",
-          "url": "https://www.zhihu.com/question/2084054769849611542/answer/2091536790729631245",
-          "summary": "目前尚有文学跟经济学奖还未揭榜，前面物理、化学已连续爆冷，评委思路太难猜。 继续整理八组猜想，纯属趣味猜测，不是专业解读。 1️⃣【赛博预测｜数据榜单大热组合】David Autor、Lawrence F. Katz 这个热门是靠论文引用数据跑出来的，专门研究技术变革如何影响就业市场，也是预测榜单常年靠前的一组人选。 [图片] 2️⃣【众望所归｜大众高期待单人】Raj Chetty 主攻收入不平等，研究内容普通人也看得懂。网上热度很高，很多人希…",
-          "people": [],
-          "directions": [],
-          "reason": "直答输出校验失败，待人工复核：人名/方向缺少原文依据",
-          "reviewed": false,
-          "reviewMethod": "zhida",
-          "reviewModel": "zhida-fast-1p5",
-          "reviewEvidence": [],
-          "aiAssisted": false,
-          "warnings": []
-        },
-        {
           "id": "2091190135253635260",
           "url": "https://www.zhihu.com/question/2084054769849611542/answer/2091190135253635260",
           "summary": "回答里面但凡带Susan Athey的都有很强的AI生成嫌疑。Susan Athey的贡献远不足以拿诺奖，仅凭因果森林是不可能的，经济学自己用的都不多。因果推断的重要成果也已经颁过奖了。 经济学家对AI影响的理论认知和实证成果仍然很不充分，整个领域都是方兴未艾的状态，立刻颁奖过于shallow。现实也还没给这些新兴问题提供确切答案。颁给她还不如再给Acemoglu发第二个诺奖（当然这不可能），最起码他真有一大批顶刊文章研究了AI和自动化。",
@@ -11143,6 +11129,20 @@
           "directions": [],
           "reason": "该回答明确否定Susan Athey获奖可能性，属于否定预测。",
           "reviewed": true,
+          "reviewMethod": "zhida",
+          "reviewModel": "zhida-fast-1p5",
+          "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
+          "id": "2091536790729631245",
+          "url": "https://www.zhihu.com/question/2084054769849611542/answer/2091536790729631245",
+          "summary": "目前尚有文学跟经济学奖还未揭榜，前面物理、化学已连续爆冷，评委思路太难猜。 继续整理八组猜想，纯属趣味猜测，不是专业解读。 1️⃣【赛博预测｜数据榜单大热组合】David Autor、Lawrence F. Katz 这个热门是靠论文引用数据跑出来的，专门研究技术变革如何影响就业市场，也是预测榜单常年靠前的一组人选。 [图片] 2️⃣【众望所归｜大众高期待单人】Raj Chetty 主攻收入不平等，研究内容普通人也看得懂。网上热度很高，很多人希…",
+          "people": [],
+          "directions": [],
+          "reason": "直答输出校验失败，待人工复核：人名/方向缺少原文依据",
+          "reviewed": false,
           "reviewMethod": "zhida",
           "reviewModel": "zhida-fast-1p5",
           "reviewEvidence": [],
@@ -11373,6 +11373,20 @@
           ]
         },
         {
+          "id": "2092665427629557536",
+          "url": "https://www.zhihu.com/question/2084054769849611542/answer/2092665427629557536",
+          "summary": "我觉得是谁不重要， 重要的是，让他来试试玩A股，不用一年翻十倍， 只要不亏钱就好，连续十年， 那他就当之无愧。",
+          "people": [],
+          "directions": [],
+          "reason": "玩笑式评论，无明确2026年获奖预测。",
+          "reviewed": true,
+          "reviewMethod": "zhida",
+          "reviewModel": "zhida-fast-1p5",
+          "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
           "id": "2089072391817263078",
           "url": "https://www.zhihu.com/question/2084054769849611542/answer/2089072391817263078",
           "summary": "猜一手老头： 托马斯•皮凯蒂（Thomas Piketty）、伊曼纽尔•赛斯（Emmanuel Saez） 加布里埃尔•祖克曼（Gabriel Zucman） 顺便写一下颁奖词：感谢其在收入分配不均与财富不平等领域作出的巨大贡献！！！🏅🏅🏅",
@@ -11402,20 +11416,6 @@
           "reviewed": true,
           "reviewMethod": "human",
           "reviewModel": null,
-          "reviewEvidence": [],
-          "aiAssisted": false,
-          "warnings": []
-        },
-        {
-          "id": "2092665427629557536",
-          "url": "https://www.zhihu.com/question/2084054769849611542/answer/2092665427629557536",
-          "summary": "我觉得是谁不重要， 重要的是，让他来试试玩A股，不用一年翻十倍， 只要不亏钱就好，连续十年， 那他就当之无愧。",
-          "people": [],
-          "directions": [],
-          "reason": "玩笑式评论，无明确2026年获奖预测。",
-          "reviewed": true,
-          "reviewMethod": "zhida",
-          "reviewModel": "zhida-fast-1p5",
           "reviewEvidence": [],
           "aiAssisted": false,
           "warnings": []
@@ -11618,6 +11618,34 @@
           "reviewed": true,
           "reviewMethod": "human",
           "reviewModel": null,
+          "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
+          "id": "2092874571330470949",
+          "url": "https://www.zhihu.com/question/2084054769849611542/answer/2092874571330470949",
+          "summary": "不诈骗经济学笑而不语。",
+          "people": [],
+          "directions": [],
+          "reason": "仅是调侃式玩笑，没有对2026年经济学奖的明确预测",
+          "reviewed": true,
+          "reviewMethod": "zhida",
+          "reviewModel": "zhida-fast-1p5",
+          "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
+          "id": "2092818679654368333",
+          "url": "https://www.zhihu.com/question/2084054769849611542/answer/2092818679654368333",
+          "summary": "推上，网友们已经正式给那个人颁发了诺贝尔经济加速倒车奖。 哪个胆大的去喊他领奖。",
+          "people": [],
+          "directions": [],
+          "reason": "讽刺性玩笑奖项，非2026年诺贝尔经济学奖的正式预测",
+          "reviewed": true,
+          "reviewMethod": "zhida",
+          "reviewModel": "zhida-fast-1p5",
           "reviewEvidence": [],
           "aiAssisted": false,
           "warnings": []

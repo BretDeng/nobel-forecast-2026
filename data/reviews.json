@@ -5958,6 +5958,32 @@
       "reviewedAt": "2026-10-11T18:54:35.532523+00:00",
       "evidence": [],
       "auditFile": "1c96f5308cf4a442a53943441ddf87073cf73ae18a720979018591349cbccc72.json"
+    },
+    "2092874571330470949": {
+      "summaryHash": "d8be742cb02989c16669cb48a99adb033638344b3740483689375a36159f0fff",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "仅是调侃式玩笑，没有对2026年经济学奖的明确预测",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-11T23:39:26.033064+00:00",
+      "evidence": [],
+      "auditFile": "862ca18e29a52e1e3871b245d04aae8f649b1ec55ec38feb5a9361e686960c69.json"
+    },
+    "2092818679654368333": {
+      "summaryHash": "c25d1ece2d43808405f13edaa070fce22e3874739a927acdf02a3a2590ed6ae4",
+      "reviewed": true,
+      "people": [],
+      "directions": [],
+      "reason": "讽刺性玩笑奖项，非2026年诺贝尔经济学奖的正式预测",
+      "warnings": [],
+      "reviewMethod": "zhida",
+      "model": "zhida-fast-1p5",
+      "reviewedAt": "2026-10-11T23:39:26.033087+00:00",
+      "evidence": [],
+      "auditFile": "862ca18e29a52e1e3871b245d04aae8f649b1ec55ec38feb5a9361e686960c69.json"
     }
   }
 }
