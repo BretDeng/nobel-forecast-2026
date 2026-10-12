@@ -9695,11 +9695,11 @@
       "english": "ECONOMIC SCIENCES",
       "symbol": "E",
       "questionUrl": "https://www.zhihu.com/question/2084054769849611542",
-      "fetchedAt": "2026-10-11T23:39:21.215040+00:00",
+      "fetchedAt": "2026-10-12T05:56:11.270830+00:00",
       "complete": true,
-      "total": 72,
+      "total": 77,
       "valid": 28,
-      "pending": 13,
+      "pending": 18,
       "excluded": 31,
       "people": [
         {
@@ -10868,6 +10868,27 @@
           "warnings": []
         },
         {
+          "id": "2084259117833647354",
+          "url": "https://www.zhihu.com/question/2084054769849611542/answer/2084259117833647354",
+          "summary": "模型预测：2026年诺贝尔经济学奖最可能授予 David Autor 与 Lawrence F. Katz（约22%和19%概率），领域为劳动经济学 × 技术变革。备选高概率者为 Ariel Pakes（约18%，产业组织/计量经济学）。预测模型的理论基础模型核心假设是：诺奖委员会的选择过程可以分解为两个序贯决策， 选择领域，再在该领域内选择个人。因此，候选人 [公式] 获奖的联合概率为： [公式]",
+          "people": [
+            "David Autor",
+            "Lawrence Katz",
+            "Ariel Pakes"
+          ],
+          "directions": [
+            "劳动经济学与技术变革",
+            "实证产业组织与 BLP"
+          ],
+          "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
+          "reviewed": true,
+          "reviewMethod": "human",
+          "reviewModel": null,
+          "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
           "id": "2089182335497457900",
           "url": "https://www.zhihu.com/question/2084054769849611542/answer/2089182335497457900",
           "summary": "参加赛博预测。我最终预测的候选人是： 迈克尔·伍德福德（Michael Woodford），Susan Athey、Hal Varian和Sidney Winter。以下是ChatGPT的完整报告： 如果只押一个名字，我会押迈克尔·伍德福德（Michael Woodford）；如果押一个方向，我最看好“货币政策与预期管理”。 第二选择是 Susan Athey 和 Hal Varian，对应数字经济与信息技术经济学。这是基于公开学术贡献的 低置信度预测，不是官方候选名单。截至 2026年10月2日，今…",
@@ -10887,27 +10908,6 @@
           "reviewModel": null,
           "reviewEvidence": [],
           "aiAssisted": true,
-          "warnings": []
-        },
-        {
-          "id": "2084259117833647354",
-          "url": "https://www.zhihu.com/question/2084054769849611542/answer/2084259117833647354",
-          "summary": "模型预测：2026年诺贝尔经济学奖最可能授予 David Autor 与 Lawrence F. Katz（约22%和19%概率），领域为劳动经济学 × 技术变革。备选高概率者为 Ariel Pakes（约18%，产业组织/计量经济学）。预测模型的理论基础模型核心假设是：诺奖委员会的选择过程可以分解为两个序贯决策， 选择领域，再在该领域内选择个人。因此，候选人 [公式] 获奖的联合概率为： [公式]",
-          "people": [
-            "David Autor",
-            "Lawrence Katz",
-            "Ariel Pakes"
-          ],
-          "directions": [
-            "劳动经济学与技术变革",
-            "实证产业组织与 BLP"
-          ],
-          "reason": "摘要中明确预测或希望获奖；只计可辨识人名，截断名单不补全",
-          "reviewed": true,
-          "reviewMethod": "human",
-          "reviewModel": null,
-          "reviewEvidence": [],
-          "aiAssisted": false,
           "warnings": []
         },
         {
@@ -10989,6 +10989,34 @@
           "warnings": []
         },
         {
+          "id": "2092911352830490173",
+          "url": "https://www.zhihu.com/question/2084054769849611542/answer/2092911352830490173",
+          "summary": "按照一般的评奖规则，24年因为分配和发展不均衡已经获得奖励，近几年分配问题概率极低，但如果AI供给冲击下，黑天鹅出现呢？",
+          "people": [],
+          "directions": [],
+          "reason": "待复核：新增或摘要有变更",
+          "reviewed": false,
+          "reviewMethod": null,
+          "reviewModel": null,
+          "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
+          "id": "2091505598349173341",
+          "url": "https://www.zhihu.com/question/2084054769849611542/answer/2091505598349173341",
+          "summary": "今年的诺贝尔经济学奖将于10月12日公布。谈论这个奖，不少人总会想起琼·罗宾逊，以为她没有获得诺奖是一个不公。另一个剑桥的学术领袖萨缪尔森在《回忆琼》中曾经写道： “the corpus of her work richly deserved a Nobel Prize.” “她的全部著作完全值得获得一个诺贝尔奖。”(NobelPrize.org )这篇文章里萨缪尔森把罗宾逊写成那个敢于追问皇帝是否穿着衣服的孩子：面对数学技巧和理论权威，她坚持用直接的问题检验论证。他赞…",
+          "people": [],
+          "directions": [],
+          "reason": "纯历史回顾琼·罗宾逊未获奖的讨论，无2026年正向预测。",
+          "reviewed": true,
+          "reviewMethod": "zhida",
+          "reviewModel": "zhida-fast-1p5",
+          "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
           "id": "2088655124935843891",
           "url": "https://www.zhihu.com/question/2084054769849611542/answer/2088655124935843891",
           "summary": "Susan Athey和Hal Varian。 AI已然正在深刻的改变包括经济学研究、商业运转在内的人类生活方式，各学科都在完善或适应AI所带来的影响。从芯片、大模型、云计算乃至AI应用等AI产业链所具备的经济影响也越来越大，Susan Athey和Hal Varian的研究对理解和发展AI经济具有重大的理论价值。 这两位学者对信息技术经济学进行了开创性分析。Athey是把机器学习引入因果推断的关键人物，重点研究拍卖机制设计、平台市场结构、串谋识别以及…",
@@ -11022,12 +11050,12 @@
           "warnings": []
         },
         {
-          "id": "2091505598349173341",
-          "url": "https://www.zhihu.com/question/2084054769849611542/answer/2091505598349173341",
-          "summary": "今年的诺贝尔经济学奖将于10月12日公布。谈论这个奖，不少人总会想起琼·罗宾逊，以为她没有获得诺奖是一个不公。另一个剑桥的学术领袖萨缪尔森在《回忆琼》中曾经写道： “the corpus of her work richly deserved a Nobel Prize.” “她的全部著作完全值得获得一个诺贝尔奖。”(NobelPrize.org )这篇文章里萨缪尔森把罗宾逊写成那个敢于追问皇帝是否穿着衣服的孩子：面对数学技巧和理论权威，她坚持用直接的问题检验论证。他赞…",
+          "id": "2092321040189896305",
+          "url": "https://www.zhihu.com/question/2084054769849611542/answer/2092321040189896305",
+          "summary": "野鸡奖项。 物理奖化学奖医学奖都产出过影响人类生活的科技成果出来。 我就想问下：经济学奖哪一年的成果有确实影响过人类的生活？ 我自己就是经济学博士，但我不护短，比如david card1994年那篇里程碑式的论文，这篇论文几乎是所有经济学博士必引，但这篇论文在现实生活中有卵用啊。",
           "people": [],
           "directions": [],
-          "reason": "纯历史回顾琼·罗宾逊未获奖的讨论，无2026年正向预测。",
+          "reason": "作者质疑经济学奖价值，仅历史回顾david card论文，无2026年正向预测",
           "reviewed": true,
           "reviewMethod": "zhida",
           "reviewModel": "zhida-fast-1p5",
@@ -11052,12 +11080,12 @@
           "warnings": []
         },
         {
-          "id": "2092321040189896305",
-          "url": "https://www.zhihu.com/question/2084054769849611542/answer/2092321040189896305",
-          "summary": "野鸡奖项。 物理奖化学奖医学奖都产出过影响人类生活的科技成果出来。 我就想问下：经济学奖哪一年的成果有确实影响过人类的生活？ 我自己就是经济学博士，但我不护短，比如david card1994年那篇里程碑式的论文，这篇论文几乎是所有经济学博士必引，但这篇论文在现实生活中有卵用啊。",
+          "id": "2090515668852650755",
+          "url": "https://www.zhihu.com/question/2084054769849611542/answer/2090515668852650755",
+          "summary": "张维为，陈平，范勇鹏，翟东升",
           "people": [],
           "directions": [],
-          "reason": "作者质疑经济学奖价值，仅历史回顾david card论文，无2026年正向预测",
+          "reason": "仅罗列人名，且为明显的玩笑式提名，非严肃预测。",
           "reviewed": true,
           "reviewMethod": "zhida",
           "reviewModel": "zhida-fast-1p5",
@@ -11066,12 +11094,12 @@
           "warnings": []
         },
         {
-          "id": "2090515668852650755",
-          "url": "https://www.zhihu.com/question/2084054769849611542/answer/2090515668852650755",
-          "summary": "张维为，陈平，范勇鹏，翟东升",
+          "id": "2090146309428754133",
+          "url": "https://www.zhihu.com/question/2084054769849611542/answer/2090146309428754133",
+          "summary": "陈平不获此奖，是全球经济学界的重大遗憾",
           "people": [],
           "directions": [],
-          "reason": "仅罗列人名，且为明显的玩笑式提名，非严肃预测。",
+          "reason": "该句是否定性预测（陈平不获奖），且陈平不在规范名单中，按规则排除。",
           "reviewed": true,
           "reviewMethod": "zhida",
           "reviewModel": "zhida-fast-1p5",
@@ -11194,20 +11222,6 @@
           "warnings": []
         },
         {
-          "id": "2090146309428754133",
-          "url": "https://www.zhihu.com/question/2084054769849611542/answer/2090146309428754133",
-          "summary": "陈平不获此奖，是全球经济学界的重大遗憾",
-          "people": [],
-          "directions": [],
-          "reason": "该句是否定性预测（陈平不获奖），且陈平不在规范名单中，按规则排除。",
-          "reviewed": true,
-          "reviewMethod": "zhida",
-          "reviewModel": "zhida-fast-1p5",
-          "reviewEvidence": [],
-          "aiAssisted": false,
-          "warnings": []
-        },
-        {
           "id": "2084356008068104569",
           "url": "https://www.zhihu.com/question/2084054769849611542/answer/2084356008068104569",
           "summary": "只说微观理论领域我比较熟悉的两个field。 Matthew Jackson, Sanjeev Goyal and Yvev Zenou, network economics.（感谢Xueheng老师的指正，Zenou的位置原为Gallioti。） Emir Kamenica, Dirk Bergemann and Stephen Morris, information design.",
@@ -11251,6 +11265,34 @@
           "warnings": []
         },
         {
+          "id": "2092886879809156618",
+          "url": "https://www.zhihu.com/question/2084054769849611542/answer/2092886879809156618",
+          "summary": "这个经济学奖的预测比之前那个文字奖的难多了。 看了下近十年的诺奖得主及其贡献，也没发现有啥规律可循。 细分方向这么多，又和大海捞针一模一样了。 不管怎么样，还是先选四组看看。 01 不出所料，众望所归组获奖人选： 埃瑞尔·帕克斯（Ariel Pakes）、史蒂文·贝里（Steven T. Berry）、詹姆斯·莱文索恩（James A. Levinsohn） 核心贡献‌： 三人合著提出BLP模型‌，用于估计差异化产品市场的需求与供给，是现代反垄断与竞…",
+          "people": [],
+          "directions": [],
+          "reason": "待复核：新增或摘要有变更",
+          "reviewed": false,
+          "reviewMethod": null,
+          "reviewModel": null,
+          "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
+          "id": "2092896624926266845",
+          "url": "https://www.zhihu.com/question/2084054769849611542/answer/2092896624926266845",
+          "summary": "管是什么呢，1诺贝尔经济学奖也不是正规诺贝尔经济学奖，2而且经济学基本都是马后炮与未完全证明的拉扯。诺贝尔奖，其中有几个奖项，文学奖评委喜好主观太强不客观，和平奖政治异味太大有很多时候出笑话，经济学奖是贴牌诺贝尔本人的假诺贝尔奖，资金不是诺贝尔的遗产。",
+          "people": [],
+          "directions": [],
+          "reason": "待复核：新增或摘要有变更",
+          "reviewed": false,
+          "reviewMethod": null,
+          "reviewModel": null,
+          "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
           "id": "2084168021413832449",
           "url": "https://www.zhihu.com/question/2084054769849611542/answer/2084168021413832449",
           "summary": "中国今年甚至后好几年最有可能拿诺贝尔经济学奖 如中国的ai领域 比起沉下去搞科研 炒作出泡沫这条路是捷径 更是中国特色现代化之路 光我们的炒作技术就是原创性的 甚至可以将炒作和泡沫国际化 就能凭ai领域的泡沫养活大量老龄化人口 @明日香她对象 @小度小度 所以我预测今后几年诺贝尔经济学奖是人工智能领域的 不过会颁给把泡沫炒作得最大的我国ai公司ceo 果真不是院士 理由是能把最不起眼的小音箱炒作成最高端的ai 也给一带一…",
@@ -11271,6 +11313,20 @@
           "people": [],
           "directions": [],
           "reason": "宽泛趋势，未提出明确成果",
+          "reviewed": true,
+          "reviewMethod": "human",
+          "reviewModel": null,
+          "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
+          "id": "2089555070199374081",
+          "url": "https://www.zhihu.com/question/2084054769849611542/answer/2089555070199374081",
+          "summary": "至少丁真、姜萍、蔡徐坤肯定不在此列。",
+          "people": [],
+          "directions": [],
+          "reason": "否定名单，不计正向预测",
           "reviewed": true,
           "reviewMethod": "human",
           "reviewModel": null,
@@ -11321,20 +11377,6 @@
           "warnings": []
         },
         {
-          "id": "2084243921903919492",
-          "url": "https://www.zhihu.com/question/2084054769849611542/answer/2084243921903919492",
-          "summary": "肯定是西方经济学的卫道士",
-          "people": [],
-          "directions": [],
-          "reason": "评论，无具体候选",
-          "reviewed": true,
-          "reviewMethod": "human",
-          "reviewModel": null,
-          "reviewEvidence": [],
-          "aiAssisted": false,
-          "warnings": []
-        },
-        {
           "id": "2091125185516774412",
           "url": "https://www.zhihu.com/question/2084054769849611542/answer/2091125185516774412",
           "summary": "不如颁发给李新野。 经济学问题本质是社会学以及政治学问题。",
@@ -11357,20 +11399,32 @@
           "warnings": []
         },
         {
-          "id": "2090445818193093100",
-          "url": "https://www.zhihu.com/question/2084054769849611542/answer/2090445818193093100",
-          "summary": "在2025年，诺贝尔经济学奖授予了创新增长理论，它聚焦在创造性破坏对经济发展的核心作用。 在2026年回望，现在的全球经济仍然有多重的挑战，数字平台的垄断侵蚀着发展活力，AI技术发展正在增加劳动市场的结构性的矛盾，气候转型的成本与贫富分化激增社会矛盾共识，而产业的反垄断行动亟待完善深化。 而诺奖的评委会也青睐直面现实的痛点，同时兼具理论的深度与政策实践价值的研究，它不仅是对学术洞见的肯定，亦是破解经济发展提…",
+          "id": "2092342986252339094",
+          "url": "https://www.zhihu.com/question/2084054769849611542/answer/2092342986252339094",
+          "summary": "也许10年以后就没有诺贝尔经济学奖了。",
           "people": [],
           "directions": [],
-          "reason": "可见内容分析经济痛点与评委偏好，未给出作者明确选择的候选或本届获奖方向，不补全截断部分。",
+          "reason": "仅表达对奖项未来存废的猜测，无对任何作者或方向的明确正向预测。",
+          "reviewed": true,
+          "reviewMethod": "zhida",
+          "reviewModel": "zhida-fast-1p5",
+          "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
+          "id": "2084243921903919492",
+          "url": "https://www.zhihu.com/question/2084054769849611542/answer/2084243921903919492",
+          "summary": "肯定是西方经济学的卫道士",
+          "people": [],
+          "directions": [],
+          "reason": "评论，无具体候选",
           "reviewed": true,
           "reviewMethod": "human",
           "reviewModel": null,
           "reviewEvidence": [],
           "aiAssisted": false,
-          "warnings": [
-            "摘要截断；可见部分未出现明确预测"
-          ]
+          "warnings": []
         },
         {
           "id": "2092665427629557536",
@@ -11385,6 +11439,22 @@
           "reviewEvidence": [],
           "aiAssisted": false,
           "warnings": []
+        },
+        {
+          "id": "2090445818193093100",
+          "url": "https://www.zhihu.com/question/2084054769849611542/answer/2090445818193093100",
+          "summary": "在2025年，诺贝尔经济学奖授予了创新增长理论，它聚焦在创造性破坏对经济发展的核心作用。 在2026年回望，现在的全球经济仍然有多重的挑战，数字平台的垄断侵蚀着发展活力，AI技术发展正在增加劳动市场的结构性的矛盾，气候转型的成本与贫富分化激增社会矛盾共识，而产业的反垄断行动亟待完善深化。 而诺奖的评委会也青睐直面现实的痛点，同时兼具理论的深度与政策实践价值的研究，它不仅是对学术洞见的肯定，亦是破解经济发展提…",
+          "people": [],
+          "directions": [],
+          "reason": "可见内容分析经济痛点与评委偏好，未给出作者明确选择的候选或本届获奖方向，不补全截断部分。",
+          "reviewed": true,
+          "reviewMethod": "human",
+          "reviewModel": null,
+          "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": [
+            "摘要截断；可见部分未出现明确预测"
+          ]
         },
         {
           "id": "2089072391817263078",
@@ -11440,20 +11510,6 @@
           "warnings": []
         },
         {
-          "id": "2092209375993672023",
-          "url": "https://www.zhihu.com/question/2084054769849611542/answer/2092209375993672023",
-          "summary": "我的预测是David Autor（戴维·奥特尔）与 Lawrence F. Katz（劳伦斯·卡茨），理由如下： 共识赔率最高：截至目前的预测模型中，这对组合获奖概率最高，是今年经济学奖的头号热门组合。他们因在劳动经济学、技术变革（含AI）对就业市场的影响领域的系统性奠基研究而被看好，研究主题与当前AI时代高度契合，极具现实意义。 其他值得关注的人选： Susan Athey + Hal Varian 信息技术经济学 2026年科睿唯安\"引文桂冠奖\"得主（诺奖…",
-          "people": [],
-          "directions": [],
-          "reason": "直答输出校验失败，待人工复核：人名/方向缺少原文依据",
-          "reviewed": false,
-          "reviewMethod": "zhida",
-          "reviewModel": "zhida-fast-1p5",
-          "reviewEvidence": [],
-          "aiAssisted": false,
-          "warnings": []
-        },
-        {
           "id": "2092668735165314061",
           "url": "https://www.zhihu.com/question/2084054769849611542/answer/2092668735165314061",
           "summary": "我觉得诺贝尔奖应该取消经济学。",
@@ -11461,6 +11517,20 @@
           "directions": [],
           "reason": "否定经济学奖项本身，非获奖预测。",
           "reviewed": true,
+          "reviewMethod": "zhida",
+          "reviewModel": "zhida-fast-1p5",
+          "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
+          "id": "2092209375993672023",
+          "url": "https://www.zhihu.com/question/2084054769849611542/answer/2092209375993672023",
+          "summary": "我的预测是David Autor（戴维·奥特尔）与 Lawrence F. Katz（劳伦斯·卡茨），理由如下： 共识赔率最高：截至目前的预测模型中，这对组合获奖概率最高，是今年经济学奖的头号热门组合。他们因在劳动经济学、技术变革（含AI）对就业市场的影响领域的系统性奠基研究而被看好，研究主题与当前AI时代高度契合，极具现实意义。 其他值得关注的人选： Susan Athey + Hal Varian 信息技术经济学 2026年科睿唯安\"引文桂冠奖\"得主（诺奖…",
+          "people": [],
+          "directions": [],
+          "reason": "直答输出校验失败，待人工复核：人名/方向缺少原文依据",
+          "reviewed": false,
           "reviewMethod": "zhida",
           "reviewModel": "zhida-fast-1p5",
           "reviewEvidence": [],
@@ -11581,34 +11651,6 @@
           "warnings": []
         },
         {
-          "id": "2092342986252339094",
-          "url": "https://www.zhihu.com/question/2084054769849611542/answer/2092342986252339094",
-          "summary": "也许10年以后就没有诺贝尔经济学奖了。",
-          "people": [],
-          "directions": [],
-          "reason": "仅表达对奖项未来存废的猜测，无对任何作者或方向的明确正向预测。",
-          "reviewed": true,
-          "reviewMethod": "zhida",
-          "reviewModel": "zhida-fast-1p5",
-          "reviewEvidence": [],
-          "aiAssisted": false,
-          "warnings": []
-        },
-        {
-          "id": "2089626055946548811",
-          "url": "https://www.zhihu.com/question/2084054769849611542/answer/2089626055946548811",
-          "summary": "😜",
-          "people": [],
-          "directions": [],
-          "reason": "表情，无预测",
-          "reviewed": true,
-          "reviewMethod": "human",
-          "reviewModel": null,
-          "reviewEvidence": [],
-          "aiAssisted": false,
-          "warnings": []
-        },
-        {
           "id": "2089424168676767508",
           "url": "https://www.zhihu.com/question/2084054769849611542/answer/2089424168676767508",
           "summary": "贝森特～亲自坐庄日元",
@@ -11617,6 +11659,34 @@
           "reason": "语境不明，待核实",
           "reviewed": true,
           "reviewMethod": "human",
+          "reviewModel": null,
+          "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
+          "id": "2092940999958053850",
+          "url": "https://www.zhihu.com/question/2084054769849611542/answer/2092940999958053850",
+          "summary": "今晚的诺贝尔经济学奖，大概率还是发给会算数的人。猜名字这件事，意思不大。 北京时间10月12日17点45分公布。奖金1200万瑞典克朗，比去年多了100万。9月17日科睿唯安那份名单里，经济学排第一的一组做信息技术经济学，两人在斯坦福和伯克利。 我本来也准备列名单。写到第三个名字我就停了，因为我发现我在做一件自己都不信的事。名单猜错了隔年就忘，方法看懂了能记十年。 我翻了过去五年。2021年给了因果推断，2023年给了用世…",
+          "people": [],
+          "directions": [],
+          "reason": "待复核：新增或摘要有变更",
+          "reviewed": false,
+          "reviewMethod": null,
+          "reviewModel": null,
+          "reviewEvidence": [],
+          "aiAssisted": false,
+          "warnings": []
+        },
+        {
+          "id": "2092887227340738910",
+          "url": "https://www.zhihu.com/question/2084054769849611542/answer/2092887227340738910",
+          "summary": "如果未提及：Champions‘s Inequality（陈平不等式） 我看诺奖委员会也是个草台班子 [图片]",
+          "people": [],
+          "directions": [],
+          "reason": "待复核：新增或摘要有变更",
+          "reviewed": false,
+          "reviewMethod": null,
           "reviewModel": null,
           "reviewEvidence": [],
           "aiAssisted": false,
@@ -11796,12 +11866,12 @@
           "warnings": []
         },
         {
-          "id": "2089555070199374081",
-          "url": "https://www.zhihu.com/question/2084054769849611542/answer/2089555070199374081",
-          "summary": "至少丁真、姜萍、蔡徐坤肯定不在此列。",
+          "id": "2089626055946548811",
+          "url": "https://www.zhihu.com/question/2084054769849611542/answer/2089626055946548811",
+          "summary": "😜",
           "people": [],
           "directions": [],
-          "reason": "否定名单，不计正向预测",
+          "reason": "表情，无预测",
           "reviewed": true,
           "reviewMethod": "human",
           "reviewModel": null,
